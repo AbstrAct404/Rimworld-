@@ -29,7 +29,7 @@
   <HAR_IH_NPC_Race_b.description>伊多赫尔·阿冯鲁赫 (Idoher Avonruach) 的后裔。 \n。受到攻击时，利用坚固的身体移动，用锋利的手臂粉碎对手的神圣傀儡。 \n召唤的加多尔傀儡一天后就会消失。</HAR_IH_NPC_Race_b.description>
   <HAR_IH_Bullet_a.label>哈维尔列夫</HAR_IH_Bullet_a.label>
   <HAR_IH_Bullet_b.label>乳腺</HAR_IH_Bullet_b.label>
-  <HAR_IH_Item_a.label>佐哈尔·埃文</HAR_IH_Item_a.label>
+  <HAR_IH_Item_a.label>辉耀之石</HAR_IH_Item_a.label>
   <HAR_IH_Item_a.description>一种模仿其创造者曾经发现的高等生物外壳的物质。
 		在人工种族中，仅用于Idheir Avonruach的外壳。
 		
@@ -39,6 +39,6 @@
 		
 		
 		据说，它像天空一样闪闪发光的蓝色是这只鸟最后看到的东西。</HAR_IH_Item_a.description>
-  <HAR_IH_Archotech_a.label>沙马因·马赫蒂夫</HAR_IH_Archotech_a.label>
+  <HAR_IH_Archotech_a.label>天穹之钥</HAR_IH_Archotech_a.label>
   <HAR_IH_Archotech_a.description>创建者留下的天蓝色钥匙，以便第三方可以与 Avonruach 签订合同。 \n通过使用它，你可以召唤 Idheir Avonruach 成为你的同伴。</HAR_IH_Archotech_a.description>
 </LanguageData>

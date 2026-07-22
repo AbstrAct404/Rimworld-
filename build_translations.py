@@ -63,6 +63,9 @@ KEY_OVERRIDES = {
     "HAR_IH_Hediff_EX_c.label": "万军神临",
     "HAR_IH_Hediff_EX_d.label": "万军神临",
     "HAR_IH_Hediff_EX_e.label": "万军神临",
+    # Idhale relic names: use their source-language meanings instead of katakana.
+    "HAR_IH_Item_a.label": "辉耀之石",
+    "HAR_IH_Archotech_a.label": "天穹之钥",
     "HAR_IH_Backstory_b_C1.title": "造物主遗物",
     "HAR_IH_Backstory_b_C1.titleShort": "造物主遗物",
     "HAR_IH_Backstory_b_A1.title": "旧世神灵",
