@@ -23,15 +23,12 @@ WORKSHOP = Path(r"D:\SteamLibrary\steamapps\workshop\content\294100")
 MODS = [
     ("2946679071", "Chaoura Race"), ("3505571618", "Aya Premise Core"),
     ("3153539856", "Eveliet Race"), ("2954714860", "Idea Storyteller"),
-    ("2871413100", "Idearn Race"), ("3223846919", "Idhale EX"),
-    ("2227425882", "Idhale Race"), ("3223847068", "Littluna EX"),
-    ("2569091688", "Littluna Race"), ("3223847765", "Nearmare EX"),
-    ("2198830432", "Nearmare Race"), ("2394460334", "Neclose Race"),
-    ("3223844717", "Neclose EX"), ("2763078885", "Qualeela Race"),
+    ("2871413100", "Idearn Race"), ("2227425882", "Idhale Race"),
+    ("2569091688", "Littluna Race"), ("2198830432", "Nearmare Race"),
+    ("2394460334", "Neclose Race"), ("2763078885", "Qualeela Race"),
     ("2504657401", "Requeen Boss"), ("2676302514", "Saclean Race"),
-    ("3223847242", "Silkiera EX"), ("2233666290", "Silkiera Race"),
-    ("3223847402", "Solark EX"), ("2608237489", "Solark Race"),
-    ("3223847562", "Xenoorca EX"), ("2216916011", "Xenoorca Race"),
+    ("2233666290", "Silkiera Race"), ("2608237489", "Solark Race"),
+    ("2216916011", "Xenoorca Race"),
 ]
 
 FIELDS = {
@@ -120,6 +117,10 @@ KEY_OVERRIDES = {
     "HAR_IH_Backstory_b_A1.titleShort": "旧世神灵",
 }
 MISSING_STUBS = {"3223844717": ("Ayameduki.HARNecloseEX", ["1.5", "1.6"])}
+EXCLUDED_OUTPUT_IDS = {
+    "3223844717", "3223846919", "3223847068", "3223847242",
+    "3223847402", "3223847562", "3223847765",
+}
 
 
 def text(element: ET.Element | None) -> str:
@@ -159,6 +160,21 @@ def normalize_display_names(value: str) -> str:
     for source, target in DISPLAY_NAME_REPLACEMENTS.items():
         value = re.sub(rf"(?<![A-Za-z]){re.escape(source)}(?![A-Za-z])", target, value, flags=re.I)
     return value
+
+
+def translate_workshop_description(value: str, cache: dict[str, str]) -> str:
+    """Translate a source About.xml description while preserving a cache."""
+    if not value:
+        return "原模组未提供简介。"
+    if value not in cache:
+        query = urllib.parse.urlencode({"client": "gtx", "sl": "auto", "tl": "zh-CN", "dt": "t", "q": value})
+        try:
+            with urllib.request.urlopen("https://translate.googleapis.com/translate_a/single?" + query, timeout=12) as response:
+                data = json.load(response)
+            cache[value] = "".join(part[0] for part in data[0] if part and part[0]) or value
+        except Exception:
+            cache[value] = value
+    return "\n".join(line.rstrip() for line in normalize_display_names(cache[value]).splitlines()).strip()
 
 
 def google_translate(values: list[str], cache: dict[str, str]) -> dict[str, str]:
@@ -219,7 +235,9 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
         )
         return {"id": mod_id, "name": fallback_name, "status": "stub built (source unavailable)", "entries": 0, "path": str(out)}
     original_id = package_id(source)
-    out_name = f"[ZH] {fallback_name}"
+    source_meta = ET.parse(source / "About" / "About.xml").getroot()
+    chinese_description = translate_workshop_description(text(source_meta.find("description")), cache)
+    out_name = f"[Aya] {fallback_name}_zh 人工种族汉化 v1.6"
     out = destination / f"{mod_id} - {fallback_name} Chinese"
     if out.exists():
         shutil.rmtree(out)
@@ -228,12 +246,11 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
     for tag, value in [
         ("name", out_name), ("author", "AbstrAct404 / Chinese localization"),
         ("packageId", f"abstract404.aya.{mod_id}.zh"),
-        ("description", f"[Aya] {fallback_name} 的简体中文本地化。\n需加载原模组；本模组仅含翻译文件，不包含原模组资源。"),
+        ("description", f"{chinese_description}\n\n——\n简体中文汉化：AbstrAct404\n兼容版本：RimWorld 1.6\n前置：原模组（请置于本汉化之前加载）\n本模组仅含翻译文件，不包含原模组资源。"),
     ]:
         ET.SubElement(about, tag).text = value
     supported = ET.SubElement(about, "supportedVersions")
-    for version in versions(source) or ["1.6"]:
-        ET.SubElement(supported, "li").text = version
+    ET.SubElement(supported, "li").text = "1.6"
     deps = ET.SubElement(about, "modDependencies")
     dep = ET.SubElement(deps, "li")
     ET.SubElement(dep, "packageId").text = original_id
@@ -241,7 +258,7 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
     ET.SubElement(load_after, "li").text = original_id
     xml_write(out / "About" / "About.xml", about)
     (out / "README.md").write_text(
-        f"# {out_name}\n\n原模组创意工坊 ID：{mod_id}\n\n加载顺序：原模组在前，本汉化在后。\n",
+        f"# {out_name}\n\n原模组创意工坊 ID：{mod_id}\n\n兼容 RimWorld 1.6。加载顺序：原模组在前，本汉化在后。\n",
         encoding="utf-8",
     )
 
@@ -325,6 +342,9 @@ def main() -> None:
     parser.add_argument("--translate-google", action="store_true")
     args = parser.parse_args()
     args.destination.mkdir(parents=True, exist_ok=True)
+    for mod_id in EXCLUDED_OUTPUT_IDS:
+        for folder in args.destination.glob(f"{mod_id} - * Chinese"):
+            shutil.rmtree(folder)
     cache_file = args.destination / ".translation-cache.json"
     cache = json.loads(cache_file.read_text(encoding="utf-8")) if cache_file.exists() else {}
     # Earlier generator revisions used a failed batch format.  Remove those

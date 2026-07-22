@@ -1,14 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ModMetaData>
-  <name>[ZH] Littluna Race</name>
+  <name>[Aya] Littluna Race_zh 人工种族汉化 v1.6</name>
   <author>AbstrAct404 / Chinese localization</author>
   <packageId>abstract404.aya.2569091688.zh</packageId>
-  <description>[Aya] Littluna Race 的简体中文本地化。
-需加载原模组；本模组仅含翻译文件，不包含原模组资源。</description>
+  <description>这个MOD是一个增加了新的种族、特殊装备和活动的MOD。
+
+
+[新增种族]
+・利特鲁纳
+
+[推荐但不是必需的模组]
+・相机+
+
+以下任意一个是佩戴头部装备时防止头发消失的MOD。
+・帽子展示选择
+・[KV] 显示带帽子的头发或隐藏所有帽子
+
+这是一个以高质量显示以下内容之一的 MOD。
+・高清棋子渲染
+・Pawn渲染补丁
+
+【利托鲁纳的特点】
+-寿命是人类的两倍
+- 移动速度比人类稍快
+・体力和耐力低下，极易受到疾病和毒物的侵害，难以产生免疫力
+・与小动物相似的体力
+・高度敏感，不易精神崩溃
+・每小时给周围区域带来增益。
+・非常强大的召唤能力（使用时要注意以下几点）
+  [冷却时间为1年]
+  [召唤物具有迫使周围敌人狂暴的能力]
+
+
+[活动待补充]
+・年轻决战类型（游戏开始后30天发生）
+利托鲁纳会靠近你的殖民地，几个小时后它就会崩溃，所以你可以捕获它。
+
+[注意]
+・规格可能会因更新而改变。
+・与原版体型服装不兼容，无法装备。
+【禁止事项】
+・禁止对本MOD进行未经授权的修改、重新分发、商业使用等。
+
+——
+简体中文汉化：AbstrAct404
+兼容版本：RimWorld 1.6
+前置：原模组（请置于本汉化之前加载）
+本模组仅含翻译文件，不包含原模组资源。</description>
   <supportedVersions>
-    <li>1.3</li>
-    <li>1.4</li>
-    <li>1.5</li>
     <li>1.6</li>
   </supportedVersions>
   <modDependencies>
