@@ -66,6 +66,11 @@ KEY_OVERRIDES = {
     # Idhale relic names: use their source-language meanings instead of katakana.
     "HAR_IH_Item_a.label": "辉耀之石",
     "HAR_IH_Archotech_a.label": "天穹之钥",
+    # Biotech terminology: translate the concepts rather than preserving the
+    # Japanese katakana names (Bereshit / Ishmutit / Akasha Wear).
+    "Aya_Race_Gene_a.label": "创世基因",
+    "Aya_Race_Xenotype.label": "人工族",
+    "HAR_IH_AT_z.label": "以太礼装",
     # Idhale terminology: keep race/faction display names consistent, including
     # fixedName (which RimWorld displays instead of the FactionDef label).
     "HAR_Idhale.label": "伊德海尔",
