@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Damage_Rugeiyu.label>睡觉</Damage_Rugeiyu.label>
+  <Damage_Geist.label>精神</Damage_Geist.label>
+  <Damage_Larva.label>幼虫</Damage_Larva.label>
+  <Damage_Genocide.label>种族灭绝</Damage_Genocide.label>
+  <Damage_Genocide_Bomb.label>种族灭绝</Damage_Genocide_Bomb.label>
+  <HAR_NM_Damage_Bullet.label>福音子弹</HAR_NM_Damage_Bullet.label>
+  <HAR_NM_Skill_Damage_a.label>修剪结束</HAR_NM_Skill_Damage_a.label>
+  <HAR_NM_Skill_Damage_b.label>燃烧的耻辱</HAR_NM_Skill_Damage_b.label>
+  <HAR_NM_Skill_Damage_c.label>颓废</HAR_NM_Skill_Damage_c.label>
+  <HAR_NM_Skill_Damage_d.label>诅咒圭坎（喷射）</HAR_NM_Skill_Damage_d.label>
+  <HAR_NM_Skill_Damage_e.label>肥沃的忧郁</HAR_NM_Skill_Damage_e.label>
+  <HAR_NM_Skill_Damage_b_b.label>老医疗</HAR_NM_Skill_Damage_b_b.label>
+  <HAR_NM_Skill_Damage_b_c.label>Arctera 的长生不老药</HAR_NM_Skill_Damage_b_c.label>
+  <HAR_NM_Skill_Damage_b_d.label>艾廷的魔法药水</HAR_NM_Skill_Damage_b_d.label>
+  <HAR_NM_Skill_Damage_b_e.label>动力灵药</HAR_NM_Skill_Damage_b_e.label>
+  <HAR_NM_Skill_Damage_b_z.label>■■■ 死亡药丸</HAR_NM_Skill_Damage_b_z.label>
+</LanguageData>

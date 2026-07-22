@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_IA_Skill_Hediff_a.label>感觉出来</HAR_IA_Skill_Hediff_a.label>
+  <HAR_IA_Skill_Hediff_a.description>Ideaan Menexenos A型分发的纳米机械具有降低敌对生物战斗技术的效果。 \n效果最多持续半天，并在Idean Menexenos Type A的效果范围内永久持续。</HAR_IA_Skill_Hediff_a.description>
+  <HAR_IA_Skill_Hediff_b.label>霍普利松实践</HAR_IA_Skill_Hediff_b.label>
+  <HAR_IA_Skill_Hediff_b.description>Ideaan Theaetetus Type A 分发的纳米机器可以提高受影响者的身体能力。 \n效果可持续长达半天。</HAR_IA_Skill_Hediff_b.description>
+  <HAR_IA_Skill_Hediff_c.label>埃里索斯·埃克西亚</HAR_IA_Skill_Hediff_c.label>
+  <HAR_IA_Skill_Hediff_c.description>Ideaan Theaetetos B型分发的纳米机器极大地降低了敌对生物的移动能力，并迫使他们的伤口大量流血。 \n效果最多持续半天，并在伤害场的效果范围内永久持续。</HAR_IA_Skill_Hediff_c.description>
+  <HAR_IA_Skill_Hediff_d.label>基亚诺斯·埃克西亚</HAR_IA_Skill_Hediff_d.label>
+  <HAR_IA_Skill_Hediff_d.description>理念泰阿泰托斯B型纳米机器是分散型纳米机器，侵蚀型扬升纳米机器隐藏在敌对实体中，在几个小时内将其瞬间杀死。 \n请小心，一旦被侵蚀就无法自救。</HAR_IA_Skill_Hediff_d.description>
+  <HAR_IA_Skill_Hediff_e.label>斜杆菌属</HAR_IA_Skill_Hediff_e.label>
+  <HAR_IA_Skill_Hediff_e.description>创造者无法在夸利拉·凯特尔中实现的王权功能之一。 \nIdeaan Critias开发的空间压缩力场对敌对实体有多种影响。 \n请小心，一旦被侵蚀就无法自救。</HAR_IA_Skill_Hediff_e.description>
+  <HAR_IA_Gunshot.description>罗氏限制了斜杆菌空间压缩造成的疤痕。</HAR_IA_Gunshot.description>
+  <HAR_IA_Skill_Hediff_f.label>泰勒斯巴西利亚</HAR_IA_Skill_Hediff_f.label>
+  <HAR_IA_Skill_Hediff_f.description>创造者无法在夸利拉·凯特尔中实现的王权功能之一。 \n受到Telos Basileia产生的力场影响的状态。 \n空间压缩会导致事件认知出现致命的差距，当受影响的人感知到这一点时，他们的脑组织就会被破坏，思维就会崩溃。 \n\nTelos Basileia 的效果会导致类似痴呆症的现象，导致他们在该地区徘徊。</HAR_IA_Skill_Hediff_f.description>
+  <HAR_IA_Skill_Hediff_g.label>巴西莱亚图雷拉</HAR_IA_Skill_Hediff_g.label>
+  <HAR_IA_Skill_Hediff_g.description>创造者无法在夸利拉·凯特尔中实现的王权功能之一。 \n受到图雷拉·巴塞利亚所产生的力场影响的状态。 \n空间压缩会导致事件认知出现致命的差距，当受影响的人感知到这一点时，他们的脑组织就会被破坏，思维就会崩溃。 \n\nThurera Basileia 的效果会导致其大脑中的化学物质受到干扰而变得狂暴，从而攻击朋友和敌人。</HAR_IA_Skill_Hediff_g.description>
+  <HAR_IA_Skill_Hediff_h.label>停滞巴西利亚</HAR_IA_Skill_Hediff_h.label>
+  <HAR_IA_Skill_Hediff_h.description>创造者无法在夸利拉·凯特尔中实现的王权功能之一。 \nIdeaan Critias开发的空间压缩力场将敌对实体的时间流动减慢至极限。 \n这个状态半天后就会释放。</HAR_IA_Skill_Hediff_h.description>
+  <HAR_IA_Skill_Hediff_z.label>舒斯主题克里蒂亚斯</HAR_IA_Skill_Hediff_z.label>
+  <HAR_IA_Skill_Hediff_z.description>最初内置于 Critias 中的系统，作为对抗上级的决战武器。 \n自动捕捉干扰对手，分析其结构，完成后将目标放逐至想象空间。</HAR_IA_Skill_Hediff_z.description>
+  <Idearn_Artificial_b.label>拱廊山脊</Idearn_Artificial_b.label>
+  <Idearn_Artificial_b.description>Ideaan生命活动剩余的能量。 \n当电量达到5%时，进入节能模式，无法行走。 \n如果墨盒达到0%，它就会失效，所以如果剩余容量减少，您将需要更换新的墨盒。</Idearn_Artificial_b.description>
+  <Idearn_Artificial.label>新生种族</Idearn_Artificial.label>
+  <Idearn_Artificial.description>Ideaan是生物与机器的混合体，拥有出色的计算能力。 \n随着岁月的流逝，它的处理速度变得更优化、更快，每一个动作都变得更加精确。 \nLv在一年左右增加Lv1（Lv上限为5）。</Idearn_Artificial.description>
+  <Idearn_Otherside_a.label>对方</Idearn_Otherside_a.label>
+  <Idearn_Otherside_a.description>正式名称：“抗干扰空间压缩铠甲”，艾迪安铺在全身的空间薄膜。 \n它将广阔的空间压缩到膜的程度，将自己包裹在其中，让外界的干扰能够穿过这个空间，让接触变得模糊，让其溜走。 \n不过能否完全透明取决于安装的Ideaan的规格。 \n\n\n这种鬼性是从伊多哈尔的超自然能力中获得的技巧，并因此得名“彼岸”。</Idearn_Otherside_a.description>
+  <Idearn_Otherside_b.label>对方</Idearn_Otherside_b.label>
+  <Idearn_Otherside_b.description>正式名称：“抗干扰空间压缩铠甲”，艾迪安铺在全身的空间薄膜。 \n它将广阔的空间压缩到膜的程度，将自己包裹在其中，让外界的干扰能够穿过这个空间，让接触变得模糊，让其溜走。 \n不过能否完全透明取决于安装的Ideaan的规格。 \n\n\n这种鬼性是从伊多哈尔的超自然能力中获得的技巧，并因此得名“彼岸”。</Idearn_Otherside_b.description>
+</LanguageData>

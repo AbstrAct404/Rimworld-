@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Aya_Race_Ap_C_T_a.description>一款人造的比赛儿童衬衫，由于是针对儿童的，所以性能一般。</Aya_Race_Ap_C_T_a.description>
+  <Aya_Race_Ap_C_T_a.label>儿童衬衫</Aya_Race_Ap_C_T_a.label>
+  <Aya_Race_Ap_C_T_b.description>这是一件人造儿童比赛衬衫，既然是儿童用的，那么它的性能就很一般了。</Aya_Race_Ap_C_T_b.description>
+  <Aya_Race_Ap_C_T_b.label>儿童衬衫</Aya_Race_Ap_C_T_b.label>
+  <Aya_Race_Ap_C_T_c.description>一块人工种族儿童用的布料，其性能与儿童用的一样温和。</Aya_Race_Ap_C_T_c.description>
+  <Aya_Race_Ap_C_T_d.description>人造种族的孩子们的校服，既然是给孩子们的，那么他们的表现就很一般了。</Aya_Race_Ap_C_T_d.description>
+  <Aya_Race_Ap_C_T_d.label>子供用学生服装</Aya_Race_Ap_C_T_d.label>
+  <HAR_QL_A_a.label>最终盔甲</HAR_QL_A_a.label>
+  <HAR_QL_A_a.description>只有安特雷凯亚王室成员才能穿着的铠甲。它具有消除精神干扰的能力，以防止洗脑和强迫行为。</HAR_QL_A_a.description>
+  <HAR_QL_O_a.description>夸利拉等人穿的套装虽然材质较薄，但性能很高，可以承受极地活动。</HAR_QL_O_a.description>
+  <HAR_QL_O_a.label>威尔邦套装A</HAR_QL_O_a.label>
+  <HAR_QL_O_b.description>夸利拉等人穿的套装虽然材质较薄，但性能很高，可以承受极地活动。</HAR_QL_O_b.description>
+  <HAR_QL_O_b.label>Wellbum套装B</HAR_QL_O_b.label>
+  <HAR_QL_O_c.description>夸利拉等人穿的套装虽然材质较薄，但性能很高，可以承受极地活动。</HAR_QL_O_c.description>
+  <HAR_QL_O_c.label>Wellbum套装C</HAR_QL_O_c.label>
+  <HAR_QL_H_a.description>仅限恩特莱凯亚王室成员佩戴的头盔。它具有消除精神干扰的能力，以防止洗脑和强迫行为。</HAR_QL_H_a.description>
+  <HAR_QL_H_a.label>最终头盔</HAR_QL_H_a.label>
+  <HAR_QL_H_b.description>夸里拉的战斗头部装备和特殊的保护膜赋予它比看上去更强的防御能力。</HAR_QL_H_b.description>
+  <HAR_QL_H_b.label>威尔邦护目镜</HAR_QL_H_b.label>
+  <HAR_QL_H_c.description>夸里拉的战斗头部装备和特殊的保护膜赋予它比看上去更强的防御能力。</HAR_QL_H_c.description>
+  <HAR_QL_H_c.label>威尔布明康</HAR_QL_H_c.label>
+  <HAR_QL_S_a.description>夸里拉等人穿的衣服足够坚固，可以抵挡子弹。</HAR_QL_S_a.description>
+  <HAR_QL_S_a.label>威尔邦姆外套</HAR_QL_S_a.label>
+  <HAR_QL_S_b.description>夸里拉等人穿的衣服足够坚固，可以抵挡子弹。</HAR_QL_S_b.description>
+  <HAR_QL_S_b.label>威尔邦斗篷</HAR_QL_S_b.label>
+  <HAR_QL_T_a.description>夸里拉穿的夹克是在设计时考虑到其他人造种族的。</HAR_QL_T_a.description>
+  <HAR_QL_T_a.label>威尔邦姆夹克</HAR_QL_T_a.label>
+  <HAR_QL_M_Race_a.label>米特拉·玛拉哈（夜魔）</HAR_QL_M_Race_a.label>
+  <HAR_QL_M_Race_NPC_a.label>米特拉·玛拉哈（夜魔）</HAR_QL_M_Race_NPC_a.label>
+  <HAR_QL_M_Race_b.label>米特拉·玛拉哈（美人鱼）</HAR_QL_M_Race_b.label>
+  <HAR_QL_M_Race_NPC_b.label>米特拉·玛拉哈（美人鱼）</HAR_QL_M_Race_NPC_b.label>
+  <HAR_QL_M_Race_c.label>米特拉玛·阿哈（亚金）</HAR_QL_M_Race_c.label>
+  <HAR_QL_M_Race_NPC_c.label>米特拉玛·阿哈（亚金）</HAR_QL_M_Race_NPC_c.label>
+  <HAR_QL_M_Race_d.label>米特拉·马拉哈（各种形式）</HAR_QL_M_Race_d.label>
+  <HAR_QL_M_Race_NPC_d.label>米特拉·马拉哈（各种形式）</HAR_QL_M_Race_NPC_d.label>
+  <HAR_QL_M_Race_e.label>密特拉玛拉哈（龙人）</HAR_QL_M_Race_e.label>
+  <HAR_QL_M_Race_NPC_e.label>密特拉玛拉哈（龙人）</HAR_QL_M_Race_NPC_e.label>
+  <CSS_SummonEffect.description>闪耀的召唤魔法阵。</CSS_SummonEffect.description>
+  <HAR_QL_Weapon_a.label>阿达马赫列夫</HAR_QL_Weapon_a.label>
+  <HAR_QL_Weapon_a.description>创造者为奎利拉打造的剑。除了切割之外，它还可以从刀片发射激光。 \n材料中似乎使用了特殊的纳米机械，如果被它们割伤，即使你的身体足够强壮，你也有可能死掉。</HAR_QL_Weapon_a.description>
+  <HAR_QL_Projectile_a.label>阿达马赫列夫</HAR_QL_Projectile_a.label>
+  <HAR_QL_Weapon_a_Grenade.label>阿达马赫列夫</HAR_QL_Weapon_a_Grenade.label>
+  <HAR_QL_Weapon_b.label>采马基登</HAR_QL_Weapon_b.label>
+  <HAR_QL_Weapon_b.description>造物主为奎利拉打造的长矛。虽然戳的力量很大，但真正的价值在于投掷。 \n投掷的 Tsemakkidon 会穿透障碍物并杀死目标并带来无数幻象。 \n材料中似乎使用了特殊的纳米机械，如果被它们割伤，即使你的身体足够强壮，你也有可能死掉。</HAR_QL_Weapon_b.description>
+  <HAR_QL_Weapon_b_Bullet.label>采马基登</HAR_QL_Weapon_b_Bullet.label>
+</LanguageData>

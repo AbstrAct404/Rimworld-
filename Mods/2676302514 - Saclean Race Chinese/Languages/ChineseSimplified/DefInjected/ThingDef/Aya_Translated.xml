@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Aya_Race_Ap_C_T_a.description>一款人造的比赛儿童衬衫，由于是针对儿童的，所以性能一般。</Aya_Race_Ap_C_T_a.description>
+  <Aya_Race_Ap_C_T_a.label>儿童衬衫</Aya_Race_Ap_C_T_a.label>
+  <Aya_Race_Ap_C_T_b.description>这是一件人造儿童比赛衬衫，既然是儿童用的，那么它的性能就很一般了。</Aya_Race_Ap_C_T_b.description>
+  <Aya_Race_Ap_C_T_b.label>儿童衬衫</Aya_Race_Ap_C_T_b.label>
+  <Aya_Race_Ap_C_T_c.description>一块人工种族儿童用的布料，其性能与儿童用的一样温和。</Aya_Race_Ap_C_T_c.description>
+  <Aya_Race_Ap_C_T_d.description>人造种族的孩子们的校服，既然是给孩子们的，那么他们的表现就很一般了。</Aya_Race_Ap_C_T_d.description>
+  <Aya_Race_Ap_C_T_d.label>子供用学生服装</Aya_Race_Ap_C_T_d.label>
+  <HAR_SL_O_a.description>Sacleans 首选内衣。</HAR_SL_O_a.description>
+  <HAR_SL_O_a.label>下着A(萨克琳)</HAR_SL_O_a.label>
+  <HAR_SL_Heads_a.description>Saclean 独特的发带，可为您的头发定型。</HAR_SL_Heads_a.description>
+  <HAR_SL_Heads_a.label>丝绸发带</HAR_SL_Heads_a.label>
+  <HAR_SL_Heads_b.description>专为 Saclean 打造的眼罩，稍有不慎就会损坏。</HAR_SL_Heads_b.description>
+  <HAR_SL_Heads_b.label>丝绸补丁</HAR_SL_Heads_b.label>
+  <HAR_SL_Heads_c.description>Saclean 专用的遮盖物，用于隐藏脸部。</HAR_SL_Heads_c.description>
+  <HAR_SL_Heads_c.label>丝绸盖</HAR_SL_Heads_c.label>
+  <HAR_SL_Shell_a.description>Saclean 的特殊夹克，穿着可以防止体毛质量下降。</HAR_SL_Shell_a.description>
+  <HAR_SL_Shell_a.label>丝绸斗篷</HAR_SL_Shell_a.label>
+  <HAR_SL_Shell_b.description>Saclean 的特殊夹克，穿着可以防止体毛质量下降。</HAR_SL_Shell_b.description>
+  <HAR_SL_Shell_b.label>丝绸斗篷</HAR_SL_Shell_b.label>
+  <HAR_SL_Shell_c.description>Saclean 的特殊夹克，穿着可以防止体毛质量下降。</HAR_SL_Shell_c.description>
+  <HAR_SL_Shell_c.label>丝绸外套</HAR_SL_Shell_c.label>
+  <HAR_SL_Tops_a.description>它是专门为樱琳制作的薄衣服，耐久度较低，可能是因为它不关心战斗性能，所以不要对它的防御抱有太大的期望。</HAR_SL_Tops_a.description>
+  <HAR_SL_Tops_a.label>真丝服装A</HAR_SL_Tops_a.label>
+  <HAR_SL_Tops_b.description>它是专门为樱琳制作的薄衣服，耐久度较低，可能是因为它不关心战斗性能，所以不要对它的防御抱有太大的期望。</HAR_SL_Tops_b.description>
+  <HAR_SL_Tops_b.label>丝绸服装B</HAR_SL_Tops_b.label>
+  <HAR_SL_Tops_c.description>它是专门为樱琳制作的薄衣服，耐久度较低，可能是因为它不关心战斗性能，所以不要对它的防御抱有太大的期望。</HAR_SL_Tops_c.description>
+  <HAR_SL_Tops_c.label>丝绸服装C</HAR_SL_Tops_c.label>
+  <HAR_SL_Bed.label>丝绸床</HAR_SL_Bed.label>
+  <HAR_SL_Bed.description>``即使你患有失眠症，每天都可以在松软的床上睡个好觉♪\n通过睡个好觉来缓解累积的压力！ \n\n亚人工业销售的优质床，内部采用丝丝制成，舒适度极佳，外部覆盖着洁净的毛发，蓬松无比，舒适无比。</HAR_SL_Bed.description>
+  <HAR_SL_DoubleBed.label>丝绸双人床</HAR_SL_DoubleBed.label>
+  <HAR_SL_DoubleBed.description>``即使你患有失眠症，每天都可以在松软的床上睡个好觉♪\n通过睡个好觉来缓解累积的压力！ \n\n亚人工业销售的优质床，内部采用丝丝制成，舒适度极佳，外部覆盖着洁净的毛发，蓬松无比，舒适无比。</HAR_SL_DoubleBed.description>
+  <HAR_SL_Cushion.label>丝绸坐垫</HAR_SL_Cushion.label>
+  <HAR_SL_Cushion.description>``选择工作时坐着舒服的坐垫\n丝质坐垫非​​常舒服♪''\n\n亚人工业出售的坐垫外观精美，非常舒适，还可以与其他材料组合改变颜色。</HAR_SL_Cushion.description>
+  <HAR_SL_Medicine_a.label>牺牲生成</HAR_SL_Medicine_a.label>
+  <HAR_SL_Medicine_a.description>``使用丝丝的再生医疗用品\n即使你在意外事故中受重伤，这也可能挽救你的生命！ \n\n这是亚人工业销售的优质医疗产品，利用丝丝易于适应人体的特性，具有果冻状的体质。 \n通过在问题区域使用它，它与细胞和肌肉组织深入连接，促进再生并作为替代品发挥作用，直到再生完成。</HAR_SL_Medicine_a.description>
+  <HAR_SL_Wool.label>丝丝</HAR_SL_Wool.label>
+  <HAR_SL_Wool.description>``给皮肤敏感人士的信息\n用Saclean的天然纤维享受舒适的生活♪''\n\nSaclean是亚人工业制造的一种闪亮的优质纤维，定期生产耐用且易燃的天然纤维。 \n由于其结构与人体皮肤相似，因此不易损伤皮肤，并且具有抗菌性能，因此在沙发等使用时有望提高舒适度。\n缺点是需要先进的技术来处理，因此需要大量的生产时间。</HAR_SL_Wool.description>
+</LanguageData>

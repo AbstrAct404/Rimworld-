@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_QL_Hediff_a.label>雷加利亚奥苏</HAR_QL_Hediff_a.label>
+  <HAR_QL_Hediff_a.description>“Regalia Ous”的效果，Qualilla 的王权功能之一。 \n通过与周围的盟友签订临时契约，可以大幅强化主人和从者的身体。 \n由于是简单的契约，几个小时后效果就会消失。</HAR_QL_Hediff_a.description>
+  <HAR_QL_Hediff_b.label>王权手镯</HAR_QL_Hediff_b.label>
+  <HAR_QL_Hediff_b.description>夸里拉的王权功能之一“王权手镯”的效果。 \n祝福附近的盟友击退攻击并提高他们的防御力。 \n由于是简单的祝福，几个小时后效果就会消失。</HAR_QL_Hediff_b.description>
+  <HAR_QL_Hediff_c.label>王权齿轮</HAR_QL_Hediff_c.label>
+  <HAR_QL_Hediff_c.description>夸里拉的王权功能之一“王权齿轮”的效果。 \n阻止敌人变得更强，并对他的心灵施加压力，使他处于极度紧张的状态。</HAR_QL_Hediff_c.description>
+  <HAR_QL_Hediff_d.label>王权眩光</HAR_QL_Hediff_d.label>
+  <HAR_QL_Hediff_d.description>夸里拉的王权功能之一“王权眩光”的效果。 \n向敌人展示幻听和幻象，使他们失去意识。</HAR_QL_Hediff_d.description>
+  <HAR_QL_Hediff_e.label>扬升圣痕</HAR_QL_Hediff_e.label>
+  <HAR_QL_Hediff_e.description>由凯瑟尔的圣宝雕刻而成的圣痕。 \n如果伤口数量超过一定数量，人就会立即升天。 \n据说是Aleteia协会拥有的扬升纳米机器的复制源。</HAR_QL_Hediff_e.description>
+  <Qualeela_Artificial.label>人工上位种族</Qualeela_Artificial.label>
+  <Qualeela_Artificial.description>夸里拉是人工创造的种族，拥有适合束缚人工种族的精神力。 \n\n另外，夸里拉·凯特尔拥有追随者，可以召唤他们与敌人作战，召唤数量由夸里拉的个人等级决定，大约2年提升1级（等级限制为5级）。</Qualeela_Artificial.description>
+</LanguageData>

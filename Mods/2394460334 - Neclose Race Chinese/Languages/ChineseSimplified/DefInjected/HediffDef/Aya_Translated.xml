@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_NC_Hediff_a.label>月神梗</HAR_NC_Hediff_a.label>
+  <HAR_NC_Hediff_a.description>一种对 Nen 波做出反应并与 Necros 共生的细菌。 \n它是一种除非在特殊环境下才能长时间生存的细菌，而它提供了各种好处来保护载体Necros，其内部结构满足这个条件。平时它处于不活跃状态，在这种状态下，即使感染别人，也不会产生任何不良影响，一天之内就会自毁，但当它收到死灵的攻击命令时，它就会被激活，开始繁殖腐蚀效果，同时还会产生令其神经疯狂的波动。 \n\n刚感染后，症状只是手脚麻木，但到了最后阶段，脑神经受到影响，感染者神智被破坏，变得暴力。这种现象即使在机械生物等机械生命体中也会发生，因为它不是物理干扰，而是精神干扰。</HAR_NC_Hediff_a.description>
+  <HAR_NC_Hediff_b.description>月月族分泌的毒液具有腐蚀性，逐渐腐烂血肉，从内部摧毁对手的铠甲。 \n这种毒是根据感染者的细胞制造出来的，只对感染者有效，所以即使别人吃了含有这种毒的尸体，也不会引起食物中毒。</HAR_NC_Hediff_b.description>
+  <Neclose_Artificial.label>人工种族</Neclose_Artificial.label>
+  <Neclose_Artificial.description>死灵是一个人工创造的种族，拥有源自尼亚美亚的精神力量，但也拥有很高的身体能力。 \n\n他们还有追随者，可以召唤他们与敌人作战，召唤数量由他们作为死灵的个人等级决定，大约一年内等级增加1级（等级限制为5级）。</Neclose_Artificial.description>
+  <HAR_NC_Hediff_Flag.label>很棒的访问</HAR_NC_Hediff_Flag.label>
+  <HAR_NC_Invisibility.label>从外面来的东西</HAR_NC_Invisibility.label>
+  <HAR_NC_Invisibility.description>一种被某种力量变得隐形的状态。 \n30分钟内你将不再成为敌人的目标。</HAR_NC_Invisibility.description>
+  <HAR_NC_Invisibility_b.label>从外面来的东西</HAR_NC_Invisibility_b.label>
+  <HAR_NC_Invisibility_b.description>一种被某种力量变得隐形的状态。 \n一段时间内你将不再成为敌人的目标。</HAR_NC_Invisibility_b.description>
+  <Neclose_Artificial_b.label>外来种族</Neclose_Artificial_b.label>
+  <Neclose_Artificial_b.description>Necros Utisphonia 是一个来源不明的种族。 \n\n它们不像人类那样流血，而且内脏器官特别发达。</Neclose_Artificial_b.description>
+</LanguageData>

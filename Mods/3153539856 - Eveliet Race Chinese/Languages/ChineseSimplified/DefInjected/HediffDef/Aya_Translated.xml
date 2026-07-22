@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Eveliet_Artificial.label>試作人工种族</Eveliet_Artificial.label>
+  <Eveliet_Artificial.description>Evelito是人工种族的雏形，因此其稳定性明显低于后来的种族。
+所以，他的力量是被保存下来的，防止他的身体一不小心强化就会崩溃。
+
+随着时间的推移，它不会自动变得更强。</Eveliet_Artificial.description>
+  <HAR_EL_Hediff_a.label>伊莎的血杯</HAR_EL_Hediff_a.label>
+  <HAR_EL_Hediff_a.description>伊夫利特外壳上托着的血杯。
+使用 Admnesica 可以增加补充的血液量。
+它还可以用作增强身体和使用特殊能力的费用。
+最多可补充400个。</HAR_EL_Hediff_a.description>
+  <HAR_EL_Hediff_b.label>达姆黑勒姆</HAR_EL_Hediff_b.label>
+  <HAR_EL_Hediff_b.description>血被艾维利托吸干了。
+体能暂时下降，出血严重。
+顺便说一句，我不在乎吸血的东西是血还是油，只要是能让身体运转的液体就行。
+
+一旦出现这种情况，需要时间才能完全治愈。</HAR_EL_Hediff_b.description>
+  <HAR_EL_Hediff_c.label>克里法勒菲姆</HAR_EL_Hediff_c.label>
+  <HAR_EL_Hediff_c.description>造物主赋予伊夫里特的辅助器官和强化外壳。
+通过向伊莎的血杯补充血液，它以血液为燃料进行运作。
+
+当这个外壳被释放时，艾维莉托被封印的原始力量被唤醒，让她展现出超人的能力。
+一次操作限制为6小时，但可以通过补充血液来连续操作。</HAR_EL_Hediff_c.description>
+  <HAR_EL_Hediff_d.label>阿科尔米什特</HAR_EL_Hediff_d.label>
+  <HAR_EL_Hediff_d.description>埃维利托收到血刀的状态。
+流血越来越严重，伤口也越来越难愈合。
+这种状况半天后就会解除。</HAR_EL_Hediff_d.description>
+</LanguageData>

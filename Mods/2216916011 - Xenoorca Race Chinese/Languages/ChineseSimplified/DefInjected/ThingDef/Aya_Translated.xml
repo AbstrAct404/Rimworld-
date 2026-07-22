@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Aya_Race_Ap_XO_C_T_a.description>Xenoware是一个针对儿童的人工种族，由于它是针对儿童的，所以它的表现很一般。</Aya_Race_Ap_XO_C_T_a.description>
+  <Aya_Race_Ap_XO_C_T_a.label>儿童异形服装</Aya_Race_Ap_XO_C_T_a.label>
+  <HAR_XO_AM_a.label>奥西努斯铠甲</HAR_XO_AM_a.label>
+  <HAR_XO_AM_a.description>奥西努斯旅成员所穿的铠甲可以抑制伤害，但会牺牲速度并且容易受到热伤害。最初是在其创造者手下作为战斗人员时使用的战斗服。</HAR_XO_AM_a.description>
+  <HAR_XO_AM_b.label>逆戟鲸盔甲</HAR_XO_AM_b.label>
+  <HAR_XO_AM_b.description>异卡为适应体格而制造的铠甲，可以保护身体免受打击和枪火的伤害，但抵御热伤害的能力较弱。</HAR_XO_AM_b.description>
+  <HAR_XO_AM_c.label>帝国盔甲</HAR_XO_AM_c.label>
+  <HAR_XO_AM_c.description>曾经被创造者赋予泽诺卡·海达诺亚的至高铠甲。 \n\n在那铠甲散发的光芒中，人们看到了\n一个纯洁而尊贵的骑士形象，一如他曾经的样子。</HAR_XO_AM_c.description>
+  <HAR_XO_AH_a.description>克诺卡的皇冠，即使是战斗迷也想保持美丽。</HAR_XO_AH_a.description>
+  <HAR_XO_AH_a.label>皇冠 (Xenooka)</HAR_XO_AH_a.label>
+  <HAR_XO_AH_b.description>Xenooka的头带主要用作发夹而不是为了美观。</HAR_XO_AH_b.description>
+  <HAR_XO_AH_b.label>头带（Xenooka）</HAR_XO_AH_b.label>
+  <HAR_XO_AH_c.description>杰诺卡的女仆头带似乎残留着某种服务精神。</HAR_XO_AH_c.description>
+  <HAR_XO_AH_c.label>女仆发带（Xenooka）</HAR_XO_AH_c.label>
+  <HAR_XO_AH_d.description>不知道Xenooka的花朵装饰是否能够承受住女孩们的激烈战斗。</HAR_XO_AH_d.description>
+  <HAR_XO_AH_d.label>花卉装饰（Xenooka）</HAR_XO_AH_d.label>
+  <HAR_XO_AH_e.description>Xenooka的丝带给人一种简单又可爱的印象。</HAR_XO_AH_e.description>
+  <HAR_XO_AH_e.label>丝带（Xenooka）</HAR_XO_AH_e.label>
+  <HAR_XO_AH_f.description>奥西努斯旅成员佩戴的头盔可以抑制伤害，但代价是速度，而且容易受到热损伤。</HAR_XO_AH_f.description>
+  <HAR_XO_AH_f.label>海神头盔</HAR_XO_AH_f.label>
+  <HAR_XO_AH_g.description>Xenooka根据他们的体格制作的头盔，可以保护头部免受打击和枪火的伤害，但对热损伤的抵抗能力较弱。</HAR_XO_AH_g.description>
+  <HAR_XO_AH_g.label>虎鲸头盔</HAR_XO_AH_g.label>
+  <HAR_XO_AH_h.description>曾被其创造者赠与泽诺卡·海达诺亚的至尊头盔。 \n\n据说，在那头盔发出的光芒中，人们看到了\n他曾经是一位尊贵而尊贵的骑士的形象。</HAR_XO_AH_h.description>
+  <HAR_XO_AH_h.label>帝国头盔</HAR_XO_AH_h.label>
+  <HAR_XO_AS_a.description>泽诺卡和其他人穿的一件夹克，用来抵御刀刃和子弹。不过为了保持机动性，做了轻量化，因此以降低防御力为代价。</HAR_XO_AS_a.description>
+  <HAR_XO_AS_a.label>外套（Xenooka）</HAR_XO_AS_a.label>
+  <HAR_XO_AS_b.description>泽诺卡和其他人穿的一件夹克，用来抵御刀刃和子弹。不过为了保持机动性，做了轻量化，因此以降低防御力为代价。</HAR_XO_AS_b.description>
+  <HAR_XO_AS_b.label>除尘器（Xenooka）</HAR_XO_AS_b.label>
+  <HAR_XO_AS_c.description>用于快速装填的子弹带。没有防御力，但提高了射击的间隔和准确性。</HAR_XO_AS_c.description>
+  <HAR_XO_AS_c.label>子弹带（Xenooka）</HAR_XO_AS_c.label>
+  <HAR_XO_AT_a.description>Xenoorca的衣服有特殊的结构，你可以看到他们正在煞费苦心地尽可能不让衣服变得闷热。</HAR_XO_AT_a.description>
+  <HAR_XO_AT_a.label>异形A（异形）</HAR_XO_AT_a.label>
+  <HAR_XO_AT_b.description>Xenoorca的衣服有特殊的结构，你可以看到他们正在煞费苦心地尽可能不让衣服变得闷热。</HAR_XO_AT_b.description>
+  <HAR_XO_AT_b.label>异形件 B (Xenooka)</HAR_XO_AT_b.label>
+  <HAR_XO_AT_c.description>Xenoorca的衣服有特殊的结构，你可以看到他们正在煞费苦心地尽可能不让衣服变得闷热。</HAR_XO_AT_c.description>
+  <HAR_XO_AT_c.label>异形C（Xenooka）</HAR_XO_AT_c.label>
+  <HAR_XO_AT_d.description>克诺卡的女仆装很好地完成了她的工作，所以我希望能有一点恶作剧。</HAR_XO_AT_d.description>
+  <HAR_XO_AT_d.label>女仆装（Xenooka）</HAR_XO_AT_d.label>
+  <HAR_XO_AT_e.description>为Xenooka定制了某种传统服装，虽然移动起来有些困难，但能抵抗温度变化，给人干净的印象，因此可以期待社交能力的提高。</HAR_XO_AT_e.description>
+  <HAR_XO_AT_e.label>巫女服（Xenooka）</HAR_XO_AT_e.label>
+  <HAR_XO_AT_f.description>为Xenooka定制了一套传统服装，装饰极少，而且服装本身很瘦，很容易移动，所以调整了移动速度。</HAR_XO_AT_f.description>
+  <HAR_XO_AT_f.label>中国服（Xenooka）</HAR_XO_AT_f.label>
+  <HAR_XO_AT_x.description>Xenooka Heidalnoia 的特殊结构服装。 \n由于它是用于水下活动，因此装饰保持在最低限度。</HAR_XO_AT_x.description>
+  <HAR_XO_AT_x.label>深渊堰</HAR_XO_AT_x.label>
+  <Gun_AssaultRifle_XO.label>突击步枪OC</Gun_AssaultRifle_XO.label>
+  <Gun_AssaultRifle_XO.description>一把由Xenooka和他的朋友们神奇改造而成的军用步枪（逆戟鲸定制）。它提高了射程和威力，但代价是难以操控。</Gun_AssaultRifle_XO.description>
+  <Gun_SniperRifle_XO.label>狙击步枪OC</Gun_SniperRifle_XO.label>
+  <Gun_SniperRifle_XO.description>狙击步枪（逆戟鲸定制）经过异形者的神奇改造，虽然射程和威力都得到了提升，但代价​​是难以操控。</Gun_SniperRifle_XO.description>
+  <Gun_ChargeRifle_XO.label>冲锋枪OC</Gun_ChargeRifle_XO.label>
+  <Gun_ChargeRifle_XO.description>被Xenooka和他的朋友们神奇改造的冲锋步枪（Orca Custom），提高了射程和威力，但代价是难以操控。</Gun_ChargeRifle_XO.description>
+  <Gun_PumpShotgun_XO.label>霰弹枪 OC</Gun_PumpShotgun_XO.label>
+  <Gun_PumpShotgun_XO.description>一把经过Xenooka等人之手神奇改装的霰弹枪（逆戟鲸定制），提高了射程和威力，但代价是难以操作。</Gun_PumpShotgun_XO.description>
+  <Weapon_GrenadeFrag_XO.label>手榴弹 OC</Weapon_GrenadeFrag_XO.label>
+  <Weapon_GrenadeFrag_XO.description>被 Xenooka 和他的朋友们神奇改造的手榴弹（逆戟鲸定制）。虽然爆炸范围已经缩小，现在可以远距离投掷，但是很难处理。</Weapon_GrenadeFrag_XO.description>
+  <MeleeWeapon_Trident_XO.label>虎鲸三叉戟</MeleeWeapon_Trident_XO.label>
+  <MeleeWeapon_Trident_XO.description>泽诺卡最喜欢的三叉戟，可用于狩猎和钓鱼，由于体型较大，难以机动，但威力有保证。</MeleeWeapon_Trident_XO.description>
+  <HAR_XO_Weapon_a.label>特霍姆内谢克</HAR_XO_Weapon_a.label>
+  <HAR_XO_Weapon_a.description>由其创造者制造的大矛，作为海达尔诺亚和他的皇家卫队的主要武器。 \n据说它是与 Adamahelev Tsemakkidon 同等的神圣宝藏。 \n因为它是特殊武器，所以只有Heydarnoia可以拥有它。 \n\n\n在黄金时代取得辉煌战绩的骑士们的巨枪。 \n然而，骑士们杀死巫女的前一天，将其埋在了空中。 \n我不能带着这把枪走上我即将走的血路。</HAR_XO_Weapon_a.description>
+</LanguageData>

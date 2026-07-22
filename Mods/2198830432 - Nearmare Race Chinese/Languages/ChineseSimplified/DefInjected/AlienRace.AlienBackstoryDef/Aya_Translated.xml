@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_NM_Backstory_C1.description>[PAWN_nameDef]出生在一个与世隔绝的宇宙设施中，并在那里度过了童年。[PAWN_pronoun]在那段时间从未接触过任何危险，快乐地成长。</HAR_NM_Backstory_C1.description>
+  <HAR_NM_Backstory_C2.description>[PAWN_nameDef]在记事之前就因战争失去了出生地，但幸运的是[PAWN_pronoun]被一位有权有势的人收养，并在富裕的环境中学到了很多东西。</HAR_NM_Backstory_C2.description>
+  <HAR_NM_Backstory_C3.description>[PAWN_nameDef] 是一位游牧父亲和一位尼亚米亚母亲的孩子。 [PAWN_pronoun] 在动物和大自然的包围下长大，并掌握了与它们互动的技能。</HAR_NM_Backstory_C3.description>
+  <HAR_NM_Backstory_C4.description>[PAWN_nameDef] 是一位有抱负的厨师，对烹饪世界着迷。当时，[PAWN_pronoun]还没有经验，但他的厨艺却比一般人好。</HAR_NM_Backstory_C4.description>
+  <HAR_NM_Backstory_C5.description>[PAWN_nameDef]是一名训练有素的士兵，从小就接受格斗技术训练，[PAWN_pronoun]可以在一定程度上处理近战和射击。</HAR_NM_Backstory_C5.description>
+  <HAR_NM_Backstory_C6.description>[PAWN_nameDef] 失去了家园，从此生活在一个黑暗的洞穴中，[PAWN_pronoun] 在那里学会了如何采矿和建造。</HAR_NM_Backstory_C6.description>
+  <HAR_NM_Backstory_b_C1.description>[PAWN_nameDef] 天生具有操纵事件的能力，注定会成为令人畏惧的女巫。</HAR_NM_Backstory_b_C1.description>
+  <HAR_NM_Backstory_d_C1.description>目前尚不清楚[PAWN_nameDef]是如何出生和长大的。从你的言语和行动中唯一能看出的就是你是明智的。</HAR_NM_Backstory_d_C1.description>
+  <HAR_NM_Backstory_e_C1.description>[PAWN_nameDef] 作为 ETHOS 的成员，他将所有时间都花在了训练上。由于他的努力，他似乎获得了战斗之外的广泛技能。</HAR_NM_Backstory_e_C1.description>
+  <HAR_NM_Backstory_A1.description>【PAWN_nameDef】利用自己的美貌，被分配到了一个招待客人的销售岗位，虽然获得了社交能力和交际能力，但最终却并不擅长打工。</HAR_NM_Backstory_A1.description>
+  <HAR_NM_Backstory_A2.description>[PAWN_nameDef]意外地发现了他作为建筑师的天赋，但他对正确和精确的渴望让他与野生动物格格不入。</HAR_NM_Backstory_A2.description>
+  <HAR_NM_Backstory_A3.description>[PAWN_nameDef] 擅长射击远处的物体，并且可以使用弓或枪轻松做到这一点。</HAR_NM_Backstory_A3.description>
+  <HAR_NM_Backstory_A4.description>[PAWN_nameDef]可以轻松处理他获得的东西，而且他似乎并不介意互相残杀。</HAR_NM_Backstory_A4.description>
+  <HAR_NM_Backstory_A5.description>[PAWN_nameDef]凭借积累的想法和磨练的绘画技巧作为一名活跃的设计师。</HAR_NM_Backstory_A5.description>
+  <HAR_NM_Backstory_A6.description>[PAWN_nameDef] 比与人互动更喜欢挖洞，而且他今天可能仍在挥舞着冰镐寻找矿石。</HAR_NM_Backstory_A6.description>
+  <HAR_NM_Backstory_A7.description>[PAWN_nameDef]是一名侍奉名流的女仆，并且可能是一位烹饪专家。</HAR_NM_Backstory_A7.description>
+  <HAR_NM_Backstory_A8.description>[PAWN_nameDef]是一位创作了很多作品的艺术家，他创作的作品取决于他当时的感性。</HAR_NM_Backstory_A8.description>
+  <HAR_NM_Backstory_A9.description>[PAWN_nameDef]是一位教授，他写的论文充满了邪恶的想法，令人惊讶的是，他似乎被高度评价为一个不能被嘲笑的人。</HAR_NM_Backstory_A9.description>
+  <HAR_NM_Backstory_A10.description>[PAWN_nameDef]是一个随处可见的城镇女孩，但似乎因为她的外表而在异性中拥有良好的声誉。</HAR_NM_Backstory_A10.description>
+  <HAR_NM_Backstory_A11.description>[PAWN_nameDef]是一名驯兽师，梦想驯服全世界的野兽，但要小心大自然的奇观。</HAR_NM_Backstory_A11.description>
+  <HAR_NM_Backstory_A12.description>[PAWN_nameDef] 是一名医疗技术精湛的护士，我很欣赏他有时会犯错误。</HAR_NM_Backstory_A12.description>
+  <HAR_NM_Backstory__b_A1.description>[PAWN_nameDef]已经成为一名成熟的女巫，如何使用她的力量将取决于使用者，但显然会有很多悲伤。</HAR_NM_Backstory__b_A1.description>
+  <HAR_NM_Backstory_d_A1.description>我们甚至不知道 [PAWN_nameDef] 是谁。尽管如此，我可以肯定地说我是站在你这边的。</HAR_NM_Backstory_d_A1.description>
+  <HAR_NM_Backstory_e_A1.description>[PAWN_nameDef] 是一名直接前往偏远星球的战士。作为一名 ETHOS 士兵，他拥有应对各种战斗的技能。</HAR_NM_Backstory_e_A1.description>
+</LanguageData>

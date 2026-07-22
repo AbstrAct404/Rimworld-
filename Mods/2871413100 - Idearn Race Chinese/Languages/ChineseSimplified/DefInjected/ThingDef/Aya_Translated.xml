@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_IA_Armor_a.label>艾希昂铠甲</HAR_IA_Armor_a.label>
+  <HAR_IA_Armor_a.description>艾迪安的专属铠甲，不知道是否是造物主时代使用过的。首先，他们已经很强了，所以不需要他们。</HAR_IA_Armor_a.description>
+  <HAR_IA_Armor_b.label>孤儿软件</HAR_IA_Armor_b.label>
+  <HAR_IA_Armor_b.description>创意人专属的神秘装备，一般创意人无法装备。</HAR_IA_Armor_b.description>
+  <HAR_IA_AH_a.description>艾迪安的专属铠甲，不知道是否是造物主时代使用过的。首先，他们已经很强了，所以不需要他们。</HAR_IA_AH_a.description>
+  <HAR_IA_AH_a.label>离子头盔</HAR_IA_AH_a.label>
+  <HAR_IA_AH_b.description>创意人专属的神秘装备，一般创意人无法装备。</HAR_IA_AH_b.description>
+  <HAR_IA_AH_b.label>离子头盔</HAR_IA_AH_b.label>
+  <HAR_IA_tops_a.description>Ideaan的专属装备，对于这些基础能力较高的女孩来说，衣服并不是很重要，保持在最低限度。</HAR_IA_tops_a.description>
+  <HAR_IA_tops_a.label>机械磨损A</HAR_IA_tops_a.label>
+  <HAR_IA_tops_b.description>Ideaan的专属装备，对于这些基础能力较高的女孩来说，衣服并不是很重要，保持在最低限度。</HAR_IA_tops_b.description>
+  <HAR_IA_tops_b.label>机械磨损B</HAR_IA_tops_b.label>
+  <HAR_IA_tops_c.description>Ideaan的专属装备，对于这些基础能力较高的女孩来说，衣服并不是很重要，保持在最低限度。</HAR_IA_tops_c.description>
+  <HAR_IA_tops_c.label>机械磨损C</HAR_IA_tops_c.label>
+  <HAR_IA_Item_ArcheCartridge.label>拱廊山脊</HAR_IA_Item_ArcheCartridge.label>
+  <HAR_IA_Item_ArcheCartridge.description>含有 Ideaan 生命活动所需能量的弹药筒。 \n每个季节需要更换一次。 \n如果它耗尽，您将无法移动，因此我们建议尽快更换它。</HAR_IA_Item_ArcheCartridge.description>
+  <HAR_IA_Item_a.label>诺莫斯细胞</HAR_IA_Item_a.label>
+  <HAR_IA_Item_a.description>混入机械生命体内的神秘物体。 \n它似乎具有存储介质的功能，上面已经记录了一些制造数据。</HAR_IA_Item_a.description>
+  <HAR_IA_Item_b.label>技术遗迹</HAR_IA_Item_b.label>
+  <HAR_IA_Item_b.description>这是作为零件重新组装的 NOMOS 单元。 \n需要创建机械生命体 Ideaan。</HAR_IA_Item_b.description>
+  <HAR_IA_Item_c.label>想法传感器</HAR_IA_Item_c.label>
+  <HAR_IA_Item_c.description>用于高性能传感器\n用于生产机械生命体 Ideaan 所需的五种感官和能量检测。</HAR_IA_Item_c.description>
+  <HAR_IA_Item_d.label>创世反应堆</HAR_IA_Item_d.label>
+  <HAR_IA_Item_d.description>生产机械生命体 Ideaan 所需的高性能反应堆\n只有安装后，另一面才能充分发挥其潜力。</HAR_IA_Item_d.description>
+  <HAR_IA_Item_spawn_Laches_a.label>伊安·拉克斯</HAR_IA_Item_spawn_Laches_a.label>
+  <HAR_IA_Item_spawn_Laches_a.description>我们将制作生物模型“Idean Lakes”。请注意，创建的 Idean 需要每季一次的药品“Arke Cartridge”。</HAR_IA_Item_spawn_Laches_a.description>
+  <HAR_IA_Item_spawn_Charmides_a.label>理念卡米德斯 A 型</HAR_IA_Item_spawn_Charmides_a.label>
+  <HAR_IA_Item_spawn_Charmides_a.description>我们将制造生物模型“Idean Karmides Type A”。请注意，创建的 Ideaan 需要每季使用一次药品“Arke Cardridge”。 \n\n【个人能力】防御表现。</HAR_IA_Item_spawn_Charmides_a.description>
+  <HAR_IA_Item_spawn_Charmides_b.label>理念卡米德斯B型</HAR_IA_Item_spawn_Charmides_b.label>
+  <HAR_IA_Item_spawn_Charmides_b.description>我们将制造生物模型“Idean Karmides Type B”。请注意，创建的 Ideaan 需要每季使用一次药品“Arke Cardridge”。 \n\n【个人能力】动作表现。</HAR_IA_Item_spawn_Charmides_b.description>
+  <HAR_IA_Item_spawn_Menexenus_a.label>理念 Menexenos A 型</HAR_IA_Item_spawn_Menexenus_a.label>
+  <HAR_IA_Item_spawn_Menexenus_a.description>我们将制造生物模型“Idean Menexenos Type A”。请注意，创建的 Ideaan 需要每季使用一次药品“Arke Cartridge”。 \n\n[个人能力]\n技能：伤害减免屏障\n技能：削弱敌方实体</HAR_IA_Item_spawn_Menexenus_a.description>
+  <HAR_IA_Item_spawn_Menexenus_b.label>理念梅内克塞诺斯 B 型</HAR_IA_Item_spawn_Menexenus_b.label>
+  <HAR_IA_Item_spawn_Menexenus_b.description>我们将制造生物模型“Idean Menexenos Type B”。请注意，创建的 Ideaan 需要每季使用一次药品“Arke Cartridge”。 \n\n[个人能力]\n技能：减伤屏障\n技能：火焰爆炸\n技能：电磁脉冲爆炸</HAR_IA_Item_spawn_Menexenus_b.description>
+  <HAR_IA_Item_spawn_Theaetetus_a.label>理念 Theaetetos A 型</HAR_IA_Item_spawn_Theaetetus_a.label>
+  <HAR_IA_Item_spawn_Theaetetus_a.description>我们将制造生物模型“Idean Theaetetos Type A”。请注意，创建的 Ideaan 需要每季使用一次药品“Arke Cartridge”。 \n\n[个人能力]\n技能：伤害阻挡屏障\n技能：召唤亲族\n技能：强化盟友</HAR_IA_Item_spawn_Theaetetus_a.description>
+  <HAR_IA_Item_spawn_Theaetetus_b.label>理念泰阿泰托斯 B 型</HAR_IA_Item_spawn_Theaetetus_b.label>
+  <HAR_IA_Item_spawn_Theaetetus_b.description>我们将制造生物模型“Idean Theaetetos Type B”。请注意，创建的 Ideaan 需要每季使用一次药品“Arke Cartridge”。 \n\n[个人能力]\n技能：伤害格挡结界\n技能：伤害领域部署\n技能：死刑领域部署</HAR_IA_Item_spawn_Theaetetus_b.description>
+  <HAR_IA_Item_spawn_Critias.label>焚书模型</HAR_IA_Item_spawn_Critias.label>
+  <HAR_IA_Item_spawn_Critias.description>我们将制造一个隐藏的生物模型。请注意，创建的 Ideaan 需要每季使用一次药品“Arke Cardridge”。 \n\n[个人能力]\n未知，但它让战斗变得毫无价值。</HAR_IA_Item_spawn_Critias.description>
+  <HAR_IA_M_Race_a.label>物理拟态</HAR_IA_M_Race_a.label>
+  <CSS_SummonEffect.description>闪耀的召唤魔法阵。</CSS_SummonEffect.description>
+  <HAR_IA_Things_Mysterion.label>穆斯特里恩</HAR_IA_Things_Mysterion.label>
+  <HAR_IA_Things_Mysterion.description>一台通过研究复制创意的机器。据说，这件物品曾经离开了它的创造者之手，并引发了一场巨大的灾难。</HAR_IA_Things_Mysterion.description>
+  <HAR_IA_Filth_FireFoam_a.label>埃里索斯·埃克西亚</HAR_IA_Filth_FireFoam_a.label>
+  <HAR_IA_Filth_FireFoam_a.description>这个领域充满了由 Ideaan Theaetetos B 型分散的纳米机器，进入的敌对实体会受伤并被迫大量流血。 \n破坏中央核心后或者半天后，能量场就会自然消失。</HAR_IA_Filth_FireFoam_a.description>
+  <HAR_IA_Filth_FireFoam_b.label>基亚诺斯·埃克西亚</HAR_IA_Filth_FireFoam_b.label>
+  <HAR_IA_Filth_FireFoam_b.description>这个领域充满了由 Ideaan Theaetetos B 型分散的纳米机器，进入的敌对实体会受伤并被迫大量流血。 \n破坏中央核心后或者半天后，能量场就会自然消失。</HAR_IA_Filth_FireFoam_b.description>
+</LanguageData>

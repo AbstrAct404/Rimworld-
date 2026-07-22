@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>[ZH] Neclose EX</name>
+  <author>AbstrAct404 / Chinese localization</author>
+  <packageId>abstract404.aya.3223844717.zh</packageId>
+  <description>[Aya] Neclose EX 的简体中文本地化占位包。需加载原模组。</description>
+  <supportedVersions>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Ayameduki.HARNecloseEX</packageId>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ayameduki.HARNecloseEX</li>
+  </loadAfter>
+</ModMetaData>

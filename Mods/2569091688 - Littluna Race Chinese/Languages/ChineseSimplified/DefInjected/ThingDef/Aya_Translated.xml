@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Aya_Race_Ap_C_T_a.description>一款人造的比赛儿童衬衫，由于是针对儿童的，所以性能一般。</Aya_Race_Ap_C_T_a.description>
+  <Aya_Race_Ap_C_T_a.label>儿童衬衫</Aya_Race_Ap_C_T_a.label>
+  <Aya_Race_Ap_C_T_b.description>这是一件人造儿童比赛衬衫，既然是儿童用的，那么它的性能就很一般了。</Aya_Race_Ap_C_T_b.description>
+  <Aya_Race_Ap_C_T_b.label>儿童衬衫</Aya_Race_Ap_C_T_b.label>
+  <Aya_Race_Ap_C_T_c.description>一块人工种族儿童用的布料，其性能与儿童用的一样温和。</Aya_Race_Ap_C_T_c.description>
+  <Aya_Race_Ap_C_T_d.description>人造种族的孩子们的校服，既然是给孩子们的，那么他们的表现就很一般了。</Aya_Race_Ap_C_T_d.description>
+  <Aya_Race_Ap_C_T_d.label>子供用学生服装</Aya_Race_Ap_C_T_d.label>
+  <HAR_LL_A_a.label>禁断铠甲</HAR_LL_A_a.label>
+  <HAR_LL_A_a.description>虽然这是专门为利托鲁纳打造的战甲，而且针对利托鲁纳脆弱的身体，却从未真正使用过。</HAR_LL_A_a.description>
+  <HAR_LL_O_a.description>Ritorina喜欢穿的内衣。</HAR_LL_O_a.description>
+  <HAR_LL_O_a.label>内衣A (Ritoruna)</HAR_LL_O_a.label>
+  <HAR_LL_H_a.description>小露娜专用头部装备。</HAR_LL_H_a.description>
+  <HAR_LL_H_a.label>小头带</HAR_LL_H_a.label>
+  <HAR_LL_H_b.description>小露娜专用头部装备。</HAR_LL_H_b.description>
+  <HAR_LL_H_b.label>小丝带</HAR_LL_H_b.label>
+  <HAR_LL_H_c.description>小露娜专用头部装备。</HAR_LL_H_c.description>
+  <HAR_LL_H_c.label>小皇冠</HAR_LL_H_c.label>
+  <HAR_LL_H_e.description>小露娜专用头部装备。</HAR_LL_H_e.description>
+  <HAR_LL_H_e.label>小消声器</HAR_LL_H_e.label>
+  <HAR_LL_H_f.description>虽然这是专门为利托鲁纳打造的战斗头盔，而且针对利托鲁纳脆弱的身体，却从未真正使用过。</HAR_LL_H_f.description>
+  <HAR_LL_H_f.label>禁忌头盔</HAR_LL_H_f.label>
+  <HAR_LL_S_a.description>Ritoruna 专用设备。</HAR_LL_S_a.description>
+  <HAR_LL_S_a.label>小外套</HAR_LL_S_a.label>
+  <HAR_LL_S_b.description>Ritoruna 专用设备。</HAR_LL_S_b.description>
+  <HAR_LL_S_b.label>小海角</HAR_LL_S_b.label>
+  <HAR_LL_S_c.description>Ritoruna 专用设备。</HAR_LL_S_c.description>
+  <HAR_LL_S_c.label>小斗篷</HAR_LL_S_c.label>
+  <HAR_LL_S_e.description>Ritoruna 专用设备。</HAR_LL_S_e.description>
+  <HAR_LL_S_e.label>小袍子</HAR_LL_S_e.label>
+  <HAR_LL_T_a.description>Ritoruna 专用设备。</HAR_LL_T_a.description>
+  <HAR_LL_T_a.label>小衬衫</HAR_LL_T_a.label>
+  <HAR_LL_T_b.description>Ritoruna 专用设备。</HAR_LL_T_b.description>
+  <HAR_LL_T_b.label>小衬衫</HAR_LL_T_b.label>
+  <HAR_LL_T_c.description>Ritoruna 专用设备。</HAR_LL_T_c.description>
+  <HAR_LL_T_c.label>小床单</HAR_LL_T_c.label>
+  <HAR_LL_T_e.description>Ritoruna 专用设备。</HAR_LL_T_e.description>
+  <HAR_LL_T_e.label>小西装外套</HAR_LL_T_e.label>
+  <HAR_LL_M_a.label>空海大人</HAR_LL_M_a.label>
+  <HAR_LL_M_a.description>被利托鲁纳从宇宙召唤出来的超级存在。 “空海大人”这个名字是利托鲁娜给她起的，她的真名无人知晓。 \n他拥有很高的智力，虽然外表不适合他，但气质沉稳，却无法与普通人交流。他似乎与莉托鲁娜志趣相投，对她十分友好。 \n\n他们以传授智慧、相互理解为名，向敌对势力发送无差别的心灵感应，但不知为何，那些被灌输的人却疯狂地互相残杀，结果变成了地狱。 \n即使是它的创造者也只能将其理解为“决定战斗的存在”，并且由于其极高的风险而被禁止将利托鲁纳用作武器。 \n\n\n除了当事人之外，没有人知道他们为何响应利托鲁纳的召唤，而且他们也没有说什么。 \n或者也许他通过不谈论它来保护他的盟友免受“过时的智慧”的影响。</HAR_LL_M_a.description>
+  <HAR_LL_M_z.label>小卢娜·卢克</HAR_LL_M_z.label>
+  <HAR_LL_M_z.description>与Lit Luna Rim Elishon分离的人偶。
+虽然动作迟缓，体力也没有，但只要里姆·艾利修翁还活着，身体健康，就会源源不断地不断涌现。
+
+死亡的瞬间，血肉膨胀爆炸，对周围造成伤害。
+然而，这次爆炸对里姆·艾利修翁来说却被视为自伤，穿透了防御，造成了巨大的伤害。</HAR_LL_M_z.description>
+  <HAR_LL_M_LC.label>阿波斯托洛斯</HAR_LL_M_LC.label>
+  <HAR_LL_M_LC.description>由巨型生命体创造的神秘亲属。
+它是一种危险的生物，可以快速致命地挥砍，
+尤其异常的是，只要本体残存，它就能多次再生。</HAR_LL_M_LC.description>
+  <HAR_LL_EX_Bullet_b.label>暗血</HAR_LL_EX_Bullet_b.label>
+  <HAR_LL_EX_Bullet_c.label>银色羽毛</HAR_LL_EX_Bullet_c.label>
+  <HAR_LL_EX_Bullet_d.label>米科的哭声</HAR_LL_EX_Bullet_d.label>
+  <CSS_SummonEffect.description>闪耀的召唤魔法阵。</CSS_SummonEffect.description>
+  <HAR_LL_Hive_Critias.label>莉特露娜蜂巢·克里蒂亚斯</HAR_LL_Hive_Critias.label>
+  <HAR_LL_Hive_Critias.description>潘多拉·布托斯召唤的神秘生命体。
+外壳类似于人工种族认可的超级存在，坚固无比。
+可怕的是，其内部搭载着与曾经被称为灾难的“■■■■■”相同的反应堆堆芯。
+
+正是██将在██中被释放，而██将吞噬██。
+有必要在其完全生长之前尽快进行。
+
+虽然它是一个强大的存在，但它本来就不应该在这个空间里，所以随着时间的推移它会回到原来的维度。
+
+
+
+充满难以置信、深不见底的爱的巫女的哭声，到处回响。
+
+
+哦，还没推出呢。
+但我想我会借此机会和你一起去试驾我可爱的■■。</HAR_LL_Hive_Critias.description>
+  <HAR_LL_Hive_Elysium.label>小露娜·瑞姆 艾利森</HAR_LL_Hive_Elysium.label>
+  <HAR_LL_Hive_Elysium.description>一种奇怪的 Ritoruna 形式，被 Turella Campana 称为。
+他通常会隐藏在另一个阶段，继续吸收这颗星球上的亡魂。
+据说它那可怕的身体是由数十万个砗磲组成的。
+虽然它应该是有限的存在，但它却具有不朽的特性，即使被某人的神力保护而毁灭，最终也会复活。
+
+看来深渊主宰海达诺亚正在拼命寻找它，并在牺牲无数异形的同时继续毁灭它。
+另外，根据Entelecheia的研究，Limuelishion的基因与Ritoruna Dynamis的基因非常相似。
+
+由于体型巨大，根本无法移动，但会释放出利托鲁纳·流克来与对手进行战斗。
+总共有 30 个 Litoruna Leukes。
+
+只接受射击攻击，但除​​了利托鲁纳·卢克的爆炸外，无法格挡。
+
+使半径50格内的敌人无法再生并强化身体，所以战斗时需要考虑到这些。
+如果可能的话，你可以通过呼叫增援来受到一些伤害。
+
+
+
+接触到真相并被虚空所吸引的巫女们，现在变成了傀儡，邀请她们的灵魂前往天堂。
+他们寻求净土的尽头的平静，知道他们的最终目的地是无底的空虚。
+
+
+
+你吃还是被吃，全由你决定。</HAR_LL_Hive_Elysium.description>
+  <HAR_LL_Item_a.label>伊科里托斯</HAR_LL_Item_a.label>
+  <HAR_LL_Item_a.description>从 Ritoruna Ideas Clavos 获得的血红色物质。
+		将其作为武器使用，可以获得极高的杀伤力。
+		
+		
+		它只是一个血块，不应该是活的，但出于某种原因，我情不自禁地感觉自己正在被监视。
+		眼神里充满了怜悯、蔑视，还有无尽的、空洞的怜悯。</HAR_LL_Item_a.description>
+  <HAR_LL_Archotech_a.label>混沌魔药</HAR_LL_Archotech_a.label>
+  <HAR_LL_Archotech_a.description>一杯由 Ichorritos 制成的可怕血。
+通过在Litoruna上使用它，它可以重生为Litoruna Ideas Clavos。
+然而，你需要小心，因为你作为 Litoruna 的原始个性和能力将会消失。
+
+
+通过喝下杯中收集的血液，可以达到伊迪亚斯·克拉沃斯及其前辈所认可的境界。
+然而，像他们一样真的能幸福吗？
+
+
+
+
+
+天外，天后，无底的虚空，依然在等待着愚昧的智者。</HAR_LL_Archotech_a.description>
+  <HAR_LL_Archotech_b.label>金相相思</HAR_LL_Archotech_b.label>
+  <HAR_LL_Archotech_b.description>用 Ichorritos 创造的带来灾难的哨子。
+通过吹气，它可以从平行世界召唤“属于跨星鸟的人”。
+如果你要与召唤的东西战斗，你可能需要一定程度的能力。
+
+
+
+召唤那些曾经在地球上传播灾难的人的笛子。
+不过，即将到来的母鸟已经不在这个空间了，所以邀请的只有继承了那血脉的幼鸟。</HAR_LL_Archotech_b.description>
+  <HAR_LL_Archotech_c.label>图雷拉坎帕纳</HAR_LL_Archotech_c.label>
+  <HAR_LL_Archotech_c.description>用 Ichorritos 制成的铃铛，会发出疯狂的声音。
+通过使用它，你可以给殖民地带来灾难。
+
+
+
+
+曾经属于 Ritoruna Dunamis 的钟的复制品。
+据说，如果你演奏它，女孩们真的会回来听到声音。
+无论我多么思念故乡，却再也回不到故乡了。</HAR_LL_Archotech_c.description>
+  <HAR_LL_Archotech_d.label>克里奥·斯特帕诺斯</HAR_LL_Archotech_d.label>
+  <HAR_LL_Archotech_d.description>纯白色的花冠，取自Litluna Limuelishon。
+据说，它曾经是造物主创造并赐予莉托鲁娜·迪纳米斯的一件圣宝，也是她神圣地位的证明。
+即使受到极度的污染和杂质，也没有失去丝毫的纯净。
+通过使用它，目标可以获得强大的力量。
+
+
+
+依然保持着纯洁的圣宝，但这朵花冠却成为了将其与灾难联系在一起的奇点。</HAR_LL_Archotech_d.description>
+  <HAR_LL_Archotech_e.label>潘多拉毛鱼</HAR_LL_Archotech_e.label>
+  <HAR_LL_Archotech_e.description>像是从 Ritoruna Lim Elysion 中取出的盒子一样的东西。
+当你打开它时，你感觉灾难即将爆发。
+至少不应该在有人居住的地方开放。
+
+
+据说存在于利托鲁纳·迪纳米斯体内的神秘器官。
+这个器官允许与不同维度进行更高级的交流。
+
+如果拥有这个盒子的人是明智的，他或她就不应该打开它。</HAR_LL_Archotech_e.description>
+  <HAR_LL_Archotech_f.label>诺埃斯塔夫罗斯</HAR_LL_Archotech_f.label>
+  <HAR_LL_Archotech_f.description>据说是在Ritoruna Dynamis的大脑中产生的十字形器官。
+据说它有能力从与其沟通的不同维度接收能量。
+通过使用它，目标可以获得强大的力量。
+
+
+
+接收来自宇宙外部的力量的银色十字架。
+然而，现在却变成了一个无底洞的玩具。</HAR_LL_Archotech_f.description>
+  <HAR_LL_Filth_FireFoam_a.label>梅塔诺亚</HAR_LL_Filth_FireFoam_a.label>
+</LanguageData>

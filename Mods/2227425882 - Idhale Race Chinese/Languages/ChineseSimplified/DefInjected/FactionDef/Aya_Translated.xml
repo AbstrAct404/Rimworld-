@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Idhale_P_Faction.label>伊达勒隐秘村庄</Idhale_P_Faction.label>
+  <Idhale_P_Faction.pawnSingular>伊达尔</Idhale_P_Faction.pawnSingular>
+  <Idhale_P_Faction.description>伊达尔人聚集并安静生活的村庄。</Idhale_P_Faction.description>
+  <Idhale_Faction_NPC.label>伊达勒隐秘村庄</Idhale_Faction_NPC.label>
+  <Idhale_Faction_NPC.pawnSingular>伊达尔</Idhale_Faction_NPC.pawnSingular>
+  <Idhale_Faction_NPC.description>伊达尔人聚集并安静生活的村庄。</Idhale_Faction_NPC.description>
+  <Idhale_Faction_NPC_b.description>艾德哈尔的一个派系，肩负着特定的使命。 \n通常情况下，它们不会出现，只会攻击积累了巨大资产的殖民地。</Idhale_Faction_NPC_b.description>
+  <Idhale_Faction_NPC_b.pawnSingular>伊达尔</Idhale_Faction_NPC_b.pawnSingular>
+</LanguageData>

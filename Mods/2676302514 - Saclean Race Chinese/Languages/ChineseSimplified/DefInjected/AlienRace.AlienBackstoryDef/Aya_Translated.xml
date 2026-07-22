@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_SL_Backstory_C1.description>[PAWN_nameDef] 是在 Ajin Kogyo 创建并提出的。 [PAWN_pronoun] 似乎已经学会了该领域所需的技能。</HAR_SL_Backstory_C1.description>
+  <HAR_SL_Backstory_C2.description>[PAWN_nameDef] 出生在一个小殖民地，由父母抚养长大。 [PAWN_pronoun] 作为殖民地的一员似乎学到了很多东西。</HAR_SL_Backstory_C2.description>
+  <HAR_SL_Backstory_C3.description>[PAWN_nameDef] 从出生起就是奴隶。看来 [PAWN_pronoun] 是被奴隶贩子强迫制造假货的。</HAR_SL_Backstory_C3.description>
+  <HAR_SL_Backstory_A1.description>[PAWN_nameDef] 似乎已经在 Ajin Kogyo 的一个房间里工作了很长时间。该技术也得到了相应的完善。</HAR_SL_Backstory_A1.description>
+  <HAR_SL_Backstory_A2.description>[PAWN_nameDef] 住在一个殖民地。他的能力非常出色，似乎受到了所有人的重视。</HAR_SL_Backstory_A2.description>
+  <HAR_SL_Backstory_A3.description>[PAWN_nameDef] 作为一位从不移动的艺术家而闻名。如果给他一个房间，他会继续在里面创作艺术。</HAR_SL_Backstory_A3.description>
+  <HAR_SL_Backstory_A4.description>[PAWN_nameDef]一生中有机会接触到很多知识，并且已经记忆并储存起来。</HAR_SL_Backstory_A4.description>
+</LanguageData>

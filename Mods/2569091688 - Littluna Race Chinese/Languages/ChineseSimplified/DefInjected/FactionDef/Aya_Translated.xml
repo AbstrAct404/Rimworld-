@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Littluna_P_Faction.label>小露娜的隐秘村庄</Littluna_P_Faction.label>
+  <Littluna_P_Faction.pawnSingular>里托鲁纳</Littluna_P_Faction.pawnSingular>
+  <Littluna_P_Faction.description>小露娜们聚集并安静生活的村庄。</Littluna_P_Faction.description>
+  <Littluna_Faction_NPC.description>主要由利托鲁纳人组成的稀有派系，基本上与其他种族混合。</Littluna_Faction_NPC.description>
+  <Littluna_Faction_NPC.pawnSingular>里托鲁纳</Littluna_Faction_NPC.pawnSingular>
+  <Littluna_Faction_NPC_b.label>疯狂的女孩</Littluna_Faction_NPC_b.label>
+  <Littluna_Faction_NPC_b.description>理托鲁纳的敌对派系，理应实力较弱。永远不要靠近。</Littluna_Faction_NPC_b.description>
+  <Littluna_Faction_NPC_b.pawnSingular>里托鲁纳</Littluna_Faction_NPC_b.pawnSingular>
+</LanguageData>

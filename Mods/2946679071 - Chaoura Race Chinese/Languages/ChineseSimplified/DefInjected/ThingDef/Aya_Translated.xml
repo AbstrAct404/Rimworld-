@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Aya_Race_Ap_C_T_a.description>一款人造的比赛儿童衬衫，由于是针对儿童的，所以性能一般。</Aya_Race_Ap_C_T_a.description>
+  <Aya_Race_Ap_C_T_a.label>儿童衬衫</Aya_Race_Ap_C_T_a.label>
+  <Aya_Race_Ap_C_T_b.description>这是一件人造儿童比赛衬衫，既然是儿童用的，那么它的性能就很一般了。</Aya_Race_Ap_C_T_b.description>
+  <Aya_Race_Ap_C_T_b.label>儿童衬衫</Aya_Race_Ap_C_T_b.label>
+  <Aya_Race_Ap_C_T_c.description>一块人工种族儿童用的布料，其性能与儿童用的一样温和。</Aya_Race_Ap_C_T_c.description>
+  <Aya_Race_Ap_C_T_d.description>人造种族的孩子们的校服，既然是给孩子们的，那么他们的表现就很一般了。</Aya_Race_Ap_C_T_d.description>
+  <Aya_Race_Ap_C_T_d.label>子供用学生服装</Aya_Race_Ap_C_T_d.label>
+  <HAR_CO_Apparel_Head_a.description>献给凯奥拉的丝带，它失去了反物质装甲，作为应对潜伏在凯奥拉阴影中的力量的补偿。</HAR_CO_Apparel_Head_a.description>
+  <HAR_CO_Apparel_Head_a.label>斯基亚丝带</HAR_CO_Apparel_Head_a.label>
+  <HAR_CO_Apparel_Head_b.description>它有专门为凯奥拉设计的兜帽，并且失去了反物质装甲，作为应对潜伏在凯奥拉阴影中的力量的补偿。</HAR_CO_Apparel_Head_b.description>
+  <HAR_CO_Apparel_Head_b.label>斯基亚引擎盖</HAR_CO_Apparel_Head_b.label>
+  <HAR_CO_Apparel_Head_c.description>凯奥拉专用的头盔，创世者时代主要活跃于侦察和暗杀活动的凯奥拉佩戴的头盔。 \n虽然没有物理护甲，但有增加闪避和移动的效果。</HAR_CO_Apparel_Head_c.description>
+  <HAR_CO_Apparel_Head_c.label>滑雪头盔</HAR_CO_Apparel_Head_c.label>
+  <HAR_CO_Apparel_Shell_a.description>凯奥拉专用的斗篷，作为对付潜伏在凯奥拉阴影中的力量的补偿，它失去了反物质装甲。</HAR_CO_Apparel_Shell_a.description>
+  <HAR_CO_Apparel_Shell_a.label>斯基亚·福尔曼</HAR_CO_Apparel_Shell_a.label>
+  <HAR_CO_Apparel_Tops_a.description>这是凯奥拉专用的服装，作为对潜伏在凯奥拉阴影中的力量的补偿，它失去了反物质装甲。</HAR_CO_Apparel_Tops_a.description>
+  <HAR_CO_Apparel_Tops_a.label>滑雪服A</HAR_CO_Apparel_Tops_a.label>
+  <HAR_CO_Apparel_Tops_b.description>这是凯奥拉专用的服装，作为对潜伏在凯奥拉阴影中的力量的补偿，它失去了反物质装甲。</HAR_CO_Apparel_Tops_b.description>
+  <HAR_CO_Apparel_Tops_b.label>滑雪服B</HAR_CO_Apparel_Tops_b.label>
+  <HAR_CO_Apparel_Tops_c.description>这是凯奥拉专用的服装，作为对潜伏在凯奥拉阴影中的力量的补偿，它失去了反物质装甲。</HAR_CO_Apparel_Tops_c.description>
+  <HAR_CO_Apparel_Tops_c.label>斯基亚韦尔C</HAR_CO_Apparel_Tops_c.label>
+  <HAR_CO_Apparel_Tops_z.description>Keiora Avarzion 的白色连衣裙。
+它具有一定的耐用性，但除了耐热之外没有其他抵抗力。
+然而，阿瓦锡安可能不需要盔甲。</HAR_CO_Apparel_Tops_z.description>
+  <HAR_CO_Apparel_Tops_z.label>恶意软件</HAR_CO_Apparel_Tops_z.label>
+  <HAR_CO_NPC_Race_a.label>伊芙·德拉万</HAR_CO_NPC_Race_a.label>
+  <HAR_CO_NPC_Race_a.description>凯奥拉·阿瓦尔齐翁的后裔。
+速度慢，没有耐久度，但过一段时间就会爆炸。</HAR_CO_NPC_Race_a.description>
+  <HAR_CO_UB_Bullet_a.label>沙马伊姆·海莱夫</HAR_CO_UB_Bullet_a.label>
+  <HAR_CO_UB_Bullet_b.label>阿科尔沙维特</HAR_CO_UB_Bullet_b.label>
+  <HAR_CO_UB_Bullet_c.label>阿科尔沙维特</HAR_CO_UB_Bullet_c.label>
+  <HAR_CO_UB_Item_a.label>阿兹尔特维尔</HAR_CO_UB_Item_a.label>
+  <HAR_CO_UB_Item_a.description>Keiora Avarzion 掉落的超级物质。
+这是一种来自深渊或者天堂的金属，完全背离了这个世界的法则。
+如果作为武器使用，可以轻松掌控偏远星球。
+
+……不过，处理难度也是前所未有的。
+除非你是拥有神功的工程师，否则很难控制这一点。
+
+
+一种超级物质，其原型是Zohareven，一种曾经由造物主创造的金属。
+姑娘们接手了中途完成的工作，目前正在继续更新。
+据说美丽的白色表面反射出已故巫女光环的光芒。</HAR_CO_UB_Item_a.description>
+  <HAR_CO_UB_Archotech_a.label>塞费尔哈宗</HAR_CO_UB_Archotech_a.label>
+  <HAR_CO_UB_Archotech_a.description>一本密封严密的书。
+据说打开后就会出现“偏离理智的人”。
+据说原作是在监狱星球梅拉夫上。
+
+
+如果你愿意敞开心扉，就做好思考的准备。
+
+
+“你确定吗？是的，我会告诉我的人如何制作。
+对天国和教会保持沉默很痛苦，但我相信你的选择。
+　
+我仍然看不到你，但也许有一天我会见到你。
+不过……那个时候，我们很可能会成为敌人。”</HAR_CO_UB_Archotech_a.description>
+  <HAR_CO_UB_Archotech_b.label>鲁阿维里特</HAR_CO_UB_Archotech_b.label>
+  <HAR_CO_UB_Archotech_b.description>充满生命的神圣水晶。
+当使用时，某个存在会成为你的朋友。</HAR_CO_UB_Archotech_b.description>
+  <CSS_SummonEffect.description>闪耀的召唤魔法阵。</CSS_SummonEffect.description>
+  <HAR_CO_Weapon_a.label>鬼礼剑</HAR_CO_Weapon_a.label>
+  <HAR_CO_Weapon_a.description>据说是凯奥拉独有的神器，不仅可以在战斗中使用，也可以在仪式中使用。 \n威力本身很低，但影子却能刺穿铠甲的缝隙，所以就好像对方的铠甲不存在一样。 \n通过砍击敌人，你可以人为地造成深渊侵蚀。</HAR_CO_Weapon_a.description>
+  <HAR_CO_Weapon_b.description>凯奥拉独有的武器。 \n属于巨剑范畴，威力与外表相称。 \n据说是用来对付那些不受深渊喷发之类影响的对手。</HAR_CO_Weapon_b.description>
+  <HAR_CO_Weapon_c.description>凯奥拉独有的武器。 \n虽然是一把大剑，但挥舞速度很快，招式也很出色。 \n据说是用来对付那些不受深渊喷发之类影响的对手。</HAR_CO_Weapon_c.description>
+  <HAR_CO_Weapon_UB.label>恩索夫猫头鹰</HAR_CO_Weapon_UB.label>
+  <HAR_CO_Weapon_UB.description>Keiora Avarzion 拥有的一把巨剑。
+从材料到制造过程，一切都笼罩在神秘之中。
+
+这是以原型巫女曾经使用过的圣剑为原型的武器，但其性能却远胜于其他武器。
+据说一旦挥舞，周围的敌人就会被撕成碎片，瞬间化作一座尸山。
+不过，既然是异世之剑，也只有同样没有理智的人才能使用。
+
+
+一把尚未完成的灵剑，由集体武魂艾芙耶谢尔等人所创造。
+不过，即便有这样的武器，也远远无法砍倒虚拟敌人■■■。
+尽管如此，女孩们仍然继续训练她们的剑，相信有一天她们能够击败他们。</HAR_CO_Weapon_UB.description>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Chaoura_P_Faction.label>凯奥拉的隐秘村庄</Chaoura_P_Faction.label>
+  <Chaoura_P_Faction.pawnSingular>凯奥拉</Chaoura_P_Faction.pawnSingular>
+  <Chaoura_P_Faction.description>凯奥拉聚集并安静生活的村庄。</Chaoura_P_Faction.description>
+  <Chaoura_Faction_NPC.description>以暗杀为生的凯奥拉派系的根据地似乎隐藏得很好，无法被发现。 \n他主要接受针对快速增长的派系和大型殖民地的突袭请求。</Chaoura_Faction_NPC.description>
+  <Chaoura_Faction_NPC.pawnSingular>凯奥拉</Chaoura_Faction_NPC.pawnSingular>
+  <Chaoura_Faction_NPC_b.label>菲耶贝壳</Chaoura_Faction_NPC_b.label>
+  <Chaoura_Faction_NPC_b.description>显然，这是凯奥拉的一个派系，有着名为“幽冥界”的宗教概念。</Chaoura_Faction_NPC_b.description>
+  <Chaoura_Faction_NPC_b.pawnSingular>阿瓦济翁</Chaoura_Faction_NPC_b.pawnSingular>
+</LanguageData>

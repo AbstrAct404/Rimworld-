@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_CO_Hediff_a.description>是启光环所佩戴的宇宙暗影辅助器官，在完全黑暗的情况下，身体会被激活，身体能力会提升，并且会使射击无效。
+作为补偿，如果您处于阳光强烈的地方，它就会变得不活跃并减慢速度。</HAR_CO_Hediff_a.description>
+  <HAR_CO_Hediff_b.description>是启光环所佩戴的宇宙暗影辅助器官，在完全黑暗的情况下，身体会被激活，身体能力会提升，并且会使射击无效。
+作为补偿，如果您处于阳光强烈的地方，它就会变得不活跃并减慢速度。</HAR_CO_Hediff_b.description>
+  <HAR_CO_Hediff_c.label>深渊</HAR_CO_Hediff_c.label>
+  <HAR_CO_Hediff_c.description>当受到对 Kei Aura 的敌对物理干扰时发生的现象。 \n深渊侵蚀会导致“肿胀”并逐渐降低身体能力。由于肿胀只发生在生物体部分，因此对机械生命体没有影响。 \n\n如果凯奥拉的干扰停止，深渊侵蚀本身会在一段时间后完全愈合。</HAR_CO_Hediff_c.description>
+  <HAR_CO_Hediff_d.label>头晕肿胀</HAR_CO_Hediff_d.label>
+  <HAR_CO_Hediff_d.labelNoun>头晕肿胀</HAR_CO_Hediff_d.labelNoun>
+  <HAR_CO_Hediff_d.description>深渊侵蚀造成的黑色肿胀，让他的身体能力略有下降。 \n甜味发生在身体各个部位和内脏，当它扩散到全身时，就变得难以发挥作用。 \n半天后症状就会完全痊愈。</HAR_CO_Hediff_d.description>
+  <HAR_CO_Hediff_f.label>永恒的黑暗</HAR_CO_Hediff_f.label>
+  <HAR_CO_Hediff_f.description>当你接近它时，它会出现仿佛附着在 Kei Aura 上的神秘阴影。正常情况下不会出现任何症状，但如果你在黑暗中下去，就会出现症状，如果这种状态持续2小时，你就会受到即时死亡伤害。 \n离开Kei Aura后半天就会消失。</HAR_CO_Hediff_f.description>
+  <HAR_CO_Hediff_g.label>复仇</HAR_CO_Hediff_g.label>
+  <HAR_CO_Hediff_g.description>您追击向您射击的敌人的状态。然而，你一定是在黑暗中。 \n半天后取消。</HAR_CO_Hediff_g.description>
+  <HAR_CO_Hediff_h.label>血狂</HAR_CO_Hediff_h.label>
+  <HAR_CO_Hediff_h.description>被沾有凯奥拉鲜血的影子砍伤的状态。 \n你将被迫大量流血，但如果你呆在黑暗中，附着在你身上的血液就会溢出并造成进一步的伤害。 \n几个小时后将被取消。</HAR_CO_Hediff_h.description>
+  <Chaoura_Artificial.label>人工种族</Chaoura_Artificial.label>
+  <Chaoura_Artificial.description>凯奥拉是一个人工创造的种族，擅长虚数和黑暗活动。 \n虽然他本来就拥有很高的精神力，但通过操纵体内的阴影，即使受伤也能控制出血。 \n\n他们的实力由个人的气场等级决定，大约一年左右就会提升1级（等级上限为5级）。</Chaoura_Artificial.description>
+  <Chaoura_Artificial_z.label>人工霊長种族</Chaoura_Artificial_z.label>
+  <Chaoura_Artificial_z.description>凯奥拉·阿瓦尔吉安是伊什穆特的顶峰，它超越了人工种族的界限。
+难道它们还不是从生物学角度可以估量的生物吗？他们不需要任何生存的欲望。
+
+
+一种超越天空的新生命形式，拥有接近其创造者的先进智慧和技术。
+他们心中怀揣着伟大的使命，继续向着更高的高度飞翔。</Chaoura_Artificial_z.description>
+  <HAR_CO_UB_Hediff_Promise.label>旧约</HAR_CO_UB_Hediff_Promise.label>
+  <HAR_CO_UB_Hediff_Clone.description>凯奥拉·阿瓦尔吉翁召唤的平行存在。
+他作为阿瓦锡安的盟友而战。
+
+由于他们是暂时存在于这个世界上的，所以经过一定时间或者死亡后，他们就会回到原来的世界。</HAR_CO_UB_Hediff_Clone.description>
+  <HAR_CO_UB_Hediff_EX_Penalty.label>那个灵魂不可能成为灵长类动物。</HAR_CO_UB_Hediff_EX_Penalty.label>
+  <HAR_CO_UB_Hediff_EX_Penalty.description>当 Keiora Avarzion 以外的人装备 Ensofawur 时会受到处罚。
+
+这种处罚会持续数年。
+
+生命每天都在继续发展。
+顶端的灵长类动物多年来也发生了变化。
+在人们开始遨游太空的时代，
+依赖物质容器的生活可能已经过时了。</HAR_CO_UB_Hediff_EX_Penalty.description>
+  <HAR_CO_UB_Hediff_Limit.description>它显示了 Keiora Avarzion 存在的极限。
+正常情况下是无敌的，但是达到100%的时候，无敌就会被取消。
+
+对于集体精神 Ehuyeasher 来说，Avarzion 只不过是他在这个世界上活动的容器。
+由于容器本身超越了物理定律，因此不存在死亡的概念。
+然而，与灵魂不同的是，容器并不是完全不朽的，
+如果继续受到过多的攻击，阿瓦尔吉安的无敌最终将崩溃。
+如果你在那种状态下死亡，你的身体就会立刻消失。</HAR_CO_UB_Hediff_Limit.description>
+</LanguageData>

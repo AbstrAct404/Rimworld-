@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>[ZH] Idearn Race</name>
+  <author>AbstrAct404 / Chinese localization</author>
+  <packageId>abstract404.aya.2871413100.zh</packageId>
+  <description>[Aya] Idearn Race 的简体中文本地化。
+需加载原模组；本模组仅含翻译文件，不包含原模组资源。</description>
+  <supportedVersions>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Ayameduki.HARIdearn</packageId>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ayameduki.HARIdearn</li>
+  </loadAfter>
+</ModMetaData>

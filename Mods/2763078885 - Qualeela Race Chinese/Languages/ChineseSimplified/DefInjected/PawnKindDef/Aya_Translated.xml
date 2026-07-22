@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_M_Kind_a.label>米特拉·玛拉哈（夜魔）</HAR_M_Kind_a.label>
+  <HAR_M_Kind_NPC_a.label>米特拉·玛拉哈（夜魔）</HAR_M_Kind_NPC_a.label>
+  <HAR_M_Kind_b.label>米特拉·玛拉哈（美人鱼）</HAR_M_Kind_b.label>
+  <HAR_M_Kind_NPC_b.label>米特拉·玛拉哈（美人鱼）</HAR_M_Kind_NPC_b.label>
+  <HAR_M_Kind_c.label>米特拉玛·阿哈（亚金）</HAR_M_Kind_c.label>
+  <HAR_M_Kind_NPC_c.label>米特拉玛·阿哈（亚金）</HAR_M_Kind_NPC_c.label>
+  <HAR_M_Kind_d.label>米特拉·马拉哈（各种形式）</HAR_M_Kind_d.label>
+  <HAR_M_Kind_NPC_d.label>米特拉·马拉哈（各种形式）</HAR_M_Kind_NPC_d.label>
+  <HAR_M_Kind_e.label>密特拉玛拉哈（龙人）</HAR_M_Kind_e.label>
+  <HAR_M_Kind_NPC_e.label>密特拉玛拉哈（龙人）</HAR_M_Kind_NPC_e.label>
+  <HAR_Qualeela_NPC_Trader_b.label>夸里拉商人</HAR_Qualeela_NPC_Trader_b.label>
+  <HAR_Qualeela_NPC_Leader_b.label>夸里拉的王室</HAR_Qualeela_NPC_Leader_b.label>
+  <HAR_Qualeela_NPC_Resident_b.label>夸里拉的士兵</HAR_Qualeela_NPC_Resident_b.label>
+</LanguageData>

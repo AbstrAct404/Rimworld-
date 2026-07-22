@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Aya_Race_Ap_C_T_a.description>一款人造的比赛儿童衬衫，由于是针对儿童的，所以性能一般。</Aya_Race_Ap_C_T_a.description>
+  <Aya_Race_Ap_C_T_a.label>儿童衬衫</Aya_Race_Ap_C_T_a.label>
+  <Aya_Race_Ap_C_T_b.description>这是一件人造儿童比赛衬衫，既然是儿童用的，那么它的性能就很一般了。</Aya_Race_Ap_C_T_b.description>
+  <Aya_Race_Ap_C_T_b.label>儿童衬衫</Aya_Race_Ap_C_T_b.label>
+  <Aya_Race_Ap_C_T_c.description>一块人工种族儿童用的布料，其性能与儿童用的一样温和。</Aya_Race_Ap_C_T_c.description>
+  <Aya_Race_Ap_C_T_d.description>人造种族的孩子们的校服，既然是给孩子们的，那么他们的表现就很一般了。</Aya_Race_Ap_C_T_d.description>
+  <Aya_Race_Ap_C_T_d.label>子供用学生服装</Aya_Race_Ap_C_T_d.label>
+  <HAR_IH_AO_a.description>Idhale 的内衣比原版 Near Mer 的内衣更下流。</HAR_IH_AO_a.description>
+  <HAR_IH_AO_a.label>内衣A（爱多哈尔）</HAR_IH_AO_a.label>
+  <HAR_IH_AS_a.description>斗篷让人想起死神，但能力本身并不是那么强大。</HAR_IH_AS_a.description>
+  <HAR_IH_AS_a.label>幽灵斗篷（伊德哈尔）</HAR_IH_AS_a.label>
+  <HAR_IH_AT_a.description>为艾德哈尔定制的衣服，由于精神转变的影响，衣服的边缘已经破烂不堪。</HAR_IH_AT_a.description>
+  <HAR_IH_AT_a.label>幽灵衬衫（Idhale）</HAR_IH_AT_a.label>
+  <HAR_IH_AT_b.description>死者穿的衣服有降低敏感度的效果，可以克服伊达尔的弱点。</HAR_IH_AT_b.description>
+  <HAR_IH_AT_b.label>死亡服装（伊德哈尔）</HAR_IH_AT_b.label>
+  <HAR_IH_AT_c.description>原本是一件看起来很奢华的衣服，本来是贵族才会穿的，但由于化灵的影响，边缘已经开始崩裂。您可以获得对毒物和疾病的一定抵抗力。</HAR_IH_AT_c.description>
+  <HAR_IH_AT_c.label>幽灵礼服（伊德哈尔）</HAR_IH_AT_c.label>
+  <HAR_IH_AT_d.description>艾德哈尔的护士服不知为什么沾满了血，但似乎增加了医疗效果。</HAR_IH_AT_d.description>
+  <HAR_IH_AT_d.label>幽灵护士制服（Idhale）</HAR_IH_AT_d.label>
+  <HAR_IH_AT_e.description>伊达尔尔以前穿的奴隶衣服也起到了束缚的作用，不过顺便说一下，他并不是被迫穿的，而是自愿穿的。以速度变慢为代价，某些任务变得更快。</HAR_IH_AT_e.description>
+  <HAR_IH_AT_e.label>鬼奴套装（艾德哈尔）</HAR_IH_AT_e.label>
+  <HAR_IH_AT_z.description>为Idoher Avonruach定制的衣服，但似乎没有什么特殊效果。</HAR_IH_AT_z.description>
+  <HAR_IH_AT_z.label>阿卡西穿</HAR_IH_AT_z.label>
+  <HAR_IH_NPC_Race_a.label>拉哈谢拉</HAR_IH_NPC_Race_a.label>
+  <HAR_IH_NPC_Race_a.description>伊多赫尔·阿冯鲁赫 (Idoher Avonruach) 的后裔。 \n本体本身性能较差，但在一定时间后会引起大爆炸，将本体和周围环境都摧毁。</HAR_IH_NPC_Race_a.description>
+  <HAR_IH_NPC_Race_b.label>加多尔傀儡</HAR_IH_NPC_Race_b.label>
+  <HAR_IH_NPC_Race_b.description>伊多赫尔·阿冯鲁赫 (Idoher Avonruach) 的后裔。 \n。受到攻击时，利用坚固的身体移动，用锋利的手臂粉碎对手的神圣傀儡。 \n召唤的加多尔傀儡一天后就会消失。</HAR_IH_NPC_Race_b.description>
+  <HAR_IH_Bullet_a.label>哈维尔列夫</HAR_IH_Bullet_a.label>
+  <HAR_IH_Bullet_b.label>乳腺</HAR_IH_Bullet_b.label>
+  <HAR_IH_Item_a.label>佐哈尔·埃文</HAR_IH_Item_a.label>
+  <HAR_IH_Item_a.description>一种模仿其创造者曾经发现的高等生物外壳的物质。
+		在人工种族中，仅用于Idheir Avonruach的外壳。
+		
+		尽管它很难处理，但用作材料时其性能非常出色。
+		它像羽毛一样轻，但又比羽毛硬。
+		它对于需要大量砍杀的敌人特别有效。
+		
+		
+		据说，它像天空一样闪闪发光的蓝色是这只鸟最后看到的东西。</HAR_IH_Item_a.description>
+  <HAR_IH_Archotech_a.label>沙马因·马赫蒂夫</HAR_IH_Archotech_a.label>
+  <HAR_IH_Archotech_a.description>创建者留下的天蓝色钥匙，以便第三方可以与 Avonruach 签订合同。 \n通过使用它，你可以召唤 Idheir Avonruach 成为你的同伴。</HAR_IH_Archotech_a.description>
+</LanguageData>

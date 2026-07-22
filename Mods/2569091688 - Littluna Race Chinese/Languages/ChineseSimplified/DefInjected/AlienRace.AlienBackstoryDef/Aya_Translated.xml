@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_LL_Backstory_C1.description>[PAWN_nameDef] 被███ 出自███ 之手。 [PAWN_pronoun] 不知道■■。 \n\n\n如果你能好好照顾我，我会很高兴！</HAR_LL_Backstory_C1.description>
+  <HAR_LL_Backstory_A1.description>【PAWN_nameDef】利用自己的美貌，被分配到了一个招待客人的销售岗位，虽然获得了社交能力和交际能力，但最终却并不擅长打工。</HAR_LL_Backstory_A1.description>
+  <HAR_LL_Backstory_A2.description>[PAWN_nameDef]意外地发现了他作为建筑师的天赋，但他对正确和精确的渴望让他与野生动物格格不入。</HAR_LL_Backstory_A2.description>
+  <HAR_LL_Backstory_A3.description>[PAWN_nameDef] 擅长射击远处的物体，并且可以使用弓或枪轻松做到这一点。</HAR_LL_Backstory_A3.description>
+  <HAR_LL_Backstory_A4.description>[PAWN_nameDef]可以轻松处理他获得的东西，而且他似乎并不介意互相残杀。</HAR_LL_Backstory_A4.description>
+  <HAR_LL_Backstory_A5.description>[PAWN_nameDef]凭借积累的想法和磨练的绘画技巧作为一名活跃的设计师。</HAR_LL_Backstory_A5.description>
+  <HAR_LL_Backstory_A6.description>[PAWN_nameDef] 比与人互动更喜欢挖洞，而且他今天可能仍在挥舞着冰镐寻找矿石。</HAR_LL_Backstory_A6.description>
+  <HAR_LL_Backstory_A7.description>[PAWN_nameDef]是一名侍奉名流的女仆，并且可能是一位烹饪专家。</HAR_LL_Backstory_A7.description>
+  <HAR_LL_Backstory_A8.description>[PAWN_nameDef]是一位创作了很多作品的艺术家，他创作的作品取决于他当时的感性。</HAR_LL_Backstory_A8.description>
+  <HAR_LL_Backstory_A9.description>[PAWN_nameDef]是一位教授，他写的论文充满了邪恶的想法，令人惊讶的是，他似乎被高度评价为一个不能被嘲笑的人。</HAR_LL_Backstory_A9.description>
+  <HAR_LL_Backstory_A10.description>[PAWN_nameDef]是一个随处可见的城镇女孩，但似乎因为她的外表而在异性中拥有良好的声誉。</HAR_LL_Backstory_A10.description>
+  <HAR_LL_Backstory_A11.description>[PAWN_nameDef]是一名驯兽师，梦想驯服全世界的野兽，但要小心大自然的奇观。</HAR_LL_Backstory_A11.description>
+  <HAR_LL_Backstory_A12.description>[PAWN_nameDef] 是一名医疗技术精湛的护士，我很欣赏他有时会犯错误。</HAR_LL_Backstory_A12.description>
+  <HAR_LL_Backstory_Z_C1.description>[PAWN_nameDef] 生来就比普通的 Ritoruna 拥有更多的知识。看来他光是看着星星就学到了很多东西。</HAR_LL_Backstory_Z_C1.description>
+  <HAR_LL_Backstory_Z_A1.description>[PAWN_nameDef] 作为 Seishin 的巫女取得了巨大的成功。那个座位已经不再属于一个人，他似乎唯一能做的就是发疯。</HAR_LL_Backstory_Z_A1.description>
+  <HAR_LL_Backstory_M_C1.description>[PAWN_nameDef] 是 Lytoruna Dynamis 的复制品，他在人造种族的诞生地迦南星球上被视为神圣的孩子而受到崇拜。</HAR_LL_Backstory_M_C1.description>
+  <HAR_LL_Backstory_M_A1.description>[PAWN_nameDef] 作为一名巫女取得了巨大的成功。你可以和很多人交流</HAR_LL_Backstory_M_A1.description>
+</LanguageData>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Aya_Race_Ap_NC_C_T_a.description>人工种族的儿童深色服装。由于它是儿童用的，因此其性能适中。</Aya_Race_Ap_NC_C_T_a.description>
+  <Aya_Race_Ap_NC_C_T_a.label>儿童深色服装</Aya_Race_Ap_NC_C_T_a.label>
+  <HAR_NC_Armor_a.label>疯狂盔甲（耐用）</HAR_NC_Armor_a.label>
+  <HAR_NC_Armor_a.description>这件铠甲是Necros独有的，专注于如何接近对手并感染他们。最初是在其创造者手下作为战斗人员时使用的战斗服。</HAR_NC_Armor_a.description>
+  <HAR_NC_Armor_b.label>狂人铠甲（突击型）</HAR_NC_Armor_b.label>
+  <HAR_NC_Armor_b.description>这件铠甲是Necros独有的，专注于如何接近对手并感染他们。最初是在其创造者手下作为战斗人员时使用的战斗服。</HAR_NC_Armor_b.description>
+  <HAR_NC_Armor_c.label>狂人铠甲（标准型）</HAR_NC_Armor_c.label>
+  <HAR_NC_Armor_c.description>这件铠甲是Necros独有的，专注于如何接近对手并感染他们。最初是在其创造者手下作为战斗人员时使用的战斗服。</HAR_NC_Armor_c.description>
+  <HAR_NC_Armor_z.label>埃莱蒂科斯装甲</HAR_NC_Armor_z.label>
+  <HAR_NC_Armor_z.description>Necros Utisphonia 独有的盔甲。 \n它看起来有点让人想起太空服。</HAR_NC_Armor_z.description>
+  <HAR_NC_Heads_a.description>贵族所戴的王冠。</HAR_NC_Heads_a.description>
+  <HAR_NC_Heads_a.label>皇冠（死灵）</HAR_NC_Heads_a.label>
+  <HAR_NC_Heads_b.description>Necros的特殊头盔专注于如何接近对手并感染他们。它最初是在其创造者手下作为战士时使用的头盔。</HAR_NC_Heads_b.description>
+  <HAR_NC_Heads_b.label>疯狂的头盔</HAR_NC_Heads_b.label>
+  <HAR_NC_Heads_c.description>死灵专用的头带，大概是因为死灵的活体而被迫进行近战，所以耐久度有所提高。</HAR_NC_Heads_c.description>
+  <HAR_NC_Heads_c.label>头带（死灵）</HAR_NC_Heads_c.label>
+  <HAR_NC_Heads_d.description>死灵专用的头带，大概是因为死灵的活体而被迫进行近战，所以耐久度有所提高。</HAR_NC_Heads_d.description>
+  <HAR_NC_Heads_d.label>丝带（死灵）</HAR_NC_Heads_d.label>
+  <HAR_NC_Heads_e.description>死灵专用的头带，大概是因为死灵的活体而被迫进行近战，所以耐久度有所提高。</HAR_NC_Heads_e.description>
+  <HAR_NC_Heads_e.label>花朵装饰（死灵）</HAR_NC_Heads_e.label>
+  <HAR_NC_Heads_z.description>Necros Utisphonia 专用的头盔。 \n它看起来有点让人想起太空服。</HAR_NC_Heads_z.description>
+  <HAR_NC_Heads_z.label>埃莱蒂科斯头盔</HAR_NC_Heads_z.label>
+  <HAR_NC_Shell_a.description>死灵和其他人将它当作刀片使用并防弹。结合自身的身体能力，他们拥有着不容小觑的实力。</HAR_NC_Shell_a.description>
+  <HAR_NC_Shell_a.label>斗篷（死灵）</HAR_NC_Shell_a.label>
+  <HAR_NC_Shell_b.description>死灵和其他人将它当作刀片使用并防弹。结合自身的身体能力，他们拥有着不容小觑的实力。</HAR_NC_Shell_b.description>
+  <HAR_NC_Shell_b.label>外套（死灵）</HAR_NC_Shell_b.label>
+  <HAR_NC_Shell_c.description>死灵和其他人将它当作刀片使用并防弹。结合自身的身体能力，他们拥有着不容小觑的实力。</HAR_NC_Shell_c.description>
+  <HAR_NC_Shell_c.label>掸子（死灵）</HAR_NC_Shell_c.label>
+  <HAR_NC_Tops_a.description>死灵衣服，由于身体结构而容易移动的衣服，就像泳衣一样好。</HAR_NC_Tops_a.description>
+  <HAR_NC_Tops_a.label>暗器A（死灵）</HAR_NC_Tops_a.label>
+  <HAR_NC_Tops_b.description>死灵衣服，由于身体结构而容易移动的衣服，就像泳衣一样好。</HAR_NC_Tops_b.description>
+  <HAR_NC_Tops_b.label>暗器 B（死灵）</HAR_NC_Tops_b.label>
+  <HAR_NC_Tops_c.description>死灵衣服，由于身体结构而容易移动的衣服，就像泳衣一样好。</HAR_NC_Tops_c.description>
+  <HAR_NC_Tops_c.label>暗器 C（死灵）</HAR_NC_Tops_c.label>
+  <HAR_NC_Tops_z.description>Necros Utisphonia 专用的衣服。 \n以他们的体能，就算衣服只是内衣也能活下来。</HAR_NC_Tops_z.description>
+  <HAR_NC_Tops_z.label>埃莱蒂科磨损</HAR_NC_Tops_z.label>
+  <HAR_NC_Item_a.label>血色蜂蜜酒</HAR_NC_Item_a.label>
+  <HAR_NC_Item_a.description>一种含有浑浊的红色蜂蜜的蜂蜜酒。
+某个工匠突然受到启发而创作的神秘作品。
+据说如果使用它会发生非常糟糕的事情。
+
+
+据说是信奉邪神的狂热分子用来与某种存在进行交流的。
+然而敌情难解，狂热分子惨遭杀害。
+如果持有此物的人是明智的，他们绝对不应该打开封印。
+
+
+
+“我为什么要做这样的事情？自从我遇到这个之后，我就对自己失去了信心。请有人帮助我，停止这种无休止的窃窃私语。我的梦想充满了噩梦。”</HAR_NC_Item_a.description>
+  <HAR_NC_Material_a.label>一块丑陋的肉</HAR_NC_Material_a.label>
+  <HAR_NC_Material_a.description>从 Necros Utisphonia 中回收的一块肉。
+即使经过一段时间，它仍然保持原始状态并散发热量。
+
+他们似乎有聚集在一处的习惯，所以如果你把他们聚集在一起，团结起来，说不定就能创造出什么东西来。</HAR_NC_Material_a.description>
+  <HAR_NC_Spawn_a.label>样品：XSE023</HAR_NC_Spawn_a.label>
+  <HAR_NC_Spawn_a.description>一个与人造种族的创造者曾经保存的样本非常相似的物体。
+它看起来就像是一个扭曲的胎儿，而且还在诡异地扭动着。
+如果你在某个比赛中使用它，可能会发生一些事情。
+
+
+来自与人造种族起源不同的外宇宙的超级生命的胎儿。
+他们是远方的同胞，也是亲近的同胞。</HAR_NC_Spawn_a.description>
+  <CSS_SummonEffect.description>闪耀的召唤魔法阵。</CSS_SummonEffect.description>
+</LanguageData>

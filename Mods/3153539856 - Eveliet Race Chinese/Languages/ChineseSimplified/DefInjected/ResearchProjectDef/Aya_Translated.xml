@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_EL_Research_A.label>伊夫里特研究：“传统”</HAR_EL_Research_A.label>
+  <HAR_EL_Research_A.description>对幻影人工种族“伊夫利特”进行研究。</HAR_EL_Research_A.description>
+  <HAR_EL_Research_B.label>伊夫里特研究：“收藏”</HAR_EL_Research_B.label>
+  <HAR_EL_Research_B.description>对幻影人工种族“伊夫利特”进行研究。</HAR_EL_Research_B.description>
+  <HAR_EL_Research_C.label>伊夫里特研究：“分析”</HAR_EL_Research_C.label>
+  <HAR_EL_Research_C.description>对幻影人工种族“伊夫利特”进行研究。</HAR_EL_Research_C.description>
+  <HAR_EL_Research_D.label>伊夫里特研究：“编辑”</HAR_EL_Research_D.label>
+  <HAR_EL_Research_D.description>对幻影人工种族“伊夫利特”进行研究。</HAR_EL_Research_D.description>
+  <HAR_EL_Research_E.label>伊夫里特研究：“恢复”</HAR_EL_Research_E.label>
+  <HAR_EL_Research_E.description>对幻影人工种族“伊夫利特”进行研究。</HAR_EL_Research_E.description>
+  <HAR_EL_Research_Weapon_A.label>伊夫里特研究：“神圣的宝藏”</HAR_EL_Research_Weapon_A.label>
+  <HAR_EL_Research_Weapon_A.description>对幻影人工种族“伊夫利特”进行研究。</HAR_EL_Research_Weapon_A.description>
+  <HAR_EL_Research_Apparel_A.label>伊夫里特研究：“圣痕”</HAR_EL_Research_Apparel_A.label>
+  <HAR_EL_Research_Apparel_A.description>对幻影人工种族“伊夫利特”进行研究。</HAR_EL_Research_Apparel_A.description>
+  <HAR_EL_Research_MIKO_A.label>新文件夹</HAR_EL_Research_MIKO_A.label>
+  <HAR_EL_Research_MIKO_A.description>埃尔泽莱姆的数据中隐藏着一个神秘的文件夹。</HAR_EL_Research_MIKO_A.description>
+  <HAR_EL_Research_MIKO_B.label>电影：尼亚美</HAR_EL_Research_MIKO_B.label>
+  <HAR_EL_Research_MIKO_B.description>似乎是里托鲁纳与尼亚美亚互动的视频数据。 \n\n“虽然是你们接替了伊芙酱，但你们却出奇的自由……伊芙酱开始抱怨也是有道理的。”</HAR_EL_Research_MIKO_B.description>
+  <HAR_EL_Research_MIKO_C.label>电影：异度之卡</HAR_EL_Research_MIKO_C.label>
+  <HAR_EL_Research_MIKO_C.description>似乎是 Ritoruna 与 Xenooka 互动的视频数据。 \n\n``诺亚酱，诺亚酱，拿着这个。 ……别扶我起来！我明白你应该自己承担，但感觉就像被当作小孩子一样，所以我无法忍受。”</HAR_EL_Research_MIKO_C.description>
+  <HAR_EL_Research_MIKO_D.label>电影：《爱德哈尔》</HAR_EL_Research_MIKO_D.label>
+  <HAR_EL_Research_MIKO_D.description>似乎是 Ritoruna 与 Idhale 互动的视频数据。 \n\n``嗯，就是这样。这可以用于开发下一个物种！噢，不要消失，不要消失！ ”</HAR_EL_Research_MIKO_D.description>
+  <HAR_EL_Research_MIKO_E.label>电影: 丝姬拉</HAR_EL_Research_MIKO_E.label>
+  <HAR_EL_Research_MIKO_E.description>似乎是 Ritoruna 与 Silkyra 互动的视频数据。 \n\n``呼呼呼呼，如果我有这个，我也能成为一个好女孩……！ ……放开诺亚酱！啊，我的药！ ？ ”</HAR_EL_Research_MIKO_E.description>
+  <HAR_EL_Research_MIKO_F.label>Movie:涅克洛斯</HAR_EL_Research_MIKO_F.label>
+  <HAR_EL_Research_MIKO_F.description>似乎是 Ritoruna 与 Necros 互动的视频数据。 \n\n 『那个空间站还运转吗？是的，我需要尽快处理。如果太晚了我就会有麻烦了。”</HAR_EL_Research_MIKO_F.description>
+  <HAR_EL_Research_MIKO_G.label>电影: 太阳弧</HAR_EL_Research_MIKO_G.label>
+  <HAR_EL_Research_MIKO_G.description>似乎是 Ritoruna 与 Solark 互动的视频数据。 \n\n``啊哈哈，景色真壮观！我可以站在肩膀上俯视索尔酱的位置了！ ……啊……我醉了……”</HAR_EL_Research_MIKO_G.description>
+  <HAR_EL_Research_MIKO_H.label>电影: 奎瑞拉</HAR_EL_Research_MIKO_H.label>
+  <HAR_EL_Research_MIKO_H.description>似乎是 Ritoruna 与 Qualilla 互动的视频数据。 \n\n``我再次用圣剑吹毁了大地！ ？我不会让这样的事情再次发生！到时见！诺亚酱！完成了！ ”</HAR_EL_Research_MIKO_H.description>
+  <HAR_EL_Research_MIKO_I.label>电影：凯奥拉</HAR_EL_Research_MIKO_I.label>
+  <HAR_EL_Research_MIKO_I.description>似乎是 Ritoruna 与 Keiora 互动的视频数据。 \n\n『……是的，那就请多多关照吧。我爸爸有点担心。”</HAR_EL_Research_MIKO_I.description>
+  <HAR_EL_Research_MIKO_J.label>电影：Nexaga</HAR_EL_Research_MIKO_J.label>
+  <HAR_EL_Research_MIKO_J.description>似乎是 Ritoruna 与 Nexaga 互动的视频数据。 \n\n``什么，你想给这个孩子起名字吗？ ……嗯，没错，那就成为玛丽亚酱吧！ ”</HAR_EL_Research_MIKO_J.description>
+  <HAR_EL_Research_MIKO_K.label>电影: 艾维利托</HAR_EL_Research_MIKO_K.label>
+  <HAR_EL_Research_MIKO_K.description>似乎是 Ritoruna 与 Evelito 互动的视频数据。 \n\n``...你做得很好，伊芙酱。暴怒过后，你的心情平静了吗？ ……是啊……是啊，剩下的就交给我吧。是啊，没关系”</HAR_EL_Research_MIKO_K.description>
+  <HAR_EL_Research_MIKO_N.label>视频数据整合</HAR_EL_Research_MIKO_N.label>
+  <HAR_EL_Research_MIKO_N.description>原本以为只是视频的数据，结果被巧妙地划分了。 \n将其合并为一个。</HAR_EL_Research_MIKO_N.description>
+  <HAR_EL_Research_MIKO_L.description>我祈祷那些知道这一点的人都是善良的。</HAR_EL_Research_MIKO_L.description>
+</LanguageData>

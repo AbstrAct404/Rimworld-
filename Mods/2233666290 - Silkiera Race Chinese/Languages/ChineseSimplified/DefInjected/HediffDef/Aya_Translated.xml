@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_SK_Hediff_a.description>喝能量饮料让我的身体感觉更好。</HAR_SK_Hediff_a.description>
+  <HAR_SK_Hediff_b.description>吃着美味的食物我感觉真好。</HAR_SK_Hediff_b.description>
+  <HAR_SK_Hediff_c.label>九尾的诅咒</HAR_SK_Hediff_c.label>
+  <HAR_SK_Hediff_c.description>Silkyra Vixenmaris 的可怕诅咒使她精神不稳定，并留下不断的伤疤。 \n效果将在几个小时后消失。</HAR_SK_Hediff_c.description>
+  <HAR_SK_Skill_Hediff_b.description>他处于精神被丝姬拉·维克森玛丽斯侵犯的状态，行为变得可疑，有的时候甚至会精神崩溃。 \n效果将在几个小时后消失。</HAR_SK_Skill_Hediff_b.description>
+  <HAR_SK_Skill_Hediff_c.description>由Silkyra Vixenmaris召唤的昆虫。 \n通过魔法变得比正常个体更强，但一定时间后，身体会因反应而达到极限而死亡。</HAR_SK_Skill_Hediff_c.description>
+  <Silkiera_Artificial.label>人工种族</Silkiera_Artificial.label>
+  <Silkiera_Artificial.description>丝姬拉是人工创造的种族，在创造时注重多才多艺，但或许因为是人工生物，所以对疾病等的抵抗力和免疫力较低。然而，随着时间的推移，基因中内置的野生动物力量将能够克服它们，而这种强度将取决于它们作为Silkyra的个体等级，并且会在大约一年内提升1级（等级限制为5）。</Silkiera_Artificial.description>
+  <Silkiera_Artificial_b.label>人工上位种族</Silkiera_Artificial_b.label>
+  <Silkiera_Artificial_b.description>经过选育的结果，顶级丝丽拉品种比普通丝丽丽拥有更好的身体能力。 \n曾经存在问题的免疫系统也得到了加强，有望稳定活动。 。</Silkiera_Artificial_b.description>
+  <HAR_SK_PsychiteTeaHigh.description>工业茶具有环化剂和钢铁的作用。</HAR_SK_PsychiteTeaHigh.description>
+</LanguageData>
