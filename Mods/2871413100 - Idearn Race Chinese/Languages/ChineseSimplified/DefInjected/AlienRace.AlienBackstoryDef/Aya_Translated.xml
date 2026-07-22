@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <HAR_IA_Backstory_C1.description>[PAWN_nameDef] 是 Ideaan 的后裔，已从宇宙中消失； [PAWN_pronoun]继承了Ideaan的一些技术。</HAR_IA_Backstory_C1.description>
+  <HAR_IA_Backstory_A1.title>哲学</HAR_IA_Backstory_A1.title>
+  <HAR_IA_Backstory_A1.titleShort>哲学</HAR_IA_Backstory_A1.titleShort>
   <HAR_IA_Backstory_A1.description>[PAWN_nameDef] 作为一个 Ideaan 多年来已经成熟，并将能够展示其作为种族的全部潜力。</HAR_IA_Backstory_A1.description>
 </LanguageData>

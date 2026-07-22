@@ -39,6 +39,7 @@ FIELDS = {
     "gerundLabel", "pawnSingular", "pawnPlural", "customLabel", "letterLabel",
     "letterText", "deathMessage", "beginLetter", "endLetter", "reportString",
     "ingestCommandString", "ingestReportString", "gerundLabel", "labelShort",
+    "title", "titleShort",
 }
 
 # Proper nouns used consistently across this family.  General Japanese text is
@@ -54,7 +55,19 @@ GLOSSARY = {
 
 # A deliberately obfuscated source label cannot be translated reliably by an
 # automatic service; use the established race name and a readable designation.
-KEY_OVERRIDES = {"HAR_LL_Hive_Critias.label": "莉特露娜蜂巢·克里蒂亚斯"}
+KEY_OVERRIDES = {
+    "HAR_LL_Hive_Critias.label": "莉特露娜蜂巢·克里蒂亚斯",
+    # Idhale EX: Tzvaot Shekinah — divine presence/glory of the hosts.
+    "HAR_IH_Hediff_EX_a.label": "万军神临",
+    "HAR_IH_Hediff_EX_b.label": "万军神临",
+    "HAR_IH_Hediff_EX_c.label": "万军神临",
+    "HAR_IH_Hediff_EX_d.label": "万军神临",
+    "HAR_IH_Hediff_EX_e.label": "万军神临",
+    "HAR_IH_Backstory_b_C1.title": "造物主遗物",
+    "HAR_IH_Backstory_b_C1.titleShort": "造物主遗物",
+    "HAR_IH_Backstory_b_A1.title": "旧世神灵",
+    "HAR_IH_Backstory_b_A1.titleShort": "旧世神灵",
+}
 MISSING_STUBS = {"3223844717": ("Ayameduki.HARNecloseEX", ["1.5", "1.6"])}
 
 

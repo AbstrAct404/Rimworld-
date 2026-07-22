@@ -3,21 +3,21 @@
     "id": "2946679071",
     "name": "Chaoura Race",
     "status": "built",
-    "entries": 137,
+    "entries": 144,
     "path": "D:\\MODS\\Rimworld\\2946679071 - Chaoura Race Chinese"
   },
   {
     "id": "3505571618",
     "name": "Aya Premise Core",
     "status": "built",
-    "entries": 50,
+    "entries": 51,
     "path": "D:\\MODS\\Rimworld\\3505571618 - Aya Premise Core Chinese"
   },
   {
     "id": "3153539856",
     "name": "Eveliet Race",
     "status": "built",
-    "entries": 159,
+    "entries": 162,
     "path": "D:\\MODS\\Rimworld\\3153539856 - Eveliet Race Chinese"
   },
   {
@@ -31,7 +31,7 @@
     "id": "2871413100",
     "name": "Idearn Race",
     "status": "built",
-    "entries": 147,
+    "entries": 149,
     "path": "D:\\MODS\\Rimworld\\2871413100 - Idearn Race Chinese"
   },
   {
@@ -45,7 +45,7 @@
     "id": "2227425882",
     "name": "Idhale Race",
     "status": "built",
-    "entries": 111,
+    "entries": 134,
     "path": "D:\\MODS\\Rimworld\\2227425882 - Idhale Race Chinese"
   },
   {
@@ -59,7 +59,7 @@
     "id": "2569091688",
     "name": "Littluna Race",
     "status": "built",
-    "entries": 170,
+    "entries": 200,
     "path": "D:\\MODS\\Rimworld\\2569091688 - Littluna Race Chinese"
   },
   {
@@ -73,40 +73,42 @@
     "id": "2198830432",
     "name": "Nearmare Race",
     "status": "built",
-    "entries": 308,
+    "entries": 336,
     "path": "D:\\MODS\\Rimworld\\2198830432 - Nearmare Race Chinese"
   },
   {
     "id": "2394460334",
     "name": "Neclose Race",
     "status": "built",
-    "entries": 127,
+    "entries": 154,
     "path": "D:\\MODS\\Rimworld\\2394460334 - Neclose Race Chinese"
   },
   {
     "id": "3223844717",
-    "name": "Unknown EX",
-    "status": "missing source mod"
+    "name": "Neclose EX",
+    "status": "stub built (source unavailable)",
+    "entries": 0,
+    "path": "D:\\MODS\\Rimworld\\3223844717 - Neclose EX Chinese"
   },
   {
     "id": "2763078885",
     "name": "Qualeela Race",
     "status": "built",
-    "entries": 117,
+    "entries": 146,
     "path": "D:\\MODS\\Rimworld\\2763078885 - Qualeela Race Chinese"
   },
   {
     "id": "2504657401",
     "name": "Requeen Boss",
     "status": "built",
-    "entries": 103,
+    "entries": 115,
     "path": "D:\\MODS\\Rimworld\\2504657401 - Requeen Boss Chinese"
   },
   {
     "id": "2676302514",
     "name": "Saclean Race",
     "status": "built",
-    "entries": 75,
+    "entries": 83,
     "path": "D:\\MODS\\Rimworld\\2676302514 - Saclean Race Chinese"
   },
   {
@@ -120,7 +122,7 @@
     "id": "2233666290",
     "name": "Silkiera Race",
     "status": "built",
-    "entries": 247,
+    "entries": 258,
     "path": "D:\\MODS\\Rimworld\\2233666290 - Silkiera Race Chinese"
   },
   {
@@ -134,7 +136,7 @@
     "id": "2608237489",
     "name": "Solark Race",
     "status": "built",
-    "entries": 73,
+    "entries": 97,
     "path": "D:\\MODS\\Rimworld\\2608237489 - Solark Race Chinese"
   },
   {
@@ -148,7 +150,7 @@
     "id": "2216916011",
     "name": "Xenoorca Race",
     "status": "built",
-    "entries": 125,
+    "entries": 150,
     "path": "D:\\MODS\\Rimworld\\2216916011 - Xenoorca Race Chinese"
   }
 ]

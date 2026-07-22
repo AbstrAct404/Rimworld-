@@ -1,19 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_IH_Backstory_C1.title>纯文化种植</HAR_IH_Backstory_C1.title>
   <HAR_IH_Backstory_C1.description>[PAWN_nameDef]出生在一个与世隔绝的宇宙设施中，并在那里度过了童年。[PAWN_pronoun]在那段时间从未接触过任何危险，快乐地成长。</HAR_IH_Backstory_C1.description>
+  <HAR_IH_Backstory_C2.title>权贵的养子</HAR_IH_Backstory_C2.title>
   <HAR_IH_Backstory_C2.description>[PAWN_nameDef]在记事之前就因战争失去了出生地，但幸运的是[PAWN_pronoun]被一位有权有势的人收养，并在富裕的环境中学到了很多东西。</HAR_IH_Backstory_C2.description>
+  <HAR_IH_Backstory_C3.title>游牧民族的女儿</HAR_IH_Backstory_C3.title>
   <HAR_IH_Backstory_C3.description>[PAWN_nameDef] 是一位游牧父亲和一位 Idhale 母亲的孩子。 [PAWN_pronoun] 在动物和大自然的包围下长大，并获得了与它们相关的技能。</HAR_IH_Backstory_C3.description>
+  <HAR_IH_Backstory_C4.title>厨师的鸡蛋</HAR_IH_Backstory_C4.title>
   <HAR_IH_Backstory_C4.description>[PAWN_nameDef] 是一位有抱负的厨师，对烹饪世界着迷。当时，[PAWN_pronoun]还没有经验，但他的厨艺却比一般人好。</HAR_IH_Backstory_C4.description>
+  <HAR_IH_Backstory_C6.title>地下小人</HAR_IH_Backstory_C6.title>
   <HAR_IH_Backstory_C6.description>[PAWN_nameDef] 失去了家园，从此生活在一个黑暗的洞穴中，[PAWN_pronoun] 在那里学会了如何采矿和建造。</HAR_IH_Backstory_C6.description>
+  <HAR_IH_Backstory_A2.title>充满激情的建筑师</HAR_IH_Backstory_A2.title>
   <HAR_IH_Backstory_A2.description>[PAWN_nameDef]意外地发现了他作为建筑师的天赋，但他对正确和精确的渴望让他与野生动物格格不入。</HAR_IH_Backstory_A2.description>
+  <HAR_IH_Backstory_A5.title>性感设计师</HAR_IH_Backstory_A5.title>
+  <HAR_IH_Backstory_A5.titleShort>设计师</HAR_IH_Backstory_A5.titleShort>
   <HAR_IH_Backstory_A5.description>[PAWN_nameDef]凭借积累的想法和磨练的绘画技巧作为一名活跃的设计师。</HAR_IH_Backstory_A5.description>
+  <HAR_IH_Backstory_A6.title>大山深处的蛰居族</HAR_IH_Backstory_A6.title>
+  <HAR_IH_Backstory_A6.titleShort>引小森</HAR_IH_Backstory_A6.titleShort>
   <HAR_IH_Backstory_A6.description>[PAWN_nameDef] 比与人互动更喜欢挖洞，而且他今天可能仍在挥舞着冰镐寻找矿石。</HAR_IH_Backstory_A6.description>
+  <HAR_IH_Backstory_A7.title>夜班女仆</HAR_IH_Backstory_A7.title>
+  <HAR_IH_Backstory_A7.titleShort>女佣</HAR_IH_Backstory_A7.titleShort>
   <HAR_IH_Backstory_A7.description>[PAWN_nameDef]是一名侍奉名流的女仆，并且可能是一位烹饪专家。</HAR_IH_Backstory_A7.description>
+  <HAR_IH_Backstory_A8.title>美容师</HAR_IH_Backstory_A8.title>
   <HAR_IH_Backstory_A8.description>[PAWN_nameDef]是一位创作了很多作品的艺术家，他创作的作品取决于他当时的感性。</HAR_IH_Backstory_A8.description>
+  <HAR_IH_Backstory_A9.title>恶魔教授</HAR_IH_Backstory_A9.title>
   <HAR_IH_Backstory_A9.description>[PAWN_nameDef]是一位教授，他写的论文充满了邪恶的想法，令人惊讶的是，他似乎被高度评价为一个不能被嘲笑的人。</HAR_IH_Backstory_A9.description>
+  <HAR_IH_Backstory_A10.title>受欢迎的小镇女孩</HAR_IH_Backstory_A10.title>
   <HAR_IH_Backstory_A10.description>[PAWN_nameDef]是一个随处可见的城镇女孩，但似乎因为她的外表而在异性中拥有良好的声誉。</HAR_IH_Backstory_A10.description>
+  <HAR_IH_Backstory_A11.title>梦见驯兽师</HAR_IH_Backstory_A11.title>
+  <HAR_IH_Backstory_A11.titleShort>驯兽师</HAR_IH_Backstory_A11.titleShort>
   <HAR_IH_Backstory_A11.description>[PAWN_nameDef]是一名驯兽师，梦想驯服全世界的野兽，但要小心大自然的奇观。</HAR_IH_Backstory_A11.description>
+  <HAR_IH_Backstory_A12.title>穿白大褂的鬼魂</HAR_IH_Backstory_A12.title>
+  <HAR_IH_Backstory_A12.titleShort>护士</HAR_IH_Backstory_A12.titleShort>
   <HAR_IH_Backstory_A12.description>[PAWN_nameDef] 是一名医疗技术精湛的护士，我很欣赏他有时会犯错误。</HAR_IH_Backstory_A12.description>
+  <HAR_IH_Backstory_b_C1.title>造物主遗物</HAR_IH_Backstory_b_C1.title>
+  <HAR_IH_Backstory_b_C1.titleShort>造物主遗物</HAR_IH_Backstory_b_C1.titleShort>
   <HAR_IH_Backstory_b_C1.description>[PAWN_nameDef]被人工种族的创造者赋予了一项使命，而她似乎也将此作为自己的使命。</HAR_IH_Backstory_b_C1.description>
+  <HAR_IH_Backstory_b_A1.title>旧世神灵</HAR_IH_Backstory_b_A1.title>
+  <HAR_IH_Backstory_b_A1.titleShort>旧世神灵</HAR_IH_Backstory_b_A1.titleShort>
   <HAR_IH_Backstory_b_A1.description>[PAWN_nameDef] 现在能够完全运用造物主赋予她的力量，她将利用它们来实现她的命运。</HAR_IH_Backstory_b_A1.description>
 </LanguageData>

@@ -1,21 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_XO_Backstory_C1.title>纯文化种植</HAR_XO_Backstory_C1.title>
   <HAR_XO_Backstory_C1.description>[PAWN_nameDef]出生在一个与世隔绝的宇宙设施中，并在那里度过了童年。[PAWN_pronoun]在那段时间从未接触过任何危险，快乐地成长。</HAR_XO_Backstory_C1.description>
+  <HAR_XO_Backstory_C2.title>权贵的养子</HAR_XO_Backstory_C2.title>
   <HAR_XO_Backstory_C2.description>[PAWN_nameDef]在记事之前就因战争失去了出生地，但幸运的是[PAWN_pronoun]被一位有权有势的人收养，并在富裕的环境中学到了很多东西。</HAR_XO_Backstory_C2.description>
+  <HAR_XO_Backstory_C3.title>游牧民族的女儿</HAR_XO_Backstory_C3.title>
   <HAR_XO_Backstory_C3.description>[PAWN_nameDef] 是游牧父亲和异形母亲的孩子。 [PAWN_pronoun] 在动物和大自然的包围下长大，并获得了与它们相关的技能。</HAR_XO_Backstory_C3.description>
+  <HAR_XO_Backstory_C4.title>厨师的鸡蛋</HAR_XO_Backstory_C4.title>
   <HAR_XO_Backstory_C4.description>[PAWN_nameDef] 是一位有抱负的厨师，对烹饪世界着迷。当时，[PAWN_pronoun]还没有经验，但他的厨艺却比一般人好。</HAR_XO_Backstory_C4.description>
+  <HAR_XO_Backstory_C5.title>年轻的训练士兵</HAR_XO_Backstory_C5.title>
   <HAR_XO_Backstory_C5.description>[PAWN_nameDef]是一名训练有素的士兵，从小就接受格斗技术训练，[PAWN_pronoun]可以在一定程度上处理近战和射击。</HAR_XO_Backstory_C5.description>
+  <HAR_XO_Backstory_C6.title>地下小人</HAR_XO_Backstory_C6.title>
   <HAR_XO_Backstory_C6.description>[PAWN_nameDef] 失去了家园，从此生活在一个黑暗的洞穴中，[PAWN_pronoun] 在那里学会了如何采矿和建造。</HAR_XO_Backstory_C6.description>
+  <HAR_XO_Backstory_A1.title>迷人的伴侣</HAR_XO_Backstory_A1.title>
+  <HAR_XO_Backstory_A1.titleShort>伴侣</HAR_XO_Backstory_A1.titleShort>
   <HAR_XO_Backstory_A1.description>【PAWN_nameDef】利用自己的美貌，被分配到了一个招待客人的销售岗位，虽然获得了社交能力和交际能力，但最终却并不擅长打工。</HAR_XO_Backstory_A1.description>
+  <HAR_XO_Backstory_A2.title>充满激情的建筑师</HAR_XO_Backstory_A2.title>
   <HAR_XO_Backstory_A2.description>[PAWN_nameDef]意外地发现了他作为建筑师的天赋，但他对正确和精确的渴望让他与野生动物格格不入。</HAR_XO_Backstory_A2.description>
+  <HAR_XO_Backstory_A3.title>美丽的弓箭手</HAR_XO_Backstory_A3.title>
   <HAR_XO_Backstory_A3.description>[PAWN_nameDef] 擅长射击远处的物体，并且可以使用弓或枪轻松做到这一点。</HAR_XO_Backstory_A3.description>
+  <HAR_XO_Backstory_A4.title>迷惑战士</HAR_XO_Backstory_A4.title>
   <HAR_XO_Backstory_A4.description>[PAWN_nameDef]可以轻松处理他获得的东西，而且他似乎并不介意互相残杀。</HAR_XO_Backstory_A4.description>
+  <HAR_XO_Backstory_A5.title>性感设计师</HAR_XO_Backstory_A5.title>
+  <HAR_XO_Backstory_A5.titleShort>设计师</HAR_XO_Backstory_A5.titleShort>
   <HAR_XO_Backstory_A5.description>[PAWN_nameDef]凭借积累的想法和磨练的绘画技巧作为一名活跃的设计师。</HAR_XO_Backstory_A5.description>
+  <HAR_XO_Backstory_A6.title>大山深处的蛰居族</HAR_XO_Backstory_A6.title>
+  <HAR_XO_Backstory_A6.titleShort>引小森</HAR_XO_Backstory_A6.titleShort>
   <HAR_XO_Backstory_A6.description>[PAWN_nameDef] 比与人互动更喜欢挖洞，而且他今天可能仍在挥舞着冰镐寻找矿石。</HAR_XO_Backstory_A6.description>
+  <HAR_XO_Backstory_A7.title>夜班女仆</HAR_XO_Backstory_A7.title>
+  <HAR_XO_Backstory_A7.titleShort>女佣</HAR_XO_Backstory_A7.titleShort>
   <HAR_XO_Backstory_A7.description>[PAWN_nameDef]是一名侍奉名流的女仆，并且可能是一位烹饪专家。</HAR_XO_Backstory_A7.description>
+  <HAR_XO_Backstory_A8.title>美容师</HAR_XO_Backstory_A8.title>
   <HAR_XO_Backstory_A8.description>[PAWN_nameDef]是一位创作了很多作品的艺术家，他创作的作品取决于他当时的感性。</HAR_XO_Backstory_A8.description>
+  <HAR_XO_Backstory_A9.title>恶魔教授</HAR_XO_Backstory_A9.title>
   <HAR_XO_Backstory_A9.description>[PAWN_nameDef]是一位教授，他写的论文充满了邪恶的想法，令人惊讶的是，他似乎被高度评价为一个不能被嘲笑的人。</HAR_XO_Backstory_A9.description>
+  <HAR_XO_Backstory_A10.title>受欢迎的小镇女孩</HAR_XO_Backstory_A10.title>
   <HAR_XO_Backstory_A10.description>[PAWN_nameDef]是一个随处可见的城镇女孩，但似乎因为她的外表而在异性中拥有良好的声誉。</HAR_XO_Backstory_A10.description>
+  <HAR_XO_Backstory_A11.title>梦见驯兽师</HAR_XO_Backstory_A11.title>
+  <HAR_XO_Backstory_A11.titleShort>驯兽师</HAR_XO_Backstory_A11.titleShort>
   <HAR_XO_Backstory_A11.description>[PAWN_nameDef]是一名驯兽师，梦想驯服全世界的野兽，但要小心大自然的奇观。</HAR_XO_Backstory_A11.description>
+  <HAR_XO_Backstory_A12.title>白衣夜魔</HAR_XO_Backstory_A12.title>
+  <HAR_XO_Backstory_A12.titleShort>护士</HAR_XO_Backstory_A12.titleShort>
   <HAR_XO_Backstory_A12.description>[PAWN_nameDef] 是一名医疗技术精湛的护士，我很欣赏他有时会犯错误。</HAR_XO_Backstory_A12.description>
+  <HAR_XO_Backstory_A90.title>噩梦商人</HAR_XO_Backstory_A90.title>
 </LanguageData>

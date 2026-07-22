@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_EL_Backstory_C1.title>原始肖像</HAR_EL_Backstory_C1.title>
   <HAR_EL_Backstory_C1.description>[PAWN_nameDef] 是对曾经存在的人工种族的重现。</HAR_EL_Backstory_C1.description>
+  <HAR_EL_Backstory_A1.title>赫特拉松</HAR_EL_Backstory_A1.title>
+  <HAR_EL_Backstory_A1.titleShort>赫特拉松</HAR_EL_Backstory_A1.titleShort>
   <HAR_EL_Backstory_A1.description>[PAWN_nameDef] 现在可以使用犯有致命罪孽的伊夫里特的力量。一定要密切关注它，以确保它不会再次失控。</HAR_EL_Backstory_A1.description>
 </LanguageData>
