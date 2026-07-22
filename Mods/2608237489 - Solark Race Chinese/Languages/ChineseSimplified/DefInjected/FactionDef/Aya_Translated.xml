@@ -5,4 +5,5 @@
   <Solark_P_Faction.description>索拉克斯聚集并安静生活的村庄。</Solark_P_Faction.description>
   <Solark_Faction_NPC.description>他们是由索拉克人组成的中立派系，除非造成伤害，否则不会怀有敌意。 \n除了他们种族特有的强大的身体能力之外，他们都配备了强大的铠甲，所以他们的战斗力极高。</Solark_Faction_NPC.description>
   <Solark_Faction_NPC.pawnSingular>太阳弧</Solark_Faction_NPC.pawnSingular>
+  <Solark_Faction_NPC.fixedName>阿德赖吉贝尔</Solark_Faction_NPC.fixedName>
 </LanguageData>

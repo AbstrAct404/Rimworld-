@@ -5,12 +5,15 @@
   <Nearmaere_P_Faction.description>尼亚米尔人聚集并安静生活的村庄。</Nearmaere_P_Faction.description>
   <Nearmaere_Faction_NPC.description>以纳卡米亚为主体的稀有派系，基本上与其他种族混合。</Nearmaere_Faction_NPC.description>
   <Nearmaere_Faction_NPC.pawnSingular>尼亚米尔</Nearmaere_Faction_NPC.pawnSingular>
+  <Nearmaere_Faction_NPC.fixedName>夜魔宗</Nearmaere_Faction_NPC.fixedName>
   <Nearmaere_Faction_NPC_b.label>幽灵人</Nearmaere_Faction_NPC_b.label>
   <Nearmaere_Faction_NPC_b.description>尼亚美亚的一个派系，与宇宙部落交战，抛弃了他们的创造者。他们对宇宙部落深恶痛绝，不分人与人之间的区别，对我们也怀有敌意。 \n虽然尼亚美亚也有召唤追随者的能力，但它们并不用于战斗，因为它们用于远征和维护补给路线。 \n我们又不是不能沟通，只要我们继续耐心地改善关系，总有一天我们能够结盟的。</Nearmaere_Faction_NPC_b.description>
   <Nearmaere_Faction_NPC_b.pawnSingular>尼亚米尔</Nearmaere_Faction_NPC_b.pawnSingular>
+  <Nearmaere_Faction_NPC_b.fixedName>幽灵人</Nearmaere_Faction_NPC_b.fixedName>
   <Nearmaere_Faction_NPC_c.label>阿莱泰亚教堂</Nearmaere_Faction_NPC_c.label>
   <Nearmaere_Faction_NPC_c.description>是崇拜创造他们的造物主为神的派系，是广泛分布在宇宙的人造种族中最繁荣、规模最大的宗教。 \n目前，我们从已逝的伟大创造者那里继承了“知识”作为遗产。 \n\n``将造物主的作品传播到世界各地''\n``彻底毁灭那些反抗造物主的造物''\n``每天提升自己作为造物的地位''\n我们基于上述三个原则进行运作。 \n\n与任何派别交往都可以，只要不是敌对的，但它已经做好了反击机械生命的准备，并且有很多对抗机械生命的方法。 \n\n我们与亚人工业有着深厚的渊源，亚人工业是同一创造者，继承了“技术”，是后继者。</Nearmaere_Faction_NPC_c.description>
   <Nearmaere_Faction_NPC_c.pawnSingular>尼亚米尔</Nearmaere_Faction_NPC_c.pawnSingular>
+  <Nearmaere_Faction_NPC_c.fixedName>阿莱泰亚教堂</Nearmaere_Faction_NPC_c.fixedName>
   <Nearmaere_Faction_NPC_e.description>战争结束后，里托鲁纳·杜纳米斯建立的组织。
 其目的是防止文明从外部干预并监视地球，直至其自然发展。
 

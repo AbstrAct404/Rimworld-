@@ -5,4 +5,5 @@
   <Saclean_P_Faction.description>萨克林人聚集并安静生活的村庄。</Saclean_P_Faction.description>
   <Saclean_Faction_NPC.description>由萨克林组成的中立派系。</Saclean_Faction_NPC.description>
   <Saclean_Faction_NPC.pawnSingular>萨克莱恩</Saclean_Faction_NPC.pawnSingular>
+  <Saclean_Faction_NPC.fixedName>丝线</Saclean_Faction_NPC.fixedName>
 </LanguageData>

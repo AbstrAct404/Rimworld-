@@ -39,7 +39,7 @@ FIELDS = {
     "gerundLabel", "pawnSingular", "pawnPlural", "customLabel", "letterLabel",
     "letterText", "deathMessage", "beginLetter", "endLetter", "reportString",
     "ingestCommandString", "ingestReportString", "gerundLabel", "labelShort",
-    "title", "titleShort",
+    "title", "titleShort", "fixedName",
 }
 
 # Proper nouns used consistently across this family.  General Japanese text is
@@ -66,6 +66,16 @@ KEY_OVERRIDES = {
     # Idhale relic names: use their source-language meanings instead of katakana.
     "HAR_IH_Item_a.label": "辉耀之石",
     "HAR_IH_Archotech_a.label": "天穹之钥",
+    # Idhale terminology: keep race/faction display names consistent, including
+    # fixedName (which RimWorld displays instead of the FactionDef label).
+    "HAR_Idhale.label": "伊德海尔",
+    "HAR_Idhale_b.label": "伊德海尔·阿冯·鲁阿赫",
+    "HAR_Idhale_b_Player.label": "伊德海尔·阿冯·鲁阿赫",
+    "Idhale_P_Faction.pawnSingular": "伊德海尔人",
+    "Idhale_Faction_NPC.pawnSingular": "伊德海尔人",
+    "Idhale_Faction_NPC_b.pawnSingular": "伊德海尔人",
+    "Idhale_Faction_NPC_b.fixedName": "苍穹之魂",
+    "HAR_IH_Cultures_b.label": "苍穹之魂教义",
     "HAR_IH_Backstory_b_C1.title": "造物主遗物",
     "HAR_IH_Backstory_b_C1.titleShort": "造物主遗物",
     "HAR_IH_Backstory_b_A1.title": "旧世神灵",

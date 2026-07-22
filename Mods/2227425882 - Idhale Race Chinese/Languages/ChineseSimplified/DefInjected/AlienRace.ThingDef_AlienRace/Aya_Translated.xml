@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_Idhale.label>伊达尔</HAR_Idhale.label>
+  <HAR_Idhale.label>伊德海尔</HAR_Idhale.label>
   <HAR_Idhale.description>艾德哈尔是太空部落的一个派系在创建人工种族尼亚美亚的过程中偶然创造出的人工种族。他们是慈善家，不喜欢战斗，有奴隶心态。基本上已经化为灵体，拥有强大的个体能力，即使在极地环境中也能在不抵抗物理干扰的情况下生存，但另一方面，来自艾德哈尔的物理干扰也很困难，无法进行需要精确度的攻击，甚至无法进行日常生活。因此，它作为生化武器被认为是失败的，并没有被用作武器。 \n\n在离开创造者之前，他们负责做家务和看守，之后就各自分散消失，在各地流浪，但似乎有一小部分与奴隶贩子聚集在一起，等待着新的主人。 \n\n\n也许因为他们来自尼亚美亚，所以你可以穿他们的服装。</HAR_Idhale.description>
-  <HAR_Idhale_b.label>伊德海尔·阿冯鲁赫</HAR_Idhale_b.label>
+  <HAR_Idhale_b.label>伊德海尔·阿冯·鲁阿赫</HAR_Idhale_b.label>
   <HAR_Idhale_b.description>伊多赫勒·阿冯鲁阿哈是造物主最后创造的伊多赫勒的高级物种，是即使在现代也笼罩着神秘色彩的人造种族。
 
 关于艾文鲁赫的记录可以追溯到第一次世界大战前后，人工种族中唯一广为人知的故事就是他们是“摧毁了星际流浪鸟的种族”。
@@ -18,7 +18,7 @@
 
 托加雷确实摧毁了这只大鸟，但它的身体“没有它应该有的东西”。
 他们确信下一场灾难已经播下……</HAR_Idhale_b.description>
-  <HAR_Idhale_b_Player.label>伊德海尔·阿冯鲁赫</HAR_Idhale_b_Player.label>
+  <HAR_Idhale_b_Player.label>伊德海尔·阿冯·鲁阿赫</HAR_Idhale_b_Player.label>
   <HAR_Idhale_b_Player.description>伊多赫勒·阿冯鲁阿哈是造物主最后创造的伊多赫勒的高级物种，是即使在现代也笼罩着神秘色彩的人造种族。
 
 关于艾文鲁赫的记录可以追溯到第一次世界大战前后，人工种族中唯一广为人知的故事就是他们是“摧毁了星际流浪鸟的种族”。

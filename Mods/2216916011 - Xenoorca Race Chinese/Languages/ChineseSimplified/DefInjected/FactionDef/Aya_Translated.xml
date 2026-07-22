@@ -5,6 +5,8 @@
   <Xenoorca_P_Faction.description>异种人聚集并安静生活的村庄。</Xenoorca_P_Faction.description>
   <Xenoorca_Faction_NPC_b.description>一群异色雇佣兵组成团体，在全国各地游荡。与奥西努斯旅不同，他们很友好，并且会成为可靠的增援盟友。</Xenoorca_Faction_NPC_b.description>
   <Xenoorca_Faction_NPC_b.pawnSingular>塞诺卡</Xenoorca_Faction_NPC_b.pawnSingular>
+  <Xenoorca_Faction_NPC_b.fixedName>逆戟鲸佣兵团</Xenoorca_Faction_NPC_b.fixedName>
   <Xenoorca_Faction_NPC.description>一个流窜全国、屡次掠夺的派系。 \n由一个名为“Fuchizokushu”的实体领导的 Xenooka 战斗团体。 \n他们狡猾而残忍，使用经过独特改装的枪械，穿着特殊的盔甲。</Xenoorca_Faction_NPC.description>
   <Xenoorca_Faction_NPC.pawnSingular>塞诺卡</Xenoorca_Faction_NPC.pawnSingular>
+  <Xenoorca_Faction_NPC.fixedName>奥尔西努斯旅</Xenoorca_Faction_NPC.fixedName>
 </LanguageData>
