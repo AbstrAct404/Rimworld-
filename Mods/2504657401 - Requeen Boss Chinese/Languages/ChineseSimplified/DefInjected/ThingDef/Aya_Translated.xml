@@ -13,6 +13,7 @@
   <BOSS_RQ_Monster_race_Summon_y.label>受损的亲人</BOSS_RQ_Monster_race_Summon_y.label>
   <BOSS_RQ_Monster_race_Summon_y.description>女王种“Requeen”的后代。 \n原本应该拥有强大的性能，却因为冲破大气层、坠入地面的冲击而被削弱。</BOSS_RQ_Monster_race_Summon_y.description>
   <BOSS_RQ_Monster_race_Summon_z.description>雷奎恩的后裔，拥有生物与机械混合而成的特殊结构。 \n是雷奎恩死后奇迹般诞生的个体，没有对其进行任何调整。</BOSS_RQ_Monster_race_Summon_z.description>
+  <BOSS_RQ_Drop_Base.description>构成女王物种“Requeen”的一些部分。 \n如果被破坏，可以作为材料重新利用，但有可能里面有亲戚。</BOSS_RQ_Drop_Base.description>
   <BOSS_RQ_Drop_a.label>皇后零件</BOSS_RQ_Drop_a.label>
   <BOSS_RQ_Drop_b.label>皇后零件</BOSS_RQ_Drop_b.label>
   <BOSS_RQ_Drop_c.label>皇后零件</BOSS_RQ_Drop_c.label>

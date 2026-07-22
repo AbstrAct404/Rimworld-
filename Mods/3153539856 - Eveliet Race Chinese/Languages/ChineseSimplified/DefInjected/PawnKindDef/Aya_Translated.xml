@@ -1,9 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_EL_Monster_Kind_Base.label>毛绒玩具</HAR_EL_Monster_Kind_Base.label>
+  <HAR_EL_Monster_Kind_Base.labelMale>毛绒玩具</HAR_EL_Monster_Kind_Base.labelMale>
+  <HAR_EL_Monster_Kind_Base.labelFemale>毛绒玩具</HAR_EL_Monster_Kind_Base.labelFemale>
   <HAR_EL_Monster_Kind_a.label>母马</HAR_EL_Monster_Kind_a.label>
   <HAR_EL_Monster_Kind_b.label>卢克</HAR_EL_Monster_Kind_b.label>
   <HAR_EL_Monster_Kind_c.label>基拉</HAR_EL_Monster_Kind_c.label>
   <HAR_EL_Monster_Kind_d.label>溶胶</HAR_EL_Monster_Kind_d.label>
   <HAR_EL_Monster_Kind_e.label>悠</HAR_EL_Monster_Kind_e.label>
   <HAR_EL_Monster_Kind_f.label>露娜</HAR_EL_Monster_Kind_f.label>
+  <HAR_Eveliet_Player.label>艾维利特_Player</HAR_Eveliet_Player.label>
 </LanguageData>

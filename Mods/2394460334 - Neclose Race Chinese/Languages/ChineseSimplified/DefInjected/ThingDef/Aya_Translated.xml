@@ -3,16 +3,16 @@
   <Aya_Race_Ap_NC_C_T_a.description>人工种族的儿童深色服装。由于它是儿童用的，因此其性能适中。</Aya_Race_Ap_NC_C_T_a.description>
   <Aya_Race_Ap_NC_C_T_a.label>儿童深色服装</Aya_Race_Ap_NC_C_T_a.label>
   <HAR_NC_Armor_a.label>疯狂盔甲（耐用）</HAR_NC_Armor_a.label>
-  <HAR_NC_Armor_a.description>这件铠甲是Necros独有的，专注于如何接近对手并感染他们。最初是在其创造者手下作为战斗人员时使用的战斗服。</HAR_NC_Armor_a.description>
+  <HAR_NC_Armor_a.description>这件铠甲是涅克洛斯独有的，专注于如何接近对手并感染他们。最初是在其创造者手下作为战斗人员时使用的战斗服。</HAR_NC_Armor_a.description>
   <HAR_NC_Armor_b.label>狂人铠甲（突击型）</HAR_NC_Armor_b.label>
-  <HAR_NC_Armor_b.description>这件铠甲是Necros独有的，专注于如何接近对手并感染他们。最初是在其创造者手下作为战斗人员时使用的战斗服。</HAR_NC_Armor_b.description>
+  <HAR_NC_Armor_b.description>这件铠甲是涅克洛斯独有的，专注于如何接近对手并感染他们。最初是在其创造者手下作为战斗人员时使用的战斗服。</HAR_NC_Armor_b.description>
   <HAR_NC_Armor_c.label>狂人铠甲（标准型）</HAR_NC_Armor_c.label>
-  <HAR_NC_Armor_c.description>这件铠甲是Necros独有的，专注于如何接近对手并感染他们。最初是在其创造者手下作为战斗人员时使用的战斗服。</HAR_NC_Armor_c.description>
+  <HAR_NC_Armor_c.description>这件铠甲是涅克洛斯独有的，专注于如何接近对手并感染他们。最初是在其创造者手下作为战斗人员时使用的战斗服。</HAR_NC_Armor_c.description>
   <HAR_NC_Armor_z.label>埃莱蒂科斯装甲</HAR_NC_Armor_z.label>
-  <HAR_NC_Armor_z.description>Necros Utisphonia 独有的盔甲。 \n它看起来有点让人想起太空服。</HAR_NC_Armor_z.description>
+  <HAR_NC_Armor_z.description>涅克洛斯 Utisphonia 独有的盔甲。 \n它看起来有点让人想起太空服。</HAR_NC_Armor_z.description>
   <HAR_NC_Heads_a.description>贵族所戴的王冠。</HAR_NC_Heads_a.description>
   <HAR_NC_Heads_a.label>皇冠（死灵）</HAR_NC_Heads_a.label>
-  <HAR_NC_Heads_b.description>Necros的特殊头盔专注于如何接近对手并感染他们。它最初是在其创造者手下作为战士时使用的头盔。</HAR_NC_Heads_b.description>
+  <HAR_NC_Heads_b.description>涅克洛斯的特殊头盔专注于如何接近对手并感染他们。它最初是在其创造者手下作为战士时使用的头盔。</HAR_NC_Heads_b.description>
   <HAR_NC_Heads_b.label>疯狂的头盔</HAR_NC_Heads_b.label>
   <HAR_NC_Heads_c.description>死灵专用的头带，大概是因为死灵的活体而被迫进行近战，所以耐久度有所提高。</HAR_NC_Heads_c.description>
   <HAR_NC_Heads_c.label>头带（死灵）</HAR_NC_Heads_c.label>
@@ -20,7 +20,7 @@
   <HAR_NC_Heads_d.label>丝带（死灵）</HAR_NC_Heads_d.label>
   <HAR_NC_Heads_e.description>死灵专用的头带，大概是因为死灵的活体而被迫进行近战，所以耐久度有所提高。</HAR_NC_Heads_e.description>
   <HAR_NC_Heads_e.label>花朵装饰（死灵）</HAR_NC_Heads_e.label>
-  <HAR_NC_Heads_z.description>Necros Utisphonia 专用的头盔。 \n它看起来有点让人想起太空服。</HAR_NC_Heads_z.description>
+  <HAR_NC_Heads_z.description>涅克洛斯 Utisphonia 专用的头盔。 \n它看起来有点让人想起太空服。</HAR_NC_Heads_z.description>
   <HAR_NC_Heads_z.label>埃莱蒂科斯头盔</HAR_NC_Heads_z.label>
   <HAR_NC_Shell_a.description>死灵和其他人将它当作刀片使用并防弹。结合自身的身体能力，他们拥有着不容小觑的实力。</HAR_NC_Shell_a.description>
   <HAR_NC_Shell_a.label>斗篷（死灵）</HAR_NC_Shell_a.label>
@@ -34,7 +34,7 @@
   <HAR_NC_Tops_b.label>暗器 B（死灵）</HAR_NC_Tops_b.label>
   <HAR_NC_Tops_c.description>死灵衣服，由于身体结构而容易移动的衣服，就像泳衣一样好。</HAR_NC_Tops_c.description>
   <HAR_NC_Tops_c.label>暗器 C（死灵）</HAR_NC_Tops_c.label>
-  <HAR_NC_Tops_z.description>Necros Utisphonia 专用的衣服。 \n以他们的体能，就算衣服只是内衣也能活下来。</HAR_NC_Tops_z.description>
+  <HAR_NC_Tops_z.description>涅克洛斯 Utisphonia 专用的衣服。 \n以他们的体能，就算衣服只是内衣也能活下来。</HAR_NC_Tops_z.description>
   <HAR_NC_Tops_z.label>埃莱蒂科磨损</HAR_NC_Tops_z.label>
   <HAR_NC_Item_a.label>血色蜂蜜酒</HAR_NC_Item_a.label>
   <HAR_NC_Item_a.description>一种含有浑浊的红色蜂蜜的蜂蜜酒。
@@ -50,7 +50,7 @@
 
 “我为什么要做这样的事情？自从我遇到这个之后，我就对自己失去了信心。请有人帮助我，停止这种无休止的窃窃私语。我的梦想充满了噩梦。”</HAR_NC_Item_a.description>
   <HAR_NC_Material_a.label>一块丑陋的肉</HAR_NC_Material_a.label>
-  <HAR_NC_Material_a.description>从 Necros Utisphonia 中回收的一块肉。
+  <HAR_NC_Material_a.description>从 涅克洛斯 Utisphonia 中回收的一块肉。
 即使经过一段时间，它仍然保持原始状态并散发热量。
 
 他们似乎有聚集在一处的习惯，所以如果你把他们聚集在一起，团结起来，说不定就能创造出什么东西来。</HAR_NC_Material_a.description>
@@ -62,5 +62,15 @@
 
 来自与人造种族起源不同的外宇宙的超级生命的胎儿。
 他们是远方的同胞，也是亲近的同胞。</HAR_NC_Spawn_a.description>
+  <HAR_NC_M_a_race_Base.label>果阿尼德</HAR_NC_M_a_race_Base.label>
+  <HAR_NC_M_a_race_Base.description>死灵的亲人、尸体、血肉都感染了死灵的细菌，并受到念波的控制，细菌潜伏在他们的爪子和獠牙里，受伤的人就会被感染。由于它本质上只是一团肉，所以对于砍、刺等物理攻击较弱，但对于枪声、火焰等不易破坏其形状的干扰却极强。</HAR_NC_M_a_race_Base.description>
+  <HAR_NC_M_b_race_Base.label>戈尔种子</HAR_NC_M_b_race_Base.label>
+  <HAR_NC_M_b_race_Base.description>死灵的亲人、尸体、血肉都感染了死灵的细菌，并受到念波的控制，细菌潜伏在他们的爪子和獠牙里，受伤的人就会被感染。由于它本质上只是一团肉，所以对于砍、刺等物理攻击较弱，但对于枪声、火焰等不易破坏其形状的干扰却极强。</HAR_NC_M_b_race_Base.description>
+  <HAR_NC_M_c_race_Base.label>戈尔板</HAR_NC_M_c_race_Base.label>
+  <HAR_NC_M_c_race_Base.description>死灵的亲人、尸体、血肉都感染了死灵的细菌，并受到念波的控制，细菌潜伏在他们的爪子和獠牙里，受伤的人就会被感染。由于它本质上只是一团肉，所以对于砍、刺等物理攻击较弱，但对于枪声、火焰等不易破坏其形状的干扰却极强。</HAR_NC_M_c_race_Base.description>
+  <HAR_NC_M_y_race_Base.label>弗拉斯塔里</HAR_NC_M_y_race_Base.label>
+  <HAR_NC_M_y_race_Base.description>涅克洛斯 utisphonia 的一个属。由活体重建的尸体。 \n它不应该具有任何生物活性，但尚不清楚它是如何移动的。 \n\n它们又小又弱，但它们形成群体并且速度很快。</HAR_NC_M_y_race_Base.description>
+  <HAR_NC_M_z_race_Base.label>克莱尔斯</HAR_NC_M_z_race_Base.label>
+  <HAR_NC_M_z_race_Base.description>涅克洛斯 utisphonia 的一个属。由活体重建的尸体。 \n它不应该具有任何生物活性，但尚不清楚它是如何移动的。 \n\n极难击中，普通攻击无法杀死。</HAR_NC_M_z_race_Base.description>
   <CSS_SummonEffect.description>闪耀的召唤魔法阵。</CSS_SummonEffect.description>
 </LanguageData>

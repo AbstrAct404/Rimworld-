@@ -1,17 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_NC_M_a_Kind_Base.label>果阿尼德</HAR_NC_M_a_Kind_Base.label>
+  <HAR_NC_M_a_Kind_Base.labelMale>果阿尼德</HAR_NC_M_a_Kind_Base.labelMale>
+  <HAR_NC_M_a_Kind_Base.labelFemale>果阿尼德</HAR_NC_M_a_Kind_Base.labelFemale>
   <HAR_NC_M_a_Kind_Summon.label>果阿尼德</HAR_NC_M_a_Kind_Summon.label>
   <HAR_NC_M_a_Kind_NPC.label>果阿尼德</HAR_NC_M_a_Kind_NPC.label>
+  <HAR_NC_M_b_Kind_Base.label>果阿尼德</HAR_NC_M_b_Kind_Base.label>
+  <HAR_NC_M_b_Kind_Base.labelMale>戈尔种子</HAR_NC_M_b_Kind_Base.labelMale>
+  <HAR_NC_M_b_Kind_Base.labelFemale>戈尔种子</HAR_NC_M_b_Kind_Base.labelFemale>
   <HAR_NC_M_b_Kind_Summon.label>戈尔种子</HAR_NC_M_b_Kind_Summon.label>
   <HAR_NC_M_b_Kind_NPC.label>戈尔种子</HAR_NC_M_b_Kind_NPC.label>
+  <HAR_NC_M_c_Kind_Base.label>戈尔板</HAR_NC_M_c_Kind_Base.label>
+  <HAR_NC_M_c_Kind_Base.labelMale>戈尔板</HAR_NC_M_c_Kind_Base.labelMale>
+  <HAR_NC_M_c_Kind_Base.labelFemale>戈尔板</HAR_NC_M_c_Kind_Base.labelFemale>
   <HAR_NC_M_c_Kind_Summon.label>戈尔板</HAR_NC_M_c_Kind_Summon.label>
   <HAR_NC_M_c_Kind_NPC.label>戈尔板</HAR_NC_M_c_Kind_NPC.label>
+  <HAR_NC_M_y_Kind_Base.label>弗拉斯塔里</HAR_NC_M_y_Kind_Base.label>
+  <HAR_NC_M_y_Kind_Base.labelMale>克莱尔斯</HAR_NC_M_y_Kind_Base.labelMale>
+  <HAR_NC_M_y_Kind_Base.labelFemale>克莱尔斯</HAR_NC_M_y_Kind_Base.labelFemale>
   <HAR_NC_M_y_Kind_Summon.label>克莱尔斯</HAR_NC_M_y_Kind_Summon.label>
+  <HAR_NC_M_z_Kind_Base.label>克莱尔斯</HAR_NC_M_z_Kind_Base.label>
+  <HAR_NC_M_z_Kind_Base.labelMale>克莱尔斯</HAR_NC_M_z_Kind_Base.labelMale>
+  <HAR_NC_M_z_Kind_Base.labelFemale>克莱尔斯</HAR_NC_M_z_Kind_Base.labelFemale>
   <HAR_NC_M_z_Kind_Summon.label>克莱尔斯</HAR_NC_M_z_Kind_Summon.label>
+  <HAR_Neclose_Player.label>涅克洛斯_Player</HAR_Neclose_Player.label>
+  <HAR_Neclose_KindBase_NPC.label>死灵居民</HAR_Neclose_KindBase_NPC.label>
   <HAR_Neclose_NPC_Leader.label>死灵领袖</HAR_Neclose_NPC_Leader.label>
   <HAR_Neclose_NPC_Soldier.label>死灵战士</HAR_Neclose_NPC_Soldier.label>
   <HAR_Neclose_NPC_Trader.label>死灵商人</HAR_Neclose_NPC_Trader.label>
   <HAR_Neclose_NPC_Resident.label>死灵居民</HAR_Neclose_NPC_Resident.label>
+  <HAR_Neclose_KindBase_NPC_b.label>死灵</HAR_Neclose_KindBase_NPC_b.label>
   <HAR_Neclose_NPC_b_Leader.label>死灵</HAR_Neclose_NPC_b_Leader.label>
   <HAR_Neclose_NPC_b_Resident.label>死灵</HAR_Neclose_NPC_b_Resident.label>
 </LanguageData>

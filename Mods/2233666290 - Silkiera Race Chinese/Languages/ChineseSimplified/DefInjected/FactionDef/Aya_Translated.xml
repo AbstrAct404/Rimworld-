@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Silkiera_P_Faction.label>Silkyra的隐秘村庄</Silkiera_P_Faction.label>
+  <Silkiera_P_Faction.label>希尔基耶拉的隐秘村庄</Silkiera_P_Faction.label>
   <Silkiera_P_Faction.pawnSingular>丝姬拉</Silkiera_P_Faction.pawnSingular>
   <Silkiera_P_Faction.description>Silkira聚集并安静生活的村庄。</Silkiera_P_Faction.description>
-  <Silkiera_Faction_NPC.description>这是一家监管Silkyra等人组建并运营的制造工厂的公司，文明程度较高，人员充足，似乎很擅长利用资源进行战斗。他们对你来说是一个非常友好的派别，但是如果他们与你作对，他们会用他们的体力攻击你，所以最好不要和他们打架。 \n\n比其他派系更容易恢复友谊，所以如果你进攻遇到困难，你可能想请求增援，但请注意，亚金工业不会为了击败敌人而试图破坏周围地区......最好做好殖民地周围地区被火焰吞没的准备并采取对策。</Silkiera_Faction_NPC.description>
+  <Silkiera_Faction_NPC.label>希尔基耶拉_Faction</Silkiera_Faction_NPC.label>
+  <Silkiera_Faction_NPC.description>这是一家监管希尔基耶拉等人组建并运营的制造工厂的公司，文明程度较高，人员充足，似乎很擅长利用资源进行战斗。他们对你来说是一个非常友好的派别，但是如果他们与你作对，他们会用他们的体力攻击你，所以最好不要和他们打架。 \n\n比其他派系更容易恢复友谊，所以如果你进攻遇到困难，你可能想请求增援，但请注意，亚金工业不会为了击败敌人而试图破坏周围地区......最好做好殖民地周围地区被火焰吞没的准备并采取对策。</Silkiera_Faction_NPC.description>
   <Silkiera_Faction_NPC.pawnSingular>丝姬拉</Silkiera_Faction_NPC.pawnSingular>
 </LanguageData>

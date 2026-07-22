@@ -3,8 +3,8 @@
   <HAR_SK_A_a.label>金属装甲</HAR_SK_A_a.label>
   <HAR_SK_A_a.description>Silkira 的独特盔甲、防护服最初是为在恶劣环境下工作而设计的。因此，作为铠甲，它对于物理干扰的抵抗力并不是很强，但是却拥有极高的耐热性。</HAR_SK_A_a.description>
   <HAR_SK_A_b.label>妖狐和服</HAR_SK_A_b.label>
-  <HAR_SK_A_b.description>据说，亚人工业制作的最高品质的和服，是Silkyra Vixenmaris独家的，被一些和服爱好者以高价出售。</HAR_SK_A_b.description>
-  <HAR_SK_AO_a.description>Silkyra等人喜欢穿的内衣的特点是布料面积小、外观性感。</HAR_SK_AO_a.description>
+  <HAR_SK_A_b.description>据说，亚人工业制作的最高品质的和服，是希尔基耶拉 Vixenmaris独家的，被一些和服爱好者以高价出售。</HAR_SK_A_b.description>
+  <HAR_SK_AO_a.description>希尔基耶拉等人喜欢穿的内衣的特点是布料面积小、外观性感。</HAR_SK_AO_a.description>
   <HAR_SK_AO_a.label>内衣A（丝啦）</HAR_SK_AO_a.label>
   <HAR_SK_AH_a.description>模仿尼亚米尔号角的角。</HAR_SK_AH_a.description>
   <HAR_SK_AH_a.label>角落（丝姬拉）</HAR_SK_AH_a.label>
@@ -18,22 +18,22 @@
   <HAR_SK_AH_e.label>羊绒披肩 (silkira)</HAR_SK_AH_e.label>
   <HAR_SK_AH_f.description>Silkira 的专属头盔、防护服最初是为恶劣环境下工作而设计的。因此，作为头盔，它的抗物理干扰能力不是很强，但具有极高的耐热性。</HAR_SK_AH_f.description>
   <HAR_SK_AH_f.label>金属头盔</HAR_SK_AH_f.label>
-  <HAR_SK_AH_g.description>这是Silkyra Vixenmaris独有的发夹，它拥有很高的耐用性，但其外表却掩盖了这一点，这可能是由于巫术的缘故。</HAR_SK_AH_g.description>
+  <HAR_SK_AH_g.description>这是希尔基耶拉 Vixenmaris独有的发夹，它拥有很高的耐用性，但其外表却掩盖了这一点，这可能是由于巫术的缘故。</HAR_SK_AH_g.description>
   <HAR_SK_AH_g.label>狐狸发夹</HAR_SK_AH_g.label>
-  <HAR_SK_AS_a.description>Silkyra 等人喜爱的外套。它的重量更轻，因为它适合经常使用。</HAR_SK_AS_a.description>
+  <HAR_SK_AS_a.description>希尔基耶拉 等人喜爱的外套。它的重量更轻，因为它适合经常使用。</HAR_SK_AS_a.description>
   <HAR_SK_AS_a.label>Mods外套（丝滑啦）</HAR_SK_AS_a.label>
-  <HAR_SK_AS_b.description>Silkyra等人喜爱的工作服。它足够坚固，可以在事故中幸存，但也很难移动。</HAR_SK_AS_b.description>
+  <HAR_SK_AS_b.description>希尔基耶拉等人喜爱的工作服。它足够坚固，可以在事故中幸存，但也很难移动。</HAR_SK_AS_b.description>
   <HAR_SK_AS_b.label>工作服（丝琪拉）</HAR_SK_AS_b.label>
-  <HAR_SK_AS_c.description>Silkyra 等人喜爱的外套。它耐热、耐寒，但移动起来有点困难。</HAR_SK_AS_c.description>
+  <HAR_SK_AS_c.description>希尔基耶拉 等人喜爱的外套。它耐热、耐寒，但移动起来有点困难。</HAR_SK_AS_c.description>
   <HAR_SK_AS_c.label>羽绒服（丝啦）</HAR_SK_AS_c.label>
   <HAR_SK_AT_a.description>与Silkira村民穿的衣服类似，耐热耐寒，建议经常穿着。</HAR_SK_AT_a.description>
   <HAR_SK_AT_a.label>村民服装（丝姬拉）</HAR_SK_AT_a.label>
-  <HAR_SK_AT_b.description>它还内置了 Silkyra 的工作服和道具，使一般工作变得更快一些。</HAR_SK_AT_b.description>
-  <HAR_SK_AT_b.label>工作服（Silkyra）</HAR_SK_AT_b.label>
+  <HAR_SK_AT_b.description>它还内置了 希尔基耶拉 的工作服和道具，使一般工作变得更快一些。</HAR_SK_AT_b.description>
+  <HAR_SK_AT_b.label>工作服（希尔基耶拉）</HAR_SK_AT_b.label>
   <HAR_SK_AT_c.description>Silkira 的私人服装，由于消除了不必要的结构，因此易于移动。</HAR_SK_AT_c.description>
   <HAR_SK_AT_c.label>私服（silkira）</HAR_SK_AT_c.label>
   <HAR_SK_AT_d.description>Silkira 的小镇女孩服装很简单，但又不失可爱。</HAR_SK_AT_d.description>
-  <HAR_SK_AT_d.label>小镇女孩衣服（Silkyra）</HAR_SK_AT_d.label>
+  <HAR_SK_AT_d.label>小镇女孩衣服（希尔基耶拉）</HAR_SK_AT_d.label>
   <HAR_SK_AT_e.description>Silkira的服务员衣服比较暴露，或许是缺乏趣味性，更注重功能性。</HAR_SK_AT_e.description>
   <HAR_SK_AT_e.label>等候制服（silkira）</HAR_SK_AT_e.label>
   <HAR_SK_Meal_a.label>猫发泄口</HAR_SK_Meal_a.label>
@@ -63,6 +63,7 @@
   <HAR_SK_Mechanoid_race_e.description>“经过多次实验，终于正式投入使用\n不流血不流泪的钢铁战士射杀敌人！” \n\n亚人工业通过分析和复制机械体创造了机械生命体，并通过替换难以复制的大脑部分成功地正常运作。他擅长用枪进行远距离战斗，而且因为是机械兵，所以射击精度很高。</HAR_SK_Mechanoid_race_e.description>
   <HAR_SK_race_Cat.label>丝毛猫</HAR_SK_race_Cat.label>
   <HAR_SK_race_Cat.description>“一只长相可爱的宠物加入了队伍！\n它聪明敏捷，但体弱多病，不会战斗。\n\n亚人工业养的一只猫，虽然战斗力低，但寿命长，对环境有抵抗力。</HAR_SK_race_Cat.description>
+  <BMOT_Building_MailOrderTerminal_Base.description>这是一个邮购终端。您可以在舒适的家中立即购买您想要的物品。</BMOT_Building_MailOrderTerminal_Base.description>
   <BMOT_Building_MailOrderTerminal_Food.description>这是一家可以直接与 Ajin Kogyo 供应商进行交易的商店。交易需要贸易信标，并且品种每三天更换一次。</BMOT_Building_MailOrderTerminal_Food.description>
   <BMOT_Building_MailOrderTerminal_Material.description>这是一家可以直接与 Ajin Kogyo 供应商进行交易的商店。交易需要贸易信标，并且品种每三天更换一次。</BMOT_Building_MailOrderTerminal_Material.description>
   <BMOT_Building_MailOrderTerminal_Furniture.description>这是一家可以直接与 Ajin Kogyo 供应商进行交易的商店。交易需要贸易信标，并且品种每三天更换一次。</BMOT_Building_MailOrderTerminal_Furniture.description>
@@ -71,6 +72,7 @@
   <BMOT_Building_Recycle_a.description>“你的殖民地里武器和盔甲泛滥成灾吗？\n我们亚人工业会解决这个问题！\n\n亚人工业的修复商店，在这里你可以快速收集不需要的武器和盔甲。\n你还将收到“猫印章”作为感谢，你可以把它存起来兑换豪华奖品。</BMOT_Building_Recycle_a.description>
   <BMOT_Building_Refinery_a.description>“那里的一位顾客得到了他梦想的船！ \n您在寻找燃料来运行您的汽车时遇到困难吗？ \n我们会解决您的问题！ ]\n\n亚人工业的炼油厂。它液化岩石并利用空气和电力将其转化为化学燃料。 \n\n它似乎是模仿人工种族巫女为了消磨时间而创造的机器。</BMOT_Building_Refinery_a.description>
   <HAR_SK_Hive_a.description>``美味的罐头，吃起来真的很安全！ \n【请别犹豫，来问我吧！ ！ ！ \n\nAjin Kogyo 的一家经销店，在全国各地经销 Sill 罐。 \n他们分发这些东西的目的似乎是为了推广美味佳肴，为饥饿的人们做慈善工作。 \n人们对他敢于前往战区或极寒之地以获得认可的勇气感到既感激又敬畏。</HAR_SK_Hive_a.description>
+  <HAR_SK_TableBase.description>桌子是亚人工业的，中间是透明玻璃，看起来有点高级。</HAR_SK_TableBase.description>
   <HAR_SK_Table2x2c.label>玻璃桌 (2x2)</HAR_SK_Table2x2c.label>
   <HAR_SK_Table3x3c.label>玻璃桌 (3x3)</HAR_SK_Table3x3c.label>
   <HAR_SK_Lamp.label>面板灯</HAR_SK_Lamp.label>

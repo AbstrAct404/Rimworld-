@@ -3,6 +3,7 @@
   <Neclose_P_Faction.label>死灵隐藏村庄</Neclose_P_Faction.label>
   <Neclose_P_Faction.pawnSingular>死灵</Neclose_P_Faction.pawnSingular>
   <Neclose_P_Faction.description>死灵聚集并安静生活的村庄。</Neclose_P_Faction.description>
+  <Neclose_Faction_NPC.label>涅克洛斯_Faction</Neclose_Faction_NPC.label>
   <Neclose_Faction_NPC.description>死灵居住的被细菌污染的区域的名称或居住在那里的人群的名称。它忠实地遵循其前创建者“起到威慑作用”的指示，不主动采取任何侵略行为，并保持中立。但一旦受到攻击，它就会释放出隐藏在体内的细菌和血液，捕食敌人。</Neclose_Faction_NPC.description>
   <Neclose_Faction_NPC.pawnSingular>死灵</Neclose_Faction_NPC.pawnSingular>
   <Neclose_Faction_NPC.fixedName>迪斯帕特尔</Neclose_Faction_NPC.fixedName>

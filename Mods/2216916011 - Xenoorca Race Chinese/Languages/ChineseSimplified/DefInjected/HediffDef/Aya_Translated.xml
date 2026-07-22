@@ -5,13 +5,13 @@
   <HAR_XO_Hediff_b.label>隐藏远洋恐惧</HAR_XO_Hediff_b.label>
   <HAR_XO_Hediff_b.description>泽努卡·海达尔诺亚所穿的领域。 \n迫使对手承受比深海还要深的超深海的压力。 \n\n这里是母海的深处，一座无人能穿越的黑暗宫殿。</HAR_XO_Hediff_b.description>
   <HAR_XO_Hediff_c.label>皇令</HAR_XO_Hediff_c.label>
-  <HAR_XO_Hediff_c.description>Xenooka Heydarnoia 的出色指挥。 \n\n如果指挥的人是英雄，哪怕他只是一个散兵，也会是一个身经百战的军人。</HAR_XO_Hediff_c.description>
+  <HAR_XO_Hediff_c.description>泽诺奥卡 Heydarnoia 的出色指挥。 \n\n如果指挥的人是英雄，哪怕他只是一个散兵，也会是一个身经百战的军人。</HAR_XO_Hediff_c.description>
   <HAR_XO_Hediff_d.label>奥基努斯突袭</HAR_XO_Hediff_d.label>
-  <HAR_XO_Hediff_d.description>Xenooka Heydarnoia 释放逆戟鲸攻击。 \n受影响的人会在短时间内失去移动能力，如果受影响的人是玩家阵营的一部分，他们会被吹到附近的某个地方。 \n\n它在捕猎猎物时释放出的瞬间打击可以轻松击飞任何敌人。 \n这里已经是一个充满血腥和死亡的战场，我认为你不能畏缩和围攻。</HAR_XO_Hediff_d.description>
+  <HAR_XO_Hediff_d.description>泽诺奥卡 Heydarnoia 释放逆戟鲸攻击。 \n受影响的人会在短时间内失去移动能力，如果受影响的人是玩家阵营的一部分，他们会被吹到附近的某个地方。 \n\n它在捕猎猎物时释放出的瞬间打击可以轻松击飞任何敌人。 \n这里已经是一个充满血腥和死亡的战场，我认为你不能畏缩和围攻。</HAR_XO_Hediff_d.description>
   <HAR_XO_Hediff_e.label>堕落圣痕</HAR_XO_Hediff_e.label>
   <HAR_XO_Hediff_e.description>当你被 Tehomneshek 割伤时会出现圣痕。 \n如果一个人的铠甲被剥去，圣痕超过一定数量，他就会立即死亡。</HAR_XO_Hediff_e.description>
   <Xenoorca_Artificial.label>人工种族</Xenoorca_Artificial.label>
-  <Xenoorca_Artificial.description>异种人是人工创造的种族，擅长战斗，因此他们的身体得到了强化，但另一方面，由于他们是人造生物，他们对疾病等的抵抗力和免疫力较低。另外，他们的实力是由他们作为Xenooka的个人等级决定的，并且在大约一年的时间内增加1级（等级上限为10级）。</Xenoorca_Artificial.description>
+  <Xenoorca_Artificial.description>异种人是人工创造的种族，擅长战斗，因此他们的身体得到了强化，但另一方面，由于他们是人造生物，他们对疾病等的抵抗力和免疫力较低。另外，他们的实力是由他们作为泽诺奥卡的个人等级决定的，并且在大约一年的时间内增加1级（等级上限为10级）。</Xenoorca_Artificial.description>
   <Xenoorca_Artificial_b.label>人工上位种族</Xenoorca_Artificial_b.label>
   <Xenoorca_Artificial_b.description>即使遭受集中火力攻击，异兽黑达诺亚也有能够承受的生命力。而且，他们的实力是由个人的等级决定的，大约一年左右就会增加1级（最高为5级）。</Xenoorca_Artificial_b.description>
 </LanguageData>

@@ -1,8 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_Xenoorca_Player.label>泽诺奥卡_Player</HAR_Xenoorca_Player.label>
+  <HAR_Xenoorca_KindBase_NPC_b.label>逆戟鲸佣兵团士兵</HAR_Xenoorca_KindBase_NPC_b.label>
   <HAR_Xenoorca_NPC_b_Trader.label>逆戟鲸佣兵团商人</HAR_Xenoorca_NPC_b_Trader.label>
   <HAR_Xenoorca_NPC_b_Leader.label>逆戟鲸佣兵团团长</HAR_Xenoorca_NPC_b_Leader.label>
   <HAR_Xenoorca_NPC_b_Resident.label>逆戟鲸佣兵团士兵</HAR_Xenoorca_NPC_b_Resident.label>
+  <HAR_Xenoorca_KindBase_NPC.label>奥尔西努斯旅的士兵</HAR_Xenoorca_KindBase_NPC.label>
   <HAR_Xenoorca_NPC_Trader.label>奥西努斯旅商</HAR_Xenoorca_NPC_Trader.label>
   <HAR_Xenoorca_NPC_Resident.label>奥尔西努斯旅的士兵</HAR_Xenoorca_NPC_Resident.label>
   <HAR_Xenoorca_NPC_gunner.label>奥西努斯旅火枪手</HAR_Xenoorca_NPC_gunner.label>

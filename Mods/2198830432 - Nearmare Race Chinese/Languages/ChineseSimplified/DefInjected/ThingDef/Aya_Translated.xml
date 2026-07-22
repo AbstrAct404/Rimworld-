@@ -108,24 +108,32 @@
   <HAR_NM_Wear_x.label>探索意识</HAR_NM_Wear_x.label>
   <HAR_NM_Wear_r.description>在人工种族的家园迦南星球上开发的尖端设备。 \n它被前沿星球保护组织-ETHOS-用作战斗装备。</HAR_NM_Wear_r.description>
   <HAR_NM_Wear_r.label>哨兵磨损</HAR_NM_Wear_r.label>
+  <NM_M_NightStalker_Base.label>夜行者</NM_M_NightStalker_Base.label>
+  <NM_M_NightStalker_Base.description>尼亚美亚的后裔，杀伤力不如座狼，但动作极其敏捷，难以逃脱。 \n爪子和獠牙含有剧毒，所以被瞄准的人必须小心，即使击退它们，剧毒也会伤害他们。</NM_M_NightStalker_Base.description>
   <NM_M_NightStalker.label>Lv1。暗夜魔王</NM_M_NightStalker.label>
   <NM_M_NightStalker_b.label>Lv2。暗夜魔王</NM_M_NightStalker_b.label>
   <NM_M_NightStalker_c.label>Lv3。暗夜魔王</NM_M_NightStalker_c.label>
   <NM_M_NightStalker_d.label>Lv4。暗夜魔王</NM_M_NightStalker_d.label>
   <NM_M_NightStalker_e.label>Lv5。暗夜魔王</NM_M_NightStalker_e.label>
+  <NM_M_NightGaunts_Base.label>夜憔悴</NM_M_NightGaunts_Base.label>
+  <NM_M_NightGaunts_Base.description>作为尼亚美亚的后裔，它的触手具有引起温度快速变化的结构和特性，被它蜇过的人要么被剥夺热量，要么被注入足够的热量来点燃。</NM_M_NightGaunts_Base.description>
   <NM_M_NightGaunts.label>Lv1。夜憔悴</NM_M_NightGaunts.label>
   <NM_M_NightGaunts_b.label>Lv2。夜憔悴</NM_M_NightGaunts_b.label>
   <NM_M_NightGaunts_c.label>Lv3。夜憔悴</NM_M_NightGaunts_c.label>
   <NM_M_NightGaunts_d.label>Lv4。夜憔悴</NM_M_NightGaunts_d.label>
   <NM_M_NightGaunts_e.label>Lv5。夜憔悴</NM_M_NightGaunts_e.label>
+  <NM_M_Nightmare_Base.label>恶梦</NM_M_Nightmare_Base.label>
+  <NM_M_Nightmare_Base.description>尼亚美亚的附庸，以凶猛的硬度而自豪，利用庞大的身躯给予对方无法反击的强力一击。</NM_M_Nightmare_Base.description>
   <NM_M_Nearmaere.label>Lv1.噩梦</NM_M_Nearmaere.label>
   <NM_M_Nightmare.label>Lv1.噩梦</NM_M_Nightmare.label>
   <NM_M_Nightmare_b.label>Lv2.噩梦</NM_M_Nightmare_b.label>
   <NM_M_Nightmare_c.label>Lv3.噩梦</NM_M_Nightmare_c.label>
   <NM_M_Nightmare_d.label>Lv4.噩梦</NM_M_Nightmare_d.label>
   <NM_M_Nightmare_e.label>Lv5.噩梦</NM_M_Nightmare_e.label>
+  <HAR_NM_M_KUT_Base.description>它是尼亚美亚的后裔，是尼亚美亚对其创造者信仰的体现。 \n\n与普通尼亚美亚召唤的随从相比，攻击性稍差，但耐久度极佳，可以维持三天的存在。 \n而且，或许是因为对机械生命体怀有仇恨，所以它的攻击也具有使机器短路的能力。</HAR_NM_M_KUT_Base.description>
   <HAR_NM_TES_a.label>鹤江莎</HAR_NM_TES_a.label>
   <HAR_NM_TES_a.description>曾经由人工种族的创造者创造的生命体。 \n据说它具有出色的运输能力，在迦南历来受到重视。 \n由于它是在漂浮时移动，所以移动速度非常快，与其巨大的体型相称。 \n攻击性能相当低，可能是因为它的功能主要集中在承载能力上。</HAR_NM_TES_a.description>
+  <HAR_NM_M_KZU_Base.description>被超乎人类认知的超能力者拯救的人，已经没有任何残骸和灵魂，无论如何也不可能恢复到原来的状态。 \n他只是在发呆，重复着留在体内的条件反射动作。 \n然而，杀死或伤害它们已经变得极其困难，也许是因为它们不再被归类为生物。 \n\n只要一天的时间，它就无法再维持无魂的躯体，而自毁。</HAR_NM_M_KZU_Base.description>
   <HAR_NM_M_XXX.description>尼亚美亚·阿拉迪亚从宇宙深处召唤出来的超级存在。 \n这个人的名字被隐去，因为如果没有资格的人试图将其记住在大脑中，将会造成致命的差异并导致精神崩溃。 \n据说她与利托鲁纳召唤的对象“空海美间”是同一家族的成员，有着与那个人相似的温柔气质。 \n被这个超级生命感知的人，立刻就会因为未知的干扰而停止移动，最终变成肉块般的怪物。 \n尼米亚·阿拉迪亚似乎能够与这个超级存在进行交流，并且已经能够摆脱它的影响或异常现象。 \n\n基本上，尼亚美亚·阿拉迪亚是在不传递身份的情况下进行召唤的，所以它对敌友都进行无差别的干扰，但同样可以与超级存在进行交流的利托鲁纳和奎利拉王族可以承受这种干扰。 \n无论怎么看，这都是一种只会带来灾难的召唤方式，不过这也是可以理解的。女孩们在使用这种召唤时，都明白这无非是“清理玩具”。\n对于她们来说，这个超级存在不过是一种方便的杀戮武器。 \n这就是为什么女巫徒劳地建造尸体，并且会继续随心所欲地这样做。</HAR_NM_M_XXX.description>
   <HAR_NM_Archotech_a.label>女巫的棺材</HAR_NM_Archotech_a.label>
   <HAR_NM_Archotech_a.description>棺材里装着被人工种族称为“棺材领主”的女巫。 \n在Entelecheia，他被认为是大罪人，据说拥有独特的魔法。 \n打开它，你就可以释放她并加入殖民地。 \n\n作为一名女巫，她将对殖民地的人际关系产生很大的影响。</HAR_NM_Archotech_a.description>
@@ -135,6 +143,7 @@
   <HAR_NM_BroadshieldProjector.description>一种小型、低角度的盾牌，可有效防御简单的子弹。 \n与传统的低角度护盾相比，射程更窄，但部署时间却长了三倍。 \n缺点是护盾较小，容易受到爆炸的伤害。</HAR_NM_BroadshieldProjector.description>
   <HAR_NM_TrapIED_HighExplosive.label>安塔瑞斯双刃剑</HAR_NM_TrapIED_HighExplosive.label>
   <HAR_NM_TrapIED_HighExplosive.description>尼亚美亚·奈美塞亚召唤的地雷。 \n如果踩到它或对其施加冲击，半径 6 格内就会发生爆炸。</HAR_NM_TrapIED_HighExplosive.description>
+  <HAR_NM_Bullet_Shell_HighExplosive_Base.label>尤里图斯·卡农</HAR_NM_Bullet_Shell_HighExplosive_Base.label>
   <HAR_NM_VanometricPowerCell.label>差值发生器</HAR_NM_VanometricPowerCell.label>
   <HAR_NM_VanometricPowerCell.description>由人工种族的神子利特里娜·迪纳米斯开发的发电机。 \n它利用不断膨胀的宇宙的引力来发电，不需要燃料。 \n对殖民地管理非常有效，但要注意资产价值很高。</HAR_NM_VanometricPowerCell.description>
   <HAR_NM_Filth_FireFoam_a.label>沸腾的奇坎</HAR_NM_Filth_FireFoam_a.label>

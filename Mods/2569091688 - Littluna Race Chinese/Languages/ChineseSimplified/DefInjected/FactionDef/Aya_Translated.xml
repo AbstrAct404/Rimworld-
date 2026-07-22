@@ -3,6 +3,7 @@
   <Littluna_P_Faction.label>小露娜的隐秘村庄</Littluna_P_Faction.label>
   <Littluna_P_Faction.pawnSingular>里托鲁纳</Littluna_P_Faction.pawnSingular>
   <Littluna_P_Faction.description>小露娜们聚集并安静生活的村庄。</Littluna_P_Faction.description>
+  <Littluna_Faction_NPC.label>莉特露娜_Faction</Littluna_Faction_NPC.label>
   <Littluna_Faction_NPC.description>主要由利托鲁纳人组成的稀有派系，基本上与其他种族混合。</Littluna_Faction_NPC.description>
   <Littluna_Faction_NPC.pawnSingular>里托鲁纳</Littluna_Faction_NPC.pawnSingular>
   <Littluna_Faction_NPC.fixedName>里托鲁纳派系</Littluna_Faction_NPC.fixedName>

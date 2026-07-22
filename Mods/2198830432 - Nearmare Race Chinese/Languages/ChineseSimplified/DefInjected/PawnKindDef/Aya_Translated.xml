@@ -1,22 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_M_NightStalker_Kind_Base.label>夜行者</HAR_M_NightStalker_Kind_Base.label>
+  <HAR_M_NightStalker_Kind_Base.labelMale>夜行者</HAR_M_NightStalker_Kind_Base.labelMale>
+  <HAR_M_NightStalker_Kind_Base.labelFemale>夜行者</HAR_M_NightStalker_Kind_Base.labelFemale>
   <HAR_M_NightStalker_Kind.label>Lv1。暗夜魔王</HAR_M_NightStalker_Kind.label>
   <HAR_M_NightStalker_Kind_b.label>Lv2。暗夜魔王</HAR_M_NightStalker_Kind_b.label>
   <HAR_M_NightStalker_Kind_c.label>Lv3。暗夜魔王</HAR_M_NightStalker_Kind_c.label>
   <HAR_M_NightStalker_Kind_d.label>Lv4。暗夜魔王</HAR_M_NightStalker_Kind_d.label>
   <HAR_M_NightStalker_Kind_e.label>Lv5。暗夜魔王</HAR_M_NightStalker_Kind_e.label>
+  <HAR_M_NightGaunts_Kind_Base.label>夜憔悴</HAR_M_NightGaunts_Kind_Base.label>
+  <HAR_M_NightGaunts_Kind_Base.labelMale>夜憔悴</HAR_M_NightGaunts_Kind_Base.labelMale>
+  <HAR_M_NightGaunts_Kind_Base.labelFemale>夜憔悴</HAR_M_NightGaunts_Kind_Base.labelFemale>
   <HAR_M_NightGaunts_Kind.label>Lv1。夜憔悴</HAR_M_NightGaunts_Kind.label>
   <HAR_M_NightGaunts_Kind_b.label>Lv2。夜憔悴</HAR_M_NightGaunts_Kind_b.label>
   <HAR_M_NightGaunts_Kind_c.label>Lv3。夜憔悴</HAR_M_NightGaunts_Kind_c.label>
   <HAR_M_NightGaunts_Kind_d.label>Lv4。夜憔悴</HAR_M_NightGaunts_Kind_d.label>
   <HAR_M_NightGaunts_Kind_e.label>Lv5。夜憔悴</HAR_M_NightGaunts_Kind_e.label>
+  <HAR_M_Nightmare_Kind_Base.label>恶梦</HAR_M_Nightmare_Kind_Base.label>
+  <HAR_M_Nightmare_Kind_Base.labelMale>恶梦</HAR_M_Nightmare_Kind_Base.labelMale>
+  <HAR_M_Nightmare_Kind_Base.labelFemale>恶梦</HAR_M_Nightmare_Kind_Base.labelFemale>
   <HAR_M_Nearmaere_Kind.label>Lv1.噩梦</HAR_M_Nearmaere_Kind.label>
   <HAR_M_Nightmare_Kind.label>Lv1.噩梦</HAR_M_Nightmare_Kind.label>
   <HAR_M_Nightmare_Kind_b.label>Lv2.噩梦</HAR_M_Nightmare_Kind_b.label>
   <HAR_M_Nightmare_Kind_c.label>Lv3.噩梦</HAR_M_Nightmare_Kind_c.label>
   <HAR_M_Nightmare_Kind_d.label>Lv4.噩梦</HAR_M_Nightmare_Kind_d.label>
   <HAR_M_Nightmare_Kind_e.label>Lv5.噩梦</HAR_M_Nightmare_Kind_e.label>
+  <HAR_M_TES_Kind_Base.label>鹤江莎</HAR_M_TES_Kind_Base.label>
   <HAR_M_TES_Kind_a.label>鹤江莎</HAR_M_TES_Kind_a.label>
+  <HAR_Nearmaere_KindBase_NPC.label>尼亚美亚居民</HAR_Nearmaere_KindBase_NPC.label>
   <HAR_Nearmaere_NPC_Trader.label>尼亚美亚的商人</HAR_Nearmaere_NPC_Trader.label>
   <HAR_Nearmaere_NPC_Leader.label>尼亚美亚领导人</HAR_Nearmaere_NPC_Leader.label>
   <HAR_Nearmaere_NPC_Resident.label>尼亚美亚居民</HAR_Nearmaere_NPC_Resident.label>
@@ -24,9 +35,13 @@
   <HAR_Nearmaere_NPC_Sniper.label>尼亚米尔狙击手</HAR_Nearmaere_NPC_Sniper.label>
   <HAR_Nearmaere_NPC_Industrial.label>尼亚美代理</HAR_Nearmaere_NPC_Industrial.label>
   <HAR_Nearmaere_NPC_Grenade.label>尼亚美亚炮手</HAR_Nearmaere_NPC_Grenade.label>
+  <HAR_Nearmaere_KindBase_NPC_b.label>尼亚美的信徒</HAR_Nearmaere_KindBase_NPC_b.label>
   <HAR_Nearmaere_NPC_Trader_b.label>尼亚美亚的商人</HAR_Nearmaere_NPC_Trader_b.label>
   <HAR_Nearmaere_NPC_Leader_b.label>尼亚美亚主教</HAR_Nearmaere_NPC_Leader_b.label>
   <HAR_Nearmaere_NPC_Resident_b.label>尼亚美的基督徒</HAR_Nearmaere_NPC_Resident_b.label>
+  <HAR_Nearmaere_KindBase_NPC_c.label>尼亚美亚阿拉迪亚</HAR_Nearmaere_KindBase_NPC_c.label>
   <HAR_Nearmaere_NPC_Resident_c.label>尼亚美亚阿拉迪亚</HAR_Nearmaere_NPC_Resident_c.label>
+  <HAR_Nearmaere_KindBase_NPC_d.label>尼亚米尔·温盖特</HAR_Nearmaere_KindBase_NPC_d.label>
   <HAR_Nearmaere_NPC_Resident_d.label>尼亚米尔·温盖特</HAR_Nearmaere_NPC_Resident_d.label>
+  <HAR_Nearmaere_KindBase_NPC_e.label>尼亚美亚·尼美塞亚</HAR_Nearmaere_KindBase_NPC_e.label>
 </LanguageData>

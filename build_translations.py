@@ -53,6 +53,27 @@ GLOSSARY = {
     "服": "服装", "武器": "武器", "防具": "护甲", "作業": "工作",
 }
 
+# The machine translation service often leaves romanised race names in otherwise
+# Chinese descriptions.  These are display terms, not identifiers: normalize
+# them after translation while leaving XML keys, package IDs and placeholders
+# untouched.
+DISPLAY_NAME_REPLACEMENTS = {
+    "Idoher": "伊德海尔", "Idhale": "伊德海尔", "Avonruach": "阿冯·鲁阿赫",
+    "Evelito": "艾维利特", "Eveliet": "艾维利特",
+    "Ritoruna": "莉特露娜", "Littluna": "莉特露娜",
+    "Xenooka": "泽诺奥卡", "Xenoorca": "泽诺奥卡",
+    "Ideaan": "伊迪恩", "Idearn": "伊迪恩",
+    "Qualilla": "夸莉拉", "Qualeela": "夸莉拉", "Quorilla": "夸莉拉",
+    "Silkyra": "希尔基耶拉", "Silkiera": "希尔基耶拉",
+    "Necros": "涅克洛斯", "Neclose": "涅克洛斯",
+    "Solark": "索拉克", "Saclean": "萨克琳", "Chaoura": "查欧拉",
+    # Machine-translated aliases of Idhale seen in Chinese output.
+    "伊达尔": "伊德海尔", "伊达勒": "伊德海尔", "艾德哈尔": "伊德海尔",
+    "伊多哈尔": "伊德海尔", "伊多赫尔": "伊德海尔", "伊多哈勒": "伊德海尔",
+    "伊德哈勒": "伊德海尔", "阿文鲁阿哈": "阿冯·鲁阿赫",
+    "阿冯鲁阿赫": "阿冯·鲁阿赫", "阿冯鲁阿哈": "阿冯·鲁阿赫",
+}
+
 # A deliberately obfuscated source label cannot be translated reliably by an
 # automatic service; use the established race name and a readable designation.
 KEY_OVERRIDES = {
@@ -71,16 +92,28 @@ KEY_OVERRIDES = {
     "Aya_Race_Gene_a.label": "创世基因",
     "Aya_Race_Xenotype.label": "人工族",
     "HAR_IH_AT_z.label": "以太礼装",
+    "HAR_IH_AT_z.description": "为伊德海尔·阿冯·鲁阿赫量身定制的礼装，但似乎没有特殊效果。",
     # Idhale terminology: keep race/faction display names consistent, including
     # fixedName (which RimWorld displays instead of the FactionDef label).
     "HAR_Idhale.label": "伊德海尔",
+    "HAR_Idhale_Player.label": "伊德海尔",
     "HAR_Idhale_b.label": "伊德海尔·阿冯·鲁阿赫",
     "HAR_Idhale_b_Player.label": "伊德海尔·阿冯·鲁阿赫",
+    "HAR_Idhale_Body.label": "伊德海尔",
+    "HAR_Idhale_KindBase_NPC.label": "伊德海尔幸存者",
+    "HAR_Idhale_NPC_Resident.label": "伊德海尔幸存者",
+    "Category_Idhale.label": "伊德海尔服装",
+    "Idhale_P_Faction.label": "伊德海尔隐居地",
+    "Idhale_Faction_NPC.label": "伊德海尔隐居地",
     "Idhale_P_Faction.pawnSingular": "伊德海尔人",
     "Idhale_Faction_NPC.pawnSingular": "伊德海尔人",
     "Idhale_Faction_NPC_b.pawnSingular": "伊德海尔人",
     "Idhale_Faction_NPC_b.fixedName": "苍穹之魂",
+    "HAR_Idhale_KindBase_NPC_b.label": "苍穹之魂之民",
     "HAR_IH_Cultures_b.label": "苍穹之魂教义",
+    # PawnKind labels are shown after a pawn's age in the inspect panel.
+    "HAR_Idhale_NPC_b_Player.label": "罪灵",
+    "HAR_Idhale_NPC_b_Leader.label": "罪灵",
     "HAR_IH_Backstory_b_C1.title": "造物主遗物",
     "HAR_IH_Backstory_b_C1.titleShort": "造物主遗物",
     "HAR_IH_Backstory_b_A1.title": "旧世神灵",
@@ -119,6 +152,12 @@ def is_japanese(value: str) -> bool:
 def local_translate(value: str) -> str:
     for source, target in GLOSSARY.items():
         value = value.replace(source, target)
+    return value
+
+
+def normalize_display_names(value: str) -> str:
+    for source, target in DISPLAY_NAME_REPLACEMENTS.items():
+        value = re.sub(rf"(?<![A-Za-z]){re.escape(source)}(?![A-Za-z])", target, value, flags=re.I)
     return value
 
 
@@ -216,7 +255,10 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
             except ET.ParseError:
                 continue
             for definition in root:
-                def_name = text(definition.find("defName"))
+                # A few UI-visible abstract parent defs intentionally omit
+                # defName and use Name instead; they still need a DefInjected
+                # label override for descendants that inherit their label.
+                def_name = text(definition.find("defName")) or definition.get("Name", "")
                 if not def_name:
                     continue
                 for child in definition:
@@ -248,7 +290,7 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
             if key in seen:
                 continue
             seen.add(key)
-            translated = KEY_OVERRIDES.get(key, cache.get(original, local_translate(original)))
+            translated = normalize_display_names(KEY_OVERRIDES.get(key, cache.get(original, local_translate(original))))
             # Do not write an English duplicate: the base game can supply it.
             if translated == original and not is_japanese(original):
                 continue
@@ -265,7 +307,7 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
             if key in seen:
                 continue
             seen.add(key)
-            translated = cache.get(original, local_translate(original))
+            translated = normalize_display_names(cache.get(original, local_translate(original)))
             if translated == original and not is_japanese(original):
                 continue
             ET.SubElement(language, key).text = translated

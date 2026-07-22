@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_EL_EyeCover_Base.description>埃维利托</HAR_EL_EyeCover_Base.description>
+  <HAR_EL_EyeCover_Base.label>埃韦德克伦</HAR_EL_EyeCover_Base.label>
   <HAR_EL_EyeCover_a.description>刻有埃维利托赋予繁荣的人造种族的圣痕的手套。
 据说佩戴它可以提高与该种族相关的能力。
 人工种族和人类都可以装备。
@@ -72,7 +74,7 @@
 
 
 
-“Ritoruna，可爱的小使者。
+“莉特露娜，可爱的小使者。
 /
 你的微笑就是迦南平安的最好证明。
 　　＼苏纳诺？／
@@ -120,15 +122,15 @@
   <HAR_EL_EyeCover_i.label>兽人伊维克伦</HAR_EL_EyeCover_i.label>
   <HAR_EL_Apparel_Armor_a.label>艾丽昂铠甲</HAR_EL_Apparel_Armor_a.label>
   <HAR_EL_Apparel_Armor_a.description>艾维利托独有的盔甲。 \n可能因为是早期创建的，所以没有减少伤害的功能。</HAR_EL_Apparel_Armor_a.description>
-  <HAR_EL_Apparel_onskin_a.description>Evelito 专供内衣。设备也在调整中，所以性能不高。</HAR_EL_Apparel_onskin_a.description>
+  <HAR_EL_Apparel_onskin_a.description>艾维利特 专供内衣。设备也在调整中，所以性能不高。</HAR_EL_Apparel_onskin_a.description>
   <HAR_EL_Apparel_onskin_a.label>伊莎巴尔丝袜</HAR_EL_Apparel_onskin_a.label>
-  <HAR_EL_Apparel_Head_a.description>Evelito 独有的设备。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Head_a.description>
+  <HAR_EL_Apparel_Head_a.description>艾维利特 独有的设备。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Head_a.description>
   <HAR_EL_Apparel_Head_a.label>伊沙巴·阿尔皇冠</HAR_EL_Apparel_Head_a.label>
-  <HAR_EL_Apparel_Head_b.description>Evelito 独有的设备。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Head_b.description>
+  <HAR_EL_Apparel_Head_b.description>艾维利特 独有的设备。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Head_b.description>
   <HAR_EL_Apparel_Head_b.label>伊沙巴尔头饰</HAR_EL_Apparel_Head_b.label>
-  <HAR_EL_Apparel_Head_c.description>Evelito 独有的设备。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Head_c.description>
+  <HAR_EL_Apparel_Head_c.description>艾维利特 独有的设备。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Head_c.description>
   <HAR_EL_Apparel_Head_c.label>伊沙巴·阿尔·朱厄尔</HAR_EL_Apparel_Head_c.label>
-  <HAR_EL_Apparel_Head_d.description>Evelito 专用头盔。 \n可能因为是早期创建的，所以没有减少伤害的功能。</HAR_EL_Apparel_Head_d.description>
+  <HAR_EL_Apparel_Head_d.description>艾维利特 专用头盔。 \n可能因为是早期创建的，所以没有减少伤害的功能。</HAR_EL_Apparel_Head_d.description>
   <HAR_EL_Apparel_Head_d.label>艾丽昂头盔</HAR_EL_Apparel_Head_d.label>
   <HAR_EL_Apparel_Head_e.description>艾维利托专用的神圣面纱。据说只有最年长、最接近造物主的人才能佩戴它。</HAR_EL_Apparel_Head_e.description>
   <HAR_EL_Apparel_Head_e.label>伊沙巴·阿尔伯特</HAR_EL_Apparel_Head_e.label>
@@ -138,17 +140,17 @@
   <HAR_EL_Apparel_Shell_b.label>伊沙巴尔夹克 B</HAR_EL_Apparel_Shell_b.label>
   <HAR_EL_Apparel_Shell_c.description>艾维利托专用的斗篷。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Shell_c.description>
   <HAR_EL_Apparel_Shell_c.label>伊沙巴尔夹克 A</HAR_EL_Apparel_Shell_c.label>
-  <HAR_EL_Apparel_Shell_d.description>艾维利托专用的长袍。只有阿勒泰亚教会的创始人她才能穿着的神圣服装。 Ritoruna 的长袍使用了它的向后兼容版本。</HAR_EL_Apparel_Shell_d.description>
+  <HAR_EL_Apparel_Shell_d.description>艾维利托专用的长袍。只有阿勒泰亚教会的创始人她才能穿着的神圣服装。 莉特露娜 的长袍使用了它的向后兼容版本。</HAR_EL_Apparel_Shell_d.description>
   <HAR_EL_Apparel_Shell_d.label>伊沙巴赫·罗布</HAR_EL_Apparel_Shell_d.label>
-  <HAR_EL_Apparel_Tops_a.description>专为 Evelito 设计的衣服。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Tops_a.description>
+  <HAR_EL_Apparel_Tops_a.description>专为 艾维利特 设计的衣服。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Tops_a.description>
   <HAR_EL_Apparel_Tops_a.label>伊沙巴·奥尔德斯 A</HAR_EL_Apparel_Tops_a.label>
-  <HAR_EL_Apparel_Tops_b.description>专为 Evelito 设计的衣服。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Tops_b.description>
+  <HAR_EL_Apparel_Tops_b.description>专为 艾维利特 设计的衣服。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Tops_b.description>
   <HAR_EL_Apparel_Tops_b.label>Ishaba Al 连衣裙 B</HAR_EL_Apparel_Tops_b.label>
-  <HAR_EL_Apparel_Tops_c.description>专为 Evelito 设计的衣服。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Tops_c.description>
+  <HAR_EL_Apparel_Tops_c.description>专为 艾维利特 设计的衣服。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Tops_c.description>
   <HAR_EL_Apparel_Tops_c.label>伊沙巴·奥尔德斯 C</HAR_EL_Apparel_Tops_c.label>
-  <HAR_EL_Apparel_Tops_d.description>专为 Evelito 设计的衣服。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Tops_d.description>
+  <HAR_EL_Apparel_Tops_d.description>专为 艾维利特 设计的衣服。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Tops_d.description>
   <HAR_EL_Apparel_Tops_d.label>伊沙巴·奥尔德斯 D</HAR_EL_Apparel_Tops_d.label>
-  <HAR_EL_Apparel_Tops_e.description>专为 Evelito 设计的衣服。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Tops_e.description>
+  <HAR_EL_Apparel_Tops_e.description>专为 艾维利特 设计的衣服。设备也在调整中，所以性能不高。</HAR_EL_Apparel_Tops_e.description>
   <HAR_EL_Apparel_Tops_e.label>伊沙巴·阿尔德雷斯</HAR_EL_Apparel_Tops_e.label>
   <HAR_EL_Item_a.label>肖像类型：重新设计数据：A</HAR_EL_Item_a.label>
   <HAR_EL_Item_a.description>包含创造人工种族「肖像种族伊夫利特」信息的素材的一部分。
@@ -209,7 +211,7 @@
   <HAR_EL_Material_a.description>艾维利托吸血时出现的白色矿石。
 据说可以作为某些特殊装备的材料。</HAR_EL_Material_a.description>
   <HAR_EL_Spawn_a.label>伊夫利托胶囊</HAR_EL_Spawn_a.label>
-  <HAR_EL_Spawn_a.description>含有 Evelito 的胶囊。 \n通过使用它，你可以让伊夫利特加入殖民地。</HAR_EL_Spawn_a.description>
+  <HAR_EL_Spawn_a.description>含有 艾维利特 的胶囊。 \n通过使用它，你可以让伊夫利特加入殖民地。</HAR_EL_Spawn_a.description>
   <HAR_EL_Spawn_b.label>■■■■■封闭式胶囊</HAR_EL_Spawn_b.label>
   <HAR_EL_Spawn_b.description>胶囊内含■■■■■。 \n通过使用它，你可以让████加入殖民地。</HAR_EL_Spawn_b.description>
   <HAR_EL_Monster_a.label>母马</HAR_EL_Monster_a.label>

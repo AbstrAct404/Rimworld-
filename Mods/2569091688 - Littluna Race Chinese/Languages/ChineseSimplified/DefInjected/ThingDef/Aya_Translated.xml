@@ -10,7 +10,7 @@
   <HAR_LL_A_a.label>禁断铠甲</HAR_LL_A_a.label>
   <HAR_LL_A_a.description>虽然这是专门为利托鲁纳打造的战甲，而且针对利托鲁纳脆弱的身体，却从未真正使用过。</HAR_LL_A_a.description>
   <HAR_LL_O_a.description>Ritorina喜欢穿的内衣。</HAR_LL_O_a.description>
-  <HAR_LL_O_a.label>内衣A (Ritoruna)</HAR_LL_O_a.label>
+  <HAR_LL_O_a.label>内衣A (莉特露娜)</HAR_LL_O_a.label>
   <HAR_LL_H_a.description>小露娜专用头部装备。</HAR_LL_H_a.description>
   <HAR_LL_H_a.label>小头带</HAR_LL_H_a.label>
   <HAR_LL_H_b.description>小露娜专用头部装备。</HAR_LL_H_b.description>
@@ -21,21 +21,21 @@
   <HAR_LL_H_e.label>小消声器</HAR_LL_H_e.label>
   <HAR_LL_H_f.description>虽然这是专门为利托鲁纳打造的战斗头盔，而且针对利托鲁纳脆弱的身体，却从未真正使用过。</HAR_LL_H_f.description>
   <HAR_LL_H_f.label>禁忌头盔</HAR_LL_H_f.label>
-  <HAR_LL_S_a.description>Ritoruna 专用设备。</HAR_LL_S_a.description>
+  <HAR_LL_S_a.description>莉特露娜 专用设备。</HAR_LL_S_a.description>
   <HAR_LL_S_a.label>小外套</HAR_LL_S_a.label>
-  <HAR_LL_S_b.description>Ritoruna 专用设备。</HAR_LL_S_b.description>
+  <HAR_LL_S_b.description>莉特露娜 专用设备。</HAR_LL_S_b.description>
   <HAR_LL_S_b.label>小海角</HAR_LL_S_b.label>
-  <HAR_LL_S_c.description>Ritoruna 专用设备。</HAR_LL_S_c.description>
+  <HAR_LL_S_c.description>莉特露娜 专用设备。</HAR_LL_S_c.description>
   <HAR_LL_S_c.label>小斗篷</HAR_LL_S_c.label>
-  <HAR_LL_S_e.description>Ritoruna 专用设备。</HAR_LL_S_e.description>
+  <HAR_LL_S_e.description>莉特露娜 专用设备。</HAR_LL_S_e.description>
   <HAR_LL_S_e.label>小袍子</HAR_LL_S_e.label>
-  <HAR_LL_T_a.description>Ritoruna 专用设备。</HAR_LL_T_a.description>
+  <HAR_LL_T_a.description>莉特露娜 专用设备。</HAR_LL_T_a.description>
   <HAR_LL_T_a.label>小衬衫</HAR_LL_T_a.label>
-  <HAR_LL_T_b.description>Ritoruna 专用设备。</HAR_LL_T_b.description>
+  <HAR_LL_T_b.description>莉特露娜 专用设备。</HAR_LL_T_b.description>
   <HAR_LL_T_b.label>小衬衫</HAR_LL_T_b.label>
-  <HAR_LL_T_c.description>Ritoruna 专用设备。</HAR_LL_T_c.description>
+  <HAR_LL_T_c.description>莉特露娜 专用设备。</HAR_LL_T_c.description>
   <HAR_LL_T_c.label>小床单</HAR_LL_T_c.label>
-  <HAR_LL_T_e.description>Ritoruna 专用设备。</HAR_LL_T_e.description>
+  <HAR_LL_T_e.description>莉特露娜 专用设备。</HAR_LL_T_e.description>
   <HAR_LL_T_e.label>小西装外套</HAR_LL_T_e.label>
   <HAR_LL_M_a.label>空海大人</HAR_LL_M_a.label>
   <HAR_LL_M_a.description>被利托鲁纳从宇宙召唤出来的超级存在。 “空海大人”这个名字是利托鲁娜给她起的，她的真名无人知晓。 \n他拥有很高的智力，虽然外表不适合他，但气质沉稳，却无法与普通人交流。他似乎与莉托鲁娜志趣相投，对她十分友好。 \n\n他们以传授智慧、相互理解为名，向敌对势力发送无差别的心灵感应，但不知为何，那些被灌输的人却疯狂地互相残杀，结果变成了地狱。 \n即使是它的创造者也只能将其理解为“决定战斗的存在”，并且由于其极高的风险而被禁止将利托鲁纳用作武器。 \n\n\n除了当事人之外，没有人知道他们为何响应利托鲁纳的召唤，而且他们也没有说什么。 \n或者也许他通过不谈论它来保护他的盟友免受“过时的智慧”的影响。</HAR_LL_M_a.description>
@@ -71,13 +71,13 @@
 哦，还没推出呢。
 但我想我会借此机会和你一起去试驾我可爱的■■。</HAR_LL_Hive_Critias.description>
   <HAR_LL_Hive_Elysium.label>小露娜·瑞姆 艾利森</HAR_LL_Hive_Elysium.label>
-  <HAR_LL_Hive_Elysium.description>一种奇怪的 Ritoruna 形式，被 Turella Campana 称为。
+  <HAR_LL_Hive_Elysium.description>一种奇怪的 莉特露娜 形式，被 Turella Campana 称为。
 他通常会隐藏在另一个阶段，继续吸收这颗星球上的亡魂。
 据说它那可怕的身体是由数十万个砗磲组成的。
 虽然它应该是有限的存在，但它却具有不朽的特性，即使被某人的神力保护而毁灭，最终也会复活。
 
 看来深渊主宰海达诺亚正在拼命寻找它，并在牺牲无数异形的同时继续毁灭它。
-另外，根据Entelecheia的研究，Limuelishion的基因与Ritoruna Dynamis的基因非常相似。
+另外，根据Entelecheia的研究，Limuelishion的基因与莉特露娜 Dynamis的基因非常相似。
 
 由于体型巨大，根本无法移动，但会释放出利托鲁纳·流克来与对手进行战斗。
 总共有 30 个 Litoruna Leukes。
@@ -96,7 +96,7 @@
 
 你吃还是被吃，全由你决定。</HAR_LL_Hive_Elysium.description>
   <HAR_LL_Item_a.label>伊科里托斯</HAR_LL_Item_a.label>
-  <HAR_LL_Item_a.description>从 Ritoruna Ideas Clavos 获得的血红色物质。
+  <HAR_LL_Item_a.description>从 莉特露娜 Ideas Clavos 获得的血红色物质。
 		将其作为武器使用，可以获得极高的杀伤力。
 		
 		
@@ -132,7 +132,7 @@
 
 
 
-曾经属于 Ritoruna Dunamis 的钟的复制品。
+曾经属于 莉特露娜 Dunamis 的钟的复制品。
 据说，如果你演奏它，女孩们真的会回来听到声音。
 无论我多么思念故乡，却再也回不到故乡了。</HAR_LL_Archotech_c.description>
   <HAR_LL_Archotech_d.label>克里奥·斯特帕诺斯</HAR_LL_Archotech_d.label>
@@ -145,7 +145,7 @@
 
 依然保持着纯洁的圣宝，但这朵花冠却成为了将其与灾难联系在一起的奇点。</HAR_LL_Archotech_d.description>
   <HAR_LL_Archotech_e.label>潘多拉毛鱼</HAR_LL_Archotech_e.label>
-  <HAR_LL_Archotech_e.description>像是从 Ritoruna Lim Elysion 中取出的盒子一样的东西。
+  <HAR_LL_Archotech_e.description>像是从 莉特露娜 Lim Elysion 中取出的盒子一样的东西。
 当你打开它时，你感觉灾难即将爆发。
 至少不应该在有人居住的地方开放。
 
@@ -155,7 +155,7 @@
 
 如果拥有这个盒子的人是明智的，他或她就不应该打开它。</HAR_LL_Archotech_e.description>
   <HAR_LL_Archotech_f.label>诺埃斯塔夫罗斯</HAR_LL_Archotech_f.label>
-  <HAR_LL_Archotech_f.description>据说是在Ritoruna Dynamis的大脑中产生的十字形器官。
+  <HAR_LL_Archotech_f.description>据说是在莉特露娜 Dynamis的大脑中产生的十字形器官。
 据说它有能力从与其沟通的不同维度接收能量。
 通过使用它，目标可以获得强大的力量。
 

@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_IA_M_Kind_Base.label>物理拟态</HAR_IA_M_Kind_Base.label>
+  <HAR_IA_M_Kind_Base.labelMale>物理拟态</HAR_IA_M_Kind_Base.labelMale>
+  <HAR_IA_M_Kind_Base.labelFemale>物理拟态</HAR_IA_M_Kind_Base.labelFemale>
   <HAR_IA_M_Kind_a.label>物理拟态</HAR_IA_M_Kind_a.label>
   <HAR_Idearn_Laches_a.label>伊安·拉克斯</HAR_Idearn_Laches_a.label>
   <HAR_Idearn_Charmides_a.label>理念卡米德斯 A 型</HAR_Idearn_Charmides_a.label>
