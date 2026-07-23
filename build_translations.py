@@ -219,7 +219,10 @@ def xml_write(path: Path, root: ET.Element) -> None:
 
 def vdf_quote(value: str) -> str:
     """Escape a Steam Workshop VDF string without altering Chinese text."""
-    return value.replace('"', '\\"').replace("\r\n", "\\n").replace("\n", "\\n")
+    # KeyValues accepts quoted strings spanning physical lines.  SteamCMD does
+    # not expand a literal ``\\n`` sequence, so preserve real newlines for
+    # correctly formatted Workshop descriptions.
+    return value.replace("\r\n", "\n").replace("\r", "\n").replace('"', '\\"')
 
 
 def vdf_path(path: Path) -> str:
