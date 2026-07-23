@@ -57,6 +57,12 @@ SPECIAL_FORMS = {
 
 # Longest and most specific replacements must run first.
 TEXT_REPLACEMENTS = {
+    # Littluna's 決戦種 is an epithet for its intended battlefield role,
+    # rather than the name of a separate race.
+    "幼年决战种": "年幼的“决战种”",
+    "年幼的决战种": "年幼的“决战种”",
+    "一名伪神族会来到殖民地附近，并在数小时后因体力不支而倒下；届时可将其俘获并尝试招募。":
+        "一名拥有强大却不稳定召唤能力的年幼伪神族会加入殖民地。她因长途跋涉而虚弱，可能很快因体力不支倒下；休息数天后即可恢复。",
     # Simplified-Chinese presentation and punctuation used in game-facing
     # equipment, item, recipe, and research names.
     "(魅魔)": "（魅魔）",
