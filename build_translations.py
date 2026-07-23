@@ -488,6 +488,32 @@ def vdf_path(path: Path) -> str:
     return str(path.resolve()).replace("\\", "/")
 
 
+def write_readme(package: Path, mod_id: str, about: ET.Element) -> None:
+    """Write the repository README from the same metadata used for Workshop VDFs."""
+    title = text(about.find("name"))
+    description = text(about.find("description"))
+    versions = [text(item) for item in about.findall("./supportedVersions/li")]
+    dependency = text(about.find("./modDependencies/li/packageId"))
+    workshop_id = PUBLISHED_FILE_IDS[mod_id]
+    version_text = "、".join(f"RimWorld {version}" for version in versions)
+    package_text = text(about.find("packageId"))
+    content = "\n".join([
+        f"# {title}",
+        "",
+        description,
+        "",
+        "---",
+        f"- 原模组创意工坊 ID：{mod_id}",
+        f"- 本汉化创意工坊 ID：{workshop_id}",
+        f"- 兼容版本：{version_text}",
+        f"- packageId：`{package_text}`",
+        f"- 前置 packageId：`{dependency}`",
+        "- 加载顺序：原模组在前，本汉化在后。",
+        "",
+    ])
+    (package / "README.md").write_text(content, encoding="utf-8")
+
+
 def write_steam_vdfs(destination: Path, vdf_dir: Path) -> None:
     """Generate explicit SteamCMD update manifests for every maintained item."""
     vdf_dir.mkdir(parents=True, exist_ok=True)
@@ -600,10 +626,7 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
     load_after = ET.SubElement(about, "loadAfter")
     ET.SubElement(load_after, "li").text = original_id
     xml_write(out / "About" / "About.xml", about)
-    (out / "README.md").write_text(
-        f"# {out_name}\n\n原模组创意工坊 ID：{mod_id}\n\n兼容 RimWorld 1.6。加载顺序：原模组在前，本汉化在后。\n",
-        encoding="utf-8",
-    )
+    write_readme(out, mod_id, about)
 
     defs = active_defs(source)
     collected: dict[str, list[tuple[str, str, str]]] = defaultdict(list)
