@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <SteamworksManagedPath Condition="'$(SteamworksManagedPath)' == ''">com.rlabrecque.steamworks.net.dll</SteamworksManagedPath>
+    <SteamApiPath Condition="'$(SteamApiPath)' == ''">steam_api64.dll</SteamApiPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="com.rlabrecque.steamworks.net">
+      <HintPath>$(SteamworksManagedPath)</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <None Include="$(SteamApiPath)">
+      <Link>steam_api64.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+</Project>

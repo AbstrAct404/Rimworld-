@@ -1,0 +1,4 @@
+interface:
+  display_name: "Steam 创意工坊本地化上传"
+  short_description: "同步并验证 Steam 创意工坊的多语言标题与简介"
+  default_prompt: "使用 $steam-workshop-localize 将创意工坊标题和简介同步到指定语言分支并回读验证。"

@@ -17,6 +17,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 from pathlib import Path
+from workshop_descriptions_zh import WORKSHOP_DESCRIPTION_OVERRIDES
 
 WORKSHOP = Path(r"D:\SteamLibrary\steamapps\workshop\content\294100")
 
@@ -82,6 +83,125 @@ WORKSHOP_RACE_DISPLAY_REPLACEMENTS = TERMINOLOGY["race_names"]
 EXTERNAL_MOD_NAMES = set(TERMINOLOGY["external_mod_names"])
 EXTERNAL_MOD_NAME_REPLACEMENTS = TERMINOLOGY["external_mod_name_replacements"]
 
+# Shared prose used verbatim in several original About.xml files.  Keep these
+# translations natural and explicit instead of retaining the source ellipsis.
+COMMON_WORKSHOP_DESCRIPTION_REPLACEMENTS = {
+    "以下任意一个是佩戴头部装备时防止头发消失的MOD。":
+        "以下两款 MOD 均可防止佩戴头部装备时头发消失，任选其一即可。",
+    "这是一个以高质量显示以下内容之一的 MOD。":
+        "以下两款 MOD 均可提高角色贴图的显示质量，任选其一即可。",
+    "・规格可能会因更新而改变。":
+        "・模组机制可能随原模组更新而调整。",
+}
+
+# Human-reviewed Workshop prose fixes.  These correct contextual mistakes that
+# cannot be solved safely by replacing one term everywhere.
+WORKSHOP_DESCRIPTION_REPLACEMENTS = {
+    "2946679071": {
+        "[由于亮度而导致的性能变化]": "【亮度对能力的影响】",
+        "[亮度：100]身体机能下降": "[亮度：100%]身体能力降低",
+        "[亮度：100]受到的伤害增加": "[亮度：100%]受到的伤害增加",
+        "[亮度：0]身体机能增强": "[亮度：0%]身体能力增强",
+        "[亮度：0]受到的伤害减少": "[亮度：0%]受到的伤害减少",
+        "[亮度：0]恢复力增强": "[亮度：0%]恢复能力增强",
+        "[亮度：0] 禁止拍摄": "[亮度：0%]射击伤害无效",
+        "[仅限敌人，亮度：0]中概率向敌人射击并造成伤害。":
+            "[仅限敌方，亮度：0%]受到射击时，有中等概率传送至攻击者身边并对其造成伤害。",
+        "[亮度：0%]身体能力增强\n[亮度：0%]受到的伤害减少\n[亮度：0%]恢复能力增强\n"
+        "[亮度：0%]身体能力增强\n[亮度：0%]射击伤害无效":
+            "[亮度：0%]身体能力增强\n[亮度：0%]受到的伤害减少\n"
+            "[亮度：0%]恢复能力增强\n[亮度：0%]射击伤害无效",
+        "・拥有夜鹰特性的概率极高。": "・极高概率拥有“夜猫子”特性。",
+        "・即使看到黑暗或尸体，我的心也不会下降。": "・身处黑暗或看到尸体时不会产生心情惩罚。",
+    },
+    "2569091688": {
+        "利托鲁纳": "里托鲁纳",
+        "里托鲁纳会靠近你的殖民地，几个小时后它就会崩溃，所以你可以捕获它。":
+            "里托鲁纳会来到殖民地附近，并在数小时后因体力不支而倒下；届时可将其俘获。",
+    },
+    "2954714860": {
+        "创意C.乌鸦": "理念 C.乌鸦",
+        "“理念·C.乌鸦”": "“理念 C.乌鸦”",
+        "自称是人造种族一员的神秘女性。":
+            "一名自称人工种族的神秘女性。",
+        "他建议永久居住并与大家庭一起玩，并且会确保即使有很多定居者，也不会很难攻击（通常）。":
+            "她适合永久定居、人口众多的玩法；通常会控制袭击规模，避免殖民者较多时压力过高。",
+        "然而，他对那些离开这个星球的人（对于那些想经历地狱的人）毫不留情。":
+            "但若试图离开这颗星球，她将毫不留情——适合想体验高难度终局的玩家。",
+        "・有可能发生事件": "・各类事件更容易发生。",
+        "・六个月后发生人类疾病爆发事件":
+            "・游戏开始半年后，可能触发人类疾病暴发事件。",
+    },
+    "2227425882": {
+        "- 无法战斗，因为我没有武器": "・无法持有武器，因此不能进行常规战斗。",
+        "- 高度敏感，容易受到影响": "・灵能敏感度较高，更容易受到灵能影响。",
+        "・不依赖技能的工作进展缓慢": "・不受技能等级影响的基础工作速度较慢。",
+        "・不会受到伤害（但可能会受到 MOD 附加的伤害）":
+            "・免疫原版伤害；其他 MOD 新增的伤害类型仍可能生效。",
+        "・移动速度更快": "・移动速度比人类更快。",
+    },
+    "2608237489": {
+        "这个MOD是一个增加了新的种族、派系、特殊装备的MOD。":
+            "本 MOD 新增一个种族、一个派系及其专属装备。",
+        "如果索拉克是定居者之一，那么维持这个殖民地就会很困难。":
+            "索拉克加入后会显著增加殖民地的资源负担。",
+        "等到你的资产稳定、充裕之后，再把它们带到你身边。":
+            "建议待物资供应稳定且充足后，再招募索拉克。",
+        "您可以穿戴各个种族的装备。":
+            "安装后，索拉克可穿戴这些种族的部分装备。",
+        "你将能够以12的速度在海里游泳。":
+            "安装后，索拉克可在海面以 12 格/秒的速度移动。",
+        "-寿命是人类的3倍": "・寿命约为人类的 3 倍。",
+        "・饥饿程度是人类的5倍，容易饥饿":
+            "・体型庞大、饥饿速度快，食物消耗远高于人类。",
+        "・资产价值15000": "・单个索拉克的市场价值为 15000 银。",
+        "-无法持有武器": "・无法持有武器，只能依靠自身能力战斗。",
+        "・医疗、研究、培育、施工、训练、铺装、拆卸等作业速度非常慢。":
+            "・医疗、研究、种植、建造、驯兽、平整地面及拆除等专业工作速度很慢。",
+        "・比人类更快": "・移动速度明显快于人类（基础移动速度为 8 格/秒）。",
+        "- 有很多抵抗力，但对火的抵抗能力较弱。反物质被禁用":
+            "・对枪弹、爆炸及多数物理伤害具有较高抗性，但受到的火焰伤害加倍；免疫反物质爆炸伤害。",
+        "・随着岁月的流逝，“人工种族”的等级不断提高并变得更强。":
+            "・年龄增长时，“人工种族”等级会随之提升，能力也会逐渐增强。",
+        "・我不介意看到尸体（新鲜）或吃尸体（新鲜）":
+            "・看到新鲜尸体或食用新鲜尸体不会产生心情惩罚。",
+        "・无法抵抗露营、雨天和黑暗":
+            "・露宿、淋雨或身处黑暗时不会产生相应的心情惩罚。",
+        "- 可以使用反物质技能，可以使用以下技能":
+            "・可主动施放以下两项反物质能力：",
+        "拉姆耀斑：以自身为中心产生小型反物质爆炸，冷却时间为3天。":
+            "拉姆耀斑：以自身为中心引发小范围反物质爆炸，冷却时间为 3 天。",
+        "冥界耀斑：产生以自身为中心的大规模反物质爆炸，冷却时间为1个赛季。":
+            "冥界耀斑：以自身为中心引发大范围反物质爆炸，冷却时间为 1 个象限。",
+        "他们是中立派系，都装备了坚固的铠甲。":
+            "这是一个中立派系，其成员均装备强力护甲。",
+    },
+    "3153539856": {
+        "艾维利托": "埃维利托",
+        "【埃维利托加盟图】": "【埃维利托招募流程】",
+        "・将埃维利托的研究进行到底，制造“艾泽雷姆”。":
+            "1. 完成埃维利托研究，解锁并建造孵化设施“埃尔泽莱姆”。",
+        "・从商家处购买以下商品。":
+            "2. 从商人处购买全部五份重设计数据：",
+        "“肖像类型：重新设计数据：A” “肖像类型：重新设计数据：B”":
+            "“肖像种：重设计数据 A”“肖像种：重设计数据 B”",
+        "“肖像类型：重新设计数据：C” “肖像类型：重新设计数据：D” “肖像类型：重新设计数据：E”":
+            "“肖像种：重设计数据 C”“肖像种：重设计数据 D”“肖像种：重设计数据 E”",
+        "・使用上述物品作为材料，在“艾泽雷姆”中制作“埃维利托 胶囊”。":
+            "3. 将五份重设计数据作为材料，在“埃尔泽莱姆”中制作“埃维利托封装胶囊”。",
+        "・使用“埃维利托封装”。":
+            "4. 使用“埃维利托封装胶囊”，即可让一名埃维利托加入殖民地。",
+        "- 在其基本状态下，除了一些事情外，它与人类没有太大区别。":
+            "・基础状态下，除少数特殊机制外，身体能力与人类相近。",
+        "・从对手身上收集血液可以增加技能成本。":
+            "・从敌人身上收集血液，可以补充施放能力所需的血液储量。",
+        "・费用用于技能，技能有“使用条件”和“消耗”。":
+            "・每项能力都有各自的使用条件，并会消耗一定血液储量。",
+        "-可以装备一些尼亚米尔和丝姬拉衣服。":
+            "・可以穿戴部分 Nearmare Race 与 Silkiera Race 的种族装备。",
+    },
+}
+
 # A deliberately obfuscated source label cannot be translated reliably by an
 # automatic service; use the established race name and a readable designation.
 KEY_OVERRIDES = {
@@ -101,6 +221,53 @@ KEY_OVERRIDES = {
     "Aya_Race_Xenotype.label": "人工族",
     "HAR_IH_AT_z.label": "以太礼装",
     "HAR_IH_AT_z.description": "为伊德海尔·阿冯·鲁阿赫量身定制的礼装，但似乎没有特殊效果。",
+    "HAR_CO_UB_Recipe_a.label": "异象之书",
+    "HAR_CO_UB_Recipe_a.description": "从地行者生成异象之书。",
+    "HAR_CO_UB_Recipe_b.label": "盟约之灵",
+    "HAR_CO_UB_Recipe_b.description": "从地行者生成盟约之灵。",
+    "HAR_CO_Apparel_Tops_a.label": "斯基亚礼装 A",
+    "HAR_CO_Apparel_Tops_b.label": "斯基亚礼装 B",
+    "HAR_CO_Apparel_Tops_c.label": "斯基亚礼装 C",
+    "HAR_CO_Apparel_Tops_z.label": "米什帕提姆礼装",
+    # Named apparel: keep invented series names as stable transliterations and
+    # translate only the item category/type.
+    "HAR_EL_Apparel_Armor_a.label": "埃利昂护甲",
+    "HAR_EL_Apparel_onskin_a.label": "伊沙芭长袜",
+    "HAR_EL_Apparel_Head_a.label": "伊沙芭头冠",
+    "HAR_EL_Apparel_Head_b.label": "伊沙芭头饰",
+    "HAR_EL_Apparel_Head_c.label": "伊沙芭宝石",
+    "HAR_EL_Apparel_Head_d.label": "埃利昂头盔",
+    "HAR_EL_Apparel_Head_e.label": "伊沙芭面纱",
+    "HAR_EL_Apparel_Shell_a.label": "伊沙芭夹克 A",
+    "HAR_EL_Apparel_Shell_b.label": "伊沙芭夹克 B",
+    "HAR_EL_Apparel_Shell_c.label": "伊沙芭夹克 C",
+    "HAR_EL_Apparel_Shell_d.label": "伊沙芭长袍",
+    "HAR_EL_Apparel_Tops_a.label": "伊沙芭连衣裙 A",
+    "HAR_EL_Apparel_Tops_a.description": "专为埃维利托设计的礼装，仍在调整中，因此没有特殊效果。",
+    "HAR_EL_Apparel_Tops_b.label": "伊沙芭连衣裙 B",
+    "HAR_EL_Apparel_Tops_b.description": "专为埃维利托设计的礼装，仍在调整中，因此没有特殊效果。",
+    "HAR_EL_Apparel_Tops_c.label": "伊沙芭连衣裙 C",
+    "HAR_EL_Apparel_Tops_c.description": "专为埃维利托设计的礼装，仍在调整中，因此没有特殊效果。",
+    "HAR_EL_Apparel_Tops_d.label": "伊沙芭连衣裙 D",
+    "HAR_EL_Apparel_Tops_d.description": "专为埃维利托设计的礼装，仍在调整中，因此没有特殊效果。",
+    "HAR_EL_Apparel_Tops_e.label": "伊沙芭连衣裙 E",
+    "HAR_EL_Apparel_Tops_e.description": "专为埃维利托设计的礼装，仍在调整中，因此没有特殊效果。",
+    "HAR_EL_Item_a.label": "肖像种：重设计数据 A",
+    "HAR_EL_Item_b.label": "肖像种：重设计数据 B",
+    "HAR_EL_Item_c.label": "肖像种：重设计数据 C",
+    "HAR_EL_Item_d.label": "肖像种：重设计数据 D",
+    "HAR_EL_Item_e.label": "肖像种：重设计数据 E",
+    "HAR_EL_Material_a.label": "埃梅特·埃文",
+    "HAR_EL_Spawn_a.label": "埃维利托封装胶囊",
+    "HAR_IA_Armor_a.label": "艾提翁护甲",
+    "HAR_IA_Armor_b.label": "奥尔芬礼装",
+    "HAR_IA_AH_a.label": "艾提翁头盔 A",
+    "HAR_IA_AH_b.label": "艾提翁头盔 B",
+    "HAR_IA_tops_a.label": "梅卡涅礼装 A",
+    "HAR_IA_tops_b.label": "梅卡涅礼装 B",
+    "HAR_IA_tops_c.label": "梅卡涅礼装 C",
+    # Requeen had one English-only summon description in the source.
+    "BOSS_RQ_Monster_race_Summon_h.description": "雷奎恩的后裔，拥有生物与机械混合的特殊结构；为排除威胁而被调整为生命体，并被剥除了情感与自我。\n\n“侦察型”是以迅捷行动为代价牺牲部分耐久的先锋单位：它会借助光学迷彩隐蔽接近敌人，再以匕首发动攻击。",
     # Idhale terminology: keep race/faction display names consistent, including
     # fixedName (which RimWorld displays instead of the FactionDef label).
     "HAR_Idhale.label": "伊德海尔",
@@ -184,12 +351,24 @@ def local_translate(value: str) -> str:
 
 
 def normalize_display_names(value: str) -> str:
+    def replace_term(current: str, source: str, target: str) -> str:
+        # ASCII names need word-like guards so "Solark" is not replaced inside
+        # an identifier. Chinese/Japanese aliases should be replaced directly:
+        # RimWorld descriptions store line breaks as the literal characters
+        # "\\n", whose trailing ASCII "n" otherwise blocks a valid match.
+        if re.search(r"[A-Za-z]", source):
+            pattern = rf"(?<![A-Za-z]){re.escape(source)}(?![A-Za-z])"
+            return re.sub(pattern, target, current, flags=re.I)
+        return current.replace(source, target)
+
     for source, target in DISPLAY_NAME_REPLACEMENTS.items():
-        value = re.sub(rf"(?<![A-Za-z]){re.escape(source)}(?![A-Za-z])", target, value, flags=re.I)
+        value = replace_term(value, source, target)
     for source, target in WORKSHOP_RACE_DISPLAY_REPLACEMENTS.items():
-        value = re.sub(rf"(?<![A-Za-z]){re.escape(source)}(?![A-Za-z])", target, value, flags=re.I)
+        value = replace_term(value, source, target)
     for source, target in TERMINOLOGY["proper_names"].items():
-        value = re.sub(rf"(?<![A-Za-z]){re.escape(source)}(?![A-Za-z])", target, value, flags=re.I)
+        value = replace_term(value, source, target)
+    for source, target in TERMINOLOGY["game_terms"].items():
+        value = replace_term(value, source, target)
     return value
 
 
@@ -221,12 +400,15 @@ def translate_workshop_description(value: str, cache: dict[str, str]) -> str:
             cache[protected_value] = "".join(part[0] for part in data[0] if part and part[0]) or protected_value
         except Exception:
             cache[protected_value] = protected_value
-    translated = cache[protected_value]
+    # Normalize game text while external mod names are still protected tokens.
+    # Restoring them afterwards prevents "Xenoorca Race" from being partly
+    # changed into a Chinese race name by the terminology pass.
+    translated = normalize_display_names(cache[protected_value])
     for token, name in replacements.items():
         translated = translated.replace(token, name)
     for source, target in EXTERNAL_MOD_NAME_REPLACEMENTS.items():
         translated = translated.replace(source, target)
-    return "\n".join(line.rstrip() for line in normalize_display_names(translated).splitlines()).strip()
+    return "\n".join(line.rstrip() for line in translated.splitlines()).strip()
 
 
 def google_translate(values: list[str], cache: dict[str, str]) -> dict[str, str]:
@@ -288,6 +470,25 @@ def write_steam_vdfs(destination: Path, vdf_dir: Path) -> None:
             '}', '',
         ])
         (vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}.vdf").write_text(content, encoding="utf-8")
+        # Steam assumes English when no update language is supplied. Keep the
+        # default manifest above, and generate a separate Simplified Chinese
+        # metadata manifest so the localized Workshop branch can be synced
+        # without changing the default-language maintenance workflow.
+        schinese_content = "\n".join([
+            '"workshopitem"', '{',
+            '\t"appid"\t\t"294100"',
+            f'\t"publishedfileid"\t\t"{PUBLISHED_FILE_IDS[mod_id]}"',
+            '\t"language"\t\t"schinese"',
+            f'\t"contentfolder"\t\t"{vdf_quote(vdf_path(package))}"',
+            f'\t"previewfile"\t\t"{vdf_quote(vdf_path(package / "About" / "Preview.png"))}"',
+            f'\t"title"\t\t"{vdf_quote(title)}"',
+            f'\t"description"\t\t"{vdf_quote(description)}"',
+            '\t"changenote"\t\t"更新：同步简体中文标题与简介。"',
+            '}', '',
+        ])
+        (vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}-schinese.vdf").write_text(
+            schinese_content, encoding="utf-8"
+        )
     commands = [
         "@ShutdownOnFailedCommand 1",
         "@NoPromptForPassword 0",
@@ -333,7 +534,14 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
         return {"id": mod_id, "name": fallback_name, "status": "stub built (source unavailable)", "entries": 0, "path": str(out)}
     original_id = package_id(source)
     source_meta = ET.parse(source / "About" / "About.xml").getroot()
-    chinese_description = translate_workshop_description(text(source_meta.find("description")), cache)
+    if mod_id in WORKSHOP_DESCRIPTION_OVERRIDES:
+        chinese_description = WORKSHOP_DESCRIPTION_OVERRIDES[mod_id].strip()
+    else:
+        chinese_description = translate_workshop_description(text(source_meta.find("description")), cache)
+        for old_text, new_text in COMMON_WORKSHOP_DESCRIPTION_REPLACEMENTS.items():
+            chinese_description = chinese_description.replace(old_text, new_text)
+        for old_text, new_text in WORKSHOP_DESCRIPTION_REPLACEMENTS.get(mod_id, {}).items():
+            chinese_description = chinese_description.replace(old_text, new_text)
     out_name = f"[Aya] {fallback_name}_zh 人工种族汉化 v1.6"
     out = destination / f"{mod_id} - {fallback_name} Chinese"
     if out.exists():

@@ -3,3 +3,10 @@ steam_upload/
 
 # SteamCMD runtime downloaded locally for Workshop publishing.
 tools/
+
+# Python/.NET build caches and local Steamworks test project.
+__pycache__/
+*.py[cod]
+**/bin/
+**/obj/
+steam_localizer/
