@@ -6,6 +6,8 @@
     <Nullable>enable</Nullable>
     <SteamworksManagedPath Condition="'$(SteamworksManagedPath)' == ''">com.rlabrecque.steamworks.net.dll</SteamworksManagedPath>
     <SteamApiPath Condition="'$(SteamApiPath)' == ''">steam_api64.dll</SteamApiPath>
+    <SteamApiOutputName Condition="$([MSBuild]::IsOSPlatform('OSX'))">libsteam_api.dylib</SteamApiOutputName>
+    <SteamApiOutputName Condition="'$(SteamApiOutputName)' == ''">steam_api64.dll</SteamApiOutputName>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="com.rlabrecque.steamworks.net">
@@ -13,7 +15,7 @@
       <Private>true</Private>
     </Reference>
     <None Include="$(SteamApiPath)">
-      <Link>steam_api64.dll</Link>
+      <Link>$(SteamApiOutputName)</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
