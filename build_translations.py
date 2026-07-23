@@ -343,7 +343,7 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
     for tag, value in [
         ("name", out_name), ("author", "AbstrAct404 / Chinese localization"),
         ("packageId", f"abstract404.aya.{mod_id}.zh"),
-        ("description", f"{chinese_description}\n\n——\n简体中文汉化：AbstrAct404\n兼容版本：RimWorld 1.6\n前置：原模组（请置于本汉化之前加载）\n本模组仅含翻译文件，不包含原模组资源。"),
+        ("description", f"{chinese_description}\n\n——\n兼容版本：RimWorld 1.6\n前置：原模组（请置于本汉化之前加载）\n本模组仅含翻译文件，不包含原模组资源。"),
     ]:
         ET.SubElement(about, tag).text = value
     supported = ET.SubElement(about, "supportedVersions")

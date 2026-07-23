@@ -40,12 +40,22 @@
     "Camera+",
     "SwimmingKit",
     "Biomes!Islands",
+    "Nearmare Race",
     "RimWorld",
     "Hat Display Selection",
+    "[KV] Show Hair With Hats or Hide All Hats",
+    "HD Pawn Rendering",
+    "Pawn Render Patch",
     "Hats With Hair"
   ],
   "external_mod_name_replacements": {
     "相机+": "Camera+",
-    "相机 +": "Camera+"
+    "相机 +": "Camera+",
+    "近海赛跑": "Nearmare Race",
+    "帽子展示选择": "Hats Display Selection",
+    "[KV] 显示带帽子的头发或隐藏所有帽子": "[KV] Show Hair With Hats or Hide All Hats",
+    "高清棋子渲染": "HD Pawn Rendering",
+    "Pawn渲染补丁": "Pawn Render Patch",
+    "Pawn 渲染补丁": "Pawn Render Patch"
   }
 }
