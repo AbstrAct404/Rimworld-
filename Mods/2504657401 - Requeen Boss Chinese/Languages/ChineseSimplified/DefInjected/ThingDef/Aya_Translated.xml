@@ -17,8 +17,11 @@
   <BOSS_RQ_Monster_race_Summon_z.description>拥有半机械半血肉的特殊构造的【女王种】眷属。\n是在【女王种】死亡后奇迹般诞生的个体，没有进行任何调整。</BOSS_RQ_Monster_race_Summon_z.description>
   <BOSS_RQ_Drop_Base.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_Base.description>
   <BOSS_RQ_Drop_a.label>女王种的部件</BOSS_RQ_Drop_a.label>
+  <BOSS_RQ_Drop_a.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_a.description>
   <BOSS_RQ_Drop_b.label>女王种的部件</BOSS_RQ_Drop_b.label>
+  <BOSS_RQ_Drop_b.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_b.description>
   <BOSS_RQ_Drop_c.label>女王种的部件</BOSS_RQ_Drop_c.label>
+  <BOSS_RQ_Drop_c.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_c.description>
   <BOSS_RQ_Archotech_a.label>渡星的心脏</BOSS_RQ_Archotech_a.label>
   <BOSS_RQ_Archotech_a.description>从远渡星海的雏鸟【雏鸟】身上摘取的心脏。这颗心脏本属于毁灭了创造者、使人工种族濒临灭绝的超级兵器「对上位者决战自立兵器·克里提亚斯」。\n现在已经失去了绝大部分的功能，对人们来说几乎毫无用处。\n这颗心脏具有容纳灵魂的功能——这一功能至今仍在运转。侧耳倾听，你仿佛能幻听到那成千上万灵魂的悲鸣。\n解放这些灵魂便可以真正意义上的毁灭「远渡星海之鸟」。\n这就是人工种族们世代相传的、巡视于诸天万界、啄食文明与亿万生命的「远渡星海之鸟」的心脏。\n这心脏宛如极小的地狱，至今仍在死者们的惨叫中熊熊燃烧着。\n还请给予他们救赎，并让这只翱翔于星海的、令人深恶痛绝的鸟永远得留在这片大地上吧。</BOSS_RQ_Archotech_a.description>
   <BOSS_RQ_Bullet_a.label>雏鸟凝望</BOSS_RQ_Bullet_a.label>

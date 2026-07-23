@@ -13,6 +13,14 @@ import build_translations as build
 from apply_race_names import KEY_OVERRIDES as CANONICAL_NAME_OVERRIDES
 
 JAPANESE = re.compile(r"[\u3040-\u30ff\u31f0-\u31ff]")
+CONTEXTUAL_TRANSLATION_EXCEPTIONS = {
+    # The source reuses these strings for visibly different equipment slots or
+    # variants; Chinese needs the contextual noun/suffix to distinguish them.
+    "イシャバアルジャケットA",
+    "アイティオンヘルメット",
+    "イデア－ン専用のアーマー、創造主時代に運用されていたかは不明。そもそも彼女達は元から丈夫な為必要性はあまりない。",
+    "イデア－ン専用の謎の装備、通常のイデアーン達は装備出来ない。",
+}
 FORBIDDEN_RELEASE_TEXT = (
     "鐢",
     "銈",
@@ -186,7 +194,7 @@ def main() -> int:
                     translations_by_source[original].add(output_values[child.tag])
 
     for original, translations in translations_by_source.items():
-        if len(translations) > 1:
+        if len(translations) > 1 and original not in CONTEXTUAL_TRANSLATION_EXCEPTIONS:
             errors.append(
                 f"Inconsistent translation for {original!r}: {sorted(translations)!r}"
             )

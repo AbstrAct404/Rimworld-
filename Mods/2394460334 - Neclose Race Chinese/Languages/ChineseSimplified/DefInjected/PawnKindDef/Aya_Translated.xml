@@ -4,25 +4,41 @@
   <HAR_NC_M_a_Kind_Base.labelMale>戈尔诺伊德</HAR_NC_M_a_Kind_Base.labelMale>
   <HAR_NC_M_a_Kind_Base.labelFemale>戈尔诺伊德</HAR_NC_M_a_Kind_Base.labelFemale>
   <HAR_NC_M_a_Kind_Summon.label>戈尔诺伊德</HAR_NC_M_a_Kind_Summon.label>
+  <HAR_NC_M_a_Kind_Summon.labelMale>戈尔诺伊德</HAR_NC_M_a_Kind_Summon.labelMale>
+  <HAR_NC_M_a_Kind_Summon.labelFemale>戈尔诺伊德</HAR_NC_M_a_Kind_Summon.labelFemale>
   <HAR_NC_M_a_Kind_NPC.label>戈尔诺伊德</HAR_NC_M_a_Kind_NPC.label>
+  <HAR_NC_M_a_Kind_NPC.labelMale>戈尔诺伊德</HAR_NC_M_a_Kind_NPC.labelMale>
+  <HAR_NC_M_a_Kind_NPC.labelFemale>戈尔诺伊德</HAR_NC_M_a_Kind_NPC.labelFemale>
   <HAR_NC_M_b_Kind_Base.label>戈尔诺伊德</HAR_NC_M_b_Kind_Base.label>
   <HAR_NC_M_b_Kind_Base.labelMale>戈尔种</HAR_NC_M_b_Kind_Base.labelMale>
   <HAR_NC_M_b_Kind_Base.labelFemale>戈尔种</HAR_NC_M_b_Kind_Base.labelFemale>
   <HAR_NC_M_b_Kind_Summon.label>戈尔种</HAR_NC_M_b_Kind_Summon.label>
+  <HAR_NC_M_b_Kind_Summon.labelMale>戈尔种</HAR_NC_M_b_Kind_Summon.labelMale>
+  <HAR_NC_M_b_Kind_Summon.labelFemale>戈尔种</HAR_NC_M_b_Kind_Summon.labelFemale>
   <HAR_NC_M_b_Kind_NPC.label>戈尔种</HAR_NC_M_b_Kind_NPC.label>
+  <HAR_NC_M_b_Kind_NPC.labelMale>戈尔种</HAR_NC_M_b_Kind_NPC.labelMale>
+  <HAR_NC_M_b_Kind_NPC.labelFemale>戈尔种</HAR_NC_M_b_Kind_NPC.labelFemale>
   <HAR_NC_M_c_Kind_Base.label>戈尔肉块</HAR_NC_M_c_Kind_Base.label>
   <HAR_NC_M_c_Kind_Base.labelMale>戈尔肉块</HAR_NC_M_c_Kind_Base.labelMale>
   <HAR_NC_M_c_Kind_Base.labelFemale>戈尔肉块</HAR_NC_M_c_Kind_Base.labelFemale>
   <HAR_NC_M_c_Kind_Summon.label>戈尔肉块</HAR_NC_M_c_Kind_Summon.label>
+  <HAR_NC_M_c_Kind_Summon.labelMale>戈尔肉块</HAR_NC_M_c_Kind_Summon.labelMale>
+  <HAR_NC_M_c_Kind_Summon.labelFemale>戈尔肉块</HAR_NC_M_c_Kind_Summon.labelFemale>
   <HAR_NC_M_c_Kind_NPC.label>戈尔肉块</HAR_NC_M_c_Kind_NPC.label>
+  <HAR_NC_M_c_Kind_NPC.labelMale>戈尔肉块</HAR_NC_M_c_Kind_NPC.labelMale>
+  <HAR_NC_M_c_Kind_NPC.labelFemale>戈尔肉块</HAR_NC_M_c_Kind_NPC.labelFemale>
   <HAR_NC_M_y_Kind_Base.label>弗拉斯塔里</HAR_NC_M_y_Kind_Base.label>
   <HAR_NC_M_y_Kind_Base.labelMale>克莱尔斯</HAR_NC_M_y_Kind_Base.labelMale>
   <HAR_NC_M_y_Kind_Base.labelFemale>克莱尔斯</HAR_NC_M_y_Kind_Base.labelFemale>
   <HAR_NC_M_y_Kind_Summon.label>克莱尔斯</HAR_NC_M_y_Kind_Summon.label>
+  <HAR_NC_M_y_Kind_Summon.labelMale>克莱尔斯</HAR_NC_M_y_Kind_Summon.labelMale>
+  <HAR_NC_M_y_Kind_Summon.labelFemale>克莱尔斯</HAR_NC_M_y_Kind_Summon.labelFemale>
   <HAR_NC_M_z_Kind_Base.label>克莱尔斯</HAR_NC_M_z_Kind_Base.label>
   <HAR_NC_M_z_Kind_Base.labelMale>克莱尔斯</HAR_NC_M_z_Kind_Base.labelMale>
   <HAR_NC_M_z_Kind_Base.labelFemale>克莱尔斯</HAR_NC_M_z_Kind_Base.labelFemale>
   <HAR_NC_M_z_Kind_Summon.label>克莱尔斯</HAR_NC_M_z_Kind_Summon.label>
+  <HAR_NC_M_z_Kind_Summon.labelMale>克莱尔斯</HAR_NC_M_z_Kind_Summon.labelMale>
+  <HAR_NC_M_z_Kind_Summon.labelFemale>克莱尔斯</HAR_NC_M_z_Kind_Summon.labelFemale>
   <HAR_Neclose_Player.label>牧菌殖民者</HAR_Neclose_Player.label>
   <HAR_Neclose_KindBase_NPC.label>牧菌妖姬居民</HAR_Neclose_KindBase_NPC.label>
   <HAR_Neclose_NPC_Leader.label>牧菌妖姬领袖</HAR_Neclose_NPC_Leader.label>

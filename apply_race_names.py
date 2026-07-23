@@ -20,7 +20,7 @@ BASE_NAMES = {
     "Nearmare": "魅魔",
     "Chaoura": "混沌灵",
     "Neclose": "牧菌妖姬",
-    "Solark": "索拉克（龙姬）",
+    "Solark": "索拉克",
     "Xenoorca": "人鱼姬",
     "Littluna": "伪神族",
     "Eveliet": "伊娃莉特",
