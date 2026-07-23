@@ -39,6 +39,8 @@
   <modDependencies>
     <li>
       <packageId>Ayameduki.HARSolark</packageId>
+      <displayName>Solark Race</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2608237489</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>

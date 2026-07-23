@@ -44,6 +44,8 @@
   <modDependencies>
     <li>
       <packageId>Ayameduki.HARNeclose</packageId>
+      <displayName>Neclose Race</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2394460334</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>

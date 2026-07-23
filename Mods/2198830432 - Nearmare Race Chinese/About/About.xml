@@ -45,6 +45,8 @@
   <modDependencies>
     <li>
       <packageId>Ayameduki.HARNearmare</packageId>
+      <displayName>Nearmare Race</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2198830432</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>

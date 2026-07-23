@@ -41,6 +41,8 @@
   <modDependencies>
     <li>
       <packageId>Ayameduki.HARSaclean</packageId>
+      <displayName>Saclean Race</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2676302514</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>

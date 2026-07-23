@@ -475,6 +475,22 @@ def xml_write(path: Path, root: ET.Element) -> None:
     ET.ElementTree(root).write(path, encoding="utf-8", xml_declaration=True)
 
 
+def add_workshop_dependency(
+    about: ET.Element,
+    package_id_value: str,
+    display_name: str,
+    workshop_id: str,
+) -> None:
+    """Add complete dependency metadata accepted by RimWorld 1.6."""
+    dependencies = ET.SubElement(about, "modDependencies")
+    dependency = ET.SubElement(dependencies, "li")
+    ET.SubElement(dependency, "packageId").text = package_id_value
+    ET.SubElement(dependency, "displayName").text = display_name
+    ET.SubElement(dependency, "steamWorkshopUrl").text = (
+        f"steam://url/CommunityFilePage/{workshop_id}"
+    )
+
+
 def vdf_quote(value: str) -> str:
     """Escape a Steam Workshop VDF string without altering Chinese text."""
     # KeyValues accepts quoted strings spanning physical lines.  SteamCMD does
@@ -584,9 +600,7 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
         supported = ET.SubElement(about, "supportedVersions")
         for version in supported_versions:
             ET.SubElement(supported, "li").text = version
-        deps = ET.SubElement(about, "modDependencies")
-        dep = ET.SubElement(deps, "li")
-        ET.SubElement(dep, "packageId").text = original_id
+        add_workshop_dependency(about, original_id, fallback_name, mod_id)
         load_after = ET.SubElement(about, "loadAfter")
         ET.SubElement(load_after, "li").text = original_id
         xml_write(out / "About" / "About.xml", about)
@@ -620,9 +634,7 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
         ET.SubElement(about, tag).text = value
     supported = ET.SubElement(about, "supportedVersions")
     ET.SubElement(supported, "li").text = "1.6"
-    deps = ET.SubElement(about, "modDependencies")
-    dep = ET.SubElement(deps, "li")
-    ET.SubElement(dep, "packageId").text = original_id
+    add_workshop_dependency(about, original_id, fallback_name, mod_id)
     load_after = ET.SubElement(about, "loadAfter")
     ET.SubElement(load_after, "li").text = original_id
     xml_write(out / "About" / "About.xml", about)

@@ -89,6 +89,42 @@ def main() -> int:
                         f"Forbidden text {forbidden!r}: {file}: {node.tag}: {value[:100]!r}"
                     )
 
+    # RimWorld 1.6 warns when dependency metadata contains only a packageId.
+    # Keep these fields validated so a later rebuild cannot reintroduce the
+    # empty display-name and missing Workshop-link warnings.
+    for mod_id, fallback_name in build.MODS:
+        generated = next(args.root.glob(f"{mod_id} - * Chinese"), None)
+        if generated is None:
+            errors.append(f"Generated package missing: {mod_id} - {fallback_name}")
+            continue
+        about_path = generated / "About" / "About.xml"
+        try:
+            about = ET.parse(about_path).getroot()
+        except (ET.ParseError, OSError) as exc:
+            errors.append(f"About.xml unavailable: {about_path}: {exc}")
+            continue
+        dependencies = about.findall("./modDependencies/li")
+        if not dependencies:
+            errors.append(f"Dependency missing: {about_path}")
+            continue
+        expected_url = f"steam://url/CommunityFilePage/{mod_id}"
+        for dependency in dependencies:
+            package_id = (dependency.findtext("packageId") or "").strip()
+            display_name = (dependency.findtext("displayName") or "").strip()
+            workshop_url = (dependency.findtext("steamWorkshopUrl") or "").strip()
+            download_url = (dependency.findtext("downloadUrl") or "").strip()
+            if not package_id:
+                errors.append(f"Dependency packageId empty: {about_path}")
+            if not display_name:
+                errors.append(f"Dependency displayName empty: {about_path}")
+            if not workshop_url and not download_url:
+                errors.append(f"Dependency URL missing: {about_path}")
+            if workshop_url and workshop_url != expected_url:
+                errors.append(
+                    f"Dependency Workshop URL mismatch: {about_path}: "
+                    f"{workshop_url!r} != {expected_url!r}"
+                )
+
     # The same Japanese source string must not acquire different Chinese
     # renderings merely because it occurs in another Aya package or Def type.
     translations_by_source: dict[str, set[str]] = collections.defaultdict(set)

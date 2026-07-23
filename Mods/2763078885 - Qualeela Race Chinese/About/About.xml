@@ -46,6 +46,8 @@
   <modDependencies>
     <li>
       <packageId>Ayameduki.HARQualeela</packageId>
+      <displayName>Qualeela Race</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2763078885</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>

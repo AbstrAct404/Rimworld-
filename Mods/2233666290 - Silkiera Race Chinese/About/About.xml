@@ -49,6 +49,8 @@
   <modDependencies>
     <li>
       <packageId>Ayameduki.HARSilkiera</packageId>
+      <displayName>Silkiera Race</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2233666290</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>

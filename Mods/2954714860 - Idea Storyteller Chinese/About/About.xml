@@ -28,6 +28,8 @@
   <modDependencies>
     <li>
       <packageId>Ayameduki.IdeaStoryteller</packageId>
+      <displayName>Idea Storyteller</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2954714860</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>

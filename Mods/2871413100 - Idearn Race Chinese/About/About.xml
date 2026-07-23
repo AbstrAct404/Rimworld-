@@ -43,6 +43,8 @@
   <modDependencies>
     <li>
       <packageId>Ayameduki.HARIdearn</packageId>
+      <displayName>Idearn Race</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2871413100</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>

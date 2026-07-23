@@ -44,6 +44,8 @@
   <modDependencies>
     <li>
       <packageId>Ayameduki.HARIdhale</packageId>
+      <displayName>Idhale Race</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2227425882</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>

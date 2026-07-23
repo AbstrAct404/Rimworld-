@@ -39,6 +39,8 @@
   <modDependencies>
     <li>
       <packageId>Ayameduki.HARLittluna</packageId>
+      <displayName>Littluna Race</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2569091688</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>

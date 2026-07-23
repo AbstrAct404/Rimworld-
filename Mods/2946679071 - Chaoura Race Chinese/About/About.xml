@@ -52,6 +52,8 @@
   <modDependencies>
     <li>
       <packageId>Ayameduki.HARChaoura</packageId>
+      <displayName>Chaoura Race</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2946679071</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>

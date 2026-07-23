@@ -44,6 +44,8 @@
   <modDependencies>
     <li>
       <packageId>Ayameduki.HARXenoorca</packageId>
+      <displayName>Xenoorca Race</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2216916011</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>

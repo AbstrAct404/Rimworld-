@@ -45,6 +45,8 @@
   <modDependencies>
     <li>
       <packageId>Ayameduki.BOSSRequeen</packageId>
+      <displayName>Requeen Boss</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2504657401</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>

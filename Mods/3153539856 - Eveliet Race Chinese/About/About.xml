@@ -33,6 +33,8 @@
   <modDependencies>
     <li>
       <packageId>Ayameduki.HAREveliet</packageId>
+      <displayName>Eveliet Race</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3153539856</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>
