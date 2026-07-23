@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <Eveliet_Artificial.label>试作人工种族</Eveliet_Artificial.label>
-  <Eveliet_Artificial.description>埃维利托是人工种族的试作型，因此其本体的稳定性与之后的人工种族相比起来极其底下。
+  <Eveliet_Artificial.description>艾维利特是人工种族的试作型，因此其本体的稳定性与之后的人工种族相比起来极其底下。
 因此，为了避免不经意的强化导致的肉体崩溃，她们会小心的把力量保存起来。
 
 其强度并不会随着时间的流逝而有所增加。</Eveliet_Artificial.description>
   <HAR_EL_Hediff_a.label>救济的血杯</HAR_EL_Hediff_a.label>
-  <HAR_EL_Hediff_a.description>保存在埃维利托外壳中的鲜血之杯。
+  <HAR_EL_Hediff_a.description>保存在艾维利特外壳中的鲜血之杯。
 只能通过猩红之吻对其中的血液进行补充。
 同时也会在进行身体强化或者使用特殊能力时作为代价进行消耗。
 最多可以补充到400。</HAR_EL_Hediff_a.description>
   <HAR_EL_Hediff_b.label>亚当的禁制</HAR_EL_Hediff_b.label>
-  <HAR_EL_Hediff_b.description>被埃维利托吸血后的状态。
+  <HAR_EL_Hediff_b.description>被艾维利特吸血后的状态。
 会暂时降低身体机能并伴随着大量出血。
 顺带一提，吸血过程中摄入的是能够使身体正常运作的液体，因此是血是油都无所谓。
 
 一旦陷入这种状态，就需要大量时间才能够恢复。</HAR_EL_Hediff_b.description>
   <HAR_EL_Hediff_c.label>利乏音之壳</HAR_EL_Hediff_c.label>
-  <HAR_EL_Hediff_c.description>创造主赐予埃维利托作为辅助器官的强化外壳。
+  <HAR_EL_Hediff_c.description>创造主赐予艾维利特作为辅助器官的强化外壳。
 通过将救济的血杯中补充的血液作为燃料启动。
 
-一旦将这层外壳解放的话，埃维利托就会破除封印恢复原有的力量，发挥出超人一般的性能。
+一旦将这层外壳解放的话，艾维利特就会破除封印恢复原有的力量，发挥出超人一般的性能。
 一般来讲启动的极限时长是6个小时，但在此期间血液如果能得到补充的话，还能运作更长时间。</HAR_EL_Hediff_c.description>
   <HAR_EL_Hediff_d.label>黑暗之宴</HAR_EL_Hediff_d.label>
-  <HAR_EL_Hediff_d.description>被埃维利托的血刃造成的伤势。
+  <HAR_EL_Hediff_d.description>被艾维利特的血刃造成的伤势。
 出血会逐渐严重，伤口也会越来越难以愈合。
 这种状态在半天之后就会解除。</HAR_EL_Hediff_d.description>
 </LanguageData>

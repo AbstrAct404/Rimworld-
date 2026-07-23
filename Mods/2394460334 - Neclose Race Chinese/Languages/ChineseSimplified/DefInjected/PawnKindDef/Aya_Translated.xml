@@ -24,12 +24,12 @@
   <HAR_NC_M_z_Kind_Base.labelFemale>克莱尔斯</HAR_NC_M_z_Kind_Base.labelFemale>
   <HAR_NC_M_z_Kind_Summon.label>克莱尔斯</HAR_NC_M_z_Kind_Summon.label>
   <HAR_Neclose_Player.label>牧菌殖民者</HAR_Neclose_Player.label>
-  <HAR_Neclose_KindBase_NPC.label>死灵居民</HAR_Neclose_KindBase_NPC.label>
-  <HAR_Neclose_NPC_Leader.label>死灵领袖</HAR_Neclose_NPC_Leader.label>
+  <HAR_Neclose_KindBase_NPC.label>涅克洛斯居民</HAR_Neclose_KindBase_NPC.label>
+  <HAR_Neclose_NPC_Leader.label>涅克洛斯领袖</HAR_Neclose_NPC_Leader.label>
   <HAR_Neclose_NPC_Soldier.label>牧菌战士</HAR_Neclose_NPC_Soldier.label>
-  <HAR_Neclose_NPC_Trader.label>死灵贸易商</HAR_Neclose_NPC_Trader.label>
-  <HAR_Neclose_NPC_Resident.label>死灵居民</HAR_Neclose_NPC_Resident.label>
-  <HAR_Neclose_KindBase_NPC_b.label>死灵·乌提斯福尼亚</HAR_Neclose_KindBase_NPC_b.label>
-  <HAR_Neclose_NPC_b_Leader.label>死灵·乌提斯福尼亚</HAR_Neclose_NPC_b_Leader.label>
-  <HAR_Neclose_NPC_b_Resident.label>死灵·乌提斯福尼亚</HAR_Neclose_NPC_b_Resident.label>
+  <HAR_Neclose_NPC_Trader.label>涅克洛斯贸易商</HAR_Neclose_NPC_Trader.label>
+  <HAR_Neclose_NPC_Resident.label>涅克洛斯居民</HAR_Neclose_NPC_Resident.label>
+  <HAR_Neclose_KindBase_NPC_b.label>涅克洛斯·乌提斯福尼亚</HAR_Neclose_KindBase_NPC_b.label>
+  <HAR_Neclose_NPC_b_Leader.label>涅克洛斯·乌提斯福尼亚</HAR_Neclose_NPC_b_Leader.label>
+  <HAR_Neclose_NPC_b_Resident.label>涅克洛斯·乌提斯福尼亚</HAR_Neclose_NPC_b_Resident.label>
 </LanguageData>

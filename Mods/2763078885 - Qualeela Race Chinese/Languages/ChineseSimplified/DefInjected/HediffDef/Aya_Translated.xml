@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <HAR_QL_Hediff_a.label>王权誓约</HAR_QL_Hediff_a.label>
-  <HAR_QL_Hediff_a.description>夸里拉的王权机能之一『王权誓约』的效果。\n通过与周围的友方单位进行暂时的契约，从而施加剧烈的身体强化。\n由于只是简易的契约，效果在数小时后就会消失。</HAR_QL_Hediff_a.description>
+  <HAR_QL_Hediff_a.description>夸莉拉的王权机能之一『王权誓约』的效果。\n通过与周围的友方单位进行暂时的契约，从而施加剧烈的身体强化。\n由于只是简易的契约，效果在数小时后就会消失。</HAR_QL_Hediff_a.description>
   <HAR_QL_Hediff_b.label>王权护佑</HAR_QL_Hediff_b.label>
-  <HAR_QL_Hediff_b.description>夸里拉的王权机能之一『王权护佑』的效果。\n通过对周围的友方单位进行击退攻击的祝福，从而提高他们的防御力。\n由于只是简易的祝福，效果在数小时后就会消失。</HAR_QL_Hediff_b.description>
+  <HAR_QL_Hediff_b.description>夸莉拉的王权机能之一『王权护佑』的效果。\n通过对周围的友方单位进行击退攻击的祝福，从而提高他们的防御力。\n由于只是简易的祝福，效果在数小时后就会消失。</HAR_QL_Hediff_b.description>
   <HAR_QL_Hediff_c.label>王权统治</HAR_QL_Hediff_c.label>
-  <HAR_QL_Hediff_c.description>夸里拉的王权机能之一『王权统治』的效果。\n封印敌方的强化效果并压迫他们的精神，使其处于极度紧张状态。</HAR_QL_Hediff_c.description>
+  <HAR_QL_Hediff_c.description>夸莉拉的王权机能之一『王权统治』的效果。\n封印敌方的强化效果并压迫他们的精神，使其处于极度紧张状态。</HAR_QL_Hediff_c.description>
   <HAR_QL_Hediff_d.label>王权耀光</HAR_QL_Hediff_d.label>
-  <HAR_QL_Hediff_d.description>夸里拉的王权机能之一『王权耀光』的效果。\n敌方会产生幻听与幻视，进入意识朦胧的状态。</HAR_QL_Hediff_d.description>
+  <HAR_QL_Hediff_d.description>夸莉拉的王权机能之一『王权耀光』的效果。\n敌方会产生幻听与幻视，进入意识朦胧的状态。</HAR_QL_Hediff_d.description>
   <HAR_QL_Hediff_e.label>扬升圣痕</HAR_QL_Hediff_e.label>
-  <HAR_QL_Hediff_e.description>被夸里拉们所持有的神器所刻下的圣痕。刻下的圣痕超过一定数量的话，那个人就会即刻升天。据说是真理教会所保有的扬升纳米机械被复现之前的源头。</HAR_QL_Hediff_e.description>
+  <HAR_QL_Hediff_e.description>被夸莉拉们所持有的神器所刻下的圣痕。刻下的圣痕超过一定数量的话，那个人就会即刻升天。据说是真理教会所保有的扬升纳米机械被复现之前的源头。</HAR_QL_Hediff_e.description>
   <Qualeela_Artificial.label>人工上位种族</Qualeela_Artificial.label>
-  <Qualeela_Artificial.description>夸里拉是人工种族，作为统率各个人工种族的存在具有着相应的精神力。\n\n另外，她们有着自己的眷属，可以召唤出来让其与敌人战斗，其强度、召唤数根据她们个人作为夸里拉的Lv而定，约两年提升1级 (Lv上限为5)。</Qualeela_Artificial.description>
+  <Qualeela_Artificial.description>夸莉拉是人工种族，作为统率各个人工种族的存在具有着相应的精神力。\n\n另外，她们有着自己的眷属，可以召唤出来让其与敌人战斗，其强度、召唤数根据她们个人作为夸莉拉的Lv而定，约两年提升1级 (Lv上限为5)。</Qualeela_Artificial.description>
 </LanguageData>

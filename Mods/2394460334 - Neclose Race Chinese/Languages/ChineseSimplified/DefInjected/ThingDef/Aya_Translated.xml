@@ -3,38 +3,38 @@
   <Aya_Race_Ap_NC_C_T_a.description>人工种族的儿童们穿的暗夜装，性能有所降低。</Aya_Race_Ap_NC_C_T_a.description>
   <Aya_Race_Ap_NC_C_T_a.label>儿童款式暗夜装</Aya_Race_Ap_NC_C_T_a.label>
   <HAR_NC_Armor_a.label>血月装甲(耐久型)</HAR_NC_Armor_a.label>
-  <HAR_NC_Armor_a.description>死灵的专用装甲，性能侧重于接近对方并使其感染露娜病菌。原本是作为创造者麾下的战斗人员时穿着的战斗装甲。</HAR_NC_Armor_a.description>
+  <HAR_NC_Armor_a.description>涅克洛斯的专用装甲，性能侧重于接近对方并使其感染露娜病菌。原本是作为创造者麾下的战斗人员时穿着的战斗装甲。</HAR_NC_Armor_a.description>
   <HAR_NC_Armor_b.label>血月装甲(突袭型)</HAR_NC_Armor_b.label>
-  <HAR_NC_Armor_b.description>死灵的专用装甲，性能侧重于接近对方并使其感染露娜病菌。原本是作为创造者麾下的战斗人员时穿着的战斗装甲。</HAR_NC_Armor_b.description>
+  <HAR_NC_Armor_b.description>涅克洛斯的专用装甲，性能侧重于接近对方并使其感染露娜病菌。原本是作为创造者麾下的战斗人员时穿着的战斗装甲。</HAR_NC_Armor_b.description>
   <HAR_NC_Armor_c.label>血月装甲(标准型)</HAR_NC_Armor_c.label>
-  <HAR_NC_Armor_c.description>死灵的专用装甲，性能侧重于接近对方并使其感染露娜病菌。原本是作为创造者麾下的战斗人员时穿着的战斗装甲。</HAR_NC_Armor_c.description>
+  <HAR_NC_Armor_c.description>涅克洛斯的专用装甲，性能侧重于接近对方并使其感染露娜病菌。原本是作为创造者麾下的战斗人员时穿着的战斗装甲。</HAR_NC_Armor_c.description>
   <HAR_NC_Armor_z.label>异端装甲</HAR_NC_Armor_z.label>
-  <HAR_NC_Armor_z.description>死灵·「无人」专用的装甲。\n外表看起来怎么想都是宇航服装的样子。</HAR_NC_Armor_z.description>
+  <HAR_NC_Armor_z.description>涅克洛斯·「无人」专用的装甲。\n外表看起来怎么想都是宇航服装的样子。</HAR_NC_Armor_z.description>
   <HAR_NC_Heads_a.description>高贵之人所戴的王冠。</HAR_NC_Heads_a.description>
-  <HAR_NC_Heads_a.label>皇冠头饰(死灵)</HAR_NC_Heads_a.label>
-  <HAR_NC_Heads_b.description>死灵的专用头盔，性能侧重于接近对方并使其感染露娜病菌。原本是作为创造者麾下的战斗人员时穿着的战斗头盔。</HAR_NC_Heads_b.description>
+  <HAR_NC_Heads_a.label>皇冠头饰(涅克洛斯)</HAR_NC_Heads_a.label>
+  <HAR_NC_Heads_b.description>涅克洛斯的专用头盔，性能侧重于接近对方并使其感染露娜病菌。原本是作为创造者麾下的战斗人员时穿着的战斗头盔。</HAR_NC_Heads_b.description>
   <HAR_NC_Heads_b.label>血月头盔</HAR_NC_Heads_b.label>
-  <HAR_NC_Heads_c.description>死灵专用的发箍，或许是因为其不得不进行近身作战的特性，强化了装备耐久值。</HAR_NC_Heads_c.description>
-  <HAR_NC_Heads_c.label>发箍(死灵)</HAR_NC_Heads_c.label>
-  <HAR_NC_Heads_d.description>死灵专用的发箍，或许是因为其不得不进行近身作战的特性，强化了装备耐久值。</HAR_NC_Heads_d.description>
-  <HAR_NC_Heads_d.label>缎带(死灵)</HAR_NC_Heads_d.label>
-  <HAR_NC_Heads_e.description>死灵专用的发箍，或许是因为其不得不进行近身作战的特性，强化了装备耐久值。</HAR_NC_Heads_e.description>
-  <HAR_NC_Heads_e.label>黑棠花头饰(死灵)</HAR_NC_Heads_e.label>
-  <HAR_NC_Heads_z.description>死灵·「无人」专用的头盔。\n外表看起来怎么想都是宇航服装的样子。</HAR_NC_Heads_z.description>
+  <HAR_NC_Heads_c.description>涅克洛斯专用的发箍，或许是因为其不得不进行近身作战的特性，强化了装备耐久值。</HAR_NC_Heads_c.description>
+  <HAR_NC_Heads_c.label>发箍(涅克洛斯)</HAR_NC_Heads_c.label>
+  <HAR_NC_Heads_d.description>涅克洛斯专用的发箍，或许是因为其不得不进行近身作战的特性，强化了装备耐久值。</HAR_NC_Heads_d.description>
+  <HAR_NC_Heads_d.label>缎带(涅克洛斯)</HAR_NC_Heads_d.label>
+  <HAR_NC_Heads_e.description>涅克洛斯专用的发箍，或许是因为其不得不进行近身作战的特性，强化了装备耐久值。</HAR_NC_Heads_e.description>
+  <HAR_NC_Heads_e.label>黑棠花头饰(涅克洛斯)</HAR_NC_Heads_e.label>
+  <HAR_NC_Heads_z.description>涅克洛斯·「无人」专用的头盔。\n外表看起来怎么想都是宇航服装的样子。</HAR_NC_Heads_z.description>
   <HAR_NC_Heads_z.label>异端头盔</HAR_NC_Heads_z.label>
-  <HAR_NC_Shell_a.description>死灵穿戴的防御型装备。与穿戴者的身体能力结合后，有着相当不容小觑的强度。</HAR_NC_Shell_a.description>
-  <HAR_NC_Shell_a.label>披风(死灵)</HAR_NC_Shell_a.label>
-  <HAR_NC_Shell_b.description>死灵穿戴的防御型装备。与穿戴者的身体能力结合后，有着相当不容小觑的强度。</HAR_NC_Shell_b.description>
-  <HAR_NC_Shell_b.label>外套(死灵)</HAR_NC_Shell_b.label>
-  <HAR_NC_Shell_c.description>死灵穿戴的防御型装备。与穿戴者的身体能力结合后，有着相当不容小觑的强度。</HAR_NC_Shell_c.description>
-  <HAR_NC_Shell_c.label>防尘斗篷(死灵)</HAR_NC_Shell_c.label>
-  <HAR_NC_Tops_a.description>死灵的装束，能够让她们灵活自如的行动。看起来有点像泳装。</HAR_NC_Tops_a.description>
-  <HAR_NC_Tops_a.label>暗夜装A(死灵)</HAR_NC_Tops_a.label>
-  <HAR_NC_Tops_b.description>死灵的装束，能够让她们灵活自如的行动。看起来有点像泳装。</HAR_NC_Tops_b.description>
-  <HAR_NC_Tops_b.label>暗夜装B(死灵)</HAR_NC_Tops_b.label>
-  <HAR_NC_Tops_c.description>死灵的装束，能够让她们灵活自如的行动。看起来有点像泳装。</HAR_NC_Tops_c.description>
-  <HAR_NC_Tops_c.label>暗夜装C(死灵)</HAR_NC_Tops_c.label>
-  <HAR_NC_Tops_z.description>死灵·「无人」专用的服装。\n以她们的身体技能，就算是和内衣无异的服装也足以保障她们的生存。</HAR_NC_Tops_z.description>
+  <HAR_NC_Shell_a.description>涅克洛斯穿戴的防御型装备。与穿戴者的身体能力结合后，有着相当不容小觑的强度。</HAR_NC_Shell_a.description>
+  <HAR_NC_Shell_a.label>披风(涅克洛斯)</HAR_NC_Shell_a.label>
+  <HAR_NC_Shell_b.description>涅克洛斯穿戴的防御型装备。与穿戴者的身体能力结合后，有着相当不容小觑的强度。</HAR_NC_Shell_b.description>
+  <HAR_NC_Shell_b.label>外套(涅克洛斯)</HAR_NC_Shell_b.label>
+  <HAR_NC_Shell_c.description>涅克洛斯穿戴的防御型装备。与穿戴者的身体能力结合后，有着相当不容小觑的强度。</HAR_NC_Shell_c.description>
+  <HAR_NC_Shell_c.label>防尘斗篷(涅克洛斯)</HAR_NC_Shell_c.label>
+  <HAR_NC_Tops_a.description>涅克洛斯的装束，能够让她们灵活自如的行动。看起来有点像泳装。</HAR_NC_Tops_a.description>
+  <HAR_NC_Tops_a.label>暗夜装A(涅克洛斯)</HAR_NC_Tops_a.label>
+  <HAR_NC_Tops_b.description>涅克洛斯的装束，能够让她们灵活自如的行动。看起来有点像泳装。</HAR_NC_Tops_b.description>
+  <HAR_NC_Tops_b.label>暗夜装B(涅克洛斯)</HAR_NC_Tops_b.label>
+  <HAR_NC_Tops_c.description>涅克洛斯的装束，能够让她们灵活自如的行动。看起来有点像泳装。</HAR_NC_Tops_c.description>
+  <HAR_NC_Tops_c.label>暗夜装C(涅克洛斯)</HAR_NC_Tops_c.label>
+  <HAR_NC_Tops_z.description>涅克洛斯·「无人」专用的服装。\n以她们的身体技能，就算是和内衣无异的服装也足以保障她们的生存。</HAR_NC_Tops_z.description>
   <HAR_NC_Tops_z.label>异端服装</HAR_NC_Tops_z.label>
   <HAR_NC_Item_a.label>血色的蜂蜜酒</HAR_NC_Item_a.label>
   <HAR_NC_Item_a.description>加入了粘稠的赤色蜂蜜的蜂蜜酒。
@@ -50,7 +50,7 @@
 
 『为什么我会做出这个呢。自从与那个东西相遇之后，我真的还是我自己吗。有没有人能够来帮帮我，帮我停下这无尽的低语。我的梦已经只剩下了噩梦』</HAR_NC_Item_a.description>
   <HAR_NC_Material_a.label>令人厌恶的肉块</HAR_NC_Material_a.label>
-  <HAR_NC_Material_a.description>从死灵·「无人」那里回收而来的肉块。
+  <HAR_NC_Material_a.description>从涅克洛斯·「无人」那里回收而来的肉块。
 就算已经过了一段时间，它仍在散发热量。
 
 这些东西好像有聚集到同一个地方的习性，或许把它们集中起来放在一起会发生些什么。</HAR_NC_Material_a.description>
@@ -63,17 +63,17 @@
 来自与人工种族的起源不同的异宇宙的超存在的胎儿。
 是她们无比接近、又无比遥远的同胞。</HAR_NC_Spawn_a.description>
   <HAR_NC_M_a_race_Base.label>戈尔诺伊德</HAR_NC_M_a_race_Base.label>
-  <HAR_NC_M_a_race_Base.description>死灵的眷属。尸体、血肉等组织感染死灵细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_a_race_Base.description>
+  <HAR_NC_M_a_race_Base.description>涅克洛斯的眷属。尸体、血肉等组织感染涅克洛斯细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_a_race_Base.description>
   <HAR_NC_M_b_race_Base.label>戈尔种</HAR_NC_M_b_race_Base.label>
-  <HAR_NC_M_b_race_Base.description>死灵的眷属。尸体、血肉等组织感染死灵细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_b_race_Base.description>
+  <HAR_NC_M_b_race_Base.description>涅克洛斯的眷属。尸体、血肉等组织感染涅克洛斯细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_b_race_Base.description>
   <HAR_NC_M_c_race_Base.label>戈尔肉块</HAR_NC_M_c_race_Base.label>
-  <HAR_NC_M_c_race_Base.description>死灵的眷属。尸体、血肉等组织感染死灵细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_c_race_Base.description>
+  <HAR_NC_M_c_race_Base.description>涅克洛斯的眷属。尸体、血肉等组织感染涅克洛斯细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_c_race_Base.description>
   <HAR_NC_M_y_race_Base.label>弗拉斯塔里</HAR_NC_M_y_race_Base.label>
-  <HAR_NC_M_y_race_Base.description>死灵·乌提斯福尼亚的眷属，由生物尸体重新构成。它理应没有生命活动，目前仍不清楚究竟如何行动。
+  <HAR_NC_M_y_race_Base.description>涅克洛斯·乌提斯福尼亚的眷属，由生物尸体重新构成。它理应没有生命活动，目前仍不清楚究竟如何行动。
 
 体型小、力量弱，却行动迅速并会成群出现。</HAR_NC_M_y_race_Base.description>
   <HAR_NC_M_z_race_Base.label>克莱尔斯</HAR_NC_M_z_race_Base.label>
-  <HAR_NC_M_z_race_Base.description>死灵·乌提斯福尼亚的眷属，由生物尸体重新构成。它理应没有生命活动，目前仍不清楚究竟如何行动。
+  <HAR_NC_M_z_race_Base.description>涅克洛斯·乌提斯福尼亚的眷属，由生物尸体重新构成。它理应没有生命活动，目前仍不清楚究竟如何行动。
 
 极其耐打，通常攻击很难将其杀死。</HAR_NC_M_z_race_Base.description>
   <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>

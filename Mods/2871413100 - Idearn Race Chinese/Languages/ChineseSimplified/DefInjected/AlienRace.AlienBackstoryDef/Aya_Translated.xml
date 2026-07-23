@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_IA_Backstory_C1.description>[PAWN_nameDef]是从宇宙中被抹去的种族理念的末裔，继承了一部分理念的技术。</HAR_IA_Backstory_C1.description>
+  <HAR_IA_Backstory_C1.description>[PAWN_nameDef]是从宇宙中被抹去的种族伊迪安的末裔，继承了一部分伊迪安的技术。</HAR_IA_Backstory_C1.description>
   <HAR_IA_Backstory_A1.title>追求睿智者</HAR_IA_Backstory_A1.title>
   <HAR_IA_Backstory_A1.titleShort>追求睿智者</HAR_IA_Backstory_A1.titleShort>
-  <HAR_IA_Backstory_A1.description>经历了多年的成长，[PAWN_nameDef]作为理念已经成熟，能够毫无保留的发挥出种族原本的力量。</HAR_IA_Backstory_A1.description>
+  <HAR_IA_Backstory_A1.description>经历了多年的成长，[PAWN_nameDef]作为伊迪安已经成熟，能够毫无保留的发挥出种族原本的力量。</HAR_IA_Backstory_A1.description>
 </LanguageData>

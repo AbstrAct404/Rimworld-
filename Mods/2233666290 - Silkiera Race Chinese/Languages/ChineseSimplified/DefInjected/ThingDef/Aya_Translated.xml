@@ -1,47 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <HAR_SK_A_a.label>黑钢装甲</HAR_SK_A_a.label>
-  <HAR_SK_A_a.description>丝姬拉专用的装甲，最初是为了在严峻环境下工作而制作的防护服装。因此作为装甲来说，物理防御性能不是很强，但是对热有极高的耐性。</HAR_SK_A_a.description>
+  <HAR_SK_A_a.description>希尔基耶拉专用的装甲，最初是为了在严峻环境下工作而制作的防护服装。因此作为装甲来说，物理防御性能不是很强，但是对热有极高的耐性。</HAR_SK_A_a.description>
   <HAR_SK_A_b.label>妖狐的衣物</HAR_SK_A_b.label>
-  <HAR_SK_A_b.description>丝姬拉·狐媚的专用衣物。据说作为亚人工业质量最高的物品、在部分衣物爱好者之间大受欢迎。</HAR_SK_A_b.description>
-  <HAR_SK_AO_a.description>丝姬拉们很喜欢穿的内衣，布料面积小，看起来色色的。</HAR_SK_AO_a.description>
-  <HAR_SK_AO_a.label>内衣A(丝姬拉)</HAR_SK_AO_a.label>
-  <HAR_SK_AH_a.description>仿照尼亚米尔的角制作的装饰用角。</HAR_SK_AH_a.description>
-  <HAR_SK_AH_a.label>装饰用角(丝姬拉)</HAR_SK_AH_a.label>
-  <HAR_SK_AH_b.description>丝姬拉的发箍，被制作得很可爱。</HAR_SK_AH_b.description>
-  <HAR_SK_AH_b.label>发箍(丝姬拉)</HAR_SK_AH_b.label>
+  <HAR_SK_A_b.description>希尔基耶拉·狐媚的专用衣物。据说作为亚人工业质量最高的物品、在部分衣物爱好者之间大受欢迎。</HAR_SK_A_b.description>
+  <HAR_SK_AO_a.description>希尔基耶拉们很喜欢穿的内衣，布料面积小，看起来色色的。</HAR_SK_AO_a.description>
+  <HAR_SK_AO_a.label>内衣A(希尔基耶拉)</HAR_SK_AO_a.label>
+  <HAR_SK_AH_a.description>仿照尼亚梅尔的角制作的装饰用角。</HAR_SK_AH_a.description>
+  <HAR_SK_AH_a.label>装饰用角(希尔基耶拉)</HAR_SK_AH_a.label>
+  <HAR_SK_AH_b.description>希尔基耶拉的发箍，被制作得很可爱。</HAR_SK_AH_b.description>
+  <HAR_SK_AH_b.label>发箍(希尔基耶拉)</HAR_SK_AH_b.label>
   <HAR_SK_AH_c.description>毛茸茸的围巾，能很有效地抵御严寒。</HAR_SK_AH_c.description>
-  <HAR_SK_AH_c.label>围巾(丝姬拉)</HAR_SK_AH_c.label>
+  <HAR_SK_AH_c.label>围巾(希尔基耶拉)</HAR_SK_AH_c.label>
   <HAR_SK_AH_d.description>遮住半边脸的披肩，能很有效地抵御严寒。</HAR_SK_AH_d.description>
-  <HAR_SK_AH_d.label>军用披肩(丝姬拉)</HAR_SK_AH_d.label>
+  <HAR_SK_AH_d.label>军用披肩(希尔基耶拉)</HAR_SK_AH_d.label>
   <HAR_SK_AH_e.description>长得可以卷在身上的披肩，防寒防暑皆可用。</HAR_SK_AH_e.description>
-  <HAR_SK_AH_e.label>羊毛绒披肩(丝姬拉)</HAR_SK_AH_e.label>
-  <HAR_SK_AH_f.description>丝姬拉专用的头盔，最初是为了在严峻环境下工作而制作的防护服装。因此作为装甲来说，物理防御性能不是很强，但是对热有极高的耐性。</HAR_SK_AH_f.description>
+  <HAR_SK_AH_e.label>羊毛绒披肩(希尔基耶拉)</HAR_SK_AH_e.label>
+  <HAR_SK_AH_f.description>希尔基耶拉专用的头盔，最初是为了在严峻环境下工作而制作的防护服装。因此作为装甲来说，物理防御性能不是很强，但是对热有极高的耐性。</HAR_SK_AH_f.description>
   <HAR_SK_AH_f.label>黑钢头盔</HAR_SK_AH_f.label>
-  <HAR_SK_AH_g.description>丝姬拉·狐媚的专用发簪，在妖术的加持下有着与外表不相称的高耐久。</HAR_SK_AH_g.description>
+  <HAR_SK_AH_g.description>希尔基耶拉·狐媚的专用发簪，在妖术的加持下有着与外表不相称的高耐久。</HAR_SK_AH_g.description>
   <HAR_SK_AH_g.label>妖狐的发簪</HAR_SK_AH_g.label>
-  <HAR_SK_AS_a.description>丝姬拉们爱穿的外套。因为经常使用，所以设计的较为轻便。</HAR_SK_AS_a.description>
-  <HAR_SK_AS_a.label>摩登外套(丝姬拉)</HAR_SK_AS_a.label>
-  <HAR_SK_AS_b.description>丝姬拉们爱穿的工装外套。它坚固耐用，即使发生事故也能让你毫发无伤，但也因此移动性有所削弱。</HAR_SK_AS_b.description>
-  <HAR_SK_AS_b.label>工装外套(丝姬拉)</HAR_SK_AS_b.label>
-  <HAR_SK_AS_c.description>丝姬拉们爱穿的外套。它具有耐热和耐寒性，但移动起来有点困难。</HAR_SK_AS_c.description>
-  <HAR_SK_AS_c.label>羽绒服装(丝姬拉)</HAR_SK_AS_c.label>
+  <HAR_SK_AS_a.description>希尔基耶拉们爱穿的外套。因为经常使用，所以设计的较为轻便。</HAR_SK_AS_a.description>
+  <HAR_SK_AS_a.label>摩登外套(希尔基耶拉)</HAR_SK_AS_a.label>
+  <HAR_SK_AS_b.description>希尔基耶拉们爱穿的工装外套。它坚固耐用，即使发生事故也能让你毫发无伤，但也因此移动性有所削弱。</HAR_SK_AS_b.description>
+  <HAR_SK_AS_b.label>工装外套(希尔基耶拉)</HAR_SK_AS_b.label>
+  <HAR_SK_AS_c.description>希尔基耶拉们爱穿的外套。它具有耐热和耐寒性，但移动起来有点困难。</HAR_SK_AS_c.description>
+  <HAR_SK_AS_c.label>羽绒服装(希尔基耶拉)</HAR_SK_AS_c.label>
   <HAR_SK_AT_a.description>适合村民穿的服装，抗寒保暖，推荐作为日常用服装穿戴。</HAR_SK_AT_a.description>
-  <HAR_SK_AT_a.label>村民装束(丝姬拉)</HAR_SK_AT_a.label>
-  <HAR_SK_AT_b.description>丝姬拉工作时穿的装束，因为还内置了工作用小道具，所以普通工作速度会略有提升。</HAR_SK_AT_b.description>
-  <HAR_SK_AT_b.label>工作装束(丝姬拉)</HAR_SK_AT_b.label>
-  <HAR_SK_AT_c.description>丝姬拉们穿的居家服装，舍去了繁琐的装饰，使行动更为方便。</HAR_SK_AT_c.description>
-  <HAR_SK_AT_c.label>居家服装(丝姬拉)</HAR_SK_AT_c.label>
-  <HAR_SK_AT_d.description>丝姬拉们穿的小镇女性装束，虽然朴素但也平添几分可爱。</HAR_SK_AT_d.description>
-  <HAR_SK_AT_d.label>小镇女性装束(丝姬拉)</HAR_SK_AT_d.label>
-  <HAR_SK_AT_e.description>丝姬拉们穿的侍者装束，露出度适中且强调功能性的服装饰。</HAR_SK_AT_e.description>
-  <HAR_SK_AT_e.label>侍者装束(丝姬拉)</HAR_SK_AT_e.label>
+  <HAR_SK_AT_a.label>村民装束(希尔基耶拉)</HAR_SK_AT_a.label>
+  <HAR_SK_AT_b.description>希尔基耶拉工作时穿的装束，因为还内置了工作用小道具，所以普通工作速度会略有提升。</HAR_SK_AT_b.description>
+  <HAR_SK_AT_b.label>工作装束(希尔基耶拉)</HAR_SK_AT_b.label>
+  <HAR_SK_AT_c.description>希尔基耶拉们穿的居家服装，舍去了繁琐的装饰，使行动更为方便。</HAR_SK_AT_c.description>
+  <HAR_SK_AT_c.label>居家服装(希尔基耶拉)</HAR_SK_AT_c.label>
+  <HAR_SK_AT_d.description>希尔基耶拉们穿的小镇女性装束，虽然朴素但也平添几分可爱。</HAR_SK_AT_d.description>
+  <HAR_SK_AT_d.label>小镇女性装束(希尔基耶拉)</HAR_SK_AT_d.label>
+  <HAR_SK_AT_e.description>希尔基耶拉们穿的侍者装束，露出度适中且强调功能性的服装饰。</HAR_SK_AT_e.description>
+  <HAR_SK_AT_e.label>侍者装束(希尔基耶拉)</HAR_SK_AT_e.label>
   <HAR_SK_Meal_a.label>亚人便当</HAR_SK_Meal_a.label>
   <HAR_SK_Meal_a.description>“你不觉得只有干肉饼的旅途很没劲吗？\n那就来试试亚人便当吧！”\n\n亚人工业售卖的便当，采用了不易腐烂的烹饪方法，能够长期保持新鲜，是外出旅行的必备物品。</HAR_SK_Meal_a.description>
   <HAR_SK_Meal_f.label>兽娘罐头</HAR_SK_Meal_f.label>
   <HAR_SK_Meal_f.description>“好想把食物带在身上，但是腐烂了……\n那就请试试兽娘罐头吧！”\n\n亚人工业售卖的保存食品，经过了防腐加工，只要不打开就永远不会腐烂。但是烹饪时间长、营养价值略低也是它的缺点。</HAR_SK_Meal_f.description>
   <HAR_SK_Meal_b.label>兽娘套餐</HAR_SK_Meal_b.label>
-  <HAR_SK_Meal_b.description>“肚子幸福的话每天都幸福！吃了这个让你元气百倍！”\n\n亚人工业推出的套餐，以“膳食均衡”为理念，调整你的身体状态。\n\n对于坚信身体就是本钱的丝姬拉们来说，是一道令人愉悦的料理。</HAR_SK_Meal_b.description>
+  <HAR_SK_Meal_b.description>“肚子幸福的话每天都幸福！吃了这个让你元气百倍！”\n\n亚人工业推出的套餐，以“膳食均衡”为理念，调整你的身体状态。\n\n对于坚信身体就是本钱的希尔基耶拉们来说，是一道令人愉悦的料理。</HAR_SK_Meal_b.description>
   <HAR_SK_Meal_e.label>兽娘拉面</HAR_SK_Meal_e.label>
   <HAR_SK_Meal_e.description>“亚人工业大厨最满意的菜品\n为你献上王道的酱油拉面！”\n\n亚人工业推出的拉面。由于是面食，所以你的肠胃可能并不想看到它们；但是拉面的制作时间短，适合大批量生产。</HAR_SK_Meal_e.description>
   <HAR_SK_Meal_c.label>兽娘能量饮料</HAR_SK_Meal_c.label>
@@ -85,17 +85,17 @@
   <HAR_SK_Item_Extra_a.label>亚人工业猫咪印章</HAR_SK_Item_Extra_a.label>
   <HAR_SK_Item_Extra_a.description>“今天也非常感谢\n请收好这个猫咪印章哦！”\n\n在回收店作为谢礼的印章，多存一些的话能用来交换贵重的奖品。</HAR_SK_Item_Extra_a.description>
   <HAR_SK_Archotech_a.label>亚人工业白金券</HAR_SK_Archotech_a.label>
-  <HAR_SK_Archotech_a.description>“那边的艰难维持殖民地的小哥！\n我们将为你提供棒极了的人才！”\n\n使用后能召唤高品质丝姬拉的券。\n没人知道它是基于何种原理起作用的，但是至少在“它将为你的殖民地带来人才”这一点上，是毋庸置疑的。</HAR_SK_Archotech_a.description>
+  <HAR_SK_Archotech_a.description>“那边的艰难维持殖民地的小哥！\n我们将为你提供棒极了的人才！”\n\n使用后能召唤高品质希尔基耶拉的券。\n没人知道它是基于何种原理起作用的，但是至少在“它将为你的殖民地带来人才”这一点上，是毋庸置疑的。</HAR_SK_Archotech_a.description>
   <HAR_SK_Archotech_b.label>亚人工业黑色券</HAR_SK_Archotech_b.label>
-  <HAR_SK_Archotech_b.description>“为尊贵的客户提供贵重的人才\n今后也请多多关照！”\n\n使用后能召唤特别的丝姬拉的券。\n没人知道它是基于何种原理起作用的，但是至少在“它将为你的殖民地带来人才”这一点上，是毋庸置疑的。</HAR_SK_Archotech_b.description>
+  <HAR_SK_Archotech_b.description>“为尊贵的客户提供贵重的人才\n今后也请多多关照！”\n\n使用后能召唤特别的希尔基耶拉的券。\n没人知道它是基于何种原理起作用的，但是至少在“它将为你的殖民地带来人才”这一点上，是毋庸置疑的。</HAR_SK_Archotech_b.description>
   <HAR_SK_Archotech_c.label>宠物券</HAR_SK_Archotech_c.label>
   <HAR_SK_Archotech_c.description>“殖民地需要心灵上的治愈吗？ \n你需要一只黏人的小猫！”使用后能召唤出柔顺的猫的券。\n没人知道它是基于何种原理起作用的。</HAR_SK_Archotech_c.description>
-  <HAR_SK_Archotech_d.label>萨克莱恩券</HAR_SK_Archotech_d.label>
-  <HAR_SK_Archotech_d.description>“为人手不足的你带来一个好消息！\n奴性全开的社畜制作完成！”\n\n使用后能召唤萨克莱恩的券。\n没人知道它是基于何种原理起作用的。\n\n\n\n译者注：萨克莱恩出自作者的另一个mod：萨克莱恩</HAR_SK_Archotech_d.description>
+  <HAR_SK_Archotech_d.label>萨克琳券</HAR_SK_Archotech_d.label>
+  <HAR_SK_Archotech_d.description>“为人手不足的你带来一个好消息！\n奴性全开的社畜制作完成！”\n\n使用后能召唤萨克琳的券。\n没人知道它是基于何种原理起作用的。\n\n\n\n译者注：萨克琳出自作者的另一个mod：萨克琳</HAR_SK_Archotech_d.description>
   <HAR_SK_Archotech_e.label>伊德海尔券</HAR_SK_Archotech_e.label>
   <HAR_SK_Archotech_e.description>“在遗迹转了半天也没见到交易对象！！！\n我等将回应你的呼喊！”\n使用后能召唤伊德海尔的券。\n没人知道它是基于何种原理起作用的。\n\n\n\n译者注：伊德海尔出自作者的另一个mod：伊德海尔</HAR_SK_Archotech_e.description>
   <HAR_SK_Archotech_f.label>小人族券</HAR_SK_Archotech_f.label>
-  <HAR_SK_Archotech_f.description>“那个小家伙还没来殖民地…\n那样的话直接叫过来就好了！”\n\n使用后能召唤里托鲁纳的券。\n没人知道它是基于何种原理起作用的。\n\n\n\n译者注：里托鲁纳出自作者的另一个mod：里托鲁纳</HAR_SK_Archotech_f.description>
+  <HAR_SK_Archotech_f.description>“那个小家伙还没来殖民地…\n那样的话直接叫过来就好了！”\n\n使用后能召唤莉特露娜的券。\n没人知道它是基于何种原理起作用的。\n\n\n\n译者注：莉特露娜出自作者的另一个mod：莉特露娜</HAR_SK_Archotech_f.description>
   <HAR_SK_Weapon_a.label>丰收大镰刀</HAR_SK_Weapon_a.label>
   <HAR_SK_Weapon_a.description>虽然很难掌控，但是在农业和战斗中都能派上用场的大镰刀。装备后会提升装备者的种植能力。</HAR_SK_Weapon_a.description>
   <HAR_SK_Weapon_b.label>勤勉者扫帚</HAR_SK_Weapon_b.label>

@@ -22,19 +22,19 @@
 
 | 原文 | 固定译文 |
 |---|---|
-| Chaoura / ケイオーラ | 凯奥拉 |
-| Eveliet / エヴェリエット | 埃维利托 |
-| Idearn / イデアーン | 理念 |
+| Chaoura / ケイオーラ | 查欧拉 |
+| Eveliet / エヴェリエット | 艾维利特 |
+| Idearn / イデアーン | 伊迪安 |
 | Idhale / イドヘール | 伊德海尔 |
-| Littluna / リトルーナ | 里托鲁纳 |
-| Nearmare / ニアメーア | 尼亚米尔 |
-| Neclose / ネクロース | 死灵 |
-| Qualeela / クオリーラ | 夸里拉 |
-| Requeen / レクイーン | 雷奎恩 |
-| Saclean / サクリーン | 萨克莱恩 |
-| Silkiera / シルキーラ | 丝姬拉 |
+| Littluna / リトルーナ | 莉特露娜 |
+| Nearmare / ニアメーア | 尼亚梅尔 |
+| Neclose / ネクロース | 涅克洛斯 |
+| Qualeela / クオリーラ | 夸莉拉 |
+| Requeen / レクイーン | 蕾奎恩 |
+| Saclean / サクリーン | 萨克琳 |
+| Silkiera / シルキーラ | 希尔基耶拉 |
 | Solark / ソルアーク | 索拉克 |
-| Xenoorca / ゼノオーカ | 塞诺卡 |
+| Xenoorca / ゼノオーカ | 泽诺奥卡 |
 | イシュムーティト（人工种族统称） | 人工种族 |
 
 ## 系列专名与能力
@@ -42,21 +42,21 @@
 | 原文 | 固定译文 |
 |---|---|
 | Avonruach | 阿冯·鲁阿赫 |
-| Chaoura Avalzion / ケイオーラ・アヴァルツィオン | 凯奥拉·阿瓦齐翁 |
+| Chaoura Avalzion / ケイオーラ・アヴァルツィオン | 查欧拉·阿瓦齐翁 |
 | Efiyeashel / エフイェアシェル | 埃菲耶阿谢尔 |
-| Idearn Critias / イデアーン・クリティアス | 理念·克里提亚斯 |
-| Idearn Charmides / カルミデス | 理念·卡尔米德斯 |
-| Idearn Menexenos / メネクセノス | 理念·墨涅克塞诺斯 |
-| Idearn Theaetetus / テアイテトス | 理念·泰阿泰托斯 |
-| Idearn Laches / ラケス | 理念·拉刻斯 |
+| Idearn Critias / イデアーン・クリティアス | 伊迪安·克里提亚斯 |
+| Idearn Charmides / カルミデス | 伊迪安·卡尔米德斯 |
+| Idearn Menexenos / メネクセノス | 伊迪安·墨涅克塞诺斯 |
+| Idearn Theaetetus / テアイテトス | 伊迪安·泰阿泰托斯 |
+| Idearn Laches / ラケス | 伊迪安·拉刻斯 |
 | Arche/Arke Cartridge / アルケーカードリッジ | 本源药盒 |
 | Physis Mimesis / フィシスミメシス | 自然拟态 |
 | Regalia / レガリア | 王权 |
 | Regalia Summon / レガリアサモン | 王权召唤 |
 | Solark Herelreve / ソルアーク・ヘレルレーヴ | 索拉克·海勒莱夫 |
-| Nearmare Aradia / ニアメーア・アラディア | 尼亚米尔·阿拉迪亚 |
-| Nearmare Wingate / ニアメーア・ウィンゲイト | 尼亚米尔·温盖特 |
-| Nearmare Nemeseia / ニアメーア・ネメセイア | 尼亚米尔·涅墨塞亚 |
+| Nearmare Aradia / ニアメーア・アラディア | 尼亚梅尔·阿拉迪亚 |
+| Nearmare Wingate / ニアメーア・ウィンゲイト | 尼亚梅尔·温盖特 |
+| Nearmare Nemeseia / ニアメーア・ネメセイア | 尼亚梅尔·涅墨塞亚 |
 | Bereshit / ベレシート（基因） | 创世基因 |
 
 ## 外部模组名称

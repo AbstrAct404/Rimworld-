@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Xenoorca_P_Faction.label>塞诺卡的隐居地</Xenoorca_P_Faction.label>
-  <Xenoorca_P_Faction.pawnSingular>塞诺卡</Xenoorca_P_Faction.pawnSingular>
-  <Xenoorca_P_Faction.description>塞诺卡们聚集在一起平静生活的居住点。</Xenoorca_P_Faction.description>
+  <Xenoorca_P_Faction.label>泽诺奥卡的隐居地</Xenoorca_P_Faction.label>
+  <Xenoorca_P_Faction.pawnSingular>泽诺奥卡</Xenoorca_P_Faction.pawnSingular>
+  <Xenoorca_P_Faction.description>泽诺奥卡们聚集在一起平静生活的居住点。</Xenoorca_P_Faction.description>
   <Xenoorca_Faction_NPC_b.label>虎鲸佣兵团</Xenoorca_Faction_NPC_b.label>
   <Xenoorca_Faction_NPC_b.description>形成团体、在世界各地徘徊的人鱼佣兵团。和奥尔基努斯旅团不同，她们表现出了足够的善意；她们的援军将为你提供强大的火力支援。</Xenoorca_Faction_NPC_b.description>
-  <Xenoorca_Faction_NPC_b.pawnSingular>塞诺卡</Xenoorca_Faction_NPC_b.pawnSingular>
+  <Xenoorca_Faction_NPC_b.pawnSingular>泽诺奥卡</Xenoorca_Faction_NPC_b.pawnSingular>
   <Xenoorca_Faction_NPC_b.fixedName>虎鲸佣兵团</Xenoorca_Faction_NPC_b.fixedName>
   <Xenoorca_Faction_NPC.label>奥尔基努斯旅团</Xenoorca_Faction_NPC.label>
   <Xenoorca_Faction_NPC.description>在世界各地徘徊、反复进行掠夺的派系，一旦被她们盯上就会演变成不死不休的局面。狡猾又暴虐的人鱼们使用私自改造的火器、身穿特殊铠甲进行战斗。</Xenoorca_Faction_NPC.description>
-  <Xenoorca_Faction_NPC.pawnSingular>塞诺卡</Xenoorca_Faction_NPC.pawnSingular>
+  <Xenoorca_Faction_NPC.pawnSingular>泽诺奥卡</Xenoorca_Faction_NPC.pawnSingular>
   <Xenoorca_Faction_NPC.fixedName>奥尔基努斯旅团</Xenoorca_Faction_NPC.fixedName>
 </LanguageData>

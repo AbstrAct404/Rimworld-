@@ -3,12 +3,12 @@
   <HAR_SK_Hediff_a.description>喝了营养饮品，对身体很好。</HAR_SK_Hediff_a.description>
   <HAR_SK_Hediff_b.description>吃了美味的食物，心情很好。</HAR_SK_Hediff_b.description>
   <HAR_SK_Hediff_c.label>九尾的诅咒</HAR_SK_Hediff_c.label>
-  <HAR_SK_Hediff_c.description>丝姬拉·狐媚的可怕诅咒，会使对象的精神变得不稳定，并造成无法愈合的伤口。\n数小时后消失。</HAR_SK_Hediff_c.description>
-  <HAR_SK_Skill_Hediff_b.description>使对象处于被丝姬拉·狐媚精神侵入的状态，变得举止怪异，某些情况下可能会引发精神崩溃。\n数小时后消失。</HAR_SK_Skill_Hediff_b.description>
-  <HAR_SK_Skill_Hediff_c.description>丝姬拉·狐媚所召唤的蛊虫。\n在妖术的加持下比通常个体更为强韧，但超过某一界限后，肉体会因反作用而达到极限并死亡。</HAR_SK_Skill_Hediff_c.description>
-  <Silkiera_Artificial.label>人工种族·丝姬拉</Silkiera_Artificial.label>
-  <Silkiera_Artificial.description>丝姬拉是人工种族，重视通用性。可能因为是人工生物的缘故，她们对疾病的耐性很低，免疫力也不如常人。但是在编入基因的野生动物力量的影响下，会随着时间的推移逐渐克服这些弱点，且其强度取决于她们各自的人工种族等级（大约1年提升1级，上限为5）。</Silkiera_Artificial.description>
+  <HAR_SK_Hediff_c.description>希尔基耶拉·狐媚的可怕诅咒，会使对象的精神变得不稳定，并造成无法愈合的伤口。\n数小时后消失。</HAR_SK_Hediff_c.description>
+  <HAR_SK_Skill_Hediff_b.description>使对象处于被希尔基耶拉·狐媚精神侵入的状态，变得举止怪异，某些情况下可能会引发精神崩溃。\n数小时后消失。</HAR_SK_Skill_Hediff_b.description>
+  <HAR_SK_Skill_Hediff_c.description>希尔基耶拉·狐媚所召唤的蛊虫。\n在妖术的加持下比通常个体更为强韧，但超过某一界限后，肉体会因反作用而达到极限并死亡。</HAR_SK_Skill_Hediff_c.description>
+  <Silkiera_Artificial.label>人工种族·希尔基耶拉</Silkiera_Artificial.label>
+  <Silkiera_Artificial.description>希尔基耶拉是人工种族，重视通用性。可能因为是人工生物的缘故，她们对疾病的耐性很低，免疫力也不如常人。但是在编入基因的野生动物力量的影响下，会随着时间的推移逐渐克服这些弱点，且其强度取决于她们各自的人工种族等级（大约1年提升1级，上限为5）。</Silkiera_Artificial.description>
   <Silkiera_Artificial_b.label>人工上位种族</Silkiera_Artificial_b.label>
-  <Silkiera_Artificial_b.description>经过品种改良后，丝姬拉·改良种拥有比普通丝姬拉更优秀的身体素质。\n曾是弱点的免疫力也得到了增强，应该能有更稳定的活动。</Silkiera_Artificial_b.description>
+  <Silkiera_Artificial_b.description>经过品种改良后，希尔基耶拉·改良种拥有比普通希尔基耶拉更优秀的身体素质。\n曾是弱点的免疫力也得到了增强，应该能有更稳定的活动。</Silkiera_Artificial_b.description>
   <HAR_SK_PsychiteTeaHigh.description>通过饮用亚人工业茶，获得成瘾品与意志坚定的效果。</HAR_SK_PsychiteTeaHigh.description>
 </LanguageData>
