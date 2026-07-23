@@ -49,6 +49,14 @@ try
             new PublishedFileId_t(item.PublishedFileId)
         );
 
+        if (!string.IsNullOrWhiteSpace(item.ContentFolder))
+        {
+            if (!Directory.Exists(item.ContentFolder))
+                throw new DirectoryNotFoundException(
+                    $"Content folder does not exist: {item.ContentFolder}"
+                );
+            Require(SteamUGC.SetItemContent(handle, item.ContentFolder), "SetItemContent");
+        }
         Require(SteamUGC.SetItemUpdateLanguage(handle, language), "SetItemUpdateLanguage");
         Require(SteamUGC.SetItemTitle(handle, item.Title), "SetItemTitle");
         Require(SteamUGC.SetItemDescription(handle, item.Description), "SetItemDescription");
@@ -112,7 +120,10 @@ static WorkshopItem ReadManifest(string path)
     ulong id = ulong.Parse(Field(value, "publishedfileid"));
     string title = Unescape(Field(value, "title"));
     string description = Unescape(Field(value, "description"));
-    return new WorkshopItem(id, title, description);
+    string? contentFolder = OptionalField(value, "contentfolder");
+    if (contentFolder is not null)
+        contentFolder = Unescape(contentFolder);
+    return new WorkshopItem(id, title, description, contentFolder);
 }
 
 static string Field(string value, string key)
@@ -125,6 +136,16 @@ static string Field(string value, string key)
     if (!match.Success)
         throw new InvalidDataException($"Missing VDF field: {key}");
     return match.Groups[1].Value;
+}
+
+static string? OptionalField(string value, string key)
+{
+    var match = Regex.Match(
+        value,
+        $"\"{Regex.Escape(key)}\"\\s*\"((?:\\\\.|[^\"])*)\"",
+        RegexOptions.Singleline
+    );
+    return match.Success ? match.Groups[1].Value : null;
 }
 
 static string Unescape(string value) =>
@@ -182,4 +203,9 @@ static void VerifyLocalizedMetadata(WorkshopItem expected, string language)
     }
 }
 
-sealed record WorkshopItem(ulong PublishedFileId, string Title, string Description);
+sealed record WorkshopItem(
+    ulong PublishedFileId,
+    string Title,
+    string Description,
+    string? ContentFolder
+);
