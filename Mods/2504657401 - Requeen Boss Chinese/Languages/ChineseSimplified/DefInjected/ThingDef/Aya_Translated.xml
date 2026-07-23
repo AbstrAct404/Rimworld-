@@ -9,9 +9,11 @@
   <BOSS_RQ_Monster_race_Summon_e.description>拥有半机械半血肉的特殊构造的【女王种】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“爆弹种”是利用爆炸物进行大肆破坏的中距离兵种，死亡时会自爆。</BOSS_RQ_Monster_race_Summon_e.description>
   <BOSS_RQ_Monster_race_Summon_f.description>拥有半机械半血肉的特殊构造的【女王种】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“裁决种”是挥舞着骇人长剑斩断敌人的前卫兵种，强化型装甲为它们提供了更高的耐久值。</BOSS_RQ_Monster_race_Summon_f.description>
   <BOSS_RQ_Monster_race_Summon_g.description>拥有半机械半血肉的特殊构造的【女王种】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“突击种”是一边冲锋一边对敌人进行压制射击的中距离兵种，近身作战方面稍弱于前卫兵种。</BOSS_RQ_Monster_race_Summon_g.description>
-  <BOSS_RQ_Monster_race_Summon_h.description>拥有半机械半血肉的特殊构造的【女王种】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“斥候种”是利用光学迷彩进行隐身、快速接近目标并用匕首展开暗杀的前卫兵种，为了能够快速行动而牺牲了耐久。</BOSS_RQ_Monster_race_Summon_h.description>
+  <BOSS_RQ_Monster_race_Summon_h.description>女王种的后裔，拥有生物与机械混合的特殊结构；为排除威胁而被调整为生命体，并被剥除了情感与自我。
+
+“侦察型”是以迅捷行动为代价牺牲部分耐久的先锋单位：它会借助光学迷彩隐蔽接近敌人，再以匕首发动攻击。</BOSS_RQ_Monster_race_Summon_h.description>
   <BOSS_RQ_Monster_race_Summon_y.label>破损的眷属</BOSS_RQ_Monster_race_Summon_y.label>
-  <BOSS_RQ_Monster_race_Summon_y.description>女王种【女王种】的眷属。\n本来有着强大的力量，但在突破大气层、猛烈撞击到地表之后，受到了严重的损毁。</BOSS_RQ_Monster_race_Summon_y.description>
+  <BOSS_RQ_Monster_race_Summon_y.description>女王种的眷属。\n本来有着强大的力量，但在突破大气层、猛烈撞击到地表之后，受到了严重的损毁。</BOSS_RQ_Monster_race_Summon_y.description>
   <BOSS_RQ_Monster_race_Summon_z.description>拥有半机械半血肉的特殊构造的【女王种】眷属。\n是在【女王种】死亡后奇迹般诞生的个体，没有进行任何调整。</BOSS_RQ_Monster_race_Summon_z.description>
   <BOSS_RQ_Drop_Base.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_Base.description>
   <BOSS_RQ_Drop_a.label>女王种的部件</BOSS_RQ_Drop_a.label>
@@ -24,9 +26,9 @@
   <HAR_RQ_Art_a.description>停止了生命活动和机能的【女王种】。经过漫长的星际流浪后降落到了这颗星球上，最终被你们镇压。已经不再被毫无意义的使命所束缚，今后只会迎来永眠。\n\n\n母上终于完成了主的任务。</HAR_RQ_Art_a.description>
   <HAR_RQ_Art_z.description>这是已经停止了生命活动的【雏鸟】，更是你“击杀了它”这一伟大壮举的证明。\n雏鸟遵循着来自亲族基因的指引，肆意宣泄着力量。\n但现在，它已经被你击败，远渡星海的旅途在此断绝，它再也没有了成长为成鸟的机会，永远地沉眠在了这片大地之上。\n\n\n\n人工种族们持续了无数年的战争终于画下了句号。</HAR_RQ_Art_z.description>
   <BOSS_RQ_Remnant.label>女王种的残骸</BOSS_RQ_Remnant.label>
-  <BOSS_RQ_Remnant.description>被称为女王种【女王种】的机械生命体的残骸。\n不知是在宇宙中和哪个派系发生了交战，受到了甚至连原初种都没残存的致命伤害。\n\n残骸中侦测到高浓度的反物质信号，似乎埋有尚未引爆的反物质弹。</BOSS_RQ_Remnant.description>
+  <BOSS_RQ_Remnant.description>被称为女王种的机械生命体的残骸。\n不知是在宇宙中和哪个派系发生了交战，遭受了足以令原初种彻底毁灭的致命损伤。\n\n残骸中侦测到高浓度的反物质信号，似乎埋有尚未引爆的反物质弹。</BOSS_RQ_Remnant.description>
   <BOSS_RQ_Hive_Requeen_b.label>女王种（要塞）</BOSS_RQ_Hive_Requeen_b.label>
-  <BOSS_RQ_Hive_Requeen_b.description>女王种【女王种】是某个外星文明创造的机械生命体，孕育了魅魔及其亚种们的始祖，\n也许因为是最初建造的生命体，基本没有自我意识，在外星文明灭亡后也忠实地遵循输入的指令，一直处于“生产兵力”和“排除外敌”的暴走状态。\n\n她们不具备战斗能力，但有着极强的装甲和再生能力，能够无穷尽地生产机械生命体。\n万一自身能量耗尽也能从周围迅速汲取，只有外在因素能导致她们的死亡。\n\n\n现如今，“击败还在苦苦侍奉那已灭亡的创造者的女王们、让她们陷入永眠”成为了以魅魔为首的女儿们的夙愿。\n\n\n这一个体重视防卫，不会造成周围的草木枯死。\n最初的眷属早已死亡，不主动进入射程的话就不会有危险。</BOSS_RQ_Hive_Requeen_b.description>
+  <BOSS_RQ_Hive_Requeen_b.description>女王种是某个外星文明创造的机械生命体，孕育了魅魔及其亚种们的始祖，\n也许因为是最初建造的生命体，基本没有自我意识，在外星文明灭亡后也忠实地遵循输入的指令，一直处于“生产兵力”和“排除外敌”的暴走状态。\n\n她们不具备战斗能力，但有着极强的装甲和再生能力，能够源源不断地生产机械生命体。\n即使自身能量耗尽，她们也能迅速从周围汲取能量；只有外力才能真正杀死她们。\n\n\n现如今，“击败还在苦苦侍奉那已灭亡的创造者的女王们、让她们陷入永眠”成为了以魅魔为首的女儿们的夙愿。\n\n\n这一个体重视防卫，不会造成周围的草木枯死。\n最初的眷属早已死亡，不主动进入射程的话就不会有危险。</BOSS_RQ_Hive_Requeen_b.description>
   <BOSS_RQ_Turret_Sniper.label>审判</BOSS_RQ_Turret_Sniper.label>
   <BOSS_RQ_Turret_Sniper.description>女王种的防卫功能之一，是快速发射高穿透力子弹的炮塔——但是它的命中率很低。</BOSS_RQ_Turret_Sniper.description>
   <BOSS_RQ_Gun_TurretSniper.label>审判</BOSS_RQ_Gun_TurretSniper.label>
@@ -52,20 +54,20 @@
 啊啊，不过我并不打算在这里停留太久哦，反正我不过是上位空间投射至此的一个影子，过了一天就会消失了。
 如果有缘的话，我们还会再见吧……不过呢，说不定我已经作为故事的叙述者，陪伴在你的身边了哦？」</BOSS_RQ_Hive_Requeen_Gone_Error.description>
   <BOSS_RQ_Hive_Requeen.label>女王种</BOSS_RQ_Hive_Requeen.label>
-  <BOSS_RQ_Hive_Requeen.description>女王种【女王种】是某个外星文明创造的机械生命体，孕育了魅魔及其亚种们的始祖，\n也许因为是最初建造的生命体，基本没有自我意识，在外星文明灭亡后也忠实地遵循输入的指令，一直处于“生产兵力”和“排除外敌”的暴走状态。\n\n她们不具备战斗能力，但有着极强的装甲和再生能力，能够无穷尽地生产机械生命体。\n万一自身能量耗尽也能从周围迅速汲取，只有外在因素能导致她们的死亡。\n\n\n现如今，“击败还在苦苦侍奉那已灭亡的创造者的女王们、让她们陷入永眠”成为了以魅魔为首的女儿们的夙愿。</BOSS_RQ_Hive_Requeen.description>
+  <BOSS_RQ_Hive_Requeen.description>女王种是某个外星文明创造的机械生命体，孕育了魅魔及其亚种们的始祖，\n也许因为是最初建造的生命体，基本没有自我意识，在外星文明灭亡后也忠实地遵循输入的指令，一直处于“生产兵力”和“排除外敌”的暴走状态。\n\n她们不具备战斗能力，但有着极强的装甲和再生能力，能够源源不断地生产机械生命体。\n即使自身能量耗尽，她们也能迅速从周围汲取能量；只有外力才能真正杀死她们。\n\n\n现如今，“击败还在苦苦侍奉那已灭亡的创造者的女王们、让她们陷入永眠”成为了以魅魔为首的女儿们的夙愿。</BOSS_RQ_Hive_Requeen.description>
   <BOSS_RQ_Hive_Requeen_Egg.label>兵力补充单元</BOSS_RQ_Hive_Requeen_Egg.label>
   <BOSS_RQ_Hive_Requeen_Egg.description>一种暂时存储和培养由女王种生产的生命体的单元。如果有必要，可以将每个单元中存储的生命体都投入到战场上。</BOSS_RQ_Hive_Requeen_Egg.description>
   <BOSS_RQ_Hive_Requeen_Z.label>雏鸟</BOSS_RQ_Hive_Requeen_Z.label>
   <BOSS_RQ_Hive_Requeen_Z.description>它是威胁着刚诞生不久的生命及文明的远渡星海之鸟，也是人工种族们必须打败的仇敌。
-过去，毁灭了人工种族们的创造者的神秘存在临死前，将自己的心脏植入了【女王种】体内。这颗心脏逐渐侵蚀了女王种，最终取缔了其生产能力，诞下了这只雏鸟。其解决了困扰母鸟许久的能量问题，因此未来的危险性肯定会远超母鸟。
-幸运的是，雏鸟只能发挥一小部分力量，它的思考能力也仅停留在孩童阶段，不主动攻击它的话有可能直到它离开这颗星球都相安无事 。
-但是，放任这只继承了正统血脉的雏鸟成长的话，迟早有一天它会带来巨大的灾难。
+过去，毁灭了人工种族们的创造者的神秘存在临死前，将自己的心脏植入了【女王种】体内。这颗心脏逐渐侵蚀了女王种，最终接管了她的生产能力，诞下了这只雏鸟。这解决了困扰母鸟许久的能量问题，因此未来的危险性肯定会远超母鸟。
+幸运的是，雏鸟只能发挥一小部分力量，它的思考能力也仅停留在孩童阶段，只要不主动攻击它，或许直到它离开这颗星球都能相安无事。
+但是，若放任这只继承正统血脉的雏鸟成长，迟早有一天它会带来巨大的灾难。
 虽然作为远渡星海之鸟来说它很弱小，但从人类的视角来看，它无疑是有着深不可测之力的移动天灾。
 擅长使用念波攻击，对威胁到它的事物会发动猛烈且疯狂的攻击。不主动攻击的话基本没有危险性，因此推荐使用持久战术击破它。
 随着体力的减少，它的反击也会越来越猛烈，因此可以适时呼叫盟友的援军进行缓冲。
-只会受到近战攻击伤害，一旦被攻击就会在防卫本能下立刻展开反击。另外，反复遭受近战攻击后，雏鸟会释放特殊的强大反击，能通过远距离射击来抑制这一能力。请注意，越多的近战攻击单位意外着需要有更多的远程射击单机进行压制。
+只会受到近战攻击伤害，一旦被攻击就会在防卫本能下立刻展开反击。另外，反复遭受近战攻击后，雏鸟会释放特殊的强大反击，能通过远距离射击来抑制这一能力。请注意，投入的近战单位越多，就越需要更多远程射击单位进行压制。
 这只可怕的雏鸟在你的殖民地停留半年后便会离去，前往其他星球。</BOSS_RQ_Hive_Requeen_Z.description>
-  <BOSS_RQ_Hive_Viceroy.description>副王种是女王种的幼体，在紧急情况下代理其生产。\n副王种本应通过合适的育成方针成长为女王种，但在创造者已毁灭的现如今，副王种需要消耗极巨量的时间和能量才能完成这一转变。\n\n或许是没有被输入上位指令的缘故，副王种们不同于完全陷入暴走状态的女王种，拥有正常的思考能力。\n\n\n\n每15日生成粒子泡提取核心。\n每1年生成研究AI亚人格核心。</BOSS_RQ_Hive_Viceroy.description>
+  <BOSS_RQ_Hive_Viceroy.description>副王种是女王种的幼体，在紧急情况下代理其生产。\n副王种本应通过合适的育成方针成长为女王种，但在创造者已毁灭的现如今，副王种需要耗费极其漫长的时间和巨量能量才能完成这一转变。\n\n或许是没有被输入上位指令的缘故，副王种们不同于完全陷入暴走状态的女王种，拥有正常的思考能力。\n\n\n\n每 15 天产出一个“粒子泡提取核心”。\n每年产出一个“研究型 AI 次人格核心”。</BOSS_RQ_Hive_Viceroy.description>
   <BOSS_RQ_Hive_Viceroy_Unit.label>运输单元</BOSS_RQ_Hive_Viceroy_Unit.label>
   <BOSS_RQ_Hive_Viceroy_Unit.description>收纳着某种东西的单元，据说里面沉眠着某个派系的遗产。</BOSS_RQ_Hive_Viceroy_Unit.description>
   <Weapon_Requeen_a.label>穿刺者</Weapon_Requeen_a.label>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <Aya_Race_Ap_XO_C_T_a.description>人工种族的儿童们穿的服装，性能有所降低。</Aya_Race_Ap_XO_C_T_a.description>
-  <Aya_Race_Ap_XO_C_T_a.label>儿童款式异度服装</Aya_Race_Ap_XO_C_T_a.label>
+  <Aya_Race_Ap_XO_C_T_a.label>儿童异度服</Aya_Race_Ap_XO_C_T_a.label>
   <HAR_XO_AM_a.label>奥尔基努斯装甲</HAR_XO_AM_a.label>
   <HAR_XO_AM_a.description>奥尔基努斯旅团的团员配备的装甲，能够有效抵御攻击，但是牺牲了速度，且难以应付高温。曾经是在创造者的麾下担任战斗人员时穿的战斗服装。</HAR_XO_AM_a.description>
   <HAR_XO_AM_b.label>虎鲸甲</HAR_XO_AM_b.label>
@@ -12,15 +12,15 @@
 人们都说在这套铠甲闪耀的光辉中见到了
 一位清廉而高贵的骑士昔日的姿态。</HAR_XO_AM_c.description>
   <HAR_XO_AH_a.description>人鱼姬的皇冠头饰，身为战斗狂的她们也会想要保持美丽的姿态。</HAR_XO_AH_a.description>
-  <HAR_XO_AH_a.label>皇冠头饰(人鱼姬)</HAR_XO_AH_a.label>
+  <HAR_XO_AH_a.label>皇冠头饰（人鱼姬）</HAR_XO_AH_a.label>
   <HAR_XO_AH_b.description>人鱼姬的发箍，相较于装饰品，这个发箍更多的还是注重在“发夹”这一原本的用处上。</HAR_XO_AH_b.description>
-  <HAR_XO_AH_b.label>发箍(人鱼姬)</HAR_XO_AH_b.label>
+  <HAR_XO_AH_b.label>发箍（人鱼姬）</HAR_XO_AH_b.label>
   <HAR_XO_AH_c.description>人鱼姬的女仆发箍，似乎还留有一颗奉献的心。</HAR_XO_AH_c.description>
-  <HAR_XO_AH_c.label>女仆发箍(人鱼姬)</HAR_XO_AH_c.label>
+  <HAR_XO_AH_c.label>女仆发箍（人鱼姬）</HAR_XO_AH_c.label>
   <HAR_XO_AH_d.description>人鱼姬的花环，不禁担心其能否在人鱼姬们激烈的战斗中幸存下来。</HAR_XO_AH_d.description>
-  <HAR_XO_AH_d.label>花环(人鱼姬)</HAR_XO_AH_d.label>
+  <HAR_XO_AH_d.label>花环（人鱼姬）</HAR_XO_AH_d.label>
   <HAR_XO_AH_e.description>人鱼姬的缎带，给人一种单纯且可爱的印象。</HAR_XO_AH_e.description>
-  <HAR_XO_AH_e.label>缎带(人鱼姬)</HAR_XO_AH_e.label>
+  <HAR_XO_AH_e.label>缎带（人鱼姬）</HAR_XO_AH_e.label>
   <HAR_XO_AH_f.description>奥尔基努斯旅团的团员配备的头盔，能够有效抵御攻击，但是牺牲了速度，且难以应付高温。</HAR_XO_AH_f.description>
   <HAR_XO_AH_f.label>奥尔基努斯头盔</HAR_XO_AH_f.label>
   <HAR_XO_AH_g.description>人鱼姬迎合自己的体型制造出的铠甲，能有效抵御打击和枪击，但是难以抵挡高温。</HAR_XO_AH_g.description>
@@ -31,37 +31,37 @@
 一位清廉而高贵的骑士昔日的姿态。</HAR_XO_AH_h.description>
   <HAR_XO_AH_h.label>帝国之盔</HAR_XO_AH_h.label>
   <HAR_XO_AS_a.description>人鱼姬们穿的防刃防弹的上衣。为了维持机动性而进行了轻量化设计，牺牲了部分防御性。</HAR_XO_AS_a.description>
-  <HAR_XO_AS_a.label>大衣(人鱼姬)</HAR_XO_AS_a.label>
+  <HAR_XO_AS_a.label>大衣（人鱼姬）</HAR_XO_AS_a.label>
   <HAR_XO_AS_b.description>人鱼姬们穿的防刃防弹的上衣。为了维持机动性而进行了轻量化设计，牺牲了部分防御性。</HAR_XO_AS_b.description>
-  <HAR_XO_AS_b.label>防尘大衣(人鱼姬)</HAR_XO_AS_b.label>
+  <HAR_XO_AS_b.label>防尘大衣（人鱼姬）</HAR_XO_AS_b.label>
   <HAR_XO_AS_c.description>为了快速换弹而集中放置弹药的腰带，毫无防御性，但能缩短射击间隔、提升射击精度。</HAR_XO_AS_c.description>
-  <HAR_XO_AS_c.label>弹药带(人鱼姬)</HAR_XO_AS_c.label>
+  <HAR_XO_AS_c.label>弹药带（人鱼姬）</HAR_XO_AS_c.label>
   <HAR_XO_AT_a.description>人鱼姬穿的特殊构造的服装，能从中看出设计者为了不让人鱼姬们闷热而付出的良苦用心。</HAR_XO_AT_a.description>
-  <HAR_XO_AT_a.label>异度服装A(人鱼姬)</HAR_XO_AT_a.label>
+  <HAR_XO_AT_a.label>异度服装A（人鱼姬）</HAR_XO_AT_a.label>
   <HAR_XO_AT_b.description>人鱼姬穿的特殊构造的服装，能从中看出设计者为了不让人鱼姬们闷热而付出的良苦用心。</HAR_XO_AT_b.description>
-  <HAR_XO_AT_b.label>异度服装B(人鱼姬)</HAR_XO_AT_b.label>
+  <HAR_XO_AT_b.label>异度服装B（人鱼姬）</HAR_XO_AT_b.label>
   <HAR_XO_AT_c.description>人鱼姬穿的特殊构造的服装，能从中看出设计者为了不让人鱼姬们闷热而付出的良苦用心。</HAR_XO_AT_c.description>
-  <HAR_XO_AT_c.label>异度服装C(人鱼姬)</HAR_XO_AT_c.label>
+  <HAR_XO_AT_c.label>异度服装C（人鱼姬）</HAR_XO_AT_c.label>
   <HAR_XO_AT_d.description>人鱼姬穿的女仆装，正儿八经的有在工作，所以稍微恶作剧一下会很可爱。</HAR_XO_AT_d.description>
-  <HAR_XO_AT_d.label>女仆装(人鱼姬)</HAR_XO_AT_d.label>
+  <HAR_XO_AT_d.label>女仆装（人鱼姬）</HAR_XO_AT_d.label>
   <HAR_XO_AT_e.description>为人鱼姬定制的一种传统服装。虽然有些难以移动，但因为其寒暑皆可穿、干净清爽的印象，能有效提高社交力。</HAR_XO_AT_e.description>
-  <HAR_XO_AT_e.label>巫女服装(魅魔)</HAR_XO_AT_e.label>
+  <HAR_XO_AT_e.label>巫女服（人鱼姬）</HAR_XO_AT_e.label>
   <HAR_XO_AT_f.description>为人鱼姬定制的一种传统服装。装饰极少，服装本身显瘦，因此对移动速度有加成。</HAR_XO_AT_f.description>
-  <HAR_XO_AT_f.label>旗袍(人鱼姬)</HAR_XO_AT_f.label>
-  <HAR_XO_AT_x.description>人鱼姬·人鱼姬·渊丛主专用的特殊构造的服装。\n为保证在水中的活动能力，装饰被极力简化到了最低程度。</HAR_XO_AT_x.description>
+  <HAR_XO_AT_f.label>旗袍（人鱼姬）</HAR_XO_AT_f.label>
+  <HAR_XO_AT_x.description>人鱼姬·渊丛主专用的特殊结构服装。\n为保证在水中的活动能力，装饰被极力简化到了最低程度。</HAR_XO_AT_x.description>
   <HAR_XO_AT_x.label>深渊之翼</HAR_XO_AT_x.label>
-  <Gun_AssaultRifle_XO.label>ＯＣ式突击步枪</Gun_AssaultRifle_XO.label>
+  <Gun_AssaultRifle_XO.label>OC 式突击步枪</Gun_AssaultRifle_XO.label>
   <Gun_AssaultRifle_XO.description>经由人鱼姬们魔改的军用步枪（虎鲸定制），射程和威力得到提升，代价则是变得更难操控。</Gun_AssaultRifle_XO.description>
-  <Gun_SniperRifle_XO.label>ＯＣ式狙击步枪</Gun_SniperRifle_XO.label>
+  <Gun_SniperRifle_XO.label>OC 式狙击步枪</Gun_SniperRifle_XO.label>
   <Gun_SniperRifle_XO.description>经由人鱼姬们魔改的狙击步枪（虎鲸定制），射程和威力得到提升，代价则是变得更难操控。</Gun_SniperRifle_XO.description>
-  <Gun_ChargeRifle_XO.label>ＯＣ式冲锋枪</Gun_ChargeRifle_XO.label>
+  <Gun_ChargeRifle_XO.label>OC 式冲锋枪</Gun_ChargeRifle_XO.label>
   <Gun_ChargeRifle_XO.description>经由人鱼姬们魔改的冲锋枪（虎鲸定制），射程和威力得到提升，代价则是变得更难操控。</Gun_ChargeRifle_XO.description>
-  <Gun_PumpShotgun_XO.label>ＯＣ式霰弹枪</Gun_PumpShotgun_XO.label>
+  <Gun_PumpShotgun_XO.label>OC 式霰弹枪</Gun_PumpShotgun_XO.label>
   <Gun_PumpShotgun_XO.description>经由人鱼姬们魔改的霰弹枪（虎鲸定制），射程和威力得到提升，代价则是变得更难操控。</Gun_PumpShotgun_XO.description>
-  <Weapon_GrenadeFrag_XO.label>ＯＣ式手榴弹</Weapon_GrenadeFrag_XO.label>
+  <Weapon_GrenadeFrag_XO.label>OC 式手榴弹</Weapon_GrenadeFrag_XO.label>
   <Weapon_GrenadeFrag_XO.description>经由人鱼姬们魔改的手榴弹（虎鲸定制），虽然缩小了爆炸范围并提高了操作难度，但现在可以从更远处的地方投掷它了。</Weapon_GrenadeFrag_XO.description>
   <MeleeWeapon_Trident_XO.label>虎鲸三叉戟</MeleeWeapon_Trident_XO.label>
   <MeleeWeapon_Trident_XO.description>人鱼姬们喜欢用的三叉戟，也能用于狩猎和捕鱼。普通人难以挥舞这种巨大的兵器，但其杀伤力毋庸置疑。</MeleeWeapon_Trident_XO.description>
   <HAR_XO_Weapon_a.label>深渊之噬</HAR_XO_Weapon_a.label>
-  <HAR_XO_Weapon_a.description>创造者为身为近卫的人鱼姬·渊丛主作为主要武器而制造的大枪。\n据说是与大地之剑·统御之枪所齐名的武器。\n由于是专门为人鱼姬·渊丛主所制造的武器，因此只能由她们所使用。\n\n\n那是在黄金时代立下了无数辉煌战果的骑士们的大枪。\n然而，骑士们在前去杀死神子的前日，将其埋葬于宇宙之中。\n如今所行乃是鲜血染红的道路，唯有此枪不可伴于身侧。</HAR_XO_Weapon_a.description>
+  <HAR_XO_Weapon_a.description>创造者为担任近卫的人鱼姬·渊丛主打造的主战骑枪。\n据说是与大地之剑·统御之枪所齐名的武器。\n由于是专门为人鱼姬·渊丛主所制造的武器，因此只能由她们所使用。\n\n\n那是在黄金时代立下了无数辉煌战果的骑士们的大枪。\n然而，骑士们在前去杀死神子的前日，将其埋葬于宇宙之中。\n如今所行乃是鲜血染红的道路，唯有此枪不可伴于身侧。</HAR_XO_Weapon_a.description>
 </LanguageData>

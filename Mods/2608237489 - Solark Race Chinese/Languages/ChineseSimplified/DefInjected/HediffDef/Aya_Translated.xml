@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <Solark_Artificial.label>人工种族</Solark_Artificial.label>
-  <Solark_Artificial.description>索拉克是一种人工创造的种族，旨在具有高水平的身体素质。\n\n随着岁月的流逝，它的力量将持续增加，并会转变为更强大的身体。\n\n索拉克族大约一年会上升一级（LV上限为5）。</Solark_Artificial.description>
+  <Solark_Artificial.description>索拉克是一种人工创造的种族，旨在具有高水平的身体素质。\n\n随着岁月的流逝，它的力量将持续增加，并会转变为更强大的身体。\n\n索拉克族大约每年提升 1 级（等级上限为 5）。</Solark_Artificial.description>
   <Solark_Artificial_b.label>上位人工种族</Solark_Artificial_b.label>
   <Solark_Artificial_b.description>索拉克·赫雷勒夫是索拉克的上位种，拥有更加强韧的肉体。
 

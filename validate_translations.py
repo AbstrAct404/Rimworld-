@@ -10,6 +10,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 import build_translations as build
+from apply_race_names import KEY_OVERRIDES as CANONICAL_NAME_OVERRIDES
 
 JAPANESE = re.compile(r"[\u3040-\u30ff\u31f0-\u31ff]")
 FORBIDDEN_RELEASE_TEXT = (
@@ -36,6 +37,21 @@ FORBIDDEN_RELEASE_TEXT = (
     "原原本本地",
     "一般工作的工作速度",
     "弗如",
+    "人鱼姬·人鱼姬",
+    "女王种【女王种】",
+    "舒舒服装",
+    "情況",
+    "Lv",
+    "LV",
+    "每季度",
+    "每15日",
+    "每2日",
+    "縛刃",
+    "憑剣",
+    "魔槍",
+    "夢杖",
+    "墮狱",
+    "ＯＣ式",
 )
 
 
@@ -45,6 +61,7 @@ def main() -> int:
     args = parser.parse_args()
 
     errors: list[str] = []
+    expected_key_values = {**build.KEY_OVERRIDES, **CANONICAL_NAME_OVERRIDES}
     xml_files = list(args.root.rglob("*.xml"))
     game_values = 0
     for file in xml_files:
@@ -60,6 +77,12 @@ def main() -> int:
                 game_values += 1
                 if JAPANESE.search(value):
                     errors.append(f"Japanese remains: {file}: {node.tag}: {value[:100]!r}")
+                expected = expected_key_values.get(node.tag)
+                if expected is not None and value.strip() != expected:
+                    errors.append(
+                        f"Canonical value mismatch: {file}: {node.tag}: "
+                        f"{value.strip()!r} != {expected!r}"
+                    )
             for forbidden in FORBIDDEN_RELEASE_TEXT:
                 if forbidden in value:
                     errors.append(

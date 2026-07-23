@@ -7,7 +7,7 @@
   <HAR_SK_Skill_Hediff_b.description>使对象处于被亚人兽娘·狐媚精神侵入的状态，变得举止怪异，某些情况下可能会引发精神崩溃。\n数小时后消失。</HAR_SK_Skill_Hediff_b.description>
   <HAR_SK_Skill_Hediff_c.description>亚人兽娘·狐媚所召唤的蛊虫。\n在妖术的加持下比通常个体更为强韧，但超过某一界限后，肉体会因反作用而达到极限并死亡。</HAR_SK_Skill_Hediff_c.description>
   <Silkiera_Artificial.label>人工种族·亚人兽娘</Silkiera_Artificial.label>
-  <Silkiera_Artificial.description>亚人兽娘是人工种族，重视通用性。可能因为是人工生物的缘故，她们对疾病的耐性很低，免疫力也不如常人。但是在编入基因的野生动物力量的影响下，会随着时间的推移逐渐克服这些弱点，且其强度取决于她们各自的人工种族等级（大约1年提升1级，上限为5）。</Silkiera_Artificial.description>
+  <Silkiera_Artificial.description>亚人兽娘是注重通用性的人工种族。作为人工生命，她们对疾病的抵抗力和免疫力不如常人；但受植入体内的野生动物基因影响，这些弱点会随成长逐渐改善。能力取决于人工种族等级，约每年提升 1 级（等级上限为 5）。</Silkiera_Artificial.description>
   <Silkiera_Artificial_b.label>人工上位种族</Silkiera_Artificial_b.label>
   <Silkiera_Artificial_b.description>经过品种改良后，亚人兽娘·改良种拥有比普通亚人兽娘更优秀的身体素质。\n曾是弱点的免疫力也得到了增强，应该能有更稳定的活动。</Silkiera_Artificial_b.description>
   <HAR_SK_PsychiteTeaHigh.description>通过饮用亚人工业茶，获得成瘾品与意志坚定的效果。</HAR_SK_PsychiteTeaHigh.description>

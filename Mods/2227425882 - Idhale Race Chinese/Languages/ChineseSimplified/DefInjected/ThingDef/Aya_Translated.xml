@@ -6,30 +6,30 @@
   <Aya_Race_Ap_C_T_b.label>儿童罩衫</Aya_Race_Ap_C_T_b.label>
   <Aya_Race_Ap_C_T_c.description>人工种族儿童使用的裹身布。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_c.description>
   <Aya_Race_Ap_C_T_d.description>人工种族儿童穿着的学生服。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_d.description>
-  <Aya_Race_Ap_C_T_d.label>儿童校服装</Aya_Race_Ap_C_T_d.label>
+  <Aya_Race_Ap_C_T_d.label>儿童学生服</Aya_Race_Ap_C_T_d.label>
   <HAR_IH_AO_a.description>幽灵姬穿的内衣，比原来魅魔族的内衣更露骨。</HAR_IH_AO_a.description>
   <HAR_IH_AO_a.label>内衣A款（幽灵姬）</HAR_IH_AO_a.label>
   <HAR_IH_AS_a.description>犹如死神般的斗篷，但是本身性能不怎么样。</HAR_IH_AS_a.description>
-  <HAR_IH_AS_a.label>幽鬼斗篷(幽灵姬)</HAR_IH_AS_a.label>
-  <HAR_IH_AT_a.description>为幽灵姬量身定制的服装，受到灵体化的影响服装边缘变得破破烂烂。</HAR_IH_AT_a.description>
-  <HAR_IH_AT_a.label>幽鬼衬衫(幽灵姬)</HAR_IH_AT_a.label>
+  <HAR_IH_AS_a.label>幽鬼斗篷（幽灵姬）</HAR_IH_AS_a.label>
+  <HAR_IH_AT_a.description>为幽灵姬量身定制的服装，受灵体化影响，服装边缘显得破旧残缺。</HAR_IH_AT_a.description>
+  <HAR_IH_AT_a.label>幽鬼衬衫（幽灵姬）</HAR_IH_AT_a.label>
   <HAR_IH_AT_b.description>死者所穿的服装，有降低心灵敏感度的效果并且能稍微克服幽灵姬的弱点。</HAR_IH_AT_b.description>
-  <HAR_IH_AT_b.label>牧菌妖姬装束(幽灵姬)</HAR_IH_AT_b.label>
-  <HAR_IH_AT_c.description>高贵者所穿的高级服装，但是受到灵体化的影响服装边缘变得破破烂烂。能获得一些对毒性和疾病的抗性。</HAR_IH_AT_c.description>
-  <HAR_IH_AT_c.label>幽鬼礼服装(幽灵姬)</HAR_IH_AT_c.label>
+  <HAR_IH_AT_b.label>牧菌妖姬装束（幽灵姬）</HAR_IH_AT_b.label>
+  <HAR_IH_AT_c.description>高贵者所穿的高级服装，但是受灵体化影响，服装边缘显得破旧残缺。能获得一些对毒性和疾病的抗性。</HAR_IH_AT_c.description>
+  <HAR_IH_AT_c.label>幽鬼礼服（幽灵姬）</HAR_IH_AT_c.label>
   <HAR_IH_AT_d.description>幽灵姬用的护士服装，虽然不知道为什么沾满了鲜血，但是能提升医疗效果。</HAR_IH_AT_d.description>
-  <HAR_IH_AT_d.label>幽鬼护士服装(幽灵姬)</HAR_IH_AT_d.label>
+  <HAR_IH_AT_d.label>幽鬼护士服（幽灵姬）</HAR_IH_AT_d.label>
   <HAR_IH_AT_e.description>幽灵姬用的拘束兼带着寻常服装效果的奴隶服装。顺带一提，这并非强制性——而是她们自己主动穿上的。以减慢移速为代价，提升了部分工作的工作效率。</HAR_IH_AT_e.description>
-  <HAR_IH_AT_e.label>幽鬼奴隶服装(幽灵姬)</HAR_IH_AT_e.label>
-  <HAR_IH_AT_z.description>为幽灵姬·罪孽灵量身定制的服装，然而并没有什么特殊的效果。</HAR_IH_AT_z.description>
-  <HAR_IH_AT_z.label>苍穹之服装</HAR_IH_AT_z.label>
+  <HAR_IH_AT_e.label>幽鬼奴隶服（幽灵姬）</HAR_IH_AT_e.label>
+  <HAR_IH_AT_z.description>为幽灵姬·罪孽灵量身定制的礼装，但似乎没有特殊效果。</HAR_IH_AT_z.description>
+  <HAR_IH_AT_z.label>以太礼装</HAR_IH_AT_z.label>
   <HAR_IH_NPC_Race_a.label>拉哈特·谢拉哈</HAR_IH_NPC_Race_a.label>
   <HAR_IH_NPC_Race_a.description>幽灵姬·罪孽灵的眷属。\n尽管自身力量欠佳，但会在一定时间后引发巨大的爆炸，将自身与周边环境一并卷入。</HAR_IH_NPC_Race_a.description>
   <HAR_IH_NPC_Race_b.label>巨型魔像</HAR_IH_NPC_Race_b.label>
-  <HAR_IH_NPC_Race_b.description>幽灵姬·罪孽灵的眷属。\n坚韧的躯体足以在抵挡攻击的同时灵活地进行移动，并用锋利的双爪粉碎敌人的神圣的魔像。\n被召唤出的巨型魔像将在一天后消失</HAR_IH_NPC_Race_b.description>
+  <HAR_IH_NPC_Race_b.description>幽灵姬·罪孽灵的眷属。\n这个神圣魔像拥有坚韧的躯体，既能承受攻击，又能灵活移动，并以锋利双爪粉碎敌人。\n召唤出的巨型魔像会在一天后消失。</HAR_IH_NPC_Race_b.description>
   <HAR_IH_Bullet_a.label>巴耶力之剑</HAR_IH_Bullet_a.label>
   <HAR_IH_Bullet_b.label>莫斯提马之枪</HAR_IH_Bullet_b.label>
-  <HAR_IH_Item_a.label>光辉之石</HAR_IH_Item_a.label>
+  <HAR_IH_Item_a.label>辉耀之石</HAR_IH_Item_a.label>
   <HAR_IH_Item_a.description>仿照创造者曾见过的上位种族的外壳所制成的物质。
 仅被用作人工种族中幽灵姬·罪孽灵的外壳上。
 
@@ -38,6 +38,6 @@
 在面对需要多次刻下伤痕的敌人时极其有效。
 
 那如苍穹一般闪耀着的蓝色光芒，据说便是那只鸟在生命的尽头所见的光景。</HAR_IH_Item_a.description>
-  <HAR_IH_Archotech_a.label>苍穹之匙</HAR_IH_Archotech_a.label>
+  <HAR_IH_Archotech_a.label>天穹之钥</HAR_IH_Archotech_a.label>
   <HAR_IH_Archotech_a.description>创造者为了使第三者能够与幽灵姬·罪孽灵签下契约而遗留下的天蓝钥匙。\n使用后能够召唤出幽灵姬·罪孽灵。</HAR_IH_Archotech_a.description>
 </LanguageData>

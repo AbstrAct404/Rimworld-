@@ -9,7 +9,7 @@
   <Hediff_Genocide.label>精神狂暴</Hediff_Genocide.label>
   <Hediff_Genocide.description>由于魅魔的精神干涉，被无差别地狂暴化了。</Hediff_Genocide.description>
   <HAR_NM_Hediff_a.label>即死预兆</HAR_NM_Hediff_a.label>
-  <HAR_NM_Hediff_a.description>混入魑枪『郄浍墮狱』子弹里的纳米机器引起的症状。\n通常潜伏在体内不会造成危害，但如果超过一定数量，就会被激活，使内脏功能强制停止而导致死亡。因为在潜伏中探查了机体构造，无论是对生物还是机械都能发挥作用。</HAR_NM_Hediff_a.description>
+  <HAR_NM_Hediff_a.description>混入魑枪「郄浍堕狱」子弹里的纳米机器引起的症状。\n通常潜伏在体内不会造成危害，但如果超过一定数量，就会被激活，使内脏功能强制停止而导致死亡。因为在潜伏中探查了机体构造，无论是对生物还是机械都能发挥作用。</HAR_NM_Hediff_a.description>
   <HAR_NM_XXX_Hediff.description>正在接受超存在的“救济”。但看起来，她似乎正失去某种无比重要的东西……
 
 看着祂，不知为何就会安心。仿佛被拥入怀中，身体轻飘飘的；心也越来越轻，好像马上就要升上天空。
@@ -25,7 +25,7 @@
   <HAR_NM_Skill_Hediff_e.label>深渊之咒</HAR_NM_Skill_Hediff_e.label>
   <HAR_NM_Skill_Hediff_e.description>受到魅魔·魔女系的身体脆弱的干涉。\n即使穿着最坚固的铠甲，防御也会降低到致命的程度。</HAR_NM_Skill_Hediff_e.description>
   <Nearmaere_Artificial.label>人工种族</Nearmaere_Artificial.label>
-  <Nearmaere_Artificial.description>由于魅魔是人工种族，特别针对精神干涉，所以对精神相关有很强的耐性，相反对人工生物或病毒等的抗性和免疫力很低。\n\n另外，她们有自己的眷属，可以召唤出来让其与敌人战斗，其强度、召唤数根据她们个人作为人工种族的Lv而定，约一年提升1级 (Lv上限为5)。</Nearmaere_Artificial.description>
+  <Nearmaere_Artificial.description>魅魔是针对精神干涉特化的人工种族，对精神影响有很强的抗性；相对地，她们对疾病、病毒等威胁的抵抗力和免疫力较低。\n\n她们还可以召唤眷属协助战斗。眷属的强度和召唤数量取决于魅魔等级；魅魔等级约每年提升 1 级（等级上限为 5）。</Nearmaere_Artificial.description>
   <Nearmaere_Artificial_b.label>人工种族（魔女系）</Nearmaere_Artificial_b.label>
   <Nearmaere_Artificial_b.description>魅魔·魔女系是魅魔的完成形态，拥有在人类社会上位的手腕和技巧。\n长期以来人工种族特有的免疫问题克服的同时，心灵能力也得到了增强。</Nearmaere_Artificial_b.description>
   <Nearmaere_Artificial_d.label>人工种族（神秘系）</Nearmaere_Artificial_d.label>
@@ -51,9 +51,9 @@
 
 最多可以补充至300单位上限。</HAR_NM_Hediff_Drag_c.description>
   <HAR_NM_Hediff_Potency_a.label>阿尔克忒拉灵药</HAR_NM_Hediff_Potency_a.label>
-  <HAR_NM_Hediff_Potency_a.description>据说这种药物的功效是由人工女巫种族魅魔·魔女系的成员阿克特拉创造的。\n药效持续 8 小时，随后 4 小时出现副作用。\n\n效果期间，身体能力提升，攻击力增强。\n当出现副作用时，运动功能会下降至 50%。\n\n\n\n老实说，我不信任阿拉迪娅，所以我不想太依赖这个药。\n他们表面上很平静，但内心却在嘲笑别人。</HAR_NM_Hediff_Potency_a.description>
-  <HAR_NM_Hediff_Potency_b.label>伊迪安魔药</HAR_NM_Hediff_Potency_b.label>
-  <HAR_NM_Hediff_Potency_b.description>据说这种药物的功效是由人工雌性狐狸亚人兽娘·维​​克斯玛丽斯 (亚人兽娘 维克森玛丽斯) 之一艾廷 (艾提涅) 创造的。\n药效持续 8 小时，随后 4 小时出现副作用。\n\n当其生效时，身体能力会提高，防御力也会增强。\n相反，它会变得脆弱并产生副作用。\n\n\n\n药物本身的功效是有益的，用起来也不错。\n但不知道到底是堆了多少空间部落的尸体才炼制出这种药剂的……</HAR_NM_Hediff_Potency_b.description>
+  <HAR_NM_Hediff_Potency_a.description>这种灵药由魅魔·魔女系成员阿克忒拉调制。\n药效持续 8 小时，随后 4 小时出现副作用。\n\n效果期间，身体能力提升，攻击力增强。\n当出现副作用时，运动功能会下降至 50%。\n\n\n\n“说实话，我不信任阿拉迪娅，所以不想过分依赖这种药。她们表面平静，心里却不知在盘算什么。”</HAR_NM_Hediff_Potency_a.description>
+  <HAR_NM_Hediff_Potency_b.label>艾提涅魔药</HAR_NM_Hediff_Potency_b.label>
+  <HAR_NM_Hediff_Potency_b.description>这种魔药由亚人兽娘·维克森玛丽斯成员艾提涅调制。\n药效持续 8 小时，随后 4 小时出现副作用。\n\n药效生效时，身体能力与防御力都会提升；副作用发作时，身体则会变得脆弱。\n\n\n\n药效本身十分实用。\n但不知道到底是堆了多少太空部落的尸体才炼制出这种药剂的……</HAR_NM_Hediff_Potency_b.description>
   <HAR_NM_Hediff_Potency_c.label>杜娜米丝秘药</HAR_NM_Hediff_Potency_c.label>
   <HAR_NM_Hediff_Potency_c.description>神子伪神族·杜娜米丝所调制药物的效力。能够在没有副作用的情况下复活死者，并因复活的附带效果使其获得永久强化。
 

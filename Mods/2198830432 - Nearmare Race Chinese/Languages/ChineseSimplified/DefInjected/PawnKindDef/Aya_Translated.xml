@@ -3,28 +3,28 @@
   <HAR_M_NightStalker_Kind_Base.label>夜行者</HAR_M_NightStalker_Kind_Base.label>
   <HAR_M_NightStalker_Kind_Base.labelMale>夜行者</HAR_M_NightStalker_Kind_Base.labelMale>
   <HAR_M_NightStalker_Kind_Base.labelFemale>夜行者</HAR_M_NightStalker_Kind_Base.labelFemale>
-  <HAR_M_NightStalker_Kind.label>1级.夜潜猎手</HAR_M_NightStalker_Kind.label>
-  <HAR_M_NightStalker_Kind_b.label>等级2.夜潜猎手</HAR_M_NightStalker_Kind_b.label>
-  <HAR_M_NightStalker_Kind_c.label>等级3.夜潜猎手</HAR_M_NightStalker_Kind_c.label>
-  <HAR_M_NightStalker_Kind_d.label>等级4.夜潜猎手</HAR_M_NightStalker_Kind_d.label>
-  <HAR_M_NightStalker_Kind_e.label>等级5.夜潜猎手</HAR_M_NightStalker_Kind_e.label>
+  <HAR_M_NightStalker_Kind.label>夜潜猎手（1级）</HAR_M_NightStalker_Kind.label>
+  <HAR_M_NightStalker_Kind_b.label>夜潜猎手（2级）</HAR_M_NightStalker_Kind_b.label>
+  <HAR_M_NightStalker_Kind_c.label>夜潜猎手（3级）</HAR_M_NightStalker_Kind_c.label>
+  <HAR_M_NightStalker_Kind_d.label>夜潜猎手（4级）</HAR_M_NightStalker_Kind_d.label>
+  <HAR_M_NightStalker_Kind_e.label>夜潜猎手（5级）</HAR_M_NightStalker_Kind_e.label>
   <HAR_M_NightGaunts_Kind_Base.label>夜魇</HAR_M_NightGaunts_Kind_Base.label>
   <HAR_M_NightGaunts_Kind_Base.labelMale>夜魇</HAR_M_NightGaunts_Kind_Base.labelMale>
   <HAR_M_NightGaunts_Kind_Base.labelFemale>夜魇</HAR_M_NightGaunts_Kind_Base.labelFemale>
-  <HAR_M_NightGaunts_Kind.label>1级.噩梦骇兽</HAR_M_NightGaunts_Kind.label>
-  <HAR_M_NightGaunts_Kind_b.label>等级2.噩梦骇兽</HAR_M_NightGaunts_Kind_b.label>
-  <HAR_M_NightGaunts_Kind_c.label>等级3.噩梦骇兽</HAR_M_NightGaunts_Kind_c.label>
-  <HAR_M_NightGaunts_Kind_d.label>等级4.噩梦骇兽</HAR_M_NightGaunts_Kind_d.label>
-  <HAR_M_NightGaunts_Kind_e.label>等级5.噩梦骇兽</HAR_M_NightGaunts_Kind_e.label>
+  <HAR_M_NightGaunts_Kind.label>噩梦骇兽（1级）</HAR_M_NightGaunts_Kind.label>
+  <HAR_M_NightGaunts_Kind_b.label>噩梦骇兽（2级）</HAR_M_NightGaunts_Kind_b.label>
+  <HAR_M_NightGaunts_Kind_c.label>噩梦骇兽（3级）</HAR_M_NightGaunts_Kind_c.label>
+  <HAR_M_NightGaunts_Kind_d.label>噩梦骇兽（4级）</HAR_M_NightGaunts_Kind_d.label>
+  <HAR_M_NightGaunts_Kind_e.label>噩梦骇兽（5级）</HAR_M_NightGaunts_Kind_e.label>
   <HAR_M_Nightmare_Kind_Base.label>恶梦</HAR_M_Nightmare_Kind_Base.label>
   <HAR_M_Nightmare_Kind_Base.labelMale>恶梦</HAR_M_Nightmare_Kind_Base.labelMale>
   <HAR_M_Nightmare_Kind_Base.labelFemale>恶梦</HAR_M_Nightmare_Kind_Base.labelFemale>
-  <HAR_M_Nearmaere_Kind.label>1级.永夜巨兽</HAR_M_Nearmaere_Kind.label>
-  <HAR_M_Nightmare_Kind.label>1级.永夜巨兽</HAR_M_Nightmare_Kind.label>
-  <HAR_M_Nightmare_Kind_b.label>等级2.永夜巨兽</HAR_M_Nightmare_Kind_b.label>
-  <HAR_M_Nightmare_Kind_c.label>等级3.永夜巨兽</HAR_M_Nightmare_Kind_c.label>
-  <HAR_M_Nightmare_Kind_d.label>等级4.永夜巨兽</HAR_M_Nightmare_Kind_d.label>
-  <HAR_M_Nightmare_Kind_e.label>等级5.永夜巨兽</HAR_M_Nightmare_Kind_e.label>
+  <HAR_M_Nearmaere_Kind.label>永夜巨兽（1级）</HAR_M_Nearmaere_Kind.label>
+  <HAR_M_Nightmare_Kind.label>永夜巨兽（1级）</HAR_M_Nightmare_Kind.label>
+  <HAR_M_Nightmare_Kind_b.label>永夜巨兽（2级）</HAR_M_Nightmare_Kind_b.label>
+  <HAR_M_Nightmare_Kind_c.label>永夜巨兽（3级）</HAR_M_Nightmare_Kind_c.label>
+  <HAR_M_Nightmare_Kind_d.label>永夜巨兽（4级）</HAR_M_Nightmare_Kind_d.label>
+  <HAR_M_Nightmare_Kind_e.label>永夜巨兽（5级）</HAR_M_Nightmare_Kind_e.label>
   <HAR_M_TES_Kind_Base.label>茨鲁埃萨</HAR_M_TES_Kind_Base.label>
   <HAR_M_TES_Kind_a.label>茨鲁埃萨</HAR_M_TES_Kind_a.label>
   <HAR_Nearmaere_KindBase_NPC.label>魅魔居民</HAR_Nearmaere_KindBase_NPC.label>

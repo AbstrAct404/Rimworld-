@@ -33,10 +33,10 @@
   <HAR_IH_Backstory_A12.title>白衣幽鬼</HAR_IH_Backstory_A12.title>
   <HAR_IH_Backstory_A12.titleShort>护士</HAR_IH_Backstory_A12.titleShort>
   <HAR_IH_Backstory_A12.description>[PAWN_nameDef]是位医术高明的护士，但[PAWN_pronoun]偶尔也会犯一些可爱的小错误。</HAR_IH_Backstory_A12.description>
-  <HAR_IH_Backstory_b_C1.title>创造主的遗物</HAR_IH_Backstory_b_C1.title>
-  <HAR_IH_Backstory_b_C1.titleShort>创造主的遗物</HAR_IH_Backstory_b_C1.titleShort>
+  <HAR_IH_Backstory_b_C1.title>造物主遗物</HAR_IH_Backstory_b_C1.title>
+  <HAR_IH_Backstory_b_C1.titleShort>造物主遗物</HAR_IH_Backstory_b_C1.titleShort>
   <HAR_IH_Backstory_b_C1.description>[PAWN_nameDef]被人工种族们的创造者赋予了使命，她把这视为了必须由自己来完成的命题。</HAR_IH_Backstory_b_C1.description>
-  <HAR_IH_Backstory_b_A1.title>旧世代的神灵</HAR_IH_Backstory_b_A1.title>
-  <HAR_IH_Backstory_b_A1.titleShort>旧世代的神灵</HAR_IH_Backstory_b_A1.titleShort>
+  <HAR_IH_Backstory_b_A1.title>旧世神灵</HAR_IH_Backstory_b_A1.title>
+  <HAR_IH_Backstory_b_A1.titleShort>旧世神灵</HAR_IH_Backstory_b_A1.titleShort>
   <HAR_IH_Backstory_b_A1.description>[PAWN_nameDef]已经完全掌握了创造者所赋予的力量，她将行使这份力量来为自己的宿命画上句点。</HAR_IH_Backstory_b_A1.description>
 </LanguageData>

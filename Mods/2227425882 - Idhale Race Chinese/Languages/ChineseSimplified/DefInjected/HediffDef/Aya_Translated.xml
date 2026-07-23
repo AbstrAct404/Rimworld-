@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_IH_Hediff_EX_a.label>万军之主在此</HAR_IH_Hediff_EX_a.label>
+  <HAR_IH_Hediff_EX_a.label>万军神临</HAR_IH_Hediff_EX_a.label>
   <HAR_IH_Hediff_EX_a.description>幽灵姬·罪孽灵被创造者所赋予的超凡力量。
 这是一道能够治愈与磨炼万物，连死亡都能超越的荣耀之光。
 随着这股力量的不断解放，她们会逐渐获得超越凡人的力量，但在100％完全解放的情况下，她们便会失去复活的能力。
@@ -8,7 +8,7 @@
 创造主已经踏足了一切可至之处。
 因此，他们才会恐惧自己的技术终将成为宇宙之癌，并为了阻止那个未来而留下了抑制之力。
 那个潜在的敌人究竟是谁，想必只有创造主本人知晓吧。</HAR_IH_Hediff_EX_a.description>
-  <HAR_IH_Hediff_EX_b.label>万军之主在此</HAR_IH_Hediff_EX_b.label>
+  <HAR_IH_Hediff_EX_b.label>万军神临</HAR_IH_Hediff_EX_b.label>
   <HAR_IH_Hediff_EX_b.description>幽灵姬·罪孽灵被创造者所赋予的超凡力量。
 这是一道能够治愈与磨炼万物，连死亡都能超越的荣耀之光。
 随着这股力量的不断解放，她们会逐渐获得超越凡人的力量，但在100％完全解放的情况下，她们便会失去复活的能力。
@@ -16,7 +16,7 @@
 创造主已经踏足了一切可至之处。
 因此，他们才会恐惧自己的技术终将成为宇宙之癌，并为了阻止那个未来而留下了抑制之力。
 那个潜在的敌人究竟是谁，想必只有创造主本人知晓吧。</HAR_IH_Hediff_EX_b.description>
-  <HAR_IH_Hediff_EX_c.label>万军之主在此</HAR_IH_Hediff_EX_c.label>
+  <HAR_IH_Hediff_EX_c.label>万军神临</HAR_IH_Hediff_EX_c.label>
   <HAR_IH_Hediff_EX_c.description>幽灵姬·罪孽灵被创造者所赋予的超凡力量。
 这是一道能够治愈与磨炼万物，连死亡都能超越的荣耀之光。
 随着这股力量的不断解放，她们会逐渐获得超越凡人的力量，但在100％完全解放的情况下，她们便会失去复活的能力。
@@ -24,7 +24,7 @@
 创造主已经踏足了一切可至之处。
 因此，他们才会恐惧自己的技术终将成为宇宙之癌，并为了阻止那个未来而留下了抑制之力。
 那个潜在的敌人究竟是谁，想必只有创造主本人知晓吧。</HAR_IH_Hediff_EX_c.description>
-  <HAR_IH_Hediff_EX_d.label>万军之主在此</HAR_IH_Hediff_EX_d.label>
+  <HAR_IH_Hediff_EX_d.label>万军神临</HAR_IH_Hediff_EX_d.label>
   <HAR_IH_Hediff_EX_d.description>幽灵姬·罪孽灵被创造者所赋予的超凡力量。
 这是一道能够治愈与磨炼万物，连死亡都能超越的荣耀之光。
 随着这股力量的不断解放，她们会逐渐获得超越凡人的力量，但在100％完全解放的情况下，她们便会失去复活的能力。
@@ -32,7 +32,7 @@
 创造主已经踏足了一切可至之处。
 因此，他们才会恐惧自己的技术终将成为宇宙之癌，并为了阻止那个未来而留下了抑制之力。
 那个潜在的敌人究竟是谁，想必只有创造主本人知晓吧。</HAR_IH_Hediff_EX_d.description>
-  <HAR_IH_Hediff_EX_e.label>万军之主在此</HAR_IH_Hediff_EX_e.label>
+  <HAR_IH_Hediff_EX_e.label>万军神临</HAR_IH_Hediff_EX_e.label>
   <HAR_IH_Hediff_EX_e.description>幽灵姬·罪孽灵被创造者所赋予的超凡力量。
 这是一道能够治愈与磨炼万物，连死亡都能超越的荣耀之光。
 随着这股力量的不断解放，她们会逐渐获得超越凡人的力量，但在100％完全解放的情况下，她们便会失去复活的能力。
@@ -42,9 +42,9 @@
 那个潜在的敌人究竟是谁，想必只有创造主本人知晓吧。</HAR_IH_Hediff_EX_e.description>
   <HAR_IH_Hediff_Death.label>死与重生</HAR_IH_Hediff_Death.label>
   <HAR_IH_Hediff_ZZZ.label>巴别的审判</HAR_IH_Hediff_ZZZ.label>
-  <HAR_IH_Hediff_ZZZ.description>幽灵姬·罪孽灵在释放万军之主在此时产生的波动。\n受到影响的人会失去行动能力，只有匍匐于大地一途。\n这个状态会在1天后解除。</HAR_IH_Hediff_ZZZ.description>
+  <HAR_IH_Hediff_ZZZ.description>幽灵姬·罪孽灵在释放万军之主在此时产生的波动。\n受到影响的人会失去行动能力，只能匍匐在地。\n该状态会在 1 天后解除。</HAR_IH_Hediff_ZZZ.description>
   <Idhale_Artificial.label>人工种族</Idhale_Artificial.label>
-  <Idhale_Artificial.description>幽灵姬由于灵体性质原因，物理干扰需要先进的技术支持，所以工作效率较低，而且对疾病的抵抗力和免疫力低下。\n但是她们每天都在不断的成长，一点点的克服自己的缺点，她们的强度取决于她们个人的Lv等级，大约一年上升一级(Lv上限是5)。</Idhale_Artificial.description>
+  <Idhale_Artificial.description>幽灵姬具有灵体性质，干涉现实物质需要借助先进技术，因此工作效率较低，对疾病的抵抗力和免疫力也较弱。\n不过，她们会随着时间逐渐克服这些弱点。能力取决于幽灵姬等级，约每年提升 1 级（等级上限为 5）。</Idhale_Artificial.description>
   <Idhale_Artificial_b.label>人工上位种族</Idhale_Artificial_b.label>
   <Idhale_Artificial_b.description>幽灵姬·罪孽灵不同于存在不稳定的普通种，她们拥有着稳定的幽体，能够自由行使多种不可思议的力量。
 

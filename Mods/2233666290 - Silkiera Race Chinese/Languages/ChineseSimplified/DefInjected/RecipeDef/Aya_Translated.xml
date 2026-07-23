@@ -22,26 +22,26 @@
   <HAR_SK_Recipe_Recycle_b.label>回收：全部护甲</HAR_SK_Recipe_Recycle_b.label>
   <HAR_SK_Recipe_Recycle_b.description>不需要的护甲可以回收给亚人工业。\n作为谢礼，你将得到猫咪印章。</HAR_SK_Recipe_Recycle_b.description>
   <HAR_SK_Recipe_Recycle_c.description>每次可将10份污染垃圾回收给亚人工业。\n作为谢礼，你将得到猫咪印章。</HAR_SK_Recipe_Recycle_c.description>
-  <HAR_SK_Recipe_exchange_a.label>交换:治愈机械液</HAR_SK_Recipe_exchange_a.label>
+  <HAR_SK_Recipe_exchange_a.label>交换：治愈机械液</HAR_SK_Recipe_exchange_a.label>
   <HAR_SK_Recipe_exchange_a.description>使用500个猫咪印章交换治愈机械液。</HAR_SK_Recipe_exchange_a.description>
-  <HAR_SK_Recipe_exchange_b.label>交换:复活机械液</HAR_SK_Recipe_exchange_b.label>
+  <HAR_SK_Recipe_exchange_b.label>交换：复活机械液</HAR_SK_Recipe_exchange_b.label>
   <HAR_SK_Recipe_exchange_b.description>使用500个猫咪印章交换复活机械液。</HAR_SK_Recipe_exchange_b.description>
   <HAR_SK_Recipe_exchange_c.label>交换：AI人格核心</HAR_SK_Recipe_exchange_c.label>
   <HAR_SK_Recipe_exchange_c.description>使用500个猫咪印章交换AI人格核心。</HAR_SK_Recipe_exchange_c.description>
-  <HAR_SK_Recipe_exchange_d.label>交换:黑色券</HAR_SK_Recipe_exchange_d.label>
+  <HAR_SK_Recipe_exchange_d.label>交换：黑色券</HAR_SK_Recipe_exchange_d.label>
   <HAR_SK_Recipe_exchange_d.description>使用3000个猫咪印章交换黑色券。</HAR_SK_Recipe_exchange_d.description>
   <HAR_SK_Recipe_exchange_e.description>使用500个猫咪印章交换亚人工业路灯。</HAR_SK_Recipe_exchange_e.description>
-  <HAR_SK_Recipe_exchange_f.label>交换:宠物券</HAR_SK_Recipe_exchange_f.label>
+  <HAR_SK_Recipe_exchange_f.label>交换：宠物券</HAR_SK_Recipe_exchange_f.label>
   <HAR_SK_Recipe_exchange_f.description>使用50个猫咪印章交换宠物券。</HAR_SK_Recipe_exchange_f.description>
-  <HAR_SK_Recipe_exchange_g.label>交换:魔鬼素</HAR_SK_Recipe_exchange_g.label>
+  <HAR_SK_Recipe_exchange_g.label>交换：魔鬼素</HAR_SK_Recipe_exchange_g.label>
   <HAR_SK_Recipe_exchange_g.description>使用50个猫咪印章交换魔鬼素。</HAR_SK_Recipe_exchange_g.description>
-  <HAR_SK_Recipe_exchange_h.label>交换:飞蛾姬券</HAR_SK_Recipe_exchange_h.label>
+  <HAR_SK_Recipe_exchange_h.label>交换：飞蛾姬券</HAR_SK_Recipe_exchange_h.label>
   <HAR_SK_Recipe_exchange_h.description>使用100个猫咪印章交换飞蛾姬券。</HAR_SK_Recipe_exchange_h.description>
-  <HAR_SK_Recipe_exchange_i.label>交换:亚人格核心</HAR_SK_Recipe_exchange_i.label>
+  <HAR_SK_Recipe_exchange_i.label>交换：亚人格核心</HAR_SK_Recipe_exchange_i.label>
   <HAR_SK_Recipe_exchange_i.description>使用500个猫咪印章交换亚人格核心。</HAR_SK_Recipe_exchange_i.description>
-  <HAR_SK_Recipe_exchange_j.label>交换:幽灵姬券</HAR_SK_Recipe_exchange_j.label>
+  <HAR_SK_Recipe_exchange_j.label>交换：幽灵姬券</HAR_SK_Recipe_exchange_j.label>
   <HAR_SK_Recipe_exchange_j.description>使用2000个猫咪印章交换幽灵姬券。</HAR_SK_Recipe_exchange_j.description>
-  <HAR_SK_Recipe_exchange_k.label>交换:小人族券</HAR_SK_Recipe_exchange_k.label>
+  <HAR_SK_Recipe_exchange_k.label>交换：小人族券</HAR_SK_Recipe_exchange_k.label>
   <HAR_SK_Recipe_exchange_k.description>使用2500个猫咪印章交换小人族券。</HAR_SK_Recipe_exchange_k.description>
   <HAR_SK_Recipe_exchange_n.description>使用50个猫咪印章交换暗黑超凡碎片。</HAR_SK_Recipe_exchange_n.description>
   <HAR_SK_Recipe_Refinery_a.label>从岩石中提炼化学燃料</HAR_SK_Recipe_Refinery_a.label>

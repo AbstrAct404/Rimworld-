@@ -120,39 +120,39 @@
 　…话说回来啊，不要为了做实验就轻易地踏上非人之道好吗…
 　前几天的爆炸事故，这边为了平息骚乱也是费了好大的功夫呢…？』</HAR_EL_EyeCover_i.description>
   <HAR_EL_EyeCover_i.label>光之奴·兽人</HAR_EL_EyeCover_i.label>
-  <HAR_EL_Apparel_Armor_a.label>至高之铠</HAR_EL_Apparel_Armor_a.label>
+  <HAR_EL_Apparel_Armor_a.label>埃利昂护甲</HAR_EL_Apparel_Armor_a.label>
   <HAR_EL_Apparel_Armor_a.description>伊娃莉特专用的铠甲。\n由于是最初期的产物因此没有设置减少伤害的功能。</HAR_EL_Apparel_Armor_a.description>
   <HAR_EL_Apparel_onskin_a.description>伊娃莉特专用的内衣。由于是仍在调整过程中的装备，因此性能不高。</HAR_EL_Apparel_onskin_a.description>
-  <HAR_EL_Apparel_onskin_a.label>亚比筛之袜</HAR_EL_Apparel_onskin_a.label>
+  <HAR_EL_Apparel_onskin_a.label>伊沙芭长袜</HAR_EL_Apparel_onskin_a.label>
   <HAR_EL_Apparel_Head_a.description>伊娃莉特专用的装备。由于是仍在调整过程中的装备，因此性能不高。</HAR_EL_Apparel_Head_a.description>
-  <HAR_EL_Apparel_Head_a.label>亚比筛之冠</HAR_EL_Apparel_Head_a.label>
+  <HAR_EL_Apparel_Head_a.label>伊沙芭头冠</HAR_EL_Apparel_Head_a.label>
   <HAR_EL_Apparel_Head_b.description>伊娃莉特专用的装备。由于是仍在调整过程中的装备，因此性能不高。</HAR_EL_Apparel_Head_b.description>
-  <HAR_EL_Apparel_Head_b.label>亚比筛之盔</HAR_EL_Apparel_Head_b.label>
+  <HAR_EL_Apparel_Head_b.label>伊沙芭头饰</HAR_EL_Apparel_Head_b.label>
   <HAR_EL_Apparel_Head_c.description>伊娃莉特专用的装备。由于是仍在调整过程中的装备，因此性能不高。</HAR_EL_Apparel_Head_c.description>
-  <HAR_EL_Apparel_Head_c.label>亚比筛首饰</HAR_EL_Apparel_Head_c.label>
+  <HAR_EL_Apparel_Head_c.label>伊沙芭宝石</HAR_EL_Apparel_Head_c.label>
   <HAR_EL_Apparel_Head_d.description>伊娃莉特专用的头盔。\n由于是最初期的产物因此没有设置减少伤害的功能。</HAR_EL_Apparel_Head_d.description>
-  <HAR_EL_Apparel_Head_d.label>至高之盔</HAR_EL_Apparel_Head_d.label>
+  <HAR_EL_Apparel_Head_d.label>埃利昂头盔</HAR_EL_Apparel_Head_d.label>
   <HAR_EL_Apparel_Head_e.description>伊娃莉特专用的神圣头纱。据说只有最为古老，也是最接近创造主的她才有资格穿上。</HAR_EL_Apparel_Head_e.description>
-  <HAR_EL_Apparel_Head_e.label>亚比筛头纱</HAR_EL_Apparel_Head_e.label>
+  <HAR_EL_Apparel_Head_e.label>伊沙芭面纱</HAR_EL_Apparel_Head_e.label>
   <HAR_EL_Apparel_Shell_a.description>伊娃莉特专用的外衣。由于是仍在调整过程中的装备，因此性能不高。</HAR_EL_Apparel_Shell_a.description>
-  <HAR_EL_Apparel_Shell_a.label>亚比筛夹克A</HAR_EL_Apparel_Shell_a.label>
+  <HAR_EL_Apparel_Shell_a.label>伊沙芭夹克 A</HAR_EL_Apparel_Shell_a.label>
   <HAR_EL_Apparel_Shell_b.description>伊娃莉特专用的外衣。由于是仍在调整过程中的装备，因此性能不高。</HAR_EL_Apparel_Shell_b.description>
-  <HAR_EL_Apparel_Shell_b.label>亚比筛夹克B</HAR_EL_Apparel_Shell_b.label>
+  <HAR_EL_Apparel_Shell_b.label>伊沙芭夹克 B</HAR_EL_Apparel_Shell_b.label>
   <HAR_EL_Apparel_Shell_c.description>伊娃莉特专用的外衣。由于是仍在调整过程中的装备，因此性能不高。</HAR_EL_Apparel_Shell_c.description>
-  <HAR_EL_Apparel_Shell_c.label>亚比筛夹克A</HAR_EL_Apparel_Shell_c.label>
+  <HAR_EL_Apparel_Shell_c.label>伊沙芭夹克 C</HAR_EL_Apparel_Shell_c.label>
   <HAR_EL_Apparel_Shell_d.description>伊娃莉特专用的长袍。据说是只有身为真理教会教祖的她才有资格穿上的神圣之衣。伪神族的长袍即是作为它的下位互换被创造出来的产物。</HAR_EL_Apparel_Shell_d.description>
-  <HAR_EL_Apparel_Shell_d.label>亚比筛长袍</HAR_EL_Apparel_Shell_d.label>
-  <HAR_EL_Apparel_Tops_a.description>伊娃莉特专用的服装。由于是仍在调整过程中的装备，因此性能不高。</HAR_EL_Apparel_Tops_a.description>
-  <HAR_EL_Apparel_Tops_a.label>亚比筛之裙A</HAR_EL_Apparel_Tops_a.label>
-  <HAR_EL_Apparel_Tops_b.description>伊娃莉特专用的服装。由于是仍在调整过程中的装备，因此性能不高。</HAR_EL_Apparel_Tops_b.description>
-  <HAR_EL_Apparel_Tops_b.label>亚比筛之裙B</HAR_EL_Apparel_Tops_b.label>
-  <HAR_EL_Apparel_Tops_c.description>伊娃莉特专用的服装。由于是仍在调整过程中的装备，因此性能不高。</HAR_EL_Apparel_Tops_c.description>
-  <HAR_EL_Apparel_Tops_c.label>亚比筛之裙C</HAR_EL_Apparel_Tops_c.label>
-  <HAR_EL_Apparel_Tops_d.description>伊娃莉特专用的服装。由于是仍在调整过程中的装备，因此性能不高。</HAR_EL_Apparel_Tops_d.description>
-  <HAR_EL_Apparel_Tops_d.label>亚比筛之裙D</HAR_EL_Apparel_Tops_d.label>
-  <HAR_EL_Apparel_Tops_e.description>伊娃莉特专用的服装。由于是仍在调整过程中的装备，因此性能不高。</HAR_EL_Apparel_Tops_e.description>
-  <HAR_EL_Apparel_Tops_e.label>亚比筛之裙E</HAR_EL_Apparel_Tops_e.label>
-  <HAR_EL_Item_a.label>肖像种:再设计数据:Ａ</HAR_EL_Item_a.label>
+  <HAR_EL_Apparel_Shell_d.label>伊沙芭长袍</HAR_EL_Apparel_Shell_d.label>
+  <HAR_EL_Apparel_Tops_a.description>专为伊娃莉特设计的礼装，仍在调整中，因此没有特殊效果。</HAR_EL_Apparel_Tops_a.description>
+  <HAR_EL_Apparel_Tops_a.label>伊沙芭连衣裙 A</HAR_EL_Apparel_Tops_a.label>
+  <HAR_EL_Apparel_Tops_b.description>专为伊娃莉特设计的礼装，仍在调整中，因此没有特殊效果。</HAR_EL_Apparel_Tops_b.description>
+  <HAR_EL_Apparel_Tops_b.label>伊沙芭连衣裙 B</HAR_EL_Apparel_Tops_b.label>
+  <HAR_EL_Apparel_Tops_c.description>专为伊娃莉特设计的礼装，仍在调整中，因此没有特殊效果。</HAR_EL_Apparel_Tops_c.description>
+  <HAR_EL_Apparel_Tops_c.label>伊沙芭连衣裙 C</HAR_EL_Apparel_Tops_c.label>
+  <HAR_EL_Apparel_Tops_d.description>专为伊娃莉特设计的礼装，仍在调整中，因此没有特殊效果。</HAR_EL_Apparel_Tops_d.description>
+  <HAR_EL_Apparel_Tops_d.label>伊沙芭连衣裙 D</HAR_EL_Apparel_Tops_d.label>
+  <HAR_EL_Apparel_Tops_e.description>专为伊娃莉特设计的礼装，仍在调整中，因此没有特殊效果。</HAR_EL_Apparel_Tops_e.description>
+  <HAR_EL_Apparel_Tops_e.label>伊沙芭连衣裙 E</HAR_EL_Apparel_Tops_e.label>
+  <HAR_EL_Item_a.label>肖像种：重设计数据 A</HAR_EL_Item_a.label>
   <HAR_EL_Item_a.description>记载着人工种族『肖像种伊娃莉特』创造方式的资料的一部分。。
 资料一共被分为了五份。
 
@@ -163,7 +163,7 @@
 
 
 『虽然爸爸已经这么说了，但我觉得还是应该再给这个孩子一次机会』</HAR_EL_Item_a.description>
-  <HAR_EL_Item_b.label>肖像种:再设计数据:Ｂ</HAR_EL_Item_b.label>
+  <HAR_EL_Item_b.label>肖像种：重设计数据 B</HAR_EL_Item_b.label>
   <HAR_EL_Item_b.description>记载着人工种族『肖像种伊娃莉特』创造方式的情报的一部分。。
 资料一共被分为了五份。
 
@@ -174,7 +174,7 @@
 
 
 『嗯，那就试试看降低一部分性能来提高稳定性吧』</HAR_EL_Item_b.description>
-  <HAR_EL_Item_c.label>肖像种:再设计数据:Ｃ</HAR_EL_Item_c.label>
+  <HAR_EL_Item_c.label>肖像种：重设计数据 C</HAR_EL_Item_c.label>
   <HAR_EL_Item_c.description>记载着人工种族『肖像种伊娃莉特』创造方式的情报的一部分。。
 资料一共被分为了五份。
 
@@ -185,7 +185,7 @@
 
 
 『不足的部分就靠外宇宙的知识来弥补！』</HAR_EL_Item_c.description>
-  <HAR_EL_Item_d.label>肖像种:再设计数据:Ｄ</HAR_EL_Item_d.label>
+  <HAR_EL_Item_d.label>肖像种：重设计数据 D</HAR_EL_Item_d.label>
   <HAR_EL_Item_d.description>记载着人工种族『肖像种伊娃莉特』创造方式的情报的一部分。。
 资料一共被分为了五份。
 
@@ -196,7 +196,7 @@
 
 
 『嗯，鸟的骚动总算停下来了，这边的事情也可以重新开始了』</HAR_EL_Item_d.description>
-  <HAR_EL_Item_e.label>肖像种:再设计数据:Ｅ</HAR_EL_Item_e.label>
+  <HAR_EL_Item_e.label>肖像种：重设计数据 E</HAR_EL_Item_e.label>
   <HAR_EL_Item_e.description>记载着人工种族『肖像种伊娃莉特』创造方式的情报的一部分。。
 资料一共被分为了五份。
 
@@ -207,10 +207,10 @@
 
 
 『还是没能赶上，真是抱歉呢。　　　——杜娜米丝 留』</HAR_EL_Item_e.description>
-  <HAR_EL_Material_a.label>真理之石</HAR_EL_Material_a.label>
+  <HAR_EL_Material_a.label>埃梅特·埃文</HAR_EL_Material_a.label>
   <HAR_EL_Material_a.description>伊娃莉特吸血时产生的白色矿石。
 可以被用于制作某些特殊的装备。</HAR_EL_Material_a.description>
-  <HAR_EL_Spawn_a.label>封有伊娃莉特的休眠仓</HAR_EL_Spawn_a.label>
+  <HAR_EL_Spawn_a.label>伊娃莉特封装胶囊</HAR_EL_Spawn_a.label>
   <HAR_EL_Spawn_a.description>容纳着伊娃莉特的休眠仓。\n使用后能让伊娃莉特作为殖民者加入。</HAR_EL_Spawn_a.description>
   <HAR_EL_Spawn_b.label>封有■■■■■的休眠仓</HAR_EL_Spawn_b.label>
   <HAR_EL_Spawn_b.description>容纳着■■■■■的休眠仓。\n使用后能让■■■■■作为殖民者加入。</HAR_EL_Spawn_b.description>

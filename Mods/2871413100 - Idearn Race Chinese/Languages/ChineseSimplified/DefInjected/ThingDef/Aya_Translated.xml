@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_IA_Armor_a.label>伊迪安装甲</HAR_IA_Armor_a.label>
+  <HAR_IA_Armor_a.label>艾提翁护甲</HAR_IA_Armor_a.label>
   <HAR_IA_Armor_a.description>伊迪安专用的铠甲，不确定是否在造物主时代已经被投入运用。不过由于她们本身就足够坚韧，因此没有装备的必要。</HAR_IA_Armor_a.description>
-  <HAR_IA_Armor_b.label>俄尔普斯之服装</HAR_IA_Armor_b.label>
+  <HAR_IA_Armor_b.label>奥尔芬礼装</HAR_IA_Armor_b.label>
   <HAR_IA_Armor_b.description>伊迪安专用的迷之装备，普通的伊迪安无法装备。</HAR_IA_Armor_b.description>
   <HAR_IA_AH_a.description>伊迪安专用的铠甲，不确定是否在造物主时代已经被投入运用。不过由于她们本身就足够坚韧，因此没有装备的必要。</HAR_IA_AH_a.description>
-  <HAR_IA_AH_a.label>艾提翁头盔</HAR_IA_AH_a.label>
+  <HAR_IA_AH_a.label>艾提翁头盔 A</HAR_IA_AH_a.label>
   <HAR_IA_AH_b.description>伊迪安专用的迷之装备，普通的伊迪安无法装备。</HAR_IA_AH_b.description>
-  <HAR_IA_AH_b.label>艾提翁头盔</HAR_IA_AH_b.label>
+  <HAR_IA_AH_b.label>艾提翁头盔 B</HAR_IA_AH_b.label>
   <HAR_IA_tops_a.description>伊迪安专用的装备，对基础性能极高的她们而言服装的重要性并不高，因此只保留了最低限度的穿着。</HAR_IA_tops_a.description>
-  <HAR_IA_tops_a.label>机械服装A</HAR_IA_tops_a.label>
+  <HAR_IA_tops_a.label>梅卡涅礼装 A</HAR_IA_tops_a.label>
   <HAR_IA_tops_b.description>伊迪安专用的装备，对基础性能极高的她们而言服装的重要性并不高，因此只保留了最低限度的穿着。</HAR_IA_tops_b.description>
-  <HAR_IA_tops_b.label>机械服装B</HAR_IA_tops_b.label>
+  <HAR_IA_tops_b.label>梅卡涅礼装 B</HAR_IA_tops_b.label>
   <HAR_IA_tops_c.description>伊迪安专用的装备，对基础性能极高的她们而言服装的重要性并不高，因此只保留了最低限度的穿着。</HAR_IA_tops_c.description>
-  <HAR_IA_tops_c.label>机械服装C</HAR_IA_tops_c.label>
+  <HAR_IA_tops_c.label>梅卡涅礼装 C</HAR_IA_tops_c.label>
   <HAR_IA_Item_ArcheCartridge.label>本源药盒</HAR_IA_Item_ArcheCartridge.label>
   <HAR_IA_Item_ArcheCartridge.description>内含有伊迪安的生命活动所必须的能量的药盒。\n每个象限需要更换一次。\n要是处于能量枯竭状态就会陷入无法行动的境地因此建议尽早更换。</HAR_IA_Item_ArcheCartridge.description>
   <HAR_IA_Item_a.label>诺莫斯细胞</HAR_IA_Item_a.label>
