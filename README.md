@@ -5,3 +5,25 @@
 各模组目录中的 `README.md` 由 `About/About.xml` 生成，使用与 Steam 创意工坊上传 VDF 相同的标题、简介、兼容版本及依赖元数据。
 
 `Mods/BUILD-REPORT.json` 记录了本次构建的模组列表和翻译条目数。`build_translations.py` 用于从本地创意工坊源目录增量重建本仓库内容；不包含原模组的资源或程序集。
+
+## 统一种族名称
+
+- 飞蛾姬（Saclean）
+- 幽灵姬（Idhale）
+- 亚人兽娘（Silkiera / Sikiera）
+- 魅魔（Nearmare）
+- 混沌灵（Chaoura）
+- 牧菌妖姬（Neclose）
+- 索拉克（龙姬，Solark）
+- 人鱼姬（Xenoorca）
+- 伪神族（Littluna）
+- 伊娃莉特（Eveliet）
+- 库莉菈（Qualeela）
+- 锢魂魔（Zoichor）
+- 伊迪安（Idearn）
+- 女王种（Requeen Boss）
+
+特殊形态名称以各模组目录中的 README 和游戏内文本为准。
+
+重新构建翻译包后运行 `python3 apply_race_names.py`，可按
+`terminology.json` 的规则同步游戏文本、About 元数据与全部模组 README。

@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_CO_Hediff_a.description>查欧拉的宇宙之影辅助器官，处于完全黑暗时能使肉体活性化，提高身体能力，并使射击无效化。作为代价，当日光强烈时该器官会变为非活性状态，查欧拉的动作将变迟钝。</HAR_CO_Hediff_a.description>
-  <HAR_CO_Hediff_b.description>查欧拉的宇宙之影辅助器官，处于完全黑暗时能使肉体活性化，提高身体能力，并使射击无效化。作为代价，当日光强烈时该器官会变为非活性状态，查欧拉的动作将变迟钝。</HAR_CO_Hediff_b.description>
+  <HAR_CO_Hediff_a.description>混沌灵的宇宙之影辅助器官，处于完全黑暗时能使肉体活性化，提高身体能力，并使射击无效化。作为代价，当日光强烈时该器官会变为非活性状态，混沌灵的动作将变迟钝。</HAR_CO_Hediff_a.description>
+  <HAR_CO_Hediff_b.description>混沌灵的宇宙之影辅助器官，处于完全黑暗时能使肉体活性化，提高身体能力，并使射击无效化。作为代价，当日光强烈时该器官会变为非活性状态，混沌灵的动作将变迟钝。</HAR_CO_Hediff_b.description>
   <HAR_CO_Hediff_c.label>深渊腐败</HAR_CO_Hediff_c.label>
-  <HAR_CO_Hediff_c.description>当对查欧拉做出具有敌意的物理行为时产生的现象。\n深渊腐败并发“晦冥肿胀”，会逐渐降低身体机能。晦冥肿胀只发生在生物体上，所以对机械生命不起作用。\n\n只要停止对查欧拉的敌意行为，深渊腐败很快便会消散。</HAR_CO_Hediff_c.description>
+  <HAR_CO_Hediff_c.description>当对混沌灵做出具有敌意的物理行为时产生的现象。\n深渊腐败并发“晦冥肿胀”，会逐渐降低身体机能。晦冥肿胀只发生在生物体上，所以对机械生命不起作用。\n\n只要停止对混沌灵的敌意行为，深渊腐败很快便会消散。</HAR_CO_Hediff_c.description>
   <HAR_CO_Hediff_d.label>晦冥肿胀</HAR_CO_Hediff_d.label>
   <HAR_CO_Hediff_d.labelNoun>晦冥肿胀</HAR_CO_Hediff_d.labelNoun>
   <HAR_CO_Hediff_d.description>由深渊腐败并发的黑色肿胀，稍微降低身体能力。\n晦冥肿胀会发生在所有的身体部位和脏器中，蔓延至全身后会使行动变得极为困难。\n症状在半天内就能痊愈。</HAR_CO_Hediff_d.description>
   <HAR_CO_Hediff_f.label>永夜之虚</HAR_CO_Hediff_f.label>
-  <HAR_CO_Hediff_f.description>只要一接近查欧拉就会出现并一直跟随着的神秘暗影。通常情况下什么都不会发生，可一旦在黑暗中倒地，症状就会立刻开始，并在2小时后造成即死级别的伤害。\n离开查欧拉后半天就会消散。</HAR_CO_Hediff_f.description>
+  <HAR_CO_Hediff_f.description>只要一接近混沌灵就会出现并一直跟随着的神秘暗影。通常情况下什么都不会发生，可一旦在黑暗中倒地，症状就会立刻开始，并在2小时后造成即死级别的伤害。\n离开混沌灵后半天就会消散。</HAR_CO_Hediff_f.description>
   <HAR_CO_Hediff_g.label>复仇</HAR_CO_Hediff_g.label>
   <HAR_CO_Hediff_g.description>进入追杀射击自己的敌人的状态——只有当自身处于黑暗中时才生效。\n半天后就会解除。</HAR_CO_Hediff_g.description>
   <HAR_CO_Hediff_h.label>血狂</HAR_CO_Hediff_h.label>
-  <HAR_CO_Hediff_h.description>受到融合了查欧拉之血的暗影的斩击！\n会造成大量出血，进入黑暗中后附着在身体上的血液会爆发，造成更严重的伤势。\n几个小时后就会自行消散。</HAR_CO_Hediff_h.description>
+  <HAR_CO_Hediff_h.description>受到融合了混沌灵之血的暗影的斩击！\n会造成大量出血，进入黑暗中后附着在身体上的血液会爆发，造成更严重的伤势。\n几个小时后就会自行消散。</HAR_CO_Hediff_h.description>
   <Chaoura_Artificial.label>人工种族</Chaoura_Artificial.label>
-  <Chaoura_Artificial.description>查欧拉是人工种族，擅长虚数和黑暗。\n本来就有很高的精神力，可以操控体内的暗影，即使受伤了也能快速抑制出血。\n\n其强度取决于她们各自的查欧拉等级，大约1年提升1级（上限为5级）。</Chaoura_Artificial.description>
+  <Chaoura_Artificial.description>混沌灵是人工种族，擅长虚数和黑暗。\n本来就有很高的精神力，可以操控体内的暗影，即使受伤了也能快速抑制出血。\n\n其强度取决于她们各自的混沌灵等级，大约1年提升1级（上限为5级）。</Chaoura_Artificial.description>
   <Chaoura_Artificial_z.label>人工灵长种族</Chaoura_Artificial_z.label>
-  <Chaoura_Artificial_z.description>查欧拉·阿瓦齐翁是超越人工种族范畴、立于伊什穆提特顶点的存在。她们甚至难以被视为生物学意义上的生命，不需要满足任何维持生存的欲求。
+  <Chaoura_Artificial_z.description>混沌灵·阿瓦露其安是超越人工种族范畴、立于伊什穆提特顶点的存在。她们甚至难以被视为生物学意义上的生命，不需要满足任何维持生存的欲求。
 
 她们拥有近乎创造者的高度智慧与技术，是抵达群星彼端的新生命形态。怀抱必须完成的使命，她们仍在不断飞向更高处。</Chaoura_Artificial_z.description>
   <HAR_CO_UB_Hediff_Promise.label>古老约定</HAR_CO_UB_Hediff_Promise.label>
-  <HAR_CO_UB_Hediff_Clone.description>查欧拉·阿瓦齐翁召来的平行世界个体，正作为阿瓦齐翁的盟友作战。
+  <HAR_CO_UB_Hediff_Clone.description>混沌灵·阿瓦露其安召来的平行世界个体，正作为阿瓦露其安的盟友作战。
 
 她只是暂时来到这个世界，经过一段时间或死亡后便会返回原本的世界。</HAR_CO_UB_Hediff_Clone.description>
   <HAR_CO_UB_Hediff_EX_Penalty.label>其魂，非灵长所能</HAR_CO_UB_Hediff_EX_Penalty.label>
@@ -32,7 +32,7 @@
 而作为其顶点的灵长类，也在不断地变化着。
 在这个将星间航行化为了现实的时代，
 仍然需要依赖着物质容器的生命，已经是相当古老的形态了。</HAR_CO_UB_Hediff_EX_Penalty.description>
-  <HAR_CO_UB_Hediff_Limit.description>表示查欧拉·阿瓦齐翁能够维持现世存在的极限。通常处于无敌状态；数值达到 100% 时，无敌效果将被解除。
+  <HAR_CO_UB_Hediff_Limit.description>表示混沌灵·阿瓦露其安能够维持现世存在的极限。通常处于无敌状态；数值达到 100% 时，无敌效果将被解除。
 
-对集合精神“埃菲耶阿谢尔”而言，阿瓦齐翁只是其在现世活动的容器。容器本身超越物理法则，并不存在通常意义上的死亡；但容器毕竟不同于灵魂，并非绝对不灭。若持续承受过量攻击，阿瓦齐翁的无敌性最终仍会崩溃。若在此状态下死亡，肉体将立即消散。</HAR_CO_UB_Hediff_Limit.description>
+对集合精神“埃菲耶阿谢尔”而言，阿瓦露其安只是其在现世活动的容器。容器本身超越物理法则，并不存在通常意义上的死亡；但容器毕竟不同于灵魂，并非绝对不灭。若持续承受过量攻击，阿瓦露其安的无敌性最终仍会崩溃。若在此状态下死亡，肉体将立即消散。</HAR_CO_UB_Hediff_Limit.description>
 </LanguageData>

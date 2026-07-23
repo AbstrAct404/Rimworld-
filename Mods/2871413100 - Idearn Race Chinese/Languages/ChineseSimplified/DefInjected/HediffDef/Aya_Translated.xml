@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <HAR_IA_Skill_Hediff_a.label>感官离线</HAR_IA_Skill_Hediff_a.label>
-  <HAR_IA_Skill_Hediff_a.description>伊迪安·墨涅克塞诺斯 A型散布的纳米机械，能够削弱敌对目标的战斗能力。效果最多持续半天；只要目标仍位于墨涅克塞诺斯 A型的作用范围内，效果便会持续存在。</HAR_IA_Skill_Hediff_a.description>
+  <HAR_IA_Skill_Hediff_a.description>伊迪安·梅涅克赛努 A型散布的纳米机械，能够削弱敌对目标的战斗能力。效果最多持续半天；只要目标仍位于梅涅克赛努 A型的作用范围内，效果便会持续存在。</HAR_IA_Skill_Hediff_a.description>
   <HAR_IA_Skill_Hediff_b.label>武装实践</HAR_IA_Skill_Hediff_b.label>
-  <HAR_IA_Skill_Hediff_b.description>伊迪安·泰阿泰托斯 A型散布的纳米机械，可增强受影响者的身体能力。效果最多持续半天。</HAR_IA_Skill_Hediff_b.description>
+  <HAR_IA_Skill_Hediff_b.description>伊迪安·泰阿泰德 A型散布的纳米机械，可增强受影响者的身体能力。效果最多持续半天。</HAR_IA_Skill_Hediff_b.description>
   <HAR_IA_Skill_Hediff_c.label>猩红能天使</HAR_IA_Skill_Hediff_c.label>
-  <HAR_IA_Skill_Hediff_c.description>伊迪安·泰阿泰托斯 B型散布的纳米机械，会大幅降低敌对目标的移动能力，并迫使伤口大量出血。效果最多持续半天；只要目标仍位于伤害领域内，效果便会持续存在。</HAR_IA_Skill_Hediff_c.description>
+  <HAR_IA_Skill_Hediff_c.description>伊迪安·泰阿泰德 B型散布的纳米机械，会大幅降低敌对目标的移动能力，并迫使伤口大量出血。效果最多持续半天；只要目标仍位于伤害领域内，效果便会持续存在。</HAR_IA_Skill_Hediff_c.description>
   <HAR_IA_Skill_Hediff_d.label>靛蓝能天使</HAR_IA_Skill_Hediff_d.label>
-  <HAR_IA_Skill_Hediff_d.description>伊迪安·泰阿泰托斯 B型散布的纳米机械，会在敌对目标体内潜伏侵蚀型飞升纳米机械，并于数小时后令其立即死亡。一旦遭到侵蚀便没有救治手段，务必留意。</HAR_IA_Skill_Hediff_d.description>
+  <HAR_IA_Skill_Hediff_d.description>伊迪安·泰阿泰德 B型散布的纳米机械，会在敌对目标体内潜伏侵蚀型飞升纳米机械，并于数小时后令其立即死亡。一旦遭到侵蚀便没有救治手段，务必留意。</HAR_IA_Skill_Hediff_d.description>
   <HAR_IA_Skill_Hediff_e.label>天国之倾</HAR_IA_Skill_Hediff_e.label>
-  <HAR_IA_Skill_Hediff_e.description>这是创造者未能在夸莉拉·凯特尔身上实现的王权机能之一。伊迪安·克里提亚斯展开的空间压缩领域会对敌对目标施加多种影响。一旦遭到侵蚀便没有救治手段，务必留意。</HAR_IA_Skill_Hediff_e.description>
+  <HAR_IA_Skill_Hediff_e.description>这是创造者未能在库莉菈·凯特尔身上实现的王权机能之一。伊迪安·克里提亚斯（焚书模型）展开的空间压缩领域会对敌对目标施加多种影响。一旦遭到侵蚀便没有救治手段，务必留意。</HAR_IA_Skill_Hediff_e.description>
   <HAR_IA_Gunshot.description>天国之倾造成的空间压缩超过洛希极限所造成的伤害。</HAR_IA_Gunshot.description>
   <HAR_IA_Skill_Hediff_f.label>天国之意</HAR_IA_Skill_Hediff_f.label>
-  <HAR_IA_Skill_Hediff_f.description>这是创造者未能在夸莉拉·凯特尔身上实现的王权机能之一。目标正受到“目的·巴西利亚”产生的力场影响。空间压缩会使其对事件的认知产生致命错位；在感知到这种错位后，脑组织会遭到破坏并引发精神崩溃。
+  <HAR_IA_Skill_Hediff_f.description>这是创造者未能在库莉菈·凯特尔身上实现的王权机能之一。目标正受到“目的·巴西利亚”产生的力场影响。空间压缩会使其对事件的认知产生致命错位；在感知到这种错位后，脑组织会遭到破坏并引发精神崩溃。
 
 “目的·巴西利亚”会造成近似痴呆的症状，使目标在附近漫无目的地徘徊。</HAR_IA_Skill_Hediff_f.description>
   <HAR_IA_Skill_Hediff_g.label>天国之躁</HAR_IA_Skill_Hediff_g.label>
-  <HAR_IA_Skill_Hediff_g.description>这是创造者未能在夸莉拉·凯特尔身上实现的王权机能之一。目标正受到“图雷拉·巴西利亚”产生的力场影响。空间压缩会使其对事件的认知产生致命错位；在感知到这种错位后，脑组织会遭到破坏并引发精神崩溃。
+  <HAR_IA_Skill_Hediff_g.description>这是创造者未能在库莉菈·凯特尔身上实现的王权机能之一。目标正受到“图雷拉·巴西利亚”产生的力场影响。空间压缩会使其对事件的认知产生致命错位；在感知到这种错位后，脑组织会遭到破坏并引发精神崩溃。
 
 “图雷拉·巴西利亚”会扰乱脑内物质，使目标陷入狂暴并无差别攻击敌我双方。</HAR_IA_Skill_Hediff_g.description>
   <HAR_IA_Skill_Hediff_h.label>天国之止</HAR_IA_Skill_Hediff_h.label>
-  <HAR_IA_Skill_Hediff_h.description>这是创造者未能在夸莉拉·凯特尔身上实现的王权机能之一。伊迪安·克里提亚斯展开的空间压缩领域，会把敌对目标的时间流速减慢至极限。该状态会在半天后解除。</HAR_IA_Skill_Hediff_h.description>
+  <HAR_IA_Skill_Hediff_h.description>这是创造者未能在库莉菈·凯特尔身上实现的王权机能之一。伊迪安·克里提亚斯（焚书模型）展开的空间压缩领域，会把敌对目标的时间流速减慢至极限。该状态会在半天后解除。</HAR_IA_Skill_Hediff_h.description>
   <HAR_IA_Skill_Hediff_z.label>克里提亚斯系统</HAR_IA_Skill_Hediff_z.label>
   <HAR_IA_Skill_Hediff_z.description>克里提亚斯原本作为对上位者决战兵器而内置的系统\n能够自动捕获干涉方并对其进行解析，在解析完成时将对象放逐至虚数空间。</HAR_IA_Skill_Hediff_z.description>
   <Idearn_Artificial_b.label>本源药盒</Idearn_Artificial_b.label>
@@ -28,7 +28,7 @@
   <Idearn_Artificial.label>新生种族</Idearn_Artificial.label>
   <Idearn_Artificial.description>伊迪安是生物与机械的混合体，拥有优秀的演算能力。\n随着时间的推移，她的处理速度会得到优化和加速，每一个动作都会更加精确。\nLv大约每过一年就会上升1级（Lv上限为5）。</Idearn_Artificial.description>
   <Idearn_Otherside_a.label>彼岸</Idearn_Otherside_a.label>
-  <Idearn_Otherside_a.description>正式名称是「抗干扰压缩空间装甲」，是一层在伊迪安体表展开的空间薄膜。\n将广阔的空间压缩成薄膜并缠绕身侧，能让外界的干扰顺着空间薄膜滑过，而不影响本身。\n但是，是否能完全避免干涉，则需要视搭载的伊迪安规格而定。 \n\n\n这种灵体化一样的性质是模仿伊德海尔的特殊能力而取得的技术，也因此得名「彼岸」。</Idearn_Otherside_a.description>
+  <Idearn_Otherside_a.description>正式名称是「抗干扰压缩空间装甲」，是一层在伊迪安体表展开的空间薄膜。\n将广阔的空间压缩成薄膜并缠绕身侧，能让外界的干扰顺着空间薄膜滑过，而不影响本身。\n但是，是否能完全避免干涉，则需要视搭载的伊迪安规格而定。 \n\n\n这种灵体化一样的性质是模仿幽灵姬的特殊能力而取得的技术，也因此得名「彼岸」。</Idearn_Otherside_a.description>
   <Idearn_Otherside_b.label>彼岸</Idearn_Otherside_b.label>
-  <Idearn_Otherside_b.description>正式名称是「抗干扰压缩空间装甲」，是一层在伊迪安体表展开的空间薄膜。\n将广阔的空间压缩成薄膜并缠绕身侧，能让外界的干扰顺着空间薄膜滑过，而不影响本身。\n但是，是否能完全避免干涉，则需要视搭载的伊迪安规格而定。 \n\n\n这种灵体化一样的性质是模仿伊德海尔的特殊能力而取得的技术，也因此得名「彼岸」。</Idearn_Otherside_b.description>
+  <Idearn_Otherside_b.description>正式名称是「抗干扰压缩空间装甲」，是一层在伊迪安体表展开的空间薄膜。\n将广阔的空间压缩成薄膜并缠绕身侧，能让外界的干扰顺着空间薄膜滑过，而不影响本身。\n但是，是否能完全避免干涉，则需要视搭载的伊迪安规格而定。 \n\n\n这种灵体化一样的性质是模仿幽灵姬的特殊能力而取得的技术，也因此得名「彼岸」。</Idearn_Otherside_b.description>
 </LanguageData>

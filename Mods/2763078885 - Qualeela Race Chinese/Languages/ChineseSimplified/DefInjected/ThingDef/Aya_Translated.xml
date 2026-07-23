@@ -9,26 +9,26 @@
   <Aya_Race_Ap_C_T_d.label>儿童校服装</Aya_Race_Ap_C_T_d.label>
   <HAR_QL_A_a.label>终焉之铠</HAR_QL_A_a.label>
   <HAR_QL_A_a.description>只有恩特雷凯亚的王族才被允许穿着的铠甲。具有无效化精神干涉的机能，从而防止穿着者被洗脑或者强制行动。</HAR_QL_A_a.description>
-  <HAR_QL_O_a.description>夸莉拉们所穿着的套装，尽管面料很薄，但其性能至高足以使穿着者在极地自由活动。</HAR_QL_O_a.description>
+  <HAR_QL_O_a.description>库莉菈们所穿着的套装，尽管面料很薄，但其性能至高足以使穿着者在极地自由活动。</HAR_QL_O_a.description>
   <HAR_QL_O_a.label>言语之服装A</HAR_QL_O_a.label>
-  <HAR_QL_O_b.description>夸莉拉们所穿着的套装，尽管面料很薄，但其性能至高足以使穿着者在极地自由活动。</HAR_QL_O_b.description>
+  <HAR_QL_O_b.description>库莉菈们所穿着的套装，尽管面料很薄，但其性能至高足以使穿着者在极地自由活动。</HAR_QL_O_b.description>
   <HAR_QL_O_b.label>言语之服装B</HAR_QL_O_b.label>
-  <HAR_QL_O_c.description>夸莉拉们所穿着的套装，尽管面料很薄，但其性能至高足以使穿着者在极地自由活动。</HAR_QL_O_c.description>
+  <HAR_QL_O_c.description>库莉菈们所穿着的套装，尽管面料很薄，但其性能至高足以使穿着者在极地自由活动。</HAR_QL_O_c.description>
   <HAR_QL_O_c.label>言语之服装C</HAR_QL_O_c.label>
   <HAR_QL_H_a.description>只有恩特雷凯亚的王族才被允许穿着的头盔。具有无效化精神干涉的机能，从而防止穿着者被洗脑或者强制行动。</HAR_QL_H_a.description>
   <HAR_QL_H_a.label>终焉之盔</HAR_QL_H_a.label>
-  <HAR_QL_H_b.description>夸莉拉的战斗用头部装备，通过特殊的防护膜使其拥有了远超其外表所示的防御力。</HAR_QL_H_b.description>
+  <HAR_QL_H_b.description>库莉菈的战斗用头部装备，通过特殊的防护膜使其拥有了远超其外表所示的防御力。</HAR_QL_H_b.description>
   <HAR_QL_H_b.label>言语眼罩</HAR_QL_H_b.label>
-  <HAR_QL_H_c.description>夸莉拉的战斗用头部装备，通过特殊的防护膜使其拥有了远超其外表所示的防御力。</HAR_QL_H_c.description>
+  <HAR_QL_H_c.description>库莉菈的战斗用头部装备，通过特殊的防护膜使其拥有了远超其外表所示的防御力。</HAR_QL_H_c.description>
   <HAR_QL_H_c.label>言语对讲机</HAR_QL_H_c.label>
-  <HAR_QL_S_a.description>夸莉拉们穿着的服装，其坚韧程度足以弹开子弹。</HAR_QL_S_a.description>
+  <HAR_QL_S_a.description>库莉菈们穿着的服装，其坚韧程度足以弹开子弹。</HAR_QL_S_a.description>
   <HAR_QL_S_a.label>言语大衣</HAR_QL_S_a.label>
-  <HAR_QL_S_b.description>夸莉拉们穿着的服装，其坚韧程度足以弹开子弹。</HAR_QL_S_b.description>
+  <HAR_QL_S_b.description>库莉菈们穿着的服装，其坚韧程度足以弹开子弹。</HAR_QL_S_b.description>
   <HAR_QL_S_b.label>言语披风</HAR_QL_S_b.label>
-  <HAR_QL_T_a.description>夸莉拉们所穿着的外套，在设计上也考虑到了其他人工种族。</HAR_QL_T_a.description>
+  <HAR_QL_T_a.description>库莉菈们所穿着的外套，在设计上也考虑到了其他人工种族。</HAR_QL_T_a.description>
   <HAR_QL_T_a.label>言语外套</HAR_QL_T_a.label>
   <HAR_QL_M_Race_Base.label>密特拉玛阿哈</HAR_QL_M_Race_Base.label>
-  <HAR_QL_M_Race_Base.description>通过夸莉拉的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位尼亚梅尔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
+  <HAR_QL_M_Race_Base.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
 
 受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_Base.description>
   <HAR_QL_M_Race_a.label>宝冠天使(夜魔)</HAR_QL_M_Race_a.label>
@@ -43,10 +43,10 @@
   <HAR_QL_M_Race_NPC_e.label>宝冠天使(龙人)</HAR_QL_M_Race_NPC_e.label>
   <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>
   <HAR_QL_Weapon_a.label>大地之剑</HAR_QL_Weapon_a.label>
-  <HAR_QL_Weapon_a.description>创造者为夸莉拉们所制造的剑。它不仅能够进行斩击，还能从刀身发射出激光束。\n由于在制作过程中采用了特殊的纳米机械，在受到攻击后即使身体仍能支撑还是会有致死的可能性。</HAR_QL_Weapon_a.description>
+  <HAR_QL_Weapon_a.description>创造者为库莉菈们所制造的剑。它不仅能够进行斩击，还能从刀身发射出激光束。\n由于在制作过程中采用了特殊的纳米机械，在受到攻击后即使身体仍能支撑还是会有致死的可能性。</HAR_QL_Weapon_a.description>
   <HAR_QL_Projectile_a.label>大地之剑</HAR_QL_Projectile_a.label>
   <HAR_QL_Weapon_a_Grenade.label>大地之剑</HAR_QL_Weapon_a_Grenade.label>
   <HAR_QL_Weapon_b.label>统御之枪</HAR_QL_Weapon_b.label>
-  <HAR_QL_Weapon_b.description>创造者为夸莉拉们所制造的枪。仅仅是单纯的刺击也具有极高的威力，但其真正的价值是用于投掷。 \n投掷出的统御之枪会产生无数幻影，直接贯通障碍物贯穿目标将其杀死。 \n由于在制作过程中采用了特殊的纳米机械，在受到攻击后即使身体仍能支撑还是会有致死的可能性。</HAR_QL_Weapon_b.description>
+  <HAR_QL_Weapon_b.description>创造者为库莉菈们所制造的枪。仅仅是单纯的刺击也具有极高的威力，但其真正的价值是用于投掷。 \n投掷出的统御之枪会产生无数幻影，直接贯通障碍物贯穿目标将其杀死。 \n由于在制作过程中采用了特殊的纳米机械，在受到攻击后即使身体仍能支撑还是会有致死的可能性。</HAR_QL_Weapon_b.description>
   <HAR_QL_Weapon_b_Bullet.label>统御之枪</HAR_QL_Weapon_b_Bullet.label>
 </LanguageData>

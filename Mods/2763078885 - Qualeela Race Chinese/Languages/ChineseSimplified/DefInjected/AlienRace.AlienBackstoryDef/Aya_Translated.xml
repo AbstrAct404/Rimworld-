@@ -5,7 +5,7 @@
   <HAR_QL_Backstory_C2.title>权贵养子</HAR_QL_Backstory_C2.title>
   <HAR_QL_Backstory_C2.description>[PAWN_nameDef]年幼懂事时因战争失去故乡；幸运的是，[PAWN_pronoun]被权贵收养，并在富裕环境中学到了许多知识。</HAR_QL_Backstory_C2.description>
   <HAR_QL_Backstory_C3.title>游牧民之女</HAR_QL_Backstory_C3.title>
-  <HAR_QL_Backstory_C3.description>[PAWN_nameDef]是游牧民的父亲与夸莉拉的母亲所生的孩子。[PAWN_pronoun]在动物和大自然的陪伴下长大，了解与它们相关的技术。</HAR_QL_Backstory_C3.description>
+  <HAR_QL_Backstory_C3.description>[PAWN_nameDef]是游牧民的父亲与库莉菈的母亲所生的孩子。[PAWN_pronoun]在动物和大自然的陪伴下长大，了解与它们相关的技术。</HAR_QL_Backstory_C3.description>
   <HAR_QL_Backstory_C4.title>见习厨师</HAR_QL_Backstory_C4.title>
   <HAR_QL_Backstory_C4.description>[PAWN_nameDef]是被烹饪世界吸引的见习厨师。尽管当时仍很稚嫩，[PAWN_pronoun]的厨艺已经胜过普通人。</HAR_QL_Backstory_C4.description>
   <HAR_QL_Backstory_C5.title>年幼训练兵</HAR_QL_Backstory_C5.title>
@@ -14,7 +14,7 @@
   <HAR_QL_Backstory_C6.description>[PAWN_nameDef]失去故乡后一直生活在黑暗洞穴中，因此[PAWN_pronoun]掌握了采矿与建造的基础。</HAR_QL_Backstory_C6.description>
   <HAR_QL_Backstory_C7.title>王族之血</HAR_QL_Backstory_C7.title>
   <HAR_QL_Backstory_C7.titleShort>王族之血</HAR_QL_Backstory_C7.titleShort>
-  <HAR_QL_Backstory_C7.description>[PAWN_nameDef]是夸莉拉皇家血脉正统的继承者，从小便作为王族接受了与他人交流以及自我保护的高等教育。</HAR_QL_Backstory_C7.description>
+  <HAR_QL_Backstory_C7.description>[PAWN_nameDef]是库莉菈皇家血脉正统的继承者，从小便作为王族接受了与他人交流以及自我保护的高等教育。</HAR_QL_Backstory_C7.description>
   <HAR_QL_Backstory_A1.title>充满魅力的接待员</HAR_QL_Backstory_A1.title>
   <HAR_QL_Backstory_A1.titleShort>接待员</HAR_QL_Backstory_A1.titleShort>
   <HAR_QL_Backstory_A1.description>[PAWN_nameDef]凭借出众外貌担任营业接待，学会了社交与处世之道；但另一方面，[PAWN_pronoun]不太擅长应付暴力场面。</HAR_QL_Backstory_A1.description>
@@ -47,6 +47,6 @@
   <HAR_QL_Backstory_A12.description>[PAWN_nameDef]是位医术高明的护士，但[PAWN_pronoun]偶尔也会犯一些可爱的小错误。</HAR_QL_Backstory_A12.description>
   <HAR_QL_Backstory_A13.title>帝皇</HAR_QL_Backstory_A13.title>
   <HAR_QL_Backstory_A13.titleShort>帝皇</HAR_QL_Backstory_A13.titleShort>
-  <HAR_QL_Backstory_A13.description>[PAWN_nameDef]作为足以继承伟大的造物主意志的夸莉拉已经成熟，在这些年的时间里取得了与人工种族们的王相称的力量。</HAR_QL_Backstory_A13.description>
+  <HAR_QL_Backstory_A13.description>[PAWN_nameDef]作为足以继承伟大的造物主意志的库莉菈已经成熟，在这些年的时间里取得了与人工种族们的王相称的力量。</HAR_QL_Backstory_A13.description>
   <HAR_QL_Backstory_A90.title>噩梦商人</HAR_QL_Backstory_A90.title>
 </LanguageData>

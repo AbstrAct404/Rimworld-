@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Neclose_P_Faction.label>涅克洛斯的隐居之处</Neclose_P_Faction.label>
-  <Neclose_P_Faction.pawnSingular>涅克洛斯</Neclose_P_Faction.pawnSingular>
-  <Neclose_P_Faction.description>涅克洛斯们聚集在一起愉快生活的地方。</Neclose_P_Faction.description>
-  <Neclose_Faction_NPC.label>涅克洛斯派系</Neclose_Faction_NPC.label>
-  <Neclose_Faction_NPC.description>涅克洛斯们居住的、被细菌污染的地区名称，也是生活在其上的生物的集团名称。忠实地遵从曾经的创造者“保持威慑”的指示，保持中立，不进行对外侵略行为。但是，一旦她们受到攻击，就会立刻将身体内隐藏的致命细菌和怪异血肉释放出来，将敌人残杀殆尽。</Neclose_Faction_NPC.description>
-  <Neclose_Faction_NPC.pawnSingular>涅克洛斯</Neclose_Faction_NPC.pawnSingular>
+  <Neclose_P_Faction.label>牧菌妖姬的隐居之处</Neclose_P_Faction.label>
+  <Neclose_P_Faction.pawnSingular>牧菌妖姬</Neclose_P_Faction.pawnSingular>
+  <Neclose_P_Faction.description>牧菌妖姬们聚集在一起愉快生活的地方。</Neclose_P_Faction.description>
+  <Neclose_Faction_NPC.label>牧菌妖姬派系</Neclose_Faction_NPC.label>
+  <Neclose_Faction_NPC.description>牧菌妖姬们居住的、被细菌污染的地区名称，也是生活在其上的生物的集团名称。忠实地遵从曾经的创造者“保持威慑”的指示，保持中立，不进行对外侵略行为。但是，一旦她们受到攻击，就会立刻将身体内隐藏的致命细菌和怪异血肉释放出来，将敌人残杀殆尽。</Neclose_Faction_NPC.description>
+  <Neclose_Faction_NPC.pawnSingular>牧菌妖姬</Neclose_Faction_NPC.pawnSingular>
   <Neclose_Faction_NPC.fixedName>牧菌战团</Neclose_Faction_NPC.fixedName>
   <Neclose_Faction_NPC_b.label>昏暗之物</Neclose_Faction_NPC_b.label>
-  <Neclose_Faction_NPC_b.pawnSingular>涅克洛斯</Neclose_Faction_NPC_b.pawnSingular>
+  <Neclose_Faction_NPC_b.pawnSingular>牧菌妖姬</Neclose_Faction_NPC_b.pawnSingular>
   <Neclose_Faction_NPC_b.fixedName>昏暗之物</Neclose_Faction_NPC_b.fixedName>
 </LanguageData>

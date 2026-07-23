@@ -3,10 +3,10 @@
   <name>[Aya] Idhale Race_zh 人工种族汉化 v1.6</name>
   <author>AbstrAct404 / Chinese localization</author>
   <packageId>abstract404.aya.2227425882.zh</packageId>
-  <description>本 MOD 新增伊德海尔种族及专属装备。
+  <description>本 MOD 新增幽灵姬种族及专属装备。
 
 【新增种族】
-・伊德海尔
+・幽灵姬
 
 【如何招募】
 ・接纳流亡者，或营救逃生舱中的幸存者。
@@ -14,9 +14,9 @@
 
 【兼容联动】
 ・Nearmare Race
-安装后，伊德海尔可穿戴部分尼亚梅尔专属装备。
+安装后，幽灵姬可穿戴部分魅魔专属装备。
 
-【伊德海尔的特点】
+【幽灵姬的特点】
 ・寿命约为人类的 5 倍。
 ・无法持有武器，因此不能进行常规武装战斗。
 ・心灵敏感度较高。
@@ -33,7 +33,11 @@
 ——
 兼容版本：RimWorld 1.6
 前置：原模组（请置于本汉化之前加载）
-本模组仅含翻译文件，不包含原模组资源。</description>
+本模组仅含翻译文件，不包含原模组资源。
+
+【收录种族与特殊形态】
+・幽灵姬
+・幽灵姬·罪孽灵</description>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>

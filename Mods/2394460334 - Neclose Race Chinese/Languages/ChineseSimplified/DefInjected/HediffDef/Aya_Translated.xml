@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <HAR_NC_Hediff_a.label>露娜病菌</HAR_NC_Hediff_a.label>
-  <HAR_NC_Hediff_a.description>共生在涅克洛斯体内、对精神念波有感应的细菌。\n这类细菌只能生存在特殊的环境中，而涅克洛斯的体内环境正好满足这一条件；为了保护涅克洛斯，细菌促进了她们很多的良性进化。平时都处于假死状态，即使他人感染了也不会产生不良影响，1天内就会自我毁灭——可一旦接收到涅克洛斯的攻击指令的话，就会立刻开始强腐蚀性的增殖，并释放出能使人狂躁的精神念波。\n\n刚感染时只会感到手脚麻痹，但到了末期，连脑神经都会受到影响，感染者将精神崩溃，变得极为狂暴。由于这种现象不属于物理层面的干扰，所以对机械族等机械生物同样起作用。</HAR_NC_Hediff_a.description>
+  <HAR_NC_Hediff_a.description>共生在牧菌妖姬体内、对精神念波有感应的细菌。\n这类细菌只能生存在特殊的环境中，而牧菌妖姬的体内环境正好满足这一条件；为了保护牧菌妖姬，细菌促进了她们很多的良性进化。平时都处于假死状态，即使他人感染了也不会产生不良影响，1天内就会自我毁灭——可一旦接收到牧菌妖姬的攻击指令的话，就会立刻开始强腐蚀性的增殖，并释放出能使人狂躁的精神念波。\n\n刚感染时只会感到手脚麻痹，但到了末期，连脑神经都会受到影响，感染者将精神崩溃，变得极为狂暴。由于这种现象不属于物理层面的干扰，所以对机械族等机械生物同样起作用。</HAR_NC_Hediff_a.description>
   <HAR_NC_Hediff_b.description>露娜病菌分泌的腐蚀性毒素，可以逐渐侵蚀血肉、从厚重的装甲内部击溃对手。\n这种毒只会对和感染者基因相同的细胞起作用，因此即使有人吃了含有这种毒素的尸体，也不会引起食物中毒。</HAR_NC_Hediff_b.description>
   <Neclose_Artificial.label>人工种族</Neclose_Artificial.label>
-  <Neclose_Artificial.description>涅克洛斯是人工种族，拥有堪比尼亚梅尔的精神强度的同时，身体素质也极为出色。\n\n另外。她们还可以召唤眷属、协助战斗；其召唤数取决于她们的牧菌等级——牧菌等级大约每年上升1级（上限为5级）。</Neclose_Artificial.description>
+  <Neclose_Artificial.description>牧菌妖姬是人工种族，拥有堪比魅魔的精神强度的同时，身体素质也极为出色。\n\n另外。她们还可以召唤眷属、协助战斗；其召唤数取决于她们的牧菌等级——牧菌等级大约每年上升1级（上限为5级）。</Neclose_Artificial.description>
   <HAR_NC_Hediff_Flag.label>伟大的来访</HAR_NC_Hediff_Flag.label>
   <HAR_NC_Invisibility.label>界外之物</HAR_NC_Invisibility.label>
   <HAR_NC_Invisibility.description>通过某种力量进入的不可视状态。\n30分钟以内，不会被敌人瞄准。</HAR_NC_Invisibility.description>
   <HAR_NC_Invisibility_b.label>界外之物</HAR_NC_Invisibility_b.label>
   <HAR_NC_Invisibility_b.description>通过某种力量进入的不可视状态。\n一段时间内，不会被敌人瞄准。</HAR_NC_Invisibility_b.description>
   <Neclose_Artificial_b.label>外来种族</Neclose_Artificial_b.label>
-  <Neclose_Artificial_b.description>涅克洛斯·「无人」是一种来历不明的种族。\n\n她们不会像人类那样流血，内脏机能也很发达。</Neclose_Artificial_b.description>
+  <Neclose_Artificial_b.description>牧菌妖姬·无人（界外之血）是一种来历不明的种族。\n\n她们不会像人类那样流血，内脏机能也很发达。</Neclose_Artificial_b.description>
 </LanguageData>

@@ -7,10 +7,10 @@
   <HAR_IH_NPC_b.label>巨型魔像</HAR_IH_NPC_b.label>
   <HAR_IH_NPC_b.labelMale>巨型魔像</HAR_IH_NPC_b.labelMale>
   <HAR_IH_NPC_b.labelFemale>巨型魔像</HAR_IH_NPC_b.labelFemale>
-  <HAR_Idhale_Player.label>伊德海尔殖民者</HAR_Idhale_Player.label>
+  <HAR_Idhale_Player.label>幽灵姬殖民者</HAR_Idhale_Player.label>
   <HAR_Idhale_NPC_b_Player.label>咎灵</HAR_Idhale_NPC_b_Player.label>
-  <HAR_Idhale_KindBase_NPC.label>伊德海尔幸存者</HAR_Idhale_KindBase_NPC.label>
-  <HAR_Idhale_NPC_Resident.label>伊德海尔幸存者</HAR_Idhale_NPC_Resident.label>
+  <HAR_Idhale_KindBase_NPC.label>幽灵姬幸存者</HAR_Idhale_KindBase_NPC.label>
+  <HAR_Idhale_NPC_Resident.label>幽灵姬幸存者</HAR_Idhale_NPC_Resident.label>
   <HAR_Idhale_KindBase_NPC_b.label>苍穹之魂之民</HAR_Idhale_KindBase_NPC_b.label>
   <HAR_Idhale_NPC_b_Leader.label>咎灵</HAR_Idhale_NPC_b_Leader.label>
 </LanguageData>

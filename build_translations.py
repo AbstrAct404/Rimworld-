@@ -43,11 +43,11 @@ FIELDS = {
 # Proper nouns used consistently across this family.  General Japanese text is
 # translated remotely when --translate-google is requested.
 GLOSSARY = {
-    "チャウラ": "查欧拉", "エヴェリエット": "艾维利特", "イデアーン": "伊迪安",
-    "イデール": "伊德尔", "リトルナ": "莉特露娜", "ニアメア": "尼亚梅尔",
-    "ネクロース": "涅克洛斯", "クアリーラ": "夸莉拉", "リクイーン": "蕾奎恩",
-    "サクリーン": "萨克琳", "シルキエラ": "希尔基耶拉", "ソラーク": "索拉克",
-    "ゼノオルカ": "泽诺奥卡", "人工種族": "人工种族", "種族": "种族",
+    "チャウラ": "混沌灵", "エヴェリエット": "伊娃莉特", "イデアーン": "伊迪安",
+    "イデール": "幽灵姬", "リトルナ": "伪神族", "ニアメア": "魅魔",
+    "ネクロース": "牧菌妖姬", "クアリーラ": "库莉菈", "リクイーン": "女王种",
+    "サクリーン": "飞蛾姬", "シルキエラ": "亚人兽娘", "ソラーク": "索拉克",
+    "ゼノオルカ": "人鱼姬", "人工種族": "人工种族", "種族": "种族",
     "服": "服装", "武器": "武器", "防具": "护甲", "作業": "工作",
 }
 
@@ -56,19 +56,19 @@ GLOSSARY = {
 # them after translation while leaving XML keys, package IDs and placeholders
 # untouched.
 DISPLAY_NAME_REPLACEMENTS = {
-    "Idoher": "伊德海尔", "Idhale": "伊德海尔", "Avonruach": "阿冯·鲁阿赫",
-    "Evelito": "艾维利特", "Eveliet": "艾维利特",
-    "Ritoruna": "莉特露娜", "Littluna": "莉特露娜",
-    "Xenooka": "泽诺奥卡", "Xenoorca": "泽诺奥卡",
-    "Ideaan": "伊迪恩", "Idearn": "伊迪恩",
-    "Qualilla": "夸莉拉", "Qualeela": "夸莉拉", "Quorilla": "夸莉拉",
-    "Silkyra": "希尔基耶拉", "Silkiera": "希尔基耶拉",
-    "Necros": "涅克洛斯", "Neclose": "涅克洛斯",
-    "Solark": "索拉克", "Saclean": "萨克琳", "Chaoura": "查欧拉",
+    "Idoher": "幽灵姬", "Idhale": "幽灵姬", "Avonruach": "阿冯·鲁阿赫",
+    "Evelito": "伊娃莉特", "Eveliet": "伊娃莉特",
+    "Ritoruna": "伪神族", "Littluna": "伪神族",
+    "Xenooka": "人鱼姬", "Xenoorca": "人鱼姬",
+    "Ideaan": "伊迪安", "Idearn": "伊迪安",
+    "Qualilla": "库莉菈", "Qualeela": "库莉菈", "Quorilla": "库莉菈",
+    "Silkyra": "亚人兽娘", "Silkiera": "亚人兽娘",
+    "Necros": "牧菌妖姬", "Neclose": "牧菌妖姬",
+    "Solark": "索拉克（龙姬）", "Saclean": "飞蛾姬", "Chaoura": "混沌灵",
     # Machine-translated aliases of Idhale seen in Chinese output.
-    "伊达尔": "伊德海尔", "伊达勒": "伊德海尔", "艾德哈尔": "伊德海尔",
-    "伊多哈尔": "伊德海尔", "伊多赫尔": "伊德海尔", "伊多哈勒": "伊德海尔",
-    "伊德哈勒": "伊德海尔", "阿文鲁阿哈": "阿冯·鲁阿赫",
+    "伊达尔": "幽灵姬", "伊达勒": "幽灵姬", "艾德哈尔": "幽灵姬",
+    "伊多哈尔": "幽灵姬", "伊多赫尔": "幽灵姬", "伊多哈勒": "幽灵姬",
+    "伊德哈勒": "幽灵姬", "阿文鲁阿哈": "阿冯·鲁阿赫",
     "阿冯鲁阿赫": "阿冯·鲁阿赫", "阿冯鲁阿哈": "阿冯·鲁阿赫",
 }
 
@@ -127,9 +127,9 @@ WORKSHOP_DESCRIPTION_REPLACEMENTS = {
         "・即使看到黑暗或尸体，我的心也不会下降。": "・身处黑暗或看到尸体时不会产生心情惩罚。",
     },
     "2569091688": {
-        "利托鲁纳": "莉特露娜",
-        "莉特露娜会靠近你的殖民地，几个小时后它就会崩溃，所以你可以捕获它。":
-            "莉特露娜会来到殖民地附近，并在数小时后因体力不支而倒下；届时可将其俘获。",
+        "利托鲁纳": "伪神族",
+        "伪神族会靠近你的殖民地，几个小时后它就会崩溃，所以你可以捕获它。":
+            "伪神族会来到殖民地附近，并在数小时后因体力不支而倒下；届时可将其俘获。",
     },
     "2954714860": {
         "创意C.乌鸦": "伊迪安 C.乌鸦",
@@ -189,27 +189,27 @@ WORKSHOP_DESCRIPTION_REPLACEMENTS = {
             "这是一个中立派系，其成员均装备强力护甲。",
     },
     "3153539856": {
-        "艾维利托": "艾维利特",
-        "【艾维利特加盟图】": "【艾维利特招募流程】",
-        "・将艾维利特的研究进行到底，制造“艾泽雷姆”。":
-            "1. 完成艾维利特研究，解锁并建造孵化设施“埃尔泽莱姆”。",
+        "艾维利托": "伊娃莉特",
+        "【伊娃莉特加盟图】": "【伊娃莉特招募流程】",
+        "・将伊娃莉特的研究进行到底，制造“艾泽雷姆”。":
+            "1. 完成伊娃莉特研究，解锁并建造孵化设施“埃尔泽莱姆”。",
         "・从商家处购买以下商品。":
             "2. 从商人处购买全部五份重设计数据：",
         "“肖像类型：重新设计数据：A” “肖像类型：重新设计数据：B”":
             "“肖像种：重设计数据 A”“肖像种：重设计数据 B”",
         "“肖像类型：重新设计数据：C” “肖像类型：重新设计数据：D” “肖像类型：重新设计数据：E”":
             "“肖像种：重设计数据 C”“肖像种：重设计数据 D”“肖像种：重设计数据 E”",
-        "・使用上述物品作为材料，在“艾泽雷姆”中制作“艾维利特 胶囊”。":
-            "3. 将五份重设计数据作为材料，在“埃尔泽莱姆”中制作“艾维利特封装胶囊”。",
-        "・使用“艾维利特封装”。":
-            "4. 使用“艾维利特封装胶囊”，即可让一名艾维利特加入殖民地。",
+        "・使用上述物品作为材料，在“艾泽雷姆”中制作“伊娃莉特 胶囊”。":
+            "3. 将五份重设计数据作为材料，在“埃尔泽莱姆”中制作“伊娃莉特封装胶囊”。",
+        "・使用“伊娃莉特封装”。":
+            "4. 使用“伊娃莉特封装胶囊”，即可让一名伊娃莉特加入殖民地。",
         "- 在其基本状态下，除了一些事情外，它与人类没有太大区别。":
             "・基础状态下，除少数特殊机制外，身体能力与人类相近。",
         "・从对手身上收集血液可以增加技能成本。":
             "・从敌人身上收集血液，可以补充施放能力所需的血液储量。",
         "・费用用于技能，技能有“使用条件”和“消耗”。":
             "・每项能力都有各自的使用条件，并会消耗一定血液储量。",
-        "-可以装备一些尼亚梅尔和希尔基耶拉衣服。":
+        "-可以装备一些魅魔和亚人兽娘衣服。":
             "・可以穿戴部分 Nearmare Race 与 Silkiera Race 的种族装备。",
     },
 }
@@ -217,7 +217,7 @@ WORKSHOP_DESCRIPTION_REPLACEMENTS = {
 # A deliberately obfuscated source label cannot be translated reliably by an
 # automatic service; use the established race name and a readable designation.
 KEY_OVERRIDES = {
-    "HAR_LL_Hive_Critias.label": "莉特露娜蜂巢·克里蒂亚斯",
+    "HAR_LL_Hive_Critias.label": "伪神族蜂巢·克里蒂亚斯",
     # Idhale EX: Tzvaot Shekinah — divine presence/glory of the hosts.
     "HAR_IH_Hediff_EX_a.label": "万军神临",
     "HAR_IH_Hediff_EX_b.label": "万军神临",
@@ -232,7 +232,7 @@ KEY_OVERRIDES = {
     "Aya_Race_Gene_a.label": "创世基因",
     "Aya_Race_Xenotype.label": "人工族",
     "HAR_IH_AT_z.label": "以太礼装",
-    "HAR_IH_AT_z.description": "为伊德海尔·阿冯·鲁阿赫量身定制的礼装，但似乎没有特殊效果。",
+    "HAR_IH_AT_z.description": "为幽灵姬·阿冯·鲁阿赫量身定制的礼装，但似乎没有特殊效果。",
     "HAR_CO_UB_Recipe_a.label": "异象之书",
     "HAR_CO_UB_Recipe_a.description": "从地行者生成异象之书。",
     "HAR_CO_UB_Recipe_b.label": "盟约之灵",
@@ -255,22 +255,22 @@ KEY_OVERRIDES = {
     "HAR_EL_Apparel_Shell_c.label": "伊沙芭夹克 C",
     "HAR_EL_Apparel_Shell_d.label": "伊沙芭长袍",
     "HAR_EL_Apparel_Tops_a.label": "伊沙芭连衣裙 A",
-    "HAR_EL_Apparel_Tops_a.description": "专为艾维利特设计的礼装，仍在调整中，因此没有特殊效果。",
+    "HAR_EL_Apparel_Tops_a.description": "专为伊娃莉特设计的礼装，仍在调整中，因此没有特殊效果。",
     "HAR_EL_Apparel_Tops_b.label": "伊沙芭连衣裙 B",
-    "HAR_EL_Apparel_Tops_b.description": "专为艾维利特设计的礼装，仍在调整中，因此没有特殊效果。",
+    "HAR_EL_Apparel_Tops_b.description": "专为伊娃莉特设计的礼装，仍在调整中，因此没有特殊效果。",
     "HAR_EL_Apparel_Tops_c.label": "伊沙芭连衣裙 C",
-    "HAR_EL_Apparel_Tops_c.description": "专为艾维利特设计的礼装，仍在调整中，因此没有特殊效果。",
+    "HAR_EL_Apparel_Tops_c.description": "专为伊娃莉特设计的礼装，仍在调整中，因此没有特殊效果。",
     "HAR_EL_Apparel_Tops_d.label": "伊沙芭连衣裙 D",
-    "HAR_EL_Apparel_Tops_d.description": "专为艾维利特设计的礼装，仍在调整中，因此没有特殊效果。",
+    "HAR_EL_Apparel_Tops_d.description": "专为伊娃莉特设计的礼装，仍在调整中，因此没有特殊效果。",
     "HAR_EL_Apparel_Tops_e.label": "伊沙芭连衣裙 E",
-    "HAR_EL_Apparel_Tops_e.description": "专为艾维利特设计的礼装，仍在调整中，因此没有特殊效果。",
+    "HAR_EL_Apparel_Tops_e.description": "专为伊娃莉特设计的礼装，仍在调整中，因此没有特殊效果。",
     "HAR_EL_Item_a.label": "肖像种：重设计数据 A",
     "HAR_EL_Item_b.label": "肖像种：重设计数据 B",
     "HAR_EL_Item_c.label": "肖像种：重设计数据 C",
     "HAR_EL_Item_d.label": "肖像种：重设计数据 D",
     "HAR_EL_Item_e.label": "肖像种：重设计数据 E",
     "HAR_EL_Material_a.label": "埃梅特·埃文",
-    "HAR_EL_Spawn_a.label": "艾维利特封装胶囊",
+    "HAR_EL_Spawn_a.label": "伊娃莉特封装胶囊",
     "HAR_IA_Armor_a.label": "艾提翁护甲",
     "HAR_IA_Armor_b.label": "奥尔芬礼装",
     "HAR_IA_AH_a.label": "艾提翁头盔 A",
@@ -279,22 +279,22 @@ KEY_OVERRIDES = {
     "HAR_IA_tops_b.label": "梅卡涅礼装 B",
     "HAR_IA_tops_c.label": "梅卡涅礼装 C",
     # Requeen had one English-only summon description in the source.
-    "BOSS_RQ_Monster_race_Summon_h.description": "蕾奎恩的后裔，拥有生物与机械混合的特殊结构；为排除威胁而被调整为生命体，并被剥除了情感与自我。\n\n“侦察型”是以迅捷行动为代价牺牲部分耐久的先锋单位：它会借助光学迷彩隐蔽接近敌人，再以匕首发动攻击。",
+    "BOSS_RQ_Monster_race_Summon_h.description": "女王种的后裔，拥有生物与机械混合的特殊结构；为排除威胁而被调整为生命体，并被剥除了情感与自我。\n\n“侦察型”是以迅捷行动为代价牺牲部分耐久的先锋单位：它会借助光学迷彩隐蔽接近敌人，再以匕首发动攻击。",
     # Idhale terminology: keep race/faction display names consistent, including
     # fixedName (which RimWorld displays instead of the FactionDef label).
-    "HAR_Idhale.label": "伊德海尔",
-    "HAR_Idhale_Player.label": "伊德海尔",
-    "HAR_Idhale_b.label": "伊德海尔·阿冯·鲁阿赫",
-    "HAR_Idhale_b_Player.label": "伊德海尔·阿冯·鲁阿赫",
-    "HAR_Idhale_Body.label": "伊德海尔",
-    "HAR_Idhale_KindBase_NPC.label": "伊德海尔幸存者",
-    "HAR_Idhale_NPC_Resident.label": "伊德海尔幸存者",
-    "Category_Idhale.label": "伊德海尔服装",
-    "Idhale_P_Faction.label": "伊德海尔隐居地",
-    "Idhale_Faction_NPC.label": "伊德海尔隐居地",
-    "Idhale_P_Faction.pawnSingular": "伊德海尔人",
-    "Idhale_Faction_NPC.pawnSingular": "伊德海尔人",
-    "Idhale_Faction_NPC_b.pawnSingular": "伊德海尔人",
+    "HAR_Idhale.label": "幽灵姬",
+    "HAR_Idhale_Player.label": "幽灵姬",
+    "HAR_Idhale_b.label": "幽灵姬·阿冯·鲁阿赫",
+    "HAR_Idhale_b_Player.label": "幽灵姬·阿冯·鲁阿赫",
+    "HAR_Idhale_Body.label": "幽灵姬",
+    "HAR_Idhale_KindBase_NPC.label": "幽灵姬幸存者",
+    "HAR_Idhale_NPC_Resident.label": "幽灵姬幸存者",
+    "Category_Idhale.label": "幽灵姬服装",
+    "Idhale_P_Faction.label": "幽灵姬隐居地",
+    "Idhale_Faction_NPC.label": "幽灵姬隐居地",
+    "Idhale_P_Faction.pawnSingular": "幽灵姬人",
+    "Idhale_Faction_NPC.pawnSingular": "幽灵姬人",
+    "Idhale_Faction_NPC_b.pawnSingular": "幽灵姬人",
     "Idhale_Faction_NPC_b.fixedName": "苍穹之魂",
     "HAR_Idhale_KindBase_NPC_b.label": "苍穹之魂之民",
     "HAR_IH_Cultures_b.label": "苍穹之魂教义",

@@ -22,19 +22,19 @@
 
 | 原文 | 固定译文 |
 |---|---|
-| Chaoura / ケイオーラ | 查欧拉 |
-| Eveliet / エヴェリエット | 艾维利特 |
+| Chaoura / ケイオーラ | 混沌灵 |
+| Eveliet / エヴェリエット | 伊娃莉特 |
 | Idearn / イデアーン | 伊迪安 |
-| Idhale / イドヘール | 伊德海尔 |
-| Littluna / リトルーナ | 莉特露娜 |
-| Nearmare / ニアメーア | 尼亚梅尔 |
-| Neclose / ネクロース | 涅克洛斯 |
-| Qualeela / クオリーラ | 夸莉拉 |
-| Requeen / レクイーン | 蕾奎恩 |
-| Saclean / サクリーン | 萨克琳 |
-| Silkiera / シルキーラ | 希尔基耶拉 |
+| Idhale / イドヘール | 幽灵姬 |
+| Littluna / リトルーナ | 伪神族 |
+| Nearmare / ニアメーア | 魅魔 |
+| Neclose / ネクロース | 牧菌妖姬 |
+| Qualeela / クオリーラ | 库莉菈 |
+| Requeen / レクイーン | 女王种 |
+| Saclean / サクリーン | 飞蛾姬 |
+| Silkiera / シルキーラ | 亚人兽娘 |
 | Solark / ソルアーク | 索拉克 |
-| Xenoorca / ゼノオーカ | 泽诺奥卡 |
+| Xenoorca / ゼノオーカ | 人鱼姬 |
 | イシュムーティト（人工种族统称） | 人工种族 |
 
 ## 系列专名与能力
@@ -42,21 +42,36 @@
 | 原文 | 固定译文 |
 |---|---|
 | Avonruach | 阿冯·鲁阿赫 |
-| Chaoura Avalzion / ケイオーラ・アヴァルツィオン | 查欧拉·阿瓦齐翁 |
+| Chaoura Avalzion / ケイオーラ・アヴァルツィオン | 混沌灵·阿瓦露其安 |
 | Efiyeashel / エフイェアシェル | 埃菲耶阿谢尔 |
-| Idearn Critias / イデアーン・クリティアス | 伊迪安·克里提亚斯 |
-| Idearn Charmides / カルミデス | 伊迪安·卡尔米德斯 |
-| Idearn Menexenos / メネクセノス | 伊迪安·墨涅克塞诺斯 |
-| Idearn Theaetetus / テアイテトス | 伊迪安·泰阿泰托斯 |
+| Idearn Critias / イデアーン・クリティアス | 伊迪安·克里提亚斯（焚书模型） |
+| Idearn Charmides / カルミデス | 伊迪安·卡尔米德 |
+| Idearn Menexenos / メネクセノス | 伊迪安·梅涅克赛努 |
+| Idearn Theaetetus / テアイテトス | 伊迪安·泰阿泰德 |
 | Idearn Laches / ラケス | 伊迪安·拉刻斯 |
+| Idhale upper form | 幽灵姬·罪孽灵 |
+| Silkiera improved form | 亚人兽娘·改良种 |
+| Silkiera fox form | 亚人兽娘·狐媚 |
+| Nearmare faith form | 魅魔·信仰系 |
+| Nearmare improved form | 魅魔·改良系 |
+| Nearmare mysterious form | 魅魔·神秘系 |
+| Nearmare witch form | 魅魔·魔女系 |
+| Neclose Utisphonia | 牧菌妖姬·无人（界外之血） |
+| Xenoorca Heidarnoia | 人鱼姬·渊丛主 |
+| Littluna Idea slave | 伪神族·伊迪亚之奴 |
+| Littluna Dunamis | 伪神族·杜娜米丝 |
+| Qualeela Ketel | 库莉菈·凯特尔 |
+| Zoichor | 锢魂魔 |
+| Requeen / Requeen fortress | 女王种 / 女王种（要塞） |
+| Requeen G / Requeen Z | 远渡星海之鸟 / 雏鸟 |
 | Arche/Arke Cartridge / アルケーカードリッジ | 本源药盒 |
 | Physis Mimesis / フィシスミメシス | 自然拟态 |
 | Regalia / レガリア | 王权 |
 | Regalia Summon / レガリアサモン | 王权召唤 |
-| Solark Herelreve / ソルアーク・ヘレルレーヴ | 索拉克·海勒莱夫 |
-| Nearmare Aradia / ニアメーア・アラディア | 尼亚梅尔·阿拉迪亚 |
-| Nearmare Wingate / ニアメーア・ウィンゲイト | 尼亚梅尔·温盖特 |
-| Nearmare Nemeseia / ニアメーア・ネメセイア | 尼亚梅尔·涅墨塞亚 |
+| Solark Herelreve / ソルアーク・ヘレルレーヴ | 索拉克·赫雷勒夫 |
+| Nearmare Aradia / ニアメーア・アラディア | 魅魔·魔女系 |
+| Nearmare Wingate / ニアメーア・ウィンゲイト | 魅魔·神秘系 |
+| Nearmare Nemeseia / ニアメーア・ネメセイア | 魅魔·改良系 |
 | Bereshit / ベレシート（基因） | 创世基因 |
 
 ## 外部模组名称

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <HAR_Saclean_Player.label>殖民者</HAR_Saclean_Player.label>
-  <HAR_Saclean_KindBase_NPC.label>萨克琳居民</HAR_Saclean_KindBase_NPC.label>
-  <HAR_Saclean_NPC_Trader.label>萨克琳贸易商</HAR_Saclean_NPC_Trader.label>
-  <HAR_Saclean_NPC_Leader.label>萨克琳首领</HAR_Saclean_NPC_Leader.label>
-  <HAR_Saclean_NPC_Resident.label>萨克琳居民</HAR_Saclean_NPC_Resident.label>
+  <HAR_Saclean_KindBase_NPC.label>飞蛾姬居民</HAR_Saclean_KindBase_NPC.label>
+  <HAR_Saclean_NPC_Trader.label>飞蛾姬贸易商</HAR_Saclean_NPC_Trader.label>
+  <HAR_Saclean_NPC_Leader.label>飞蛾姬首领</HAR_Saclean_NPC_Leader.label>
+  <HAR_Saclean_NPC_Resident.label>飞蛾姬居民</HAR_Saclean_NPC_Resident.label>
 </LanguageData>

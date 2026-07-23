@@ -3,12 +3,12 @@
   <name>[Aya] Xenoorca Race_zh 人工种族汉化 v1.6</name>
   <author>AbstrAct404 / Chinese localization</author>
   <packageId>abstract404.aya.2216916011.zh</packageId>
-  <description>本 MOD 新增泽诺奥卡种族、专属装备及相关派系。
+  <description>本 MOD 新增人鱼姬种族、专属装备及相关派系。
 
 【新增种族】
-・泽诺奥卡
+・人鱼姬
 
-【泽诺奥卡的特点】
+【人鱼姬的特点】
 ・寿命较长，擅长水域活动。
 ・较易受到疾病和毒素影响，免疫速度较慢。
 ・饥饿速度较慢。
@@ -22,7 +22,7 @@
 【兼容联动】
 ・SwimmingKit
 ・Biomes! Islands
-安装其中任一 MOD 后，泽诺奥卡可在海面以约 16 格/秒的速度移动。
+安装其中任一 MOD 后，人鱼姬可在海面以约 16 格/秒的速度移动。
 
 【推荐但非必需的模组】
 ・Camera+
@@ -33,7 +33,11 @@
 ——
 兼容版本：RimWorld 1.6
 前置：原模组（请置于本汉化之前加载）
-本模组仅含翻译文件，不包含原模组资源。</description>
+本模组仅含翻译文件，不包含原模组资源。
+
+【收录种族与特殊形态】
+・人鱼姬
+・人鱼姬·渊丛主</description>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>

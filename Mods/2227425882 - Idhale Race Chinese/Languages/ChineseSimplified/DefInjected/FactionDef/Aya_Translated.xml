@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Idhale_P_Faction.label>伊德海尔之乡</Idhale_P_Faction.label>
-  <Idhale_P_Faction.pawnSingular>伊德海尔</Idhale_P_Faction.pawnSingular>
-  <Idhale_P_Faction.description>伊德海尔的隐秘居所</Idhale_P_Faction.description>
-  <Idhale_Faction_NPC.label>伊德海尔之乡</Idhale_Faction_NPC.label>
-  <Idhale_Faction_NPC.pawnSingular>伊德海尔</Idhale_Faction_NPC.pawnSingular>
-  <Idhale_Faction_NPC.description>伊德海尔的隐秘居所</Idhale_Faction_NPC.description>
-  <Idhale_Faction_NPC_b.label>伊德海尔派系</Idhale_Faction_NPC_b.label>
-  <Idhale_Faction_NPC_b.description>背负着某种使命的伊德海尔派系。\n她们通常情况下不会出现，只会袭击那些保有大量财富的殖民地。</Idhale_Faction_NPC_b.description>
-  <Idhale_Faction_NPC_b.pawnSingular>伊德海尔</Idhale_Faction_NPC_b.pawnSingular>
+  <Idhale_P_Faction.label>幽灵姬之乡</Idhale_P_Faction.label>
+  <Idhale_P_Faction.pawnSingular>幽灵姬</Idhale_P_Faction.pawnSingular>
+  <Idhale_P_Faction.description>幽灵姬的隐秘居所</Idhale_P_Faction.description>
+  <Idhale_Faction_NPC.label>幽灵姬之乡</Idhale_Faction_NPC.label>
+  <Idhale_Faction_NPC.pawnSingular>幽灵姬</Idhale_Faction_NPC.pawnSingular>
+  <Idhale_Faction_NPC.description>幽灵姬的隐秘居所</Idhale_Faction_NPC.description>
+  <Idhale_Faction_NPC_b.label>幽灵姬派系</Idhale_Faction_NPC_b.label>
+  <Idhale_Faction_NPC_b.description>背负着某种使命的幽灵姬派系。\n她们通常情况下不会出现，只会袭击那些保有大量财富的殖民地。</Idhale_Faction_NPC_b.description>
+  <Idhale_Faction_NPC_b.pawnSingular>幽灵姬</Idhale_Faction_NPC_b.pawnSingular>
   <Idhale_Faction_NPC_b.fixedName>苍穹之魂</Idhale_Faction_NPC_b.fixedName>
 </LanguageData>

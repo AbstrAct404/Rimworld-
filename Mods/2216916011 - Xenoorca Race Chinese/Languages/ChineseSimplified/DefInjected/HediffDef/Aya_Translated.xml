@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <HAR_XO_Hediff_a.label>深渊惊骇</HAR_XO_Hediff_a.label>
-  <HAR_XO_Hediff_a.description>人鱼族·海迪尔诺亚幽暗的陷阱。
+  <HAR_XO_Hediff_a.description>人鱼姬·渊丛主幽暗的陷阱。
 在被射击击中时，将目标的感知能力拖入深海。
 
 在引导之光无法触及的深渊之底，你的声音传达不到任何人耳中。</HAR_XO_Hediff_a.description>
   <HAR_XO_Hediff_b.label>冥渊恐惧</HAR_XO_Hediff_b.label>
-  <HAR_XO_Hediff_b.description>人鱼族·海迪尔诺亚纠缠的领域。
+  <HAR_XO_Hediff_b.description>人鱼姬·渊丛主纠缠的领域。
 会将来自比深渊更深的冥渊的重力强加在对手身上。
 
 这里是如同母亲一般的深渊之底，无人能够踏破的黑暗宫殿。</HAR_XO_Hediff_b.description>
   <HAR_XO_Hediff_c.label>帝国指令</HAR_XO_Hediff_c.label>
-  <HAR_XO_Hediff_c.description>人鱼族·海迪尔诺亚卓越的指挥。
+  <HAR_XO_Hediff_c.description>人鱼姬·渊丛主卓越的指挥。
 
 在这样的英杰所担任的统率之下，就算是杂兵也会成长为身经百战的士兵吧。</HAR_XO_Hediff_c.description>
   <HAR_XO_Hediff_d.label>奥尔基努斯之赤</HAR_XO_Hediff_d.label>
-  <HAR_XO_Hediff_d.description>人鱼族·海迪尔诺亚所释放的杀鲸霸拳（逆戟鲸 Attack）。
+  <HAR_XO_Hediff_d.description>人鱼姬·渊丛主所释放的杀鲸霸拳（逆戟鲸 Attack）。
 目标在短时间内会失去移动能力，如果是玩家派系的话则会被吹飞到附近的某个地方。
 
 为了狩猎而在刹那间释放出的一击，无论怎样的敌人都会被轻松地吹飞。
@@ -23,7 +23,7 @@
   <HAR_XO_Hediff_e.label>堕落圣痕</HAR_XO_Hediff_e.label>
   <HAR_XO_Hediff_e.description>被深渊之噬所刻下的圣痕。\n在护甲遭到摧毁的同时，刻下了的圣痕超过一定数量的话，那个人就会即刻落命。</HAR_XO_Hediff_e.description>
   <Xenoorca_Artificial.label>人工种族</Xenoorca_Artificial.label>
-  <Xenoorca_Artificial.description>人鱼族是一个人工种族，由于战斗特化的原因，肉体得到了强化；但是作为人工生物的她们对疾病等的耐性和免疫力都很低。另外，其强度由她们各自的泽诺奥卡等级决定，大约1年提升1级（等级上限为10）。</Xenoorca_Artificial.description>
+  <Xenoorca_Artificial.description>人鱼姬是一个人工种族，由于战斗特化的原因，肉体得到了强化；但是作为人工生物的她们对疾病等的耐性和免疫力都很低。另外，其强度由她们各自的人鱼姬等级决定，大约1年提升1级（等级上限为10）。</Xenoorca_Artificial.description>
   <Xenoorca_Artificial_b.label>人工上位种族</Xenoorca_Artificial_b.label>
-  <Xenoorca_Artificial_b.description>人鱼族·海迪尔诺亚具有足以抵挡集中火力的强韧生命力。其强度由她的泽诺奥卡等级决定，大约1年提升1级（等级上限为5）。</Xenoorca_Artificial_b.description>
+  <Xenoorca_Artificial_b.description>人鱼姬·渊丛主具有足以抵挡集中火力的强韧生命力。其强度由她的人鱼姬等级决定，大约1年提升1级（等级上限为5）。</Xenoorca_Artificial_b.description>
 </LanguageData>

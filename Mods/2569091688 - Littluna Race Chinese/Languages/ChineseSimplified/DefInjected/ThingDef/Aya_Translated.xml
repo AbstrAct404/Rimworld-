@@ -8,39 +8,39 @@
   <Aya_Race_Ap_C_T_d.description>人工种族儿童穿着的学生服。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_d.description>
   <Aya_Race_Ap_C_T_d.label>儿童款式学生服装</Aya_Race_Ap_C_T_d.label>
   <HAR_LL_A_a.label>禁断之铠</HAR_LL_A_a.label>
-  <HAR_LL_A_a.description>莉特露娜专用的铠甲。为身体脆弱的莉特露娜们定制的战斗用铠甲，但实际上从未被动用过。</HAR_LL_A_a.description>
-  <HAR_LL_O_a.description>莉特露娜们爱穿的内衣。</HAR_LL_O_a.description>
-  <HAR_LL_O_a.label>内衣A(莉特露娜)</HAR_LL_O_a.label>
-  <HAR_LL_H_a.description>莉特露娜专用的头部装备。</HAR_LL_H_a.description>
+  <HAR_LL_A_a.description>伪神族专用的铠甲。为身体脆弱的伪神族们定制的战斗用铠甲，但实际上从未被动用过。</HAR_LL_A_a.description>
+  <HAR_LL_O_a.description>伪神族们爱穿的内衣。</HAR_LL_O_a.description>
+  <HAR_LL_O_a.label>内衣A(伪神族)</HAR_LL_O_a.label>
+  <HAR_LL_H_a.description>伪神族专用的头部装备。</HAR_LL_H_a.description>
   <HAR_LL_H_a.label>小小发箍</HAR_LL_H_a.label>
-  <HAR_LL_H_b.description>莉特露娜专用的头部装备。</HAR_LL_H_b.description>
+  <HAR_LL_H_b.description>伪神族专用的头部装备。</HAR_LL_H_b.description>
   <HAR_LL_H_b.label>小小缎带</HAR_LL_H_b.label>
-  <HAR_LL_H_c.description>莉特露娜专用的头部装备。</HAR_LL_H_c.description>
+  <HAR_LL_H_c.description>伪神族专用的头部装备。</HAR_LL_H_c.description>
   <HAR_LL_H_c.label>小小皇冠</HAR_LL_H_c.label>
-  <HAR_LL_H_e.description>莉特露娜专用的头部装备。</HAR_LL_H_e.description>
+  <HAR_LL_H_e.description>伪神族专用的头部装备。</HAR_LL_H_e.description>
   <HAR_LL_H_e.label>小小围巾</HAR_LL_H_e.label>
-  <HAR_LL_H_f.description>莉特露娜专用的头盔。为身体脆弱的莉特露娜们定制的战斗用头盔，但实际上从未被动用过。</HAR_LL_H_f.description>
+  <HAR_LL_H_f.description>伪神族专用的头盔。为身体脆弱的伪神族们定制的战斗用头盔，但实际上从未被动用过。</HAR_LL_H_f.description>
   <HAR_LL_H_f.label>禁断头盔</HAR_LL_H_f.label>
-  <HAR_LL_S_a.description>莉特露娜专用的装备。</HAR_LL_S_a.description>
+  <HAR_LL_S_a.description>伪神族专用的装备。</HAR_LL_S_a.description>
   <HAR_LL_S_a.label>小小外套</HAR_LL_S_a.label>
-  <HAR_LL_S_b.description>莉特露娜专用的装备。</HAR_LL_S_b.description>
+  <HAR_LL_S_b.description>伪神族专用的装备。</HAR_LL_S_b.description>
   <HAR_LL_S_b.label>小小斗篷</HAR_LL_S_b.label>
-  <HAR_LL_S_c.description>莉特露娜专用的装备。</HAR_LL_S_c.description>
+  <HAR_LL_S_c.description>伪神族专用的装备。</HAR_LL_S_c.description>
   <HAR_LL_S_c.label>小小披风</HAR_LL_S_c.label>
-  <HAR_LL_S_e.description>莉特露娜专用的装备。</HAR_LL_S_e.description>
+  <HAR_LL_S_e.description>伪神族专用的装备。</HAR_LL_S_e.description>
   <HAR_LL_S_e.label>小小长袍</HAR_LL_S_e.label>
-  <HAR_LL_T_a.description>莉特露娜专用的装备。</HAR_LL_T_a.description>
+  <HAR_LL_T_a.description>伪神族专用的装备。</HAR_LL_T_a.description>
   <HAR_LL_T_a.label>小小汗衫</HAR_LL_T_a.label>
-  <HAR_LL_T_b.description>莉特露娜专用的装备。</HAR_LL_T_b.description>
+  <HAR_LL_T_b.description>伪神族专用的装备。</HAR_LL_T_b.description>
   <HAR_LL_T_b.label>小小衬衫</HAR_LL_T_b.label>
-  <HAR_LL_T_c.description>莉特露娜专用的装备。</HAR_LL_T_c.description>
+  <HAR_LL_T_c.description>伪神族专用的装备。</HAR_LL_T_c.description>
   <HAR_LL_T_c.label>小小披巾</HAR_LL_T_c.label>
-  <HAR_LL_T_e.description>莉特露娜专用的装备。</HAR_LL_T_e.description>
+  <HAR_LL_T_e.description>伪神族专用的装备。</HAR_LL_T_e.description>
   <HAR_LL_T_e.label>小小夹克</HAR_LL_T_e.label>
   <HAR_LL_M_a.label>空天之海</HAR_LL_M_a.label>
-  <HAR_LL_M_a.description>莉特露娜从宇宙深处召唤的超然存在，“空天之海”这个名字也是莉特露娜们加上的，无人知晓其真实名字。\n拥有超群的智慧和与外表不符的温和性格，但是无法和常人交流；恰好和莉特露娜们的交流波长相同，对她们非常友好。\n\n以“为了让敌对势力相互理解而传授智慧”这一理由进行着无差别的心灵传输，但是被教化的人们不知为何开始发狂而互相残杀，结果将周边变成了地狱绘图。\n由于过于危险，就连创造者也只把莉特露娜们当作是“定胜负的存在”而进行掌控，一般的战斗中禁止派出。\n\n\n除了当事人外，没人知道为什么空天之海会回应莉特露娜的召唤——莉特露娜对此事也避而不谈。\n也许是以避而不谈来保护自己的伙伴免受“过量智慧”的影响。</HAR_LL_M_a.description>
-  <HAR_LL_M_z.label>莉特露娜·琉刻</HAR_LL_M_z.label>
-  <HAR_LL_M_z.description>从莉特露娜·边缘乐土身上所分离出来的类似人形的物体。
+  <HAR_LL_M_a.description>伪神族从宇宙深处召唤的超然存在，“空天之海”这个名字也是伪神族们加上的，无人知晓其真实名字。\n拥有超群的智慧和与外表不符的温和性格，但是无法和常人交流；恰好和伪神族们的交流波长相同，对她们非常友好。\n\n以“为了让敌对势力相互理解而传授智慧”这一理由进行着无差别的心灵传输，但是被教化的人们不知为何开始发狂而互相残杀，结果将周边变成了地狱绘图。\n由于过于危险，就连创造者也只把伪神族们当作是“定胜负的存在”而进行掌控，一般的战斗中禁止派出。\n\n\n除了当事人外，没人知道为什么空天之海会回应伪神族的召唤——伪神族对此事也避而不谈。\n也许是以避而不谈来保护自己的伙伴免受“过量智慧”的影响。</HAR_LL_M_a.description>
+  <HAR_LL_M_z.label>伪神族·琉刻</HAR_LL_M_z.label>
+  <HAR_LL_M_z.description>从伪神族·边缘乐土身上所分离出来的类似人形的物体。
 尽管脚步很慢，体力也很差，但只要边缘乐土尚存就会无穷无尽的涌现出来。
 
 死亡时，会使血肉一口气膨胀开来，将周遭事物一并卷入爆炸之中。
@@ -70,19 +70,19 @@
 
 啊呀，还没有到向你展示的时间呢。
 不过，难得有这样的机会，就陪我一起试运行一下我可爱的■■吧。</HAR_LL_Hive_Critias.description>
-  <HAR_LL_Hive_Elysium.label>莉特露娜·边缘乐土</HAR_LL_Hive_Elysium.label>
-  <HAR_LL_Hive_Elysium.description>通过疯狂之钟召唤而出的异形莉特露娜。
+  <HAR_LL_Hive_Elysium.label>伪神族·边缘乐土</HAR_LL_Hive_Elysium.label>
+  <HAR_LL_Hive_Elysium.description>通过疯狂之钟召唤而出的异形伪神族。
 她们平时存在于另一个位面之中，不断吸收着这个这颗星球充盈而出的死者灵魂。
-那令人畏惧的外观，由成百上千数万莉特露娜的躯体所组成。
+那令人畏惧的外观，由成百上千数万伪神族的躯体所组成。
 尽管原来的她们只是渺小的种族，但某个人所赐予的加护使她们化为了无论重复多少次都能死而复生的不灭存在。
 
-渊丛主海迪尔诺亚似乎正在用血丝密布的双眼找寻着某样东西，并以牺牲了无数人鱼族同胞的惨重代价不断对它进行着破坏。
-根据恩特雷凯亚的调查，边缘乐土的遗传基因与莉特露娜·杜娜米丝极其相似。
+渊丛主人鱼姬·渊丛主似乎正在用血丝密布的双眼找寻着某样东西，并以牺牲了无数人鱼姬同胞的惨重代价不断对它进行着破坏。
+根据恩特雷凯亚的调查，边缘乐土的遗传基因与伪神族·杜娜米丝极其相似。
 
-巨大的身躯使她完全失去了行动能力，只能通过召唤莉特露娜·琉刻来对抗敌对者。
-莉特露娜·琉刻将被不断召唤以确保总数为30个。
+巨大的身躯使她完全失去了行动能力，只能通过召唤伪神族·琉刻来对抗敌对者。
+伪神族·琉刻将被不断召唤以确保总数为30个。
 
-她只会受到射击造成的伤害，唯一的例外是她无法抵抗莉特露娜·琉刻的爆炸带来的伤害。
+她只会受到射击造成的伤害，唯一的例外是她无法抵抗伪神族·琉刻的爆炸带来的伤害。
 
 考虑到在她的半径50格内都会受到无法得到恢复以及强化身体机能的效果，在与她之间的战斗过程中需要慎之又慎。
 如果可以的话，可以考虑请求援军，以期对她造成一定量的伤害。
@@ -96,7 +96,7 @@
 
 是要吃掉她，还是被她吃掉呢？这一切都取决于你哦。</HAR_LL_Hive_Elysium.description>
   <HAR_LL_Item_a.label>灵液之石</HAR_LL_Item_a.label>
-  <HAR_LL_Item_a.description>从莉特露娜·伊迪亚之奴处取得的赤红如血的物质。
+  <HAR_LL_Item_a.description>从伪神族·伊迪亚之奴处取得的赤红如血的物质。
 将它用作武器的材料，能够产生极强的杀伤力。
 
 
@@ -104,11 +104,11 @@
 那是混杂着怜悯与轻蔑，却又如同无尽的虚空一般充满慈爱的眼神。</HAR_LL_Item_a.description>
   <HAR_LL_Archotech_a.label>混沌圣杯</HAR_LL_Archotech_a.label>
   <HAR_LL_Archotech_a.description>用灵液之石制作的令人畏惧的鲜血之杯。
-对莉特露娜使用的话，能够使其作为莉特露娜·伊迪亚之奴重获新生。
-但是，原有的莉特露娜的人格与经历会在转变过程中一并消失，因此是否使用此物请务必慎之又慎。
+对伪神族使用的话，能够使其作为伪神族·伊迪亚之奴重获新生。
+但是，原有的伪神族的人格与经历会在转变过程中一并消失，因此是否使用此物请务必慎之又慎。
 
 
-通过领受杯中蓄有的血液，可以深入过去的莉特露娜·伊迪亚之奴们的意识领域。
+通过领受杯中蓄有的血液，可以深入过去的伪神族·伊迪亚之奴们的意识领域。
 但是，和她们踏上了同样的道路，是否会带来幸福呢？
 
 
@@ -132,12 +132,12 @@
 
 
 
-那是一个仿照了莉特露娜·杜娜米丝所拥有的钟制作而成的复制品。
+那是一个仿照了伪神族·杜娜米丝所拥有的钟制作而成的复制品。
 据说，钟声一旦响起，她们就会如同抱有怀念之情一般现身于此。
 无论多么思念故乡，都再也无法回到那个地方了。</HAR_LL_Archotech_c.description>
   <HAR_LL_Archotech_d.label>荣光花冠</HAR_LL_Archotech_d.label>
-  <HAR_LL_Archotech_d.description>从莉特露娜·边缘乐土处获得的纯白花冠。
-曾经是由创造者为莉特露娜·杜娜米丝所制造并赋予她们的神器，同时也是她们身为神子的证明。
+  <HAR_LL_Archotech_d.description>从伪神族·边缘乐土处获得的纯白花冠。
+曾经是由创造者为伪神族·杜娜米丝所制造并赋予她们的神器，同时也是她们身为神子的证明。
 无论是面对怎样的污浊与不净，都不会为它的纯洁带来些许微尘。
 使用该目标的对象将会获得巨大的力量。
 
@@ -145,17 +145,17 @@
 
 时至今日依然保存着纯粹的神器，但也正是这个花冠，成为了与灾厄结缘的特异点。</HAR_LL_Archotech_d.description>
   <HAR_LL_Archotech_e.label>潘多拉深渊</HAR_LL_Archotech_e.label>
-  <HAR_LL_Archotech_e.description>从莉特露娜·边缘乐土处摘出的形似箱子的物体。
+  <HAR_LL_Archotech_e.description>从伪神族·边缘乐土处摘出的形似箱子的物体。
 能感到一种一旦将其打开，就会释放出灾厄的危机感。
 至少，在有人居住的地方不宜将其打开。
 
 
-莉特露娜·杜娜米丝的体内存在着迷样的脏器。
+伪神族·杜娜米丝的体内存在着迷样的脏器。
 这种脏器能用于与不同的次元进行交流，因而高度发达。
 
 致这个箱子的持有者，若你理智尚存的话，那就请不要打开它。</HAR_LL_Archotech_e.description>
   <HAR_LL_Archotech_f.label>思想十字</HAR_LL_Archotech_f.label>
-  <HAR_LL_Archotech_f.description>莉特露娜·杜娜米丝的大脑中生成的形似十字架的器官。
+  <HAR_LL_Archotech_f.description>伪神族·杜娜米丝的大脑中生成的形似十字架的器官。
 拥有与不同的次元进行交流，接受能量的功能。
 使用该目标的对象将会获得巨大的力量。
 

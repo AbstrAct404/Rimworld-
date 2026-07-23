@@ -12,18 +12,18 @@
 
 当然要吃干净啦，若是对精心准备的晚餐置之不理的话，岂不是很失礼吗？</BOSS_RQ_Hediff_Gone_Error_a.description>
   <BOSS_RQ_Hediff_Z_a.label>雏鸟轻啼</BOSS_RQ_Hediff_Z_a.label>
-  <BOSS_RQ_Hediff_Z_a.description>蕾奎恩·克里提亚斯深红色的婉转轻啼。\n在治愈前会持续受到伤害。\n数小时后会自行消散。</BOSS_RQ_Hediff_Z_a.description>
+  <BOSS_RQ_Hediff_Z_a.description>雏鸟深红色的婉转轻啼。\n在治愈前会持续受到伤害。\n数小时后会自行消散。</BOSS_RQ_Hediff_Z_a.description>
   <BOSS_RQ_Hediff_Z_b.label>雏鸟振翅</BOSS_RQ_Hediff_Z_b.label>
-  <BOSS_RQ_Hediff_Z_b.description>蕾奎恩·克里提亚斯的充满稚嫩感的振翅。\n被影响的对象将强制进入倒地状态，无人救援、持续倒地2小时的话会当场死亡。\n半天后会自行解除。\n这一能力会在持续进行近战攻击后发动。\n可以进行持续的远程射击来抑制此能力的发动。</BOSS_RQ_Hediff_Z_b.description>
+  <BOSS_RQ_Hediff_Z_b.description>雏鸟的充满稚嫩感的振翅。\n被影响的对象将强制进入倒地状态，无人救援、持续倒地2小时的话会当场死亡。\n半天后会自行解除。\n这一能力会在持续进行近战攻击后发动。\n可以进行持续的远程射击来抑制此能力的发动。</BOSS_RQ_Hediff_Z_b.description>
   <BOSS_RQ_Hediff_Z_c.label>雏鸟之巢</BOSS_RQ_Hediff_Z_c.label>
-  <BOSS_RQ_Hediff_Z_c.description>蕾奎恩·克里提亚斯的虚幻领域。\n进入此领域的单位会变得极其脆弱，同时射击间隔变短。\n领域会在数小时后消散。</BOSS_RQ_Hediff_Z_c.description>
+  <BOSS_RQ_Hediff_Z_c.description>雏鸟的虚幻领域。\n进入此领域的单位会变得极其脆弱，同时射击间隔变短。\n领域会在数小时后消散。</BOSS_RQ_Hediff_Z_c.description>
   <BOSS_RQ_Hediff_Z_d.label>雏鸟泣血</BOSS_RQ_Hediff_Z_d.label>
-  <BOSS_RQ_Hediff_Z_d.description>蕾奎恩·克里提亚斯的血泪。\n短时间内使受到的伤害提升。\n虽然是极为凶险的负面状态，但很快就会解除。</BOSS_RQ_Hediff_Z_d.description>
+  <BOSS_RQ_Hediff_Z_d.description>雏鸟的血泪。\n短时间内使受到的伤害提升。\n虽然是极为凶险的负面状态，但很快就会解除。</BOSS_RQ_Hediff_Z_d.description>
   <BOSS_RQ_Hediff_Z_e.label>雏鸟凝望</BOSS_RQ_Hediff_Z_e.label>
-  <BOSS_RQ_Hediff_Z_e.description>来自蕾奎恩·克里提亚斯那深邃瞳孔的凝望。\n其极具魅惑性的视线会剥夺对象的视力和听力。\n数小时后会恢复正常。</BOSS_RQ_Hediff_Z_e.description>
+  <BOSS_RQ_Hediff_Z_e.description>来自雏鸟那深邃瞳孔的凝望。\n其极具魅惑性的视线会剥夺对象的视力和听力。\n数小时后会恢复正常。</BOSS_RQ_Hediff_Z_e.description>
   <BOSS_RQ_Hediff_Z_f.label>克里提亚斯之星</BOSS_RQ_Hediff_Z_f.label>
   <BOSS_RQ_Hediff_Z_g.label>雏鸟啄食</BOSS_RQ_Hediff_Z_g.label>
-  <BOSS_RQ_Hediff_Z_g.description>来自蕾奎恩·克里提亚斯轻柔的啄咬。\n被影响的对象心理会变得极端脆弱。\n数小时后会恢复正常。</BOSS_RQ_Hediff_Z_g.description>
+  <BOSS_RQ_Hediff_Z_g.description>来自雏鸟轻柔的啄咬。\n被影响的对象心理会变得极端脆弱。\n数小时后会恢复正常。</BOSS_RQ_Hediff_Z_g.description>
   <BOSS_RQ_Hediff_Z_h.label>窥视虚空</BOSS_RQ_Hediff_Z_h.label>
-  <BOSS_RQ_Hediff_Z_h.description>蕾奎恩·克里提亚斯对藏于暗处之人的察觉。\n受到这种影响的人会瞬间进入崩溃状态。\n这种状态无法靠对象自行解除（精神崩溃将会持续下去）。\n\n\n啊呀，好好地去直视她不就好了吗，真可惜呢</BOSS_RQ_Hediff_Z_h.description>
+  <BOSS_RQ_Hediff_Z_h.description>雏鸟对藏于暗处之人的察觉。\n受到这种影响的人会瞬间进入崩溃状态。\n这种状态无法靠对象自行解除（精神崩溃将会持续下去）。\n\n\n啊呀，好好地去直视她不就好了吗，真可惜呢</BOSS_RQ_Hediff_Z_h.description>
 </LanguageData>

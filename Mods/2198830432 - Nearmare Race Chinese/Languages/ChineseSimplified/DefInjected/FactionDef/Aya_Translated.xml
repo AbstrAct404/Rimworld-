@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Nearmaere_P_Faction.label>尼亚梅尔隐居之乡</Nearmaere_P_Faction.label>
-  <Nearmaere_P_Faction.pawnSingular>尼亚梅尔</Nearmaere_P_Faction.pawnSingular>
-  <Nearmaere_P_Faction.description>尼亚梅尔们聚集在一起平和的隐居着的聚落</Nearmaere_P_Faction.description>
-  <Nearmaere_Faction_NPC.description>以尼亚梅尔为主和其它种族组成的神秘派系。</Nearmaere_Faction_NPC.description>
-  <Nearmaere_Faction_NPC.pawnSingular>尼亚梅尔</Nearmaere_Faction_NPC.pawnSingular>
-  <Nearmaere_Faction_NPC.fixedName>尼亚梅尔一族</Nearmaere_Faction_NPC.fixedName>
-  <Nearmaere_Faction_NPC_b.label>尼亚梅尔派系（战族）</Nearmaere_Faction_NPC_b.label>
-  <Nearmaere_Faction_NPC_b.description>与抛弃造物主的宙族交战的尼亚梅尔派系，因为对宙族太过憎恨而对我们也怀有敌意。\n也保有尼亚梅尔的特征:召唤眷属，不过眷属用于远征和补给，战斗中不使用。\n并不是不能搞好关系，只要持之以恒地改善关系，总有一天会成为盟友的。</Nearmaere_Faction_NPC_b.description>
-  <Nearmaere_Faction_NPC_b.pawnSingular>尼亚梅尔</Nearmaere_Faction_NPC_b.pawnSingular>
-  <Nearmaere_Faction_NPC_b.fixedName>尼亚梅尔派系（战族）</Nearmaere_Faction_NPC_b.fixedName>
-  <Nearmaere_Faction_NPC_c.label>尼亚梅尔教会</Nearmaere_Faction_NPC_c.label>
+  <Nearmaere_P_Faction.label>魅魔隐居之乡</Nearmaere_P_Faction.label>
+  <Nearmaere_P_Faction.pawnSingular>魅魔</Nearmaere_P_Faction.pawnSingular>
+  <Nearmaere_P_Faction.description>魅魔们聚集在一起平和的隐居着的聚落</Nearmaere_P_Faction.description>
+  <Nearmaere_Faction_NPC.description>以魅魔为主和其它种族组成的神秘派系。</Nearmaere_Faction_NPC.description>
+  <Nearmaere_Faction_NPC.pawnSingular>魅魔</Nearmaere_Faction_NPC.pawnSingular>
+  <Nearmaere_Faction_NPC.fixedName>魅魔一族</Nearmaere_Faction_NPC.fixedName>
+  <Nearmaere_Faction_NPC_b.label>魅魔派系（战族）</Nearmaere_Faction_NPC_b.label>
+  <Nearmaere_Faction_NPC_b.description>与抛弃造物主的宙族交战的魅魔派系，因为对宙族太过憎恨而对我们也怀有敌意。\n也保有魅魔的特征:召唤眷属，不过眷属用于远征和补给，战斗中不使用。\n并不是不能搞好关系，只要持之以恒地改善关系，总有一天会成为盟友的。</Nearmaere_Faction_NPC_b.description>
+  <Nearmaere_Faction_NPC_b.pawnSingular>魅魔</Nearmaere_Faction_NPC_b.pawnSingular>
+  <Nearmaere_Faction_NPC_b.fixedName>魅魔派系（战族）</Nearmaere_Faction_NPC_b.fixedName>
+  <Nearmaere_Faction_NPC_c.label>魅魔教会</Nearmaere_Faction_NPC_c.label>
   <Nearmaere_Faction_NPC_c.description>把创造出自己的造物主作为神崇拜的派系，也是在宇宙广泛分布的人工种族中最繁荣最大的宗教。\n现在从已经灭亡的伟大造物主那里继承了“知识”作为遗产。\n\n“将造物主的伟业传播到世间”\n“彻底破坏反叛造物主的造物”\n“每天提高自己作为修行”\n以以上三原则为基础活动。\n\n只要不与之敌对，与任何派系都可以交流，但对机械生命体却有着彻底反对的态度，并拥有许多对抗它们的手段。对同为造物主创造的种族，作为继承者继承了“技术”的亚人种族有着很深的交流。</Nearmaere_Faction_NPC_c.description>
-  <Nearmaere_Faction_NPC_c.pawnSingular>尼亚梅尔</Nearmaere_Faction_NPC_c.pawnSingular>
-  <Nearmaere_Faction_NPC_c.fixedName>尼亚梅尔教会</Nearmaere_Faction_NPC_c.fixedName>
+  <Nearmaere_Faction_NPC_c.pawnSingular>魅魔</Nearmaere_Faction_NPC_c.pawnSingular>
+  <Nearmaere_Faction_NPC_c.fixedName>魅魔教会</Nearmaere_Faction_NPC_c.fixedName>
   <Nearmaere_Faction_NPC_e.label>边缘星球保护机构-信念-</Nearmaere_Faction_NPC_e.label>
-  <Nearmaere_Faction_NPC_e.description>战争结束后，莉特露娜·杜纳米斯建立的组织。\n其目的是防止文明从外部干预并监视地球，直至其自然发展。\n\n它是人工种族家园迦南星球的一个公共机构，并与其他先进文明的机构合作。\n\n他们不像安特雷切亚那样是极端分子，而是对迫降在这个星球上的幸存者表现出宽容。\n如果受害者没有造成伤害，他们就不会产生敌意。\n\n他们配备了迦南制造的最新装备，所以如果你召唤他们作为增援，他们将成为可靠的盟友。</Nearmaere_Faction_NPC_e.description>
-  <Nearmaere_Faction_NPC_e.pawnSingular>尼亚梅尔</Nearmaere_Faction_NPC_e.pawnSingular>
+  <Nearmaere_Faction_NPC_e.description>战争结束后，伪神族·杜纳米斯建立的组织。\n其目的是防止文明从外部干预并监视地球，直至其自然发展。\n\n它是人工种族家园迦南星球的一个公共机构，并与其他先进文明的机构合作。\n\n他们不像安特雷切亚那样是极端分子，而是对迫降在这个星球上的幸存者表现出宽容。\n如果受害者没有造成伤害，他们就不会产生敌意。\n\n他们配备了迦南制造的最新装备，所以如果你召唤他们作为增援，他们将成为可靠的盟友。</Nearmaere_Faction_NPC_e.description>
+  <Nearmaere_Faction_NPC_e.pawnSingular>魅魔</Nearmaere_Faction_NPC_e.pawnSingular>
   <Nearmaere_Faction_NPC_e.fixedName>边缘星球保护机构-信念-</Nearmaere_Faction_NPC_e.fixedName>
 </LanguageData>

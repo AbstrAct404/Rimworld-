@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Qualeela_P_Faction.label>夸莉拉的隐居地</Qualeela_P_Faction.label>
-  <Qualeela_P_Faction.pawnSingular>夸莉拉</Qualeela_P_Faction.pawnSingular>
-  <Qualeela_P_Faction.description>夸莉拉们聚集在一起平静生活的居住点。</Qualeela_P_Faction.description>
+  <Qualeela_P_Faction.label>库莉菈的隐居地</Qualeela_P_Faction.label>
+  <Qualeela_P_Faction.pawnSingular>库莉菈</Qualeela_P_Faction.pawnSingular>
+  <Qualeela_P_Faction.description>库莉菈们聚集在一起平静生活的居住点。</Qualeela_P_Faction.description>
   <Qualeela_Faction_NPC_c.label>恩特雷凯亚</Qualeela_Faction_NPC_c.label>
-  <Qualeela_Faction_NPC_c.description>继承了造物主『让生命更为强大，踏足更广之处』的遗愿，由夸莉拉们所支配的国家。\n从人工种族原本的生态而言是不可能增长到国家规模的人口的，但她们通过从创造主那里继承而来的使用活体生产设备的权限克服了这一问题。\n自此以后她们不断扩大自己的势力，时至今日已经成长到了足以在数个星系中活动的程度。\n\n她们对多数派系都采取着攻击性态势，但也有着对小规模派系视而不见的倾向。\n但对那些蓄有异常丰富财富的派系，她们则会将其视为危险分析加以侵略。\n\n尽管是战力与规模都异常强盛的国家，但是是否会遭到她们的侵略则能够通过进行对话与交涉来和解。</Qualeela_Faction_NPC_c.description>
-  <Qualeela_Faction_NPC_c.pawnSingular>夸莉拉</Qualeela_Faction_NPC_c.pawnSingular>
+  <Qualeela_Faction_NPC_c.description>继承了造物主『让生命更为强大，踏足更广之处』的遗愿，由库莉菈们所支配的国家。\n从人工种族原本的生态而言是不可能增长到国家规模的人口的，但她们通过从创造主那里继承而来的使用活体生产设备的权限克服了这一问题。\n自此以后她们不断扩大自己的势力，时至今日已经成长到了足以在数个星系中活动的程度。\n\n她们对多数派系都采取着攻击性态势，但也有着对小规模派系视而不见的倾向。\n但对那些蓄有异常丰富财富的派系，她们则会将其视为危险分析加以侵略。\n\n尽管是战力与规模都异常强盛的国家，但是是否会遭到她们的侵略则能够通过进行对话与交涉来和解。</Qualeela_Faction_NPC_c.description>
+  <Qualeela_Faction_NPC_c.pawnSingular>库莉菈</Qualeela_Faction_NPC_c.pawnSingular>
   <Qualeela_Faction_NPC_c.fixedName>恩特雷凯亚</Qualeela_Faction_NPC_c.fixedName>
 </LanguageData>

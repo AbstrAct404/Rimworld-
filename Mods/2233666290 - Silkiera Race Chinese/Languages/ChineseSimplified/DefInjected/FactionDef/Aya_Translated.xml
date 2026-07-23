@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Silkiera_P_Faction.label>希尔基耶拉的隐居之处</Silkiera_P_Faction.label>
-  <Silkiera_P_Faction.pawnSingular>希尔基耶拉</Silkiera_P_Faction.pawnSingular>
-  <Silkiera_P_Faction.description>希尔基耶拉们聚集在一起愉快生活的地方。</Silkiera_P_Faction.description>
-  <Silkiera_Faction_NPC.label>希尔基耶拉派系</Silkiera_Faction_NPC.label>
-  <Silkiera_Faction_NPC.description>一家由希尔基耶拉们构成、运营的武器制造企业。不仅有着高度发达的文明和大量的人口，更有着匹配其文明等级及人口的恐怖战斗力。虽然是对玩家非常友好的派系，可一旦敌对的话，就要做好被海量重装战士剿灭的觉悟。\n\n比其他派系更容易恢复友好度，遇到困难候可以试着向她们申请增援——但请注意，亚人工业的战士们为了打倒敌人，向来是对周遭的环境不管不顾的……你要做好殖民地的周边被火焰吞噬的觉悟和对策。</Silkiera_Faction_NPC.description>
-  <Silkiera_Faction_NPC.pawnSingular>希尔基耶拉</Silkiera_Faction_NPC.pawnSingular>
+  <Silkiera_P_Faction.label>亚人兽娘的隐居之处</Silkiera_P_Faction.label>
+  <Silkiera_P_Faction.pawnSingular>亚人兽娘</Silkiera_P_Faction.pawnSingular>
+  <Silkiera_P_Faction.description>亚人兽娘们聚集在一起愉快生活的地方。</Silkiera_P_Faction.description>
+  <Silkiera_Faction_NPC.label>亚人兽娘派系</Silkiera_Faction_NPC.label>
+  <Silkiera_Faction_NPC.description>一家由亚人兽娘们构成、运营的武器制造企业。不仅有着高度发达的文明和大量的人口，更有着匹配其文明等级及人口的恐怖战斗力。虽然是对玩家非常友好的派系，可一旦敌对的话，就要做好被海量重装战士剿灭的觉悟。\n\n比其他派系更容易恢复友好度，遇到困难候可以试着向她们申请增援——但请注意，亚人工业的战士们为了打倒敌人，向来是对周遭的环境不管不顾的……你要做好殖民地的周边被火焰吞噬的觉悟和对策。</Silkiera_Faction_NPC.description>
+  <Silkiera_Faction_NPC.pawnSingular>亚人兽娘</Silkiera_Faction_NPC.pawnSingular>
 </LanguageData>
