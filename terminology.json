@@ -1,0 +1,51 @@
+{
+  "race_names": {
+    "Chaoura": "凯奥拉",
+    "查欧拉": "凯奥拉",
+    "Eveliet": "埃维利托",
+    "Evelito": "埃维利托",
+    "艾维利特": "埃维利托",
+    "Idearn": "理念",
+    "伊迪恩": "理念",
+    "Idhale": "伊德海尔",
+    "Littluna": "里托鲁纳",
+    "莉特露娜": "里托鲁纳",
+    "Nearmare": "尼亚米尔",
+    "尼亚梅尔": "尼亚米尔",
+    "尼亚美亚": "尼亚米尔",
+    "Neclose": "死灵",
+    "Necros": "死灵",
+    "涅克洛斯": "死灵",
+    "Qualeela": "夸里拉",
+    "Qualilla": "夸里拉",
+    "夸莉拉": "夸里拉",
+    "Requeen": "雷奎恩",
+    "Saclean": "萨克莱恩",
+    "萨克琳": "萨克莱恩",
+    "Silkiera": "丝姬拉",
+    "Silkyra": "丝姬拉",
+    "希尔基耶拉": "丝姬拉",
+    "Solark": "索拉克",
+    "Xenoorca": "塞诺卡",
+    "Xenooka": "塞诺卡",
+    "泽诺奥卡": "塞诺卡"
+  },
+  "proper_names": {
+    "Avonruach": "阿冯·鲁阿赫",
+    "Idoher": "伊德海尔",
+    "Ritoruna": "里托鲁纳",
+    "Silkyra": "丝姬拉"
+  },
+  "external_mod_names": [
+    "Camera+",
+    "SwimmingKit",
+    "Biomes!Islands",
+    "RimWorld",
+    "Hat Display Selection",
+    "Hats With Hair"
+  ],
+  "external_mod_name_replacements": {
+    "相机+": "Camera+",
+    "相机 +": "Camera+"
+  }
+}

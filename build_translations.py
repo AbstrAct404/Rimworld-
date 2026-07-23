@@ -71,6 +71,17 @@ DISPLAY_NAME_REPLACEMENTS = {
     "阿冯鲁阿赫": "阿冯·鲁阿赫", "阿冯鲁阿哈": "阿冯·鲁阿赫",
 }
 
+# Workshop prose should use exactly the same Chinese race names that players
+# see in-game.  Some earlier machine translations and older glossary values
+# used different transliterations, so normalize both the English source names
+# and those legacy Chinese renderings here.
+# The shared terminology file is the single source of truth for the visible
+# proper nouns used by both game text and Workshop descriptions.
+TERMINOLOGY = json.loads((Path(__file__).with_name("terminology.json")).read_text(encoding="utf-8"))
+WORKSHOP_RACE_DISPLAY_REPLACEMENTS = TERMINOLOGY["race_names"]
+EXTERNAL_MOD_NAMES = set(TERMINOLOGY["external_mod_names"])
+EXTERNAL_MOD_NAME_REPLACEMENTS = TERMINOLOGY["external_mod_name_replacements"]
+
 # A deliberately obfuscated source label cannot be translated reliably by an
 # automatic service; use the established race name and a readable designation.
 KEY_OVERRIDES = {
@@ -167,28 +178,55 @@ def is_japanese(value: str) -> bool:
 def local_translate(value: str) -> str:
     for source, target in GLOSSARY.items():
         value = value.replace(source, target)
+    for source, target in WORKSHOP_RACE_DISPLAY_REPLACEMENTS.items():
+        value = value.replace(source, target)
     return value
 
 
 def normalize_display_names(value: str) -> str:
     for source, target in DISPLAY_NAME_REPLACEMENTS.items():
         value = re.sub(rf"(?<![A-Za-z]){re.escape(source)}(?![A-Za-z])", target, value, flags=re.I)
+    for source, target in WORKSHOP_RACE_DISPLAY_REPLACEMENTS.items():
+        value = re.sub(rf"(?<![A-Za-z]){re.escape(source)}(?![A-Za-z])", target, value, flags=re.I)
+    for source, target in TERMINOLOGY["proper_names"].items():
+        value = re.sub(rf"(?<![A-Za-z]){re.escape(source)}(?![A-Za-z])", target, value, flags=re.I)
     return value
+
+
+def protect_external_mod_names(value: str) -> tuple[str, dict[str, str]]:
+    """Replace external mod names with translation-safe placeholders."""
+    names = set(EXTERNAL_MOD_NAMES)
+    names.update(re.findall(r"\b[A-Za-z][A-Za-z0-9]*(?:[+!][A-Za-z0-9+!]*)\b", value))
+    protected = value
+    replacements: dict[str, str] = {}
+    for index, name in enumerate(sorted(names, key=len, reverse=True)):
+        if name not in protected:
+            continue
+        token = f"XQAYAMODNAME{index:03d}QX"
+        protected = protected.replace(name, token)
+        replacements[token] = name
+    return protected, replacements
 
 
 def translate_workshop_description(value: str, cache: dict[str, str]) -> str:
     """Translate a source About.xml description while preserving a cache."""
     if not value:
         return "原模组未提供简介。"
-    if value not in cache:
-        query = urllib.parse.urlencode({"client": "gtx", "sl": "auto", "tl": "zh-CN", "dt": "t", "q": value})
+    protected_value, replacements = protect_external_mod_names(value)
+    if protected_value not in cache:
+        query = urllib.parse.urlencode({"client": "gtx", "sl": "auto", "tl": "zh-CN", "dt": "t", "q": protected_value})
         try:
             with urllib.request.urlopen("https://translate.googleapis.com/translate_a/single?" + query, timeout=12) as response:
                 data = json.load(response)
-            cache[value] = "".join(part[0] for part in data[0] if part and part[0]) or value
+            cache[protected_value] = "".join(part[0] for part in data[0] if part and part[0]) or protected_value
         except Exception:
-            cache[value] = value
-    return "\n".join(line.rstrip() for line in normalize_display_names(cache[value]).splitlines()).strip()
+            cache[protected_value] = protected_value
+    translated = cache[protected_value]
+    for token, name in replacements.items():
+        translated = translated.replace(token, name)
+    for source, target in EXTERNAL_MOD_NAME_REPLACEMENTS.items():
+        translated = translated.replace(source, target)
+    return "\n".join(line.rstrip() for line in normalize_display_names(translated).splitlines()).strip()
 
 
 def google_translate(values: list[str], cache: dict[str, str]) -> dict[str, str]:
