@@ -1,34 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_SK_Backstory_C1.description>[PAWN_nameDef] 在亚人工业出生并长大。甚至在出生前就已经进行了基因调整以适应预定的角色。 \n\n“我们会消毒污物！”</HAR_SK_Backstory_C1.description>
-  <HAR_SK_Backstory_C2.description>[PAWN_nameDef] 在亚人工业出生并长大。甚至在出生前就已经进行了基因调整以适应预定的角色。 \n\n“我会成长很多！”</HAR_SK_Backstory_C2.description>
-  <HAR_SK_Backstory_C3.description>[PAWN_nameDef] 在亚人工业出生并长大。甚至在出生前就已经进行了基因调整以适应预定的角色。 \n\n“我要做出一件伟大的事！”</HAR_SK_Backstory_C3.description>
-  <HAR_SK_Backstory_C4.description>[PAWN_nameDef] 在亚人工业出生并长大。甚至在出生前就已经进行了基因调整以适应预定的角色。 \n\n“感谢您一直以来对亚人工业的支持！”</HAR_SK_Backstory_C4.description>
-  <HAR_SK_Backstory_C5.description>[PAWN_nameDef] 在亚人工业出生并长大。甚至在出生前就已经进行了基因调整以适应预定的角色。 \n\n“如果你感觉不舒服，请告诉我！”</HAR_SK_Backstory_C5.description>
-  <HAR_SK_Backstory_C6.description>[PAWN_nameDef] 在亚人工业出生并长大。甚至在出生前就已经进行了基因调整以适应预定的角色。 \n\n“科学的积累就是人的力量！”</HAR_SK_Backstory_C6.description>
-  <HAR_SK_Backstory_C7.description>[PAWN_nameDef] 在亚人工业出生并长大。甚至在出生前就已经进行了基因调整以适应预定的角色。 \n\n“交通就交给我们吧！”</HAR_SK_Backstory_C7.description>
-  <HAR_SK_Backstory_C8.description>[PAWN_nameDef] 在亚人工业出生并长大。甚至在出生前就已经进行了基因调整以适应预定的角色。 \n\n“请多吃点！”</HAR_SK_Backstory_C8.description>
-  <HAR_SK_Backstory_C9.description>[PAWN_nameDef] 在亚人工业出生并长大。甚至在出生前就已经进行了基因调整以适应预定的角色。 \n\n“如果是交易，就交给我们吧！”</HAR_SK_Backstory_C9.description>
-  <HAR_SK_Backstory_C10.description>[PAWN_nameDef] 在亚人工业出生并长大。甚至在出生前就已经进行了基因调整以适应预定的角色。 \n\n“你可以做任何事！”</HAR_SK_Backstory_C10.description>
-  <HAR_SK_Backstory_b_C1.description>[PAWN_nameDef] 天生具有多种才能，有望在任何领域超越常人。</HAR_SK_Backstory_b_C1.description>
-  <HAR_SK_Backstory_c_C1.description>[PAWN_nameDef] 是丝姬拉，总是嗜血、狡猾、残忍。她不仅体力出众，还拥有制造灾难的聪明才智。</HAR_SK_Backstory_c_C1.description>
-  <HAR_SK_Backstory_A1.description>[PAWN_nameDef] 为 Ajin Kogyo 工作了很长时间。他似乎已经获得了相应的技能。</HAR_SK_Backstory_A1.description>
-  <HAR_SK_Backstory_A2.description>[PAWN_nameDef] 为 Ajin Kogyo 工作了很长时间。他似乎已经获得了相应的技能。</HAR_SK_Backstory_A2.description>
-  <HAR_SK_Backstory_A3.description>[PAWN_nameDef] 为 Ajin Kogyo 工作了很长时间。他似乎已经获得了相应的技能。</HAR_SK_Backstory_A3.description>
-  <HAR_SK_Backstory_A4.description>[PAWN_nameDef] 为 Ajin Kogyo 工作了很长时间。他似乎已经获得了相应的技能。</HAR_SK_Backstory_A4.description>
-  <HAR_SK_Backstory_A5.description>[PAWN_nameDef] 为 Ajin Kogyo 工作了很长时间。他似乎已经获得了相应的技能。</HAR_SK_Backstory_A5.description>
-  <HAR_SK_Backstory_b_A1.title>专业的</HAR_SK_Backstory_b_A1.title>
-  <HAR_SK_Backstory_b_A1.titleShort>专业的</HAR_SK_Backstory_b_A1.titleShort>
-  <HAR_SK_Backstory_b_A1.description>[PAWN_nameDef]的天赋是通过无数次的遭遇和经历磨练出来的。他还将展示他在殖民地活动中的技能。</HAR_SK_Backstory_b_A1.description>
-  <HAR_SK_Backstory_b_A2.title>专业的</HAR_SK_Backstory_b_A2.title>
-  <HAR_SK_Backstory_b_A2.titleShort>专业的</HAR_SK_Backstory_b_A2.titleShort>
-  <HAR_SK_Backstory_b_A2.description>[PAWN_nameDef]的天赋是通过无数次的遭遇和经历磨练出来的。他还将展示他在殖民地活动中的技能。</HAR_SK_Backstory_b_A2.description>
-  <HAR_SK_Backstory_b_A3.title>专业的</HAR_SK_Backstory_b_A3.title>
-  <HAR_SK_Backstory_b_A3.titleShort>专业的</HAR_SK_Backstory_b_A3.titleShort>
-  <HAR_SK_Backstory_b_A3.description>[PAWN_nameDef]的天赋是通过无数次的遭遇和经历磨练出来的。他还将展示他在殖民地活动中的技能。</HAR_SK_Backstory_b_A3.description>
-  <HAR_SK_Backstory_b_A4.title>专业的</HAR_SK_Backstory_b_A4.title>
-  <HAR_SK_Backstory_b_A4.titleShort>专业的</HAR_SK_Backstory_b_A4.titleShort>
-  <HAR_SK_Backstory_b_A4.description>[PAWN_nameDef]的天赋是通过无数次的遭遇和经历磨练出来的。他还将展示他在殖民地活动中的技能。</HAR_SK_Backstory_b_A4.description>
-  <HAR_SK_Backstory_c_A1.title>九尾狐</HAR_SK_Backstory_c_A1.title>
-  <HAR_SK_Backstory_c_A1.description>[PAWN_nameDef]已经成为一个容易操纵和吞噬他人的怪物，并且会随意建造尸体山，直到有人把他打倒。</HAR_SK_Backstory_c_A1.description>
+  <HAR_SK_Backstory_C1.description>[PAWN_nameDef]出生于亚人工业并在那里长大。她的基因在出生以前就为了能够更好地适应自己的职务而受到调整。\n\n「污物就要消毒！」</HAR_SK_Backstory_C1.description>
+  <HAR_SK_Backstory_C2.description>[PAWN_nameDef]出生于亚人工业并在那里长大。她的基因在出生以前就为了能够更好地适应自己的职务而受到调整。\n\n「还要多养一点哦！」</HAR_SK_Backstory_C2.description>
+  <HAR_SK_Backstory_C3.description>[PAWN_nameDef]出生于亚人工业并在那里长大。她的基因在出生以前就为了能够更好地适应自己的职务而受到调整。\n\n「要干净利落地上了！」</HAR_SK_Backstory_C3.description>
+  <HAR_SK_Backstory_C4.description>[PAWN_nameDef]出生于亚人工业并在那里长大。她的基因在出生以前就为了能够更好地适应自己的职务而受到调整。\n\n「请多关照，这里是亚人工业！」</HAR_SK_Backstory_C4.description>
+  <HAR_SK_Backstory_C5.description>[PAWN_nameDef]出生于亚人工业并在那里长大。她的基因在出生以前就为了能够更好地适应自己的职务而受到调整。\n\n「有身体不舒服装的人要告诉我哦！」</HAR_SK_Backstory_C5.description>
+  <HAR_SK_Backstory_C6.description>[PAWN_nameDef]出生于亚人工业并在那里长大。她的基因在出生以前就为了能够更好地适应自己的职务而受到调整。\n\n「科学的积累即是人类的力量！」</HAR_SK_Backstory_C6.description>
+  <HAR_SK_Backstory_C7.description>[PAWN_nameDef]出生于亚人工业并在那里长大。她的基因在出生以前就为了能够更好地适应自己的职务而受到调整。\n\n「搬运就请交给我吧！」</HAR_SK_Backstory_C7.description>
+  <HAR_SK_Backstory_C8.description>[PAWN_nameDef]出生于亚人工业并在那里长大。她的基因在出生以前就为了能够更好地适应自己的职务而受到调整。\n\n「要再来一碗吗！」</HAR_SK_Backstory_C8.description>
+  <HAR_SK_Backstory_C9.description>[PAWN_nameDef]出生于亚人工业并在那里长大。她的基因在出生以前就为了能够更好地适应自己的职务而受到调整。\n\n「交易的问题就交给我吧！」</HAR_SK_Backstory_C9.description>
+  <HAR_SK_Backstory_C10.description>[PAWN_nameDef]出生于亚人工业并在那里长大。她的基因在出生以前就为了能够更好地适应自己的职务而受到调整。\n\n「什么都做得到哦！」</HAR_SK_Backstory_C10.description>
+  <HAR_SK_Backstory_b_C1.description>[PAWN_nameDef]一出生便天赋异禀，无论在哪个领域都将发挥出远超常人的能力。</HAR_SK_Backstory_b_C1.description>
+  <HAR_SK_Backstory_c_C1.description>[PAWN_nameDef]是嗜血残暴且狡猾奸诈的丝姬拉，不仅在力量上远超常人，设计阴谋诡计方面也颇为出色。</HAR_SK_Backstory_c_C1.description>
+  <HAR_SK_Backstory_A1.description>[PAWN_nameDef]在亚人工业工作了很长时间，掌握了相应的技能。</HAR_SK_Backstory_A1.description>
+  <HAR_SK_Backstory_A2.description>[PAWN_nameDef]在亚人工业工作了很长时间，掌握了相应的技能。</HAR_SK_Backstory_A2.description>
+  <HAR_SK_Backstory_A3.description>[PAWN_nameDef]在亚人工业工作了很长时间，掌握了相应的技能。</HAR_SK_Backstory_A3.description>
+  <HAR_SK_Backstory_A4.description>[PAWN_nameDef]在亚人工业工作了很长时间，掌握了相应的技能。</HAR_SK_Backstory_A4.description>
+  <HAR_SK_Backstory_A5.description>[PAWN_nameDef]在亚人工业工作了很长时间，掌握了相应的技能。</HAR_SK_Backstory_A5.description>
+  <HAR_SK_Backstory_b_A1.title>专家</HAR_SK_Backstory_b_A1.title>
+  <HAR_SK_Backstory_b_A1.titleShort>专家</HAR_SK_Backstory_b_A1.titleShort>
+  <HAR_SK_Backstory_b_A1.description>[PAWN_nameDef]的才华在数不清的相遇与离别中得到磨砺，接下来也将在殖民地中尽情发挥吧。</HAR_SK_Backstory_b_A1.description>
+  <HAR_SK_Backstory_b_A2.title>专家</HAR_SK_Backstory_b_A2.title>
+  <HAR_SK_Backstory_b_A2.titleShort>专家</HAR_SK_Backstory_b_A2.titleShort>
+  <HAR_SK_Backstory_b_A2.description>[PAWN_nameDef]的才华在数不清的相遇与离别中得到磨砺，接下来也将在殖民地中尽情发挥吧。</HAR_SK_Backstory_b_A2.description>
+  <HAR_SK_Backstory_b_A3.title>专家</HAR_SK_Backstory_b_A3.title>
+  <HAR_SK_Backstory_b_A3.titleShort>专家</HAR_SK_Backstory_b_A3.titleShort>
+  <HAR_SK_Backstory_b_A3.description>[PAWN_nameDef]的才华在数不清的相遇与离别中得到磨砺，接下来也将在殖民地中尽情发挥吧。</HAR_SK_Backstory_b_A3.description>
+  <HAR_SK_Backstory_b_A4.title>专家</HAR_SK_Backstory_b_A4.title>
+  <HAR_SK_Backstory_b_A4.titleShort>专家</HAR_SK_Backstory_b_A4.titleShort>
+  <HAR_SK_Backstory_b_A4.description>[PAWN_nameDef]的才华在数不清的相遇与离别中得到磨砺，接下来也将在殖民地中尽情发挥吧。</HAR_SK_Backstory_b_A4.description>
+  <HAR_SK_Backstory_c_A1.title>九尾妖狐</HAR_SK_Backstory_c_A1.title>
+  <HAR_SK_Backstory_c_A1.description>[PAWN_nameDef]是一只深谙杀人之法的残暴怪物。若长久未被勇者讨伐，必将掀起一阵腥风血雨。</HAR_SK_Backstory_c_A1.description>
 </LanguageData>

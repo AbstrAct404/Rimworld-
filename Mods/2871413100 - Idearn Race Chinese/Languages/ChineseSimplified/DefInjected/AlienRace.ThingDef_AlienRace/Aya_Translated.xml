@@ -1,33 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_Idearn_Charmides_a.label>理念卡米德斯 A 型</HAR_Idearn_Charmides_a.label>
-  <HAR_Idearn_Charmides_a.description>理念人是一个神秘的种族，除了他们是人造种族及其碎片技术的同胞这一事实之外，没有留下任何记录。 \n引进的技术科学地再现了被认为是鬼魂的伊德海尔的特征，使其即使在极端环境下也能运行。 \n\n每个赛季需要更换一次“Arke Cartridge（药品）”，如果你不能这样做，你的活动就会停止，你就会死亡。 \n\n查米德A型是专攻近战的个体，其耐久度和护甲相比莱克斯也有所提高。</HAR_Idearn_Charmides_a.description>
-  <HAR_Idearn_Charmides_b.label>理念卡米德斯B型</HAR_Idearn_Charmides_b.label>
-  <HAR_Idearn_Charmides_b.description>理念人是一个神秘的种族，除了他们是人造种族及其碎片技术的同胞这一事实之外，没有留下任何记录。 \n引进的技术科学地再现了被认为是鬼魂的伊德海尔的特征，使其即使在极端环境下也能运行。 \n\n每个赛季需要更换一次“Arke Cartridge（药品）”，如果你不能这样做，你的活动就会停止，你就会死亡。 \n\n查米德B型是专攻移动的个体，与莱克斯相比，其耐久度和护甲都有所提高。</HAR_Idearn_Charmides_b.description>
-  <HAR_Idearn_Critias.label>理念批判</HAR_Idearn_Critias.label>
-  <HAR_Idearn_Critias.description>创意克里蒂亚斯是曾经毁灭其创造者、将人工种族推向灭绝边缘的噩梦武器“克里蒂亚斯，与上位者决战的独立武器”的复制品，作为人工种族。
-很久以前，其他宇宙种族视造物主的技术为危险，偷走了神秘侠，并在其中填充了之前人工种族的数据。它被创造出来是为了起到威慑作用，但却无法控制而发狂，穿越了许多星球，竭尽全力进行破坏，直到被夸利拉领导的人工种族摧毁。
+  <HAR_Idearn_Charmides_a.label>理念·卡尔米德斯 A型</HAR_Idearn_Charmides_a.label>
+  <HAR_Idearn_Charmides_a.description>理念是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
+通过采用某种科学技术，使得伊德海尔灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
 
-克里蒂亚斯造成的伤痕对人工种族影响很大，
-尼亚美亚开始憎恨那些叛逆的机械生命体。
-Silkira 对其力量着迷。
-奎里拉开始控制和压制其他文明，以阻止克里蒂亚斯再次被创造。
+每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
 
-克里蒂亚斯似乎已经预见到自己最终会被毁灭，并准备将自己的细胞植入到穿越星际过程中遇到的机械生命体中，以使其复活。
-从往事中我们知道，理念种族原本并不存在，只是克里提亚斯为了欺骗安特雷切亚而编造的虚假数据。
-即使是隐藏的，一个人对力量和智慧的渴望也会将它们带入现实……看来克里蒂亚斯的预言在他在这里时得到了证实。
+卡尔米德A型是近战能力特化的个体，耐久与护甲比起拉凯斯型都有所提升。</HAR_Idearn_Charmides_a.description>
+  <HAR_Idearn_Charmides_b.label>理念·卡尔米德斯 B型</HAR_Idearn_Charmides_b.label>
+  <HAR_Idearn_Charmides_b.description>理念是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
+通过采用某种科学技术，使得伊德海尔灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
 
-「剩下的已经结束了，现在让我们再次开始指宿的穿越吧。」 ”
+每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
 
-每个季节必须更换一次“Arke墨盒（药品）”，如果做不到，就会停止工作并死亡。</HAR_Idearn_Critias.description>
-  <HAR_Idearn_Laches_a.label>伊安·拉克斯</HAR_Idearn_Laches_a.label>
-  <HAR_Idearn_Laches_a.description>理念人是一个神秘的种族，除了他们是人造种族及其碎片技术的同胞这一事实之外，没有留下任何记录。 \n引进的技术科学地再现了被认为是鬼魂的伊德海尔的特征，使其即使在极端环境下也能运行。 \n\n每个赛季需要更换一次“Arke Cartridge（药品）”，如果你不能这样做，你的活动就会停止，你就会死亡。 \n\nLaketh似乎是Idean的基础类型，只有基础能力，但仍然可以说远远优于人类。</HAR_Idearn_Laches_a.description>
-  <HAR_Idearn_Menexenus_a.label>理念 Menexenos A 型</HAR_Idearn_Menexenus_a.label>
-  <HAR_Idearn_Menexenus_a.description>理念人是一个神秘的种族，除了他们是人造种族及其碎片技术的同胞这一事实之外，没有留下任何记录。 \n引进的技术科学地再现了被认为是鬼魂的伊德海尔的特征，使其即使在极端环境下也能运行。 \n虽然不完整，但另一面现已可用。 \n\n每个赛季需要更换一次“Arke Cartridge（药品）”，如果你不能这样做，你的活动就会停止，你就会死亡。 \n\nMenexenos A型是专门从事干扰的个体，它不断散布纳米机械，可以削弱周围的敌对实体。</HAR_Idearn_Menexenus_a.description>
-  <HAR_Idearn_Menexenus_b.label>理念梅内克塞诺斯 B 型</HAR_Idearn_Menexenus_b.label>
-  <HAR_Idearn_Menexenus_b.description>理念人是一个神秘的种族，除了他们是人造种族及其碎片技术的同胞这一事实之外，没有留下任何记录。 \n引进的技术科学地再现了被认为是鬼魂的伊德海尔的特征，使其即使在极端环境下也能运行。 \n虽然不完整，但另一面现已可用。 \n\n每个赛季需要更换一次“Arke Cartridge（药品）”，如果你不能这样做，你的活动就会停止，你就会死亡。 \n\nMenexenos B型是专门迷惑敌人的个体。 \n利用其高机动性，高速接近敌方阵线并散布火焰扰乱其立足点，并使用电磁脉冲来阻止机械生命体移动并限制其行动。</HAR_Idearn_Menexenus_b.description>
-  <HAR_Idearn_Theaetetus_a.label>理念 Theaetetos A 型</HAR_Idearn_Theaetetus_a.label>
-  <HAR_Idearn_Theaetetus_a.description>理念人是一个神秘的种族，除了他们是人造种族及其碎片技术的同胞这一事实之外，没有留下任何记录。 \n引进的技术科学地再现了被认为是鬼魂的伊德海尔的特征，使其即使在极端环境下也能运行。 \n您还可以使用“另一面”来阻止伤害。 \n\n每个赛季需要更换一次“Arke Cartridge（药品）”，如果你不能这样做，你的活动就会停止，你就会死亡。 \n\n泰阿泰托斯A型使用女王种雷奎恩的数据，是专门研究军事战术的高级个体。召唤大量专门从事近战的追随者，并用纳米机械强化附近的盟友。</HAR_Idearn_Theaetetus_a.description>
-  <HAR_Idearn_Theaetetus_b.label>理念泰阿泰托斯 B 型</HAR_Idearn_Theaetetus_b.label>
-  <HAR_Idearn_Theaetetus_b.description>理念人是一个神秘的种族，除了他们是人造种族及其碎片技术的同胞这一事实之外，没有留下任何记录。 \n引进的技术科学地再现了被认为是鬼魂的伊德海尔的特征，使其即使在极端环境下也能运行。 \n您还可以使用“另一面”来阻止伤害。 \n\n每个赛季需要更换一次“Arke Cartridge（药品）”，如果你不能这样做，你的活动就会停止，你就会死亡。 \n\nTheaetetos B型使用监督物种夸莉拉的数据，是专门从事单独控制的高级个体。 \n它可以驱散纳米机械，相当于战略武器，持续造成大量伤害。</HAR_Idearn_Theaetetus_b.description>
+卡尔米德B型是移动能力特化的个体，耐久与护甲比起拉凯斯型都有所提升。</HAR_Idearn_Charmides_b.description>
+  <HAR_Idearn_Critias.label>理念·克里提亚斯</HAR_Idearn_Critias.label>
+  <HAR_Idearn_Critias.description>理念·克里提亚斯，是将噩梦兵器“对上位者决战自立兵器·克里提亚斯”以人工种族形态重现的产物。它曾毁灭创造者，并将人工种族逼至灭绝边缘。
+
+遥远过去，其他宙族忌惮创造者的技术，夺走秘仪机，并将历代人工种族的数据灌入其中，试图把它制造成威慑力量。然而兵器失控暴走，在被夸里拉率领的人工种族摧毁前，曾横跨众多星球大肆破坏。
+
+克里提亚斯留下的创伤深刻影响了人工种族：尼亚米尔从此憎恨叛变的机械生命；丝姬拉为其力量着迷；夸里拉则开始管理并压制其他文明，以防克里提亚斯再次诞生。
+
+克里提亚斯似乎早已预见自身会被摧毁，因而在星际迁徙途中把细胞植入遇到的机械生命，为复活预作准备。事实上，“理念”这个种族原本并不存在，只是克里提亚斯为欺骗恩特勒凯亚而捏造的伪装数据。即使将其隐藏，人们追求力量与智慧的欲望仍会把它拉回现实——克里提亚斯如今现身于此，证明它的预测没有错。
+
+“休憩已经结束。现在，让我们再次踏上屠尽众生的星海旅程吧。”
+
+每个象限必须更换一次药物“本源药盒”，否则她将停止活动并死亡。</HAR_Idearn_Critias.description>
+  <HAR_Idearn_Laches_a.label>理念·拉刻斯</HAR_Idearn_Laches_a.label>
+  <HAR_Idearn_Laches_a.description>理念是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
+通过采用某种科学技术，使得伊德海尔灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
+
+每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
+
+拉凯斯是理念的基础型号，只拥有最基本的性能，但即便如此她们的各项技能仍远胜于人类。</HAR_Idearn_Laches_a.description>
+  <HAR_Idearn_Menexenus_a.label>理念·墨涅克塞诺斯 A型</HAR_Idearn_Menexenus_a.label>
+  <HAR_Idearn_Menexenus_a.description>理念是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
+通过采用某种科学技术，使得伊德海尔灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
+这一型号能够使用不完整的彼岸能力。
+
+每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
+
+美涅克塞努A型是妨碍能力特化的个体，能够持续散播纳米机械削弱周围的敌对个体。</HAR_Idearn_Menexenus_a.description>
+  <HAR_Idearn_Menexenus_b.label>理念·墨涅克塞诺斯 B型</HAR_Idearn_Menexenus_b.label>
+  <HAR_Idearn_Menexenus_b.description>理念是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
+通过采用某种科学技术，使得伊德海尔灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
+这一型号能够使用不完整的彼岸能力。
+
+每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
+
+美涅克塞努B型是扰乱能力特化的个体，能够利用自身的高机动性迅速冲入敌阵的薄弱之处，散播火焰阻碍敌方的进攻步调，或是通过EMP来限制机械生命体的行动能力。</HAR_Idearn_Menexenus_b.description>
+  <HAR_Idearn_Theaetetus_a.label>理念·泰阿泰托斯 A型</HAR_Idearn_Theaetetus_a.label>
+  <HAR_Idearn_Theaetetus_a.description>理念是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
+通过采用某种科学技术，使得伊德海尔灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
+这一型号能够使用彼岸能力阻断伤害。
+
+每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
+
+泰阿泰托斯A型是使用了雷奎恩的数据创造的军事战术特化的上位个体。能够同时召唤多个近战特化的眷属，并通过散播纳米机械强化周围的友军。</HAR_Idearn_Theaetetus_a.description>
+  <HAR_Idearn_Theaetetus_b.label>理念·泰阿泰托斯 B型</HAR_Idearn_Theaetetus_b.label>
+  <HAR_Idearn_Theaetetus_b.description>理念是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
+通过采用某种科学技术，使得伊德海尔灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
+这一型号能够使用彼岸能力阻断伤害。
+
+每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
+
+泰阿泰托斯B型是使用了统括种·夸里拉的数据创造的单兵镇压特化的上位个体。能够作为战略兵器散播大量的纳米机械，对周遭大范围持续造成大量伤害。</HAR_Idearn_Theaetetus_b.description>
 </LanguageData>

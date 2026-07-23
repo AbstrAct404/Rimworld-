@@ -1,50 +1,52 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Aya_Race_Ap_C_T_a.description>一款人造的比赛儿童衬衫，由于是针对儿童的，所以性能一般。</Aya_Race_Ap_C_T_a.description>
+  <Aya_Race_Ap_C_T_a.description>人工种族儿童穿着的衬衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_a.description>
   <Aya_Race_Ap_C_T_a.label>儿童衬衫</Aya_Race_Ap_C_T_a.label>
-  <Aya_Race_Ap_C_T_b.description>这是一件人造儿童比赛衬衫，既然是儿童用的，那么它的性能就很一般了。</Aya_Race_Ap_C_T_b.description>
-  <Aya_Race_Ap_C_T_b.label>儿童衬衫</Aya_Race_Ap_C_T_b.label>
-  <Aya_Race_Ap_C_T_c.description>一块人工种族儿童用的布料，其性能与儿童用的一样温和。</Aya_Race_Ap_C_T_c.description>
-  <Aya_Race_Ap_C_T_d.description>人造种族的孩子们的校服，既然是给孩子们的，那么他们的表现就很一般了。</Aya_Race_Ap_C_T_d.description>
-  <Aya_Race_Ap_C_T_d.label>子供用学生服装</Aya_Race_Ap_C_T_d.label>
-  <HAR_QL_A_a.label>最终盔甲</HAR_QL_A_a.label>
-  <HAR_QL_A_a.description>只有安特雷凯亚王室成员才能穿着的铠甲。它具有消除精神干扰的能力，以防止洗脑和强迫行为。</HAR_QL_A_a.description>
-  <HAR_QL_O_a.description>夸利拉等人穿的套装虽然材质较薄，但性能很高，可以承受极地活动。</HAR_QL_O_a.description>
-  <HAR_QL_O_a.label>威尔邦套装A</HAR_QL_O_a.label>
-  <HAR_QL_O_b.description>夸利拉等人穿的套装虽然材质较薄，但性能很高，可以承受极地活动。</HAR_QL_O_b.description>
-  <HAR_QL_O_b.label>Wellbum套装B</HAR_QL_O_b.label>
-  <HAR_QL_O_c.description>夸利拉等人穿的套装虽然材质较薄，但性能很高，可以承受极地活动。</HAR_QL_O_c.description>
-  <HAR_QL_O_c.label>Wellbum套装C</HAR_QL_O_c.label>
-  <HAR_QL_H_a.description>仅限恩特莱凯亚王室成员佩戴的头盔。它具有消除精神干扰的能力，以防止洗脑和强迫行为。</HAR_QL_H_a.description>
-  <HAR_QL_H_a.label>最终头盔</HAR_QL_H_a.label>
-  <HAR_QL_H_b.description>夸里拉的战斗头部装备和特殊的保护膜赋予它比看上去更强的防御能力。</HAR_QL_H_b.description>
-  <HAR_QL_H_b.label>威尔邦护目镜</HAR_QL_H_b.label>
-  <HAR_QL_H_c.description>夸里拉的战斗头部装备和特殊的保护膜赋予它比看上去更强的防御能力。</HAR_QL_H_c.description>
-  <HAR_QL_H_c.label>威尔布明康</HAR_QL_H_c.label>
-  <HAR_QL_S_a.description>夸里拉等人穿的衣服足够坚固，可以抵挡子弹。</HAR_QL_S_a.description>
-  <HAR_QL_S_a.label>威尔邦姆外套</HAR_QL_S_a.label>
-  <HAR_QL_S_b.description>夸里拉等人穿的衣服足够坚固，可以抵挡子弹。</HAR_QL_S_b.description>
-  <HAR_QL_S_b.label>威尔邦斗篷</HAR_QL_S_b.label>
-  <HAR_QL_T_a.description>夸里拉穿的夹克是在设计时考虑到其他人造种族的。</HAR_QL_T_a.description>
-  <HAR_QL_T_a.label>威尔邦姆夹克</HAR_QL_T_a.label>
+  <Aya_Race_Ap_C_T_b.description>人工种族儿童穿着的罩衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_b.description>
+  <Aya_Race_Ap_C_T_b.label>儿童罩衫</Aya_Race_Ap_C_T_b.label>
+  <Aya_Race_Ap_C_T_c.description>人工种族儿童使用的裹身布。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_c.description>
+  <Aya_Race_Ap_C_T_d.description>人工种族儿童穿着的学生服。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_d.description>
+  <Aya_Race_Ap_C_T_d.label>儿童校服装</Aya_Race_Ap_C_T_d.label>
+  <HAR_QL_A_a.label>终焉之铠</HAR_QL_A_a.label>
+  <HAR_QL_A_a.description>只有恩特雷凯亚的王族才被允许穿着的铠甲。具有无效化精神干涉的机能，从而防止穿着者被洗脑或者强制行动。</HAR_QL_A_a.description>
+  <HAR_QL_O_a.description>夸里拉们所穿着的套装，尽管面料很薄，但其性能至高足以使穿着者在极地自由活动。</HAR_QL_O_a.description>
+  <HAR_QL_O_a.label>言语之服装A</HAR_QL_O_a.label>
+  <HAR_QL_O_b.description>夸里拉们所穿着的套装，尽管面料很薄，但其性能至高足以使穿着者在极地自由活动。</HAR_QL_O_b.description>
+  <HAR_QL_O_b.label>言语之服装B</HAR_QL_O_b.label>
+  <HAR_QL_O_c.description>夸里拉们所穿着的套装，尽管面料很薄，但其性能至高足以使穿着者在极地自由活动。</HAR_QL_O_c.description>
+  <HAR_QL_O_c.label>言语之服装C</HAR_QL_O_c.label>
+  <HAR_QL_H_a.description>只有恩特雷凯亚的王族才被允许穿着的头盔。具有无效化精神干涉的机能，从而防止穿着者被洗脑或者强制行动。</HAR_QL_H_a.description>
+  <HAR_QL_H_a.label>终焉之盔</HAR_QL_H_a.label>
+  <HAR_QL_H_b.description>夸里拉的战斗用头部装备，通过特殊的防护膜使其拥有了远超其外表所示的防御力。</HAR_QL_H_b.description>
+  <HAR_QL_H_b.label>言语眼罩</HAR_QL_H_b.label>
+  <HAR_QL_H_c.description>夸里拉的战斗用头部装备，通过特殊的防护膜使其拥有了远超其外表所示的防御力。</HAR_QL_H_c.description>
+  <HAR_QL_H_c.label>言语对讲机</HAR_QL_H_c.label>
+  <HAR_QL_S_a.description>夸里拉们穿着的服装，其坚韧程度足以弹开子弹。</HAR_QL_S_a.description>
+  <HAR_QL_S_a.label>言语大衣</HAR_QL_S_a.label>
+  <HAR_QL_S_b.description>夸里拉们穿着的服装，其坚韧程度足以弹开子弹。</HAR_QL_S_b.description>
+  <HAR_QL_S_b.label>言语披风</HAR_QL_S_b.label>
+  <HAR_QL_T_a.description>夸里拉们所穿着的外套，在设计上也考虑到了其他人工种族。</HAR_QL_T_a.description>
+  <HAR_QL_T_a.label>言语外套</HAR_QL_T_a.label>
   <HAR_QL_M_Race_Base.label>密特拉玛阿哈</HAR_QL_M_Race_Base.label>
-  <HAR_QL_M_Race_Base.description>被夸里拉的法器功能之一“法器召唤”召唤出来的追随者。 \n拥有远超下位尼亚美亚所使用的部下的强壮身体，拥有轻松击碎铠甲的体力。 \n\n由于其王权的影响，它对“来自这个世界的攻击”的抵抗力很强，并且用能够应对这些攻击的武器击败这个亲属将是极其困难的。</HAR_QL_M_Race_Base.description>
-  <HAR_QL_M_Race_a.label>米特拉·玛拉哈（夜魔）</HAR_QL_M_Race_a.label>
-  <HAR_QL_M_Race_NPC_a.label>米特拉·玛拉哈（夜魔）</HAR_QL_M_Race_NPC_a.label>
-  <HAR_QL_M_Race_b.label>米特拉·玛拉哈（美人鱼）</HAR_QL_M_Race_b.label>
-  <HAR_QL_M_Race_NPC_b.label>米特拉·玛拉哈（美人鱼）</HAR_QL_M_Race_NPC_b.label>
-  <HAR_QL_M_Race_c.label>米特拉玛·阿哈（亚金）</HAR_QL_M_Race_c.label>
-  <HAR_QL_M_Race_NPC_c.label>米特拉玛·阿哈（亚金）</HAR_QL_M_Race_NPC_c.label>
-  <HAR_QL_M_Race_d.label>米特拉·马拉哈（各种形式）</HAR_QL_M_Race_d.label>
-  <HAR_QL_M_Race_NPC_d.label>米特拉·马拉哈（各种形式）</HAR_QL_M_Race_NPC_d.label>
-  <HAR_QL_M_Race_e.label>密特拉玛拉哈（龙人）</HAR_QL_M_Race_e.label>
-  <HAR_QL_M_Race_NPC_e.label>密特拉玛拉哈（龙人）</HAR_QL_M_Race_NPC_e.label>
-  <CSS_SummonEffect.description>闪耀的召唤魔法阵。</CSS_SummonEffect.description>
-  <HAR_QL_Weapon_a.label>阿达马赫列夫</HAR_QL_Weapon_a.label>
-  <HAR_QL_Weapon_a.description>创造者为奎利拉打造的剑。除了切割之外，它还可以从刀片发射激光。 \n材料中似乎使用了特殊的纳米机械，如果被它们割伤，即使你的身体足够强壮，你也有可能死掉。</HAR_QL_Weapon_a.description>
-  <HAR_QL_Projectile_a.label>阿达马赫列夫</HAR_QL_Projectile_a.label>
-  <HAR_QL_Weapon_a_Grenade.label>阿达马赫列夫</HAR_QL_Weapon_a_Grenade.label>
-  <HAR_QL_Weapon_b.label>采马基登</HAR_QL_Weapon_b.label>
-  <HAR_QL_Weapon_b.description>造物主为奎利拉打造的长矛。虽然戳的力量很大，但真正的价值在于投掷。 \n投掷的 Tsemakkidon 会穿透障碍物并杀死目标并带来无数幻象。 \n材料中似乎使用了特殊的纳米机械，如果被它们割伤，即使你的身体足够强壮，你也有可能死掉。</HAR_QL_Weapon_b.description>
-  <HAR_QL_Weapon_b_Bullet.label>采马基登</HAR_QL_Weapon_b_Bullet.label>
+  <HAR_QL_M_Race_Base.description>通过夸里拉的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位尼亚米尔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
+
+受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_Base.description>
+  <HAR_QL_M_Race_a.label>宝冠天使(夜魔)</HAR_QL_M_Race_a.label>
+  <HAR_QL_M_Race_NPC_a.label>宝冠天使(夜魔)</HAR_QL_M_Race_NPC_a.label>
+  <HAR_QL_M_Race_b.label>宝冠天使(人鱼)</HAR_QL_M_Race_b.label>
+  <HAR_QL_M_Race_NPC_b.label>宝冠天使(人鱼)</HAR_QL_M_Race_NPC_b.label>
+  <HAR_QL_M_Race_c.label>宝冠天使(亚人)</HAR_QL_M_Race_c.label>
+  <HAR_QL_M_Race_NPC_c.label>宝冠天使(亚人)</HAR_QL_M_Race_NPC_c.label>
+  <HAR_QL_M_Race_d.label>宝冠天使(异形)</HAR_QL_M_Race_d.label>
+  <HAR_QL_M_Race_NPC_d.label>宝冠天使(异形)</HAR_QL_M_Race_NPC_d.label>
+  <HAR_QL_M_Race_e.label>宝冠天使(龙人)</HAR_QL_M_Race_e.label>
+  <HAR_QL_M_Race_NPC_e.label>宝冠天使(龙人)</HAR_QL_M_Race_NPC_e.label>
+  <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>
+  <HAR_QL_Weapon_a.label>大地之剑</HAR_QL_Weapon_a.label>
+  <HAR_QL_Weapon_a.description>创造者为夸里拉们所制造的剑。它不仅能够进行斩击，还能从刀身发射出激光束。\n由于在制作过程中采用了特殊的纳米机械，在受到攻击后即使身体仍能支撑还是会有致死的可能性。</HAR_QL_Weapon_a.description>
+  <HAR_QL_Projectile_a.label>大地之剑</HAR_QL_Projectile_a.label>
+  <HAR_QL_Weapon_a_Grenade.label>大地之剑</HAR_QL_Weapon_a_Grenade.label>
+  <HAR_QL_Weapon_b.label>统御之枪</HAR_QL_Weapon_b.label>
+  <HAR_QL_Weapon_b.description>创造者为夸里拉们所制造的枪。仅仅是单纯的刺击也具有极高的威力，但其真正的价值是用于投掷。 \n投掷出的统御之枪会产生无数幻影，直接贯通障碍物贯穿目标将其杀死。 \n由于在制作过程中采用了特殊的纳米机械，在受到攻击后即使身体仍能支撑还是会有致死的可能性。</HAR_QL_Weapon_b.description>
+  <HAR_QL_Weapon_b_Bullet.label>统御之枪</HAR_QL_Weapon_b_Bullet.label>
 </LanguageData>

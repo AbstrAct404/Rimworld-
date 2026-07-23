@@ -79,6 +79,18 @@ DISPLAY_NAME_REPLACEMENTS = {
 # The shared terminology file is the single source of truth for the visible
 # proper nouns used by both game text and Workshop descriptions.
 TERMINOLOGY = json.loads((Path(__file__).with_name("terminology.json")).read_text(encoding="utf-8"))
+REVIEWED_GAME_TRANSLATIONS = json.loads(
+    (Path(__file__).with_name("reviewed_game_translations.json")).read_text(encoding="utf-8")
+)
+ACCEPTED_GAME_TRANSLATIONS = json.loads(
+    (Path(__file__).with_name("accepted_game_translations.json")).read_text(encoding="utf-8")
+)
+MANUAL_REVIEW_OVERRIDES = json.loads(
+    (Path(__file__).with_name("manual_review_overrides.json")).read_text(encoding="utf-8")
+)
+CANONICAL_SOURCE_TRANSLATIONS = json.loads(
+    (Path(__file__).with_name("canonical_source_translations.json")).read_text(encoding="utf-8")
+)
 WORKSHOP_RACE_DISPLAY_REPLACEMENTS = TERMINOLOGY["race_names"]
 EXTERNAL_MOD_NAMES = set(TERMINOLOGY["external_mod_names"])
 EXTERNAL_MOD_NAME_REPLACEMENTS = TERMINOLOGY["external_mod_name_replacements"]
@@ -134,7 +146,7 @@ WORKSHOP_DESCRIPTION_REPLACEMENTS = {
     },
     "2227425882": {
         "- 无法战斗，因为我没有武器": "・无法持有武器，因此不能进行常规战斗。",
-        "- 高度敏感，容易受到影响": "・灵能敏感度较高，更容易受到灵能影响。",
+        "- 高度敏感，容易受到影响": "・心灵敏感度较高，更容易受到灵能影响。",
         "・不依赖技能的工作进展缓慢": "・不受技能等级影响的基础工作速度较慢。",
         "・不会受到伤害（但可能会受到 MOD 附加的伤害）":
             "・免疫原版伤害；其他 MOD 新增的伤害类型仍可能生效。",
@@ -369,7 +381,33 @@ def normalize_display_names(value: str) -> str:
         value = replace_term(value, source, target)
     for source, target in TERMINOLOGY["game_terms"].items():
         value = replace_term(value, source, target)
-    return value
+    return "\n".join(line.rstrip() for line in value.splitlines()).strip()
+
+
+def reviewed_game_translation(mod_id: str, key: str, original: str) -> str:
+    """Return only a checked-in translation for Japanese game-facing text.
+
+    The machine-translation cache remains useful while discovering new source
+    strings, but it must never be a release-time source of truth.  A newly
+    added Japanese key therefore fails the build until it has been reviewed
+    and checked in.
+    """
+    sources = (
+        MANUAL_REVIEW_OVERRIDES,
+        REVIEWED_GAME_TRANSLATIONS,
+        ACCEPTED_GAME_TRANSLATIONS,
+    )
+    for source in sources:
+        value = source.get(mod_id, {}).get(key)
+        if value is not None:
+            return CANONICAL_SOURCE_TRANSLATIONS.get(original, value)
+    if key in KEY_OVERRIDES:
+        return CANONICAL_SOURCE_TRANSLATIONS.get(original, KEY_OVERRIDES[key])
+    if is_japanese(original):
+        raise RuntimeError(
+            f"Unreviewed Japanese game text: mod={mod_id} key={key} value={original!r}"
+        )
+    return CANONICAL_SOURCE_TRANSLATIONS.get(original, original)
 
 
 def protect_external_mod_names(value: str) -> tuple[str, dict[str, str]]:
@@ -612,7 +650,9 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
             if key in seen:
                 continue
             seen.add(key)
-            translated = normalize_display_names(KEY_OVERRIDES.get(key, cache.get(original, local_translate(original))))
+            translated = normalize_display_names(
+                reviewed_game_translation(mod_id, key, original)
+            )
             # Do not write an English duplicate: the base game can supply it.
             if translated == original and not is_japanese(original):
                 continue
@@ -629,7 +669,9 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
             if key in seen:
                 continue
             seen.add(key)
-            translated = normalize_display_names(cache.get(original, local_translate(original)))
+            translated = normalize_display_names(
+                reviewed_game_translation(mod_id, key, original)
+            )
             if translated == original and not is_japanese(original):
                 continue
             ET.SubElement(language, key).text = translated

@@ -1,172 +1,176 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_NM_A_Belt_a.description>属于阿勒泰亚教会的尼亚美亚所使用的特殊盾牌，在其内置系统中使用了创造者的遗产。 \n它机械地再现了尼亚米尔的部分Nenwave能力，并且具有自动检测和阻止敌人攻击的能力。 \n虽然拥有强大的防御性能，但缺点是机动性大大降低。</HAR_NM_A_Belt_a.description>
-  <HAR_NM_A_Belt_a.label>马西亚胡兹洛亚</HAR_NM_A_Belt_a.label>
-  <HAR_NM_A_EyeCover_a.description>真理教会成员尼亚美亚所佩戴的戒指据说代表着造物主的“知识”、“技能”、“精神”。\n它具有强化大脑处理的能力，大大提高射击相关的表现。 \n作为补偿，他更容易精神崩溃，步态也变慢，或许是因为有更多的想法要思考。</HAR_NM_A_EyeCover_a.description>
-  <HAR_NM_A_EyeCover_a.label>三位一体光环</HAR_NM_A_EyeCover_a.label>
-  <HAR_NM_A_a.label>精神铠甲</HAR_NM_A_a.label>
-  <HAR_NM_A_a.description>尼亚美亚独有的铠甲，夜魔诅咒铠甲的高性能版本。据说，它最初是在造物主还健在的时候使用的。</HAR_NM_A_a.description>
-  <HAR_NM_A_b.label>莱拉·图尼卡 A</HAR_NM_A_b.label>
-  <HAR_NM_A_b.description>这套服装是属于阿勒泰亚教会的尼亚美亚专属。乍一看像是姐妹套装，但实际上是强化套装，耐久性比普通铠甲稍逊一筹，但通过念动波的作用强化肌肉力量，从而提高了移动速度。</HAR_NM_A_b.description>
-  <HAR_NM_A_c.label>莱拉·图尼卡·B</HAR_NM_A_c.label>
-  <HAR_NM_A_c.description>这套服装是属于阿勒泰亚教会的尼亚美亚专属。乍一看像是姐妹套装，但实际上是强化套装，耐久性比普通铠甲稍逊一筹，但通过念动波的作用强化肌肉力量，从而提高了移动速度。</HAR_NM_A_c.description>
-  <HAR_NM_A_d.label>莱拉·图尼卡·C</HAR_NM_A_d.label>
-  <HAR_NM_A_d.description>这套服装是属于阿勒泰亚教会的尼亚美亚专属。乍一看像是姐妹套装，但实际上是强化套装，耐久性比普通铠甲稍逊一筹，但通过念动波的作用强化肌肉力量，从而提高了移动速度。</HAR_NM_A_d.description>
-  <HAR_NM_Os_P.description>尼亚米尔斯喜欢穿的内衣，其特点是面料面积小，外观性感。</HAR_NM_Os_P.description>
-  <HAR_NM_Os_P.label>内衣A（尼亚美）</HAR_NM_Os_P.label>
-  <HAR_NM_Os_Pb.description>尼亚米尔斯喜欢穿的内衣，其特点是面料面积小，外观性感。</HAR_NM_Os_Pb.description>
-  <HAR_NM_Os_Pb.label>内衣B（尼亚默）</HAR_NM_Os_Pb.label>
-  <HAR_NM_Os_Pc.description>尼亚米尔斯喜欢穿的内衣，其特点是面料面积小，外观性感。</HAR_NM_Os_Pc.description>
-  <HAR_NM_Os_Pc.label>内衣C（尼亚美）</HAR_NM_Os_Pc.label>
-  <HAR_NM_Os_Pd.description>尼亚米尔斯喜欢穿的内衣，其特点是面料面积小，外观性感。</HAR_NM_Os_Pd.description>
-  <HAR_NM_Os_Pd.label>内衣D（尼亚默）</HAR_NM_Os_Pd.label>
-  <HAR_NM_Os_Pe.description>尼亚米尔斯喜欢穿的内衣，其特点是面料面积小，外观性感。</HAR_NM_Os_Pe.description>
-  <HAR_NM_Os_Pe.label>内衣E（尼亚美）</HAR_NM_Os_Pe.label>
-  <HAR_NM_Os_Pf.description>Niamea Aradia 等人喜欢穿的内衣，其特点是面料面积小，外观性感。</HAR_NM_Os_Pf.description>
-  <HAR_NM_Os_Pf.label>恶魔内衣</HAR_NM_Os_Pf.label>
-  <HAR_NM_Os_Pg.description>在人工种族的家园迦南星球上开发的尖端设备。 \n它被前沿星球保护组织-ETHOS-用作战斗装备。</HAR_NM_Os_Pg.description>
-  <HAR_NM_Os_Pg.label>哨兵套装</HAR_NM_Os_Pg.label>
-  <HAR_NM_HArmor.description>尼亚美亚的战斗头部装备有一层特殊的保护膜，赋予它比看上去更强的防御能力。</HAR_NM_HArmor.description>
-  <HAR_NM_HArmor.label>轻型头盔（尼亚默）</HAR_NM_HArmor.label>
-  <HAR_NM_MCt.description>尼亚美亚假装女仆时佩戴的女仆发带或许能提高她的工作效率。</HAR_NM_MCt.description>
-  <HAR_NM_MCt.label>女仆头带（尼亚美）</HAR_NM_MCt.label>
-  <HAR_NM_MHK.description>尼亚美花装饰丰富了色彩。</HAR_NM_MHK.description>
-  <HAR_NM_MHK.label>花卉装饰（尼亚美亚）</HAR_NM_MHK.label>
-  <HAR_NM_Cts.description>当试图打造不显眼的外观时，尤其需要使用普通头带。</HAR_NM_Cts.description>
-  <HAR_NM_Cts.label>头带（尼亚美）</HAR_NM_Cts.label>
-  <HAR_NM_MRbn.description>增强可爱感的丝带，当您想强调可爱时使用。</HAR_NM_MRbn.description>
-  <HAR_NM_MRbn.label>丝带（尼亚美亚）</HAR_NM_MRbn.label>
-  <HAR_NM_Tar.description>贵族所戴的王冠。</HAR_NM_Tar.description>
-  <HAR_NM_Tar.label>皇冠（尼亚美）</HAR_NM_Tar.label>
-  <HAR_NM_HCArmor.description>Niamea的战斗头部装备可以通过直接增强大脑的感觉来实现更精确的动作。</HAR_NM_HCArmor.description>
-  <HAR_NM_HCArmor.label>诅咒头盔（尼亚默）</HAR_NM_HCArmor.label>
-  <HAR_NM_AH_f.description>尼亚美亚独有的头盔，夜魔诅咒铠甲的高性能版本。据说，它最初是在造物主还健在的时候使用的。</HAR_NM_AH_f.description>
-  <HAR_NM_AH_f.label>精神头盔</HAR_NM_AH_f.label>
-  <HAR_NM_AH_g.description>阿勒泰亚教会的尼亚美亚独有的头巾。乍一看像头巾，但实际上是强化头盔，耐久性比普通头盔差，但通过念动力波的作用强化肌肉力量，从而提高移动速度。</HAR_NM_AH_g.description>
-  <HAR_NM_AH_g.label>莱拉·温布尔</HAR_NM_AH_g.label>
-  <HAR_NM_AH_h.description>尼亚美亚·阿拉迪亚的帽子让人想起女巫的帽子，但不知道为什么它是这样的形状。</HAR_NM_AH_h.description>
-  <HAR_NM_AH_h.label>恶魔帽</HAR_NM_AH_h.label>
-  <HAR_NM_AH_x.description>Niamere Wingate 的专属帽子。它足够耐用，可以承受长途旅行。</HAR_NM_AH_x.description>
-  <HAR_NM_AH_x.label>探索帽子</HAR_NM_AH_x.label>
-  <HAR_NM_AH_r.description>在人工种族的家园迦南星球上开发的尖端设备。 \n它被前沿星球保护组织-ETHOS-用作战斗装备。</HAR_NM_AH_r.description>
-  <HAR_NM_AH_r.label>哨兵盖</HAR_NM_AH_r.label>
-  <HAR_NM_Sh_K.description>弱小的尼亚米尔人把它当作盾牌和防弹。它相当强大，但我无法真正感觉到它，因为佩戴它的人很弱。</HAR_NM_Sh_K.description>
-  <HAR_NM_Sh_K.label>斗篷（尼亚美）</HAR_NM_Sh_K.label>
-  <HAR_NM_Sh_Kb.description>弱小的尼亚米尔人把它当作盾牌和防弹。它相当强大，但我无法真正感觉到它，因为佩戴它的人很弱。</HAR_NM_Sh_Kb.description>
-  <HAR_NM_Sh_Kb.label>开普敦（尼亚美亚）</HAR_NM_Sh_Kb.label>
-  <HAR_NM_Sh_Kc.description>弱小的尼亚米尔人把它当作盾牌和防弹。它相当强大，但我无法真正感觉到它，因为佩戴它的人很弱。</HAR_NM_Sh_Kc.description>
-  <HAR_NM_Sh_Kc.label>外套（尼亚美）</HAR_NM_Sh_Kc.label>
-  <HAR_NM_Sh_Kd.description>弱小的尼亚米尔人把它当作盾牌和防弹。它相当强大，但我无法真正感觉到它，因为佩戴它的人很弱。</HAR_NM_Sh_Kd.description>
-  <HAR_NM_Sh_Kd.label>除尘器（尼亚美）</HAR_NM_Sh_Kd.label>
-  <HAR_NM_Sh_Ke.description>弱小的尼亚米尔人把它当作盾牌和防弹。它相当强大，但我无法真正感觉到它，因为佩戴它的人很弱。</HAR_NM_Sh_Ke.description>
-  <HAR_NM_Sh_Ke.label>达夫尔（尼亚美）</HAR_NM_Sh_Ke.label>
-  <HAR_NM_Sh_Ho.description>弱小的尼亚米尔人把它当作盾牌和防弹。它相当强大，但我无法真正感觉到它，因为佩戴它的人很弱。</HAR_NM_Sh_Ho.description>
-  <HAR_NM_Sh_Ho.label>豪里（尼亚美亚）</HAR_NM_Sh_Ho.label>
-  <HAR_NM_Sh_SKo.description>弱小的尼亚米尔人把它当作盾牌和防弹。它相当强大，但我无法真正感觉到它，因为佩戴它的人很弱。</HAR_NM_Sh_SKo.description>
-  <HAR_NM_Sh_SKo.label>短斗篷（尼亚美亚）</HAR_NM_Sh_SKo.label>
-  <HAR_NM_Sh_BKo.description>以尼亚美亚独特的能量为燃料的结界发生器，具有强大的减伤效果。它在战斗中非常有用，但它的缺点是容易破碎且不耐温。</HAR_NM_Sh_BKo.description>
-  <HAR_NM_Sh_BKo.label>屏障外套（尼亚美）</HAR_NM_Sh_BKo.label>
-  <HAR_NM_Sh_Cry.description>尼亚美亚·阿拉迪亚喜爱的神秘水晶。它被一种类似水的液体覆盖，可以阻挡敌人的攻击。</HAR_NM_Sh_Cry.description>
-  <HAR_NM_Sh_Cry.label>恶魔水晶</HAR_NM_Sh_Cry.label>
-  <HAR_NM_Sh_x.description>尼亚米尔·温盖特专属斗篷。它足够耐用，可以承受长途旅行。</HAR_NM_Sh_x.description>
-  <HAR_NM_Sh_x.label>探索地幔</HAR_NM_Sh_x.label>
-  <HAR_NM_Sh_r.description>在人工种族的家园迦南星球上开发的尖端设备。 \n它被前沿星球保护组织-ETHOS-用作战斗装备。</HAR_NM_Sh_r.description>
-  <HAR_NM_Sh_r.label>哨兵支持者</HAR_NM_Sh_r.label>
-  <HAR_NM_Tshirt.description>这是一件专门为尼亚美亚制作的T恤，与人类穿的相当，而且在性能上并没有太大的区别，所以我感到有些不安。</HAR_NM_Tshirt.description>
-  <HAR_NM_Tshirt.label>T 恤（尼亚美）</HAR_NM_Tshirt.label>
-  <HAR_NM_Sc_Uniform.description>尼亚美亚在文明等级很高的星球上工作时所穿的校服，因为外貌看起来在学校里很受欢迎。学生也感觉自己是学生，这提高了他们的学习速度。</HAR_NM_Sc_Uniform.description>
-  <HAR_NM_Sc_Uniform.label>校服（尼亚美）</HAR_NM_Sc_Uniform.label>
-  <HAR_NM_SShirts.description>它比专门为尼亚美亚制造的袖子衬衫和T恤具有更高的性能，与人类穿着的衣服相当。</HAR_NM_SShirts.description>
-  <HAR_NM_SShirts.label>有袖衬衫（尼亚美）</HAR_NM_SShirts.label>
-  <HAR_NM_BDress.description>尼亚美尔贵族所穿的高度暴露的漆黑礼服，并不像贵族那样考虑性能。</HAR_NM_BDress.description>
-  <HAR_NM_BDress.label>深夜礼服（尼亚美亚）</HAR_NM_BDress.label>
-  <HAR_NM_WDress.description>尼亚美尔贵族所穿的优雅的纯白色礼服，因为是贵族用的，所以不考虑性能。</HAR_NM_WDress.description>
-  <HAR_NM_WDress.label>白色晚礼服（尼亚美）</HAR_NM_WDress.label>
-  <HAR_NM_China.description>为尼亚美亚定制了某种传统服装，装饰极少，而且服装本身很瘦，易于移动，因此修正了移动速度。</HAR_NM_China.description>
-  <HAR_NM_China.label>中国服装（尼亚美）</HAR_NM_China.label>
-  <HAR_NM_Maid.description>尼亚美亚的工作效率比平时要高，大概是因为她穿着女仆装去讨好有权势的人的缘故吧。</HAR_NM_Maid.description>
-  <HAR_NM_Maid.label>女仆制服（尼亚美）</HAR_NM_Maid.label>
-  <HAR_NM_DLArmor.description>尼亚美亚的战斗服装看起来相当暴露，装甲也很差，但它有一层从装甲上散发出来的薄膜保护。</HAR_NM_DLArmor.description>
-  <HAR_NM_DLArmor.label>暗夜恶魔的轻甲（尼亚美亚）</HAR_NM_DLArmor.label>
-  <HAR_NM_KArmor.description>曾经研究尼亚美亚的一个团体为他们制造了特殊装备，虽然他们的防御力较弱，但他们的感官却增强了，能够采取精确的行动。</HAR_NM_KArmor.description>
-  <HAR_NM_KArmor.label>夜魔的诅咒（尼亚美亚）</HAR_NM_KArmor.label>
-  <HAR_NM_Kimono.description>尼亚美亚的某种传统服装的定制，虽然会减慢行动速度，但由于其独特的优雅，有望提高外交能力。</HAR_NM_Kimono.description>
-  <HAR_NM_Kimono.label>和服（尼亚美）</HAR_NM_Kimono.label>
-  <HAR_NM_Miko.description>这是为尼亚美亚定制的传统服装，虽然移动起来有些困难，但能抵抗温度变化，给人干净的印象，因此可以期待提高社交能力。</HAR_NM_Miko.description>
-  <HAR_NM_Miko.label>巫女服（尼亚美亚）</HAR_NM_Miko.label>
-  <HAR_NM_Itimai.description>就是一大块裹在身上的布，太原始了，不能称为衣服。</HAR_NM_Itimai.description>
-  <HAR_NM_Itimai.label>一块布（尼亚美亚）</HAR_NM_Itimai.label>
-  <HAR_NM_Blouse.description>由于Niamere很注重颜值，所以这件衬衫被布置得很可爱，而且性价比高又好用。</HAR_NM_Blouse.description>
-  <HAR_NM_Blouse.label>衬衫（尼亚美）</HAR_NM_Blouse.label>
-  <HAR_NM_RiderS.description>套装尽量没有多余的装饰，虽然防御和耐温性较低，但移动起来很方便。据说最初是骑摩托车时穿的衣服。</HAR_NM_RiderS.description>
-  <HAR_NM_RiderS.label>骑士套装（尼亚美亚）</HAR_NM_RiderS.label>
-  <HAR_NM_NurseS.description>通过伪装成医疗领域女性所穿的服装，唤醒仁爱精神，削弱战斗相关能力，但提高手术相关能力。</HAR_NM_NurseS.description>
-  <HAR_NM_NurseS.label>护士制服（尼亚美）</HAR_NM_NurseS.label>
-  <HAR_NM_Wear_y.description>Niamea Aradia 专供的衣服。虽然乍一看似乎很薄，但它们比看起来更耐用。</HAR_NM_Wear_y.description>
-  <HAR_NM_Wear_y.label>恶魔软件</HAR_NM_Wear_y.label>
-  <HAR_NM_Wear_x.description>Niamere Wingate 专属服装。它足够耐用，可以承受长途旅行。</HAR_NM_Wear_x.description>
-  <HAR_NM_Wear_x.label>探索意识</HAR_NM_Wear_x.label>
-  <HAR_NM_Wear_r.description>在人工种族的家园迦南星球上开发的尖端设备。 \n它被前沿星球保护组织-ETHOS-用作战斗装备。</HAR_NM_Wear_r.description>
-  <HAR_NM_Wear_r.label>哨兵磨损</HAR_NM_Wear_r.label>
+  <HAR_NM_A_Belt_a.description>属于尼亚米尔教会的尼亚米尔专属的特殊盾牌，被编入的系统使用着造物主的遗产。\n这个机械再现了尼亚米尔拥有的精神能力的一部分，具有自动感知敌人攻击并防御的功能。\n拥有极其坚固的防御性能的同时，却也有者大幅减少使用者灵活性的缺点。</HAR_NM_A_Belt_a.description>
+  <HAR_NM_A_Belt_a.label>辉光之盾(尼亚米尔)</HAR_NM_A_Belt_a.label>
+  <HAR_NM_A_EyeCover_a.description>属于尼亚米尔教会的尼亚米尔专属的身上的光环，象征着造物主的“知识”、“技术”、“精神”三种品质。\n具有强化大脑的能力，尤其是在射击方面的能力有很大提高。\n代价是容易导致精神崩溃，并且因为大脑处理的事情很多导致脚步也变得更慢了。</HAR_NM_A_EyeCover_a.description>
+  <HAR_NM_A_EyeCover_a.label>圣洁光环(尼亚米尔)</HAR_NM_A_EyeCover_a.label>
+  <HAR_NM_A_a.label>心灵装甲(尼亚米尔)</HAR_NM_A_a.label>
+  <HAR_NM_A_a.description>尼亚米尔专用的装甲，比尼亚米尔的巫咒套装性能更高的装备。据说原是造物主还健在时代使用的。</HAR_NM_A_a.description>
+  <HAR_NM_A_b.label>修女服装A款(尼亚米尔)</HAR_NM_A_b.label>
+  <HAR_NM_A_b.description>属于尼亚米尔教会的尼亚米尔专属的服装，乍一看像是修女服装，实际上是强化套装，耐久性比一般的装甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_A_b.description>
+  <HAR_NM_A_c.label>修女服装B款(尼亚米尔)</HAR_NM_A_c.label>
+  <HAR_NM_A_c.description>属于尼亚米尔教会的尼亚米尔专属的服装，乍一看像是修女服装，实际上是强化套装，耐久性比一般的装甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_A_c.description>
+  <HAR_NM_A_d.label>修女服装C款(尼亚米尔)</HAR_NM_A_d.label>
+  <HAR_NM_A_d.description>属于尼亚米尔教会的尼亚米尔专属的服装，乍一看像是修女服装，实际上是强化套装，耐久性比一般的装甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_A_d.description>
+  <HAR_NM_Os_P.description>尼亚米尔们很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_P.description>
+  <HAR_NM_Os_P.label>内衣A款(尼亚米尔)</HAR_NM_Os_P.label>
+  <HAR_NM_Os_Pb.description>尼亚米尔们很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_Pb.description>
+  <HAR_NM_Os_Pb.label>内衣B款(尼亚米尔)</HAR_NM_Os_Pb.label>
+  <HAR_NM_Os_Pc.description>尼亚米尔们很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_Pc.description>
+  <HAR_NM_Os_Pc.label>内衣C款(尼亚米尔)</HAR_NM_Os_Pc.label>
+  <HAR_NM_Os_Pd.description>尼亚米尔们很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_Pd.description>
+  <HAR_NM_Os_Pd.label>内衣D款(尼亚米尔)</HAR_NM_Os_Pd.label>
+  <HAR_NM_Os_Pe.description>尼亚米尔们很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_Pe.description>
+  <HAR_NM_Os_Pe.label>内衣E款(尼亚米尔)</HAR_NM_Os_Pe.label>
+  <HAR_NM_Os_Pf.description>尼亚米尔·魔女系很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_Pf.description>
+  <HAR_NM_Os_Pf.label>内衣·魔女款式(尼亚米尔)</HAR_NM_Os_Pf.label>
+  <HAR_NM_Os_Pg.description>人工种族起源的故乡卡兰德星开发的最新锐的装备。\n在「边缘星球保护机构-信念-」被作为制式战斗装备使用着.</HAR_NM_Os_Pg.description>
+  <HAR_NM_Os_Pg.label>内衣·ETHOS款式(尼亚米尔)</HAR_NM_Os_Pg.label>
+  <HAR_NM_HArmor.description>尼亚米尔的战斗用头部装备，由于特殊的防护膜拥有不属于外表的防御力。</HAR_NM_HArmor.description>
+  <HAR_NM_HArmor.label>轻型头盔(尼亚米尔)</HAR_NM_HArmor.label>
+  <HAR_NM_MCt.description>尼亚米尔成为女仆后而穿戴的女仆发箍，不知为何工作效率会提高。</HAR_NM_MCt.description>
+  <HAR_NM_MCt.label>女仆发箍(尼亚米尔)</HAR_NM_MCt.label>
+  <HAR_NM_MHK.description>色彩丰富的尼亚米尔头饰。</HAR_NM_MHK.description>
+  <HAR_NM_MHK.label>花饰(尼亚米尔)</HAR_NM_MHK.label>
+  <HAR_NM_Cts.description>佩戴起来没有那么张扬的低调头饰。</HAR_NM_Cts.description>
+  <HAR_NM_Cts.label>发箍(尼亚米尔)</HAR_NM_Cts.label>
+  <HAR_NM_MRbn.description>增加可爱感的蝴蝶结丝带，强调自己很可爱时使用。</HAR_NM_MRbn.description>
+  <HAR_NM_MRbn.label>丝带(尼亚米尔)</HAR_NM_MRbn.label>
+  <HAR_NM_Tar.description>高贵之人所戴的王冠。</HAR_NM_Tar.description>
+  <HAR_NM_Tar.label>头冠(尼亚米尔)</HAR_NM_Tar.label>
+  <HAR_NM_HCArmor.description>尼亚米尔们的战斗用头部装备，通过直接对大脑进行感觉强化，可以进行更精确的运动。</HAR_NM_HCArmor.description>
+  <HAR_NM_HCArmor.label>巫咒之盔(尼亚米尔)</HAR_NM_HCArmor.label>
+  <HAR_NM_AH_f.description>尼亚米尔专用的头部盔甲，比尼亚米尔的巫咒套装性能更高的装备。据说原是造物主还健在时代使用的。</HAR_NM_AH_f.description>
+  <HAR_NM_AH_f.label>心灵头盔(尼亚米尔)</HAR_NM_AH_f.label>
+  <HAR_NM_AH_g.description>属于尼亚米尔教会的尼亚米尔专属的服装，乍一看像是修女头巾，实际上是强化套装，耐久性比一般的护甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_AH_g.description>
+  <HAR_NM_AH_g.label>修女头巾(尼亚米尔)</HAR_NM_AH_g.label>
+  <HAR_NM_AH_h.description>让人联想起尼亚米尔·魔女系的帽子，不知道为什么要做成这样的形状。</HAR_NM_AH_h.description>
+  <HAR_NM_AH_h.label>魔女之帽(尼亚米尔)</HAR_NM_AH_h.label>
+  <HAR_NM_AH_x.description>尼亚米尔·神秘系的专用帽子。为了能经受长途旅行从而做得经久耐用。</HAR_NM_AH_x.description>
+  <HAR_NM_AH_x.label>旅者之帽（尼亚米尔）</HAR_NM_AH_x.label>
+  <HAR_NM_AH_r.description>人工种族起源的故乡卡兰德星开发的最新锐的装备。\n在「边缘星球保护机构-信念-」被作为制式战斗装备使用着.</HAR_NM_AH_r.description>
+  <HAR_NM_AH_r.label>ETHOS头饰型增幅器（尼亚米尔）</HAR_NM_AH_r.label>
+  <HAR_NM_Sh_K.description>柔弱的尼亚米尔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_K.description>
+  <HAR_NM_Sh_K.label>披衣(尼亚米尔)</HAR_NM_Sh_K.label>
+  <HAR_NM_Sh_Kb.description>柔弱的尼亚米尔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_Kb.description>
+  <HAR_NM_Sh_Kb.label>披风(尼亚米尔)</HAR_NM_Sh_Kb.label>
+  <HAR_NM_Sh_Kc.description>柔弱的尼亚米尔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_Kc.description>
+  <HAR_NM_Sh_Kc.label>大衣(尼亚米尔)</HAR_NM_Sh_Kc.label>
+  <HAR_NM_Sh_Kd.description>柔弱的尼亚米尔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_Kd.description>
+  <HAR_NM_Sh_Kd.label>风衣(尼亚米尔)</HAR_NM_Sh_Kd.label>
+  <HAR_NM_Sh_Ke.description>柔弱的尼亚米尔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_Ke.description>
+  <HAR_NM_Sh_Ke.label>外套(尼亚米尔)</HAR_NM_Sh_Ke.label>
+  <HAR_NM_Sh_Ho.description>柔弱的尼亚米尔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_Ho.description>
+  <HAR_NM_Sh_Ho.label>羽织服装(尼亚米尔)</HAR_NM_Sh_Ho.label>
+  <HAR_NM_Sh_SKo.description>柔弱的尼亚米尔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_SKo.description>
+  <HAR_NM_Sh_SKo.label>短披风(尼亚米尔)</HAR_NM_Sh_SKo.label>
+  <HAR_NM_Sh_BKo.description>以尼亚米尔独特的能量作为能源而具有强力的伤害减轻效果的屏障发生装置，战斗非常有用，但是缺点是非常容易坏掉且温度耐性完全没有。</HAR_NM_Sh_BKo.description>
+  <HAR_NM_Sh_BKo.label>外套屏障(尼亚米尔)</HAR_NM_Sh_BKo.label>
+  <HAR_NM_Sh_Cry.description>尼亚米尔·魔女系爱用的谜之水晶。流淌环绕着有像是水一样的神秘液体，可以用来抵挡敌对者的攻击。</HAR_NM_Sh_Cry.description>
+  <HAR_NM_Sh_Cry.label>魔女水晶(尼亚米尔)</HAR_NM_Sh_Cry.label>
+  <HAR_NM_Sh_x.description>尼亚米尔·神秘系的专用外套。为了能经受长途旅行从而做得经久耐用。</HAR_NM_Sh_x.description>
+  <HAR_NM_Sh_x.label>旅者外套（尼亚米尔）</HAR_NM_Sh_x.label>
+  <HAR_NM_Sh_r.description>人工种族起源的故乡卡兰德星开发的最新锐的装备。\n在「边缘星球保护机构-信念-」被作为制式战斗装备使用着.</HAR_NM_Sh_r.description>
+  <HAR_NM_Sh_r.label>ETHOS外附型增幅器（尼亚米尔）</HAR_NM_Sh_r.label>
+  <HAR_NM_Tshirt.description>尼亚米尔专用的T恤衫，和人类穿的一样，性能方面也没有太大的差别，所以有点不放心。</HAR_NM_Tshirt.description>
+  <HAR_NM_Tshirt.label>T恤衫(尼亚米尔)</HAR_NM_Tshirt.label>
+  <HAR_NM_Sc_Uniform.description>在文明水平较高的星球上活动时，尼亚米尔所穿的学生服装，加上她们的外貌，在学院里很受欢迎。因为有了学生气，学习速度也提高了。</HAR_NM_Sc_Uniform.description>
+  <HAR_NM_Sc_Uniform.label>学生服装(尼亚米尔)</HAR_NM_Sc_Uniform.label>
+  <HAR_NM_SShirts.description>尼亚米尔专用的带袖衬衫，比人类穿着的同等带袖衬衫性能更高。</HAR_NM_SShirts.description>
+  <HAR_NM_SShirts.label>带袖衬衫(尼亚米尔)</HAR_NM_SShirts.label>
+  <HAR_NM_BDress.description>尼亚米尔的贵族身上穿着的暴露度高的深邃的黑色礼服装，因为是贵族用，所以性能方面没有被考虑。</HAR_NM_BDress.description>
+  <HAR_NM_BDress.label>黑夜晚礼服装(尼亚米尔)</HAR_NM_BDress.label>
+  <HAR_NM_WDress.description>尼亚米尔的贵族身上穿着的暴露度高的圣洁的纯白礼服装，因为是贵族用，所以性能方面没有被考虑。</HAR_NM_WDress.description>
+  <HAR_NM_WDress.label>白夜晚礼服装(尼亚米尔)</HAR_NM_WDress.label>
+  <HAR_NM_China.description>某个神秘的派系为尼亚米尔定制的专用的传统的服装，服装最大限度的遮盖了所有敏感部位，却又有着极大的魅力，且因为用料少而轻便，移动速度得到提升了。</HAR_NM_China.description>
+  <HAR_NM_China.label>旗袍(尼亚米尔)</HAR_NM_China.label>
+  <HAR_NM_Maid.description>尼亚米尔作为曾经统治者随从时所配置的通用女仆服装，因为是女仆的缘故工作效率也比平时提高。</HAR_NM_Maid.description>
+  <HAR_NM_Maid.label>通用女仆服装(尼亚米尔)</HAR_NM_Maid.label>
+  <HAR_NM_DLArmor.description>尼亚米尔的战斗用服装，外表上看起来暴露度相当高，而且装甲好像很低，但是可以产生一层薄薄的保护屏障保护穿戴者，防御力比看上去高多了。</HAR_NM_DLArmor.description>
+  <HAR_NM_DLArmor.label>轻型战斗服装(尼亚米尔)</HAR_NM_DLArmor.label>
+  <HAR_NM_KArmor.description>曾经研究尼亚米尔的一派为她们制作的专用装备，防御力比战斗服装弱但取而代之的是以各感觉被强化，能够更敏捷的行动。</HAR_NM_KArmor.description>
+  <HAR_NM_KArmor.label>咒令装(尼亚米尔)</HAR_NM_KArmor.label>
+  <HAR_NM_Kimono.description>某个派系为尼亚米尔定制的专用的传统的服装，动作会变得迟钝但是拥有独特的气质，可以期待外交能力的提高。</HAR_NM_Kimono.description>
+  <HAR_NM_Kimono.label>和服装(尼亚米尔)</HAR_NM_Kimono.label>
+  <HAR_NM_Miko.description>某个派系为尼亚米尔定制的专用的传统的服装，虽然活动不便，但对温度变化的抵抗力强，给人一种干净的印象，因此可以期待社交能力的提高。</HAR_NM_Miko.description>
+  <HAR_NM_Miko.label>巫女服装(尼亚米尔)</HAR_NM_Miko.label>
+  <HAR_NM_Itimai.description>就只是把大片的布料缠在身上，称之为服装未免也太原始了。</HAR_NM_Itimai.description>
+  <HAR_NM_Itimai.label>遮体布(尼亚米尔)</HAR_NM_Itimai.label>
+  <HAR_NM_Blouse.description>在意外表的尼亚米尔故意使自己看起来可爱而使用的衬衫，性价比很好的同时又很百搭，因此各种场合都很适用。</HAR_NM_Blouse.description>
+  <HAR_NM_Blouse.label>衬衫(尼亚米尔)</HAR_NM_Blouse.label>
+  <HAR_NM_RiderS.description>尽量去掉多余装饰的服装饰，防御力和温度耐受性都很低，但也因此很方便身体活动。据说原本是摩托车手赛车时穿的服装。</HAR_NM_RiderS.description>
+  <HAR_NM_RiderS.label>赛车服装(尼亚米尔)</HAR_NM_RiderS.label>
+  <HAR_NM_NurseS.description>从事医疗工作的女性所穿的服装，似乎能唤醒内心深处博爱的精神。战斗相关的能力减弱，但是医疗相关的能力提高。</HAR_NM_NurseS.description>
+  <HAR_NM_NurseS.label>护士服装(尼亚米尔)</HAR_NM_NurseS.label>
+  <HAR_NM_Wear_y.description>尼亚米尔·魔女系专用的服装，乍一看好像非常薄感觉跟没穿一样，但是拥有比外观夸张得多的耐久和防御力。</HAR_NM_Wear_y.description>
+  <HAR_NM_Wear_y.label>魔女之衣(尼亚米尔)</HAR_NM_Wear_y.label>
+  <HAR_NM_Wear_x.description>尼亚米尔·神秘系的专用服装。为了能经受长途旅行从而做得经久耐用。</HAR_NM_Wear_x.description>
+  <HAR_NM_Wear_x.label>旅者之衣（尼亚米尔）</HAR_NM_Wear_x.label>
+  <HAR_NM_Wear_r.description>人工种族起源的故乡卡兰德星开发的最新锐的装备。\n在「边缘星球保护机构-信念-」被作为制式战斗装备使用着.</HAR_NM_Wear_r.description>
+  <HAR_NM_Wear_r.label>ETHOS之衣（尼亚米尔）</HAR_NM_Wear_r.label>
   <NM_M_NightStalker_Base.label>夜行者</NM_M_NightStalker_Base.label>
-  <NM_M_NightStalker_Base.description>尼亚美亚的后裔，杀伤力不如座狼，但动作极其敏捷，难以逃脱。 \n爪子和獠牙含有剧毒，所以被瞄准的人必须小心，即使击退它们，剧毒也会伤害他们。</NM_M_NightStalker_Base.description>
-  <NM_M_NightStalker.label>Lv1。暗夜魔王</NM_M_NightStalker.label>
-  <NM_M_NightStalker_b.label>Lv2。暗夜魔王</NM_M_NightStalker_b.label>
-  <NM_M_NightStalker_c.label>Lv3。暗夜魔王</NM_M_NightStalker_c.label>
-  <NM_M_NightStalker_d.label>Lv4。暗夜魔王</NM_M_NightStalker_d.label>
-  <NM_M_NightStalker_e.label>Lv5。暗夜魔王</NM_M_NightStalker_e.label>
-  <NM_M_NightGaunts_Base.label>夜憔悴</NM_M_NightGaunts_Base.label>
-  <NM_M_NightGaunts_Base.description>作为尼亚美亚的后裔，它的触手具有引起温度快速变化的结构和特性，被它蜇过的人要么被剥夺热量，要么被注入足够的热量来点燃。</NM_M_NightGaunts_Base.description>
-  <NM_M_NightGaunts.label>Lv1。夜憔悴</NM_M_NightGaunts.label>
-  <NM_M_NightGaunts_b.label>Lv2。夜憔悴</NM_M_NightGaunts_b.label>
-  <NM_M_NightGaunts_c.label>Lv3。夜憔悴</NM_M_NightGaunts_c.label>
-  <NM_M_NightGaunts_d.label>Lv4。夜憔悴</NM_M_NightGaunts_d.label>
-  <NM_M_NightGaunts_e.label>Lv5。夜憔悴</NM_M_NightGaunts_e.label>
+  <NM_M_NightStalker_Base.description>尼亚米尔的后裔，杀伤力不如座狼，但动作极其敏捷，难以逃脱。 \n爪子和獠牙含有剧毒，所以被瞄准的人必须小心，即使击退它们，剧毒也会伤害他们。</NM_M_NightStalker_Base.description>
+  <NM_M_NightStalker.label>1级.夜潜猎手</NM_M_NightStalker.label>
+  <NM_M_NightStalker_b.label>等级2.夜潜猎手</NM_M_NightStalker_b.label>
+  <NM_M_NightStalker_c.label>等级3.夜潜猎手</NM_M_NightStalker_c.label>
+  <NM_M_NightStalker_d.label>等级4.夜潜猎手</NM_M_NightStalker_d.label>
+  <NM_M_NightStalker_e.label>等级5.夜潜猎手</NM_M_NightStalker_e.label>
+  <NM_M_NightGaunts_Base.label>夜魇</NM_M_NightGaunts_Base.label>
+  <NM_M_NightGaunts_Base.description>作为尼亚米尔的后裔，它的触手具有引起温度快速变化的结构和特性，被它蜇过的人要么被剥夺热量，要么被注入足够的热量来点燃。</NM_M_NightGaunts_Base.description>
+  <NM_M_NightGaunts.label>1级.噩梦骇兽</NM_M_NightGaunts.label>
+  <NM_M_NightGaunts_b.label>等级2.噩梦骇兽</NM_M_NightGaunts_b.label>
+  <NM_M_NightGaunts_c.label>等级3.噩梦骇兽</NM_M_NightGaunts_c.label>
+  <NM_M_NightGaunts_d.label>等级4.噩梦骇兽</NM_M_NightGaunts_d.label>
+  <NM_M_NightGaunts_e.label>等级5.噩梦骇兽</NM_M_NightGaunts_e.label>
   <NM_M_Nightmare_Base.label>恶梦</NM_M_Nightmare_Base.label>
-  <NM_M_Nightmare_Base.description>尼亚美亚的附庸，以凶猛的硬度而自豪，利用庞大的身躯给予对方无法反击的强力一击。</NM_M_Nightmare_Base.description>
-  <NM_M_Nearmaere.label>Lv1.噩梦</NM_M_Nearmaere.label>
-  <NM_M_Nightmare.label>Lv1.噩梦</NM_M_Nightmare.label>
-  <NM_M_Nightmare_b.label>Lv2.噩梦</NM_M_Nightmare_b.label>
-  <NM_M_Nightmare_c.label>Lv3.噩梦</NM_M_Nightmare_c.label>
-  <NM_M_Nightmare_d.label>Lv4.噩梦</NM_M_Nightmare_d.label>
-  <NM_M_Nightmare_e.label>Lv5.噩梦</NM_M_Nightmare_e.label>
-  <HAR_NM_M_KUT_Base.description>它是尼亚美亚的后裔，是尼亚美亚对其创造者信仰的体现。 \n\n与普通尼亚美亚召唤的随从相比，攻击性稍差，但耐久度极佳，可以维持三天的存在。 \n而且，或许是因为对机械生命体怀有仇恨，所以它的攻击也具有使机器短路的能力。</HAR_NM_M_KUT_Base.description>
-  <HAR_NM_TES_a.label>鹤江莎</HAR_NM_TES_a.label>
-  <HAR_NM_TES_a.description>曾经由人工种族的创造者创造的生命体。 \n据说它具有出色的运输能力，在迦南历来受到重视。 \n由于它是在漂浮时移动，所以移动速度非常快，与其巨大的体型相称。 \n攻击性能相当低，可能是因为它的功能主要集中在承载能力上。</HAR_NM_TES_a.description>
+  <NM_M_Nightmare_Base.description>尼亚米尔的附庸，以凶猛的硬度而自豪，利用庞大的身躯给予对方无法反击的强力一击。</NM_M_Nightmare_Base.description>
+  <NM_M_Nearmaere.label>1级.永夜巨兽</NM_M_Nearmaere.label>
+  <NM_M_Nightmare.label>1级.永夜巨兽</NM_M_Nightmare.label>
+  <NM_M_Nightmare_b.label>等级2.永夜巨兽</NM_M_Nightmare_b.label>
+  <NM_M_Nightmare_c.label>等级3.永夜巨兽</NM_M_Nightmare_c.label>
+  <NM_M_Nightmare_d.label>等级4.永夜巨兽</NM_M_Nightmare_d.label>
+  <NM_M_Nightmare_e.label>等级5.永夜巨兽</NM_M_Nightmare_e.label>
+  <HAR_NM_M_KUT_Base.description>它是尼亚米尔的后裔，是尼亚米尔对其创造者信仰的体现。 \n\n与普通尼亚米尔召唤的随从相比，攻击性稍差，但耐久度极佳，可以维持三天的存在。 \n而且，或许是因为对机械生命体怀有仇恨，所以它的攻击也具有使机器短路的能力。</HAR_NM_M_KUT_Base.description>
+  <HAR_NM_TES_a.label>茨鲁埃萨</HAR_NM_TES_a.label>
+  <HAR_NM_TES_a.description>人工种族的造物主曾经创造的生命体。\n搬运能力很强，在卡兰德星经常被珍视。\n因为是漂浮着移动的，所以移动速度与看起来巨大的身体并不匹配，速度很快。\n可能是因为在搬运能力上进行了特化，攻击能力相当低。</HAR_NM_TES_a.description>
   <HAR_NM_M_KZU_Base.description>被超乎人类认知的超能力者拯救的人，已经没有任何残骸和灵魂，无论如何也不可能恢复到原来的状态。 \n他只是在发呆，重复着留在体内的条件反射动作。 \n然而，杀死或伤害它们已经变得极其困难，也许是因为它们不再被归类为生物。 \n\n只要一天的时间，它就无法再维持无魂的躯体，而自毁。</HAR_NM_M_KZU_Base.description>
-  <HAR_NM_M_XXX.description>尼亚美亚·阿拉迪亚从宇宙深处召唤出来的超级存在。 \n这个人的名字被隐去，因为如果没有资格的人试图将其记住在大脑中，将会造成致命的差异并导致精神崩溃。 \n据说她与利托鲁纳召唤的对象“空海美间”是同一家族的成员，有着与那个人相似的温柔气质。 \n被这个超级生命感知的人，立刻就会因为未知的干扰而停止移动，最终变成肉块般的怪物。 \n尼米亚·阿拉迪亚似乎能够与这个超级存在进行交流，并且已经能够摆脱它的影响或异常现象。 \n\n基本上，尼亚美亚·阿拉迪亚是在不传递身份的情况下进行召唤的，所以它对敌友都进行无差别的干扰，但同样可以与超级存在进行交流的利托鲁纳和奎利拉王族可以承受这种干扰。 \n无论怎么看，这都是一种只会带来灾难的召唤方式，不过这也是可以理解的。女孩们在使用这种召唤时，都明白这无非是“清理玩具”。\n对于她们来说，这个超级存在不过是一种方便的杀戮武器。 \n这就是为什么女巫徒劳地建造尸体，并且会继续随心所欲地这样做。</HAR_NM_M_XXX.description>
-  <HAR_NM_Archotech_a.label>女巫的棺材</HAR_NM_Archotech_a.label>
-  <HAR_NM_Archotech_a.description>棺材里装着被人工种族称为“棺材领主”的女巫。 \n在Entelecheia，他被认为是大罪人，据说拥有独特的魔法。 \n打开它，你就可以释放她并加入殖民地。 \n\n作为一名女巫，她将对殖民地的人际关系产生很大的影响。</HAR_NM_Archotech_a.description>
-  <HAR_NM_Archotech_b.description>允许 ETHOS 派遣人员的通信设备。 \n通过使用它，Niamea Nemeseia 将成为您殖民地的成员。</HAR_NM_Archotech_b.description>
-  <HAR_NM_Proj_GrenadeFrag.label>诺托斯手榴弹</HAR_NM_Proj_GrenadeFrag.label>
-  <HAR_NM_BroadshieldProjector.label>阿克里西奥斯之盾</HAR_NM_BroadshieldProjector.label>
-  <HAR_NM_BroadshieldProjector.description>一种小型、低角度的盾牌，可有效防御简单的子弹。 \n与传统的低角度护盾相比，射程更窄，但部署时间却长了三倍。 \n缺点是护盾较小，容易受到爆炸的伤害。</HAR_NM_BroadshieldProjector.description>
-  <HAR_NM_TrapIED_HighExplosive.label>安塔瑞斯双刃剑</HAR_NM_TrapIED_HighExplosive.label>
-  <HAR_NM_TrapIED_HighExplosive.description>尼亚美亚·奈美塞亚召唤的地雷。 \n如果踩到它或对其施加冲击，半径 6 格内就会发生爆炸。</HAR_NM_TrapIED_HighExplosive.description>
-  <HAR_NM_Bullet_Shell_HighExplosive_Base.label>尤里图斯·卡农</HAR_NM_Bullet_Shell_HighExplosive_Base.label>
-  <HAR_NM_VanometricPowerCell.label>差值发生器</HAR_NM_VanometricPowerCell.label>
-  <HAR_NM_VanometricPowerCell.description>由人工种族的神子利特里娜·迪纳米斯开发的发电机。 \n它利用不断膨胀的宇宙的引力来发电，不需要燃料。 \n对殖民地管理非常有效，但要注意资产价值很高。</HAR_NM_VanometricPowerCell.description>
-  <HAR_NM_Filth_FireFoam_a.label>沸腾的奇坎</HAR_NM_Filth_FireFoam_a.label>
-  <HAR_NM_Filth_FireFoam_a.description>产生超低温区域的力场。 \n破坏中央核心后或者半天后，能量场就会自然消失。</HAR_NM_Filth_FireFoam_a.description>
-  <Geist_Knife.label>绑定刀片“Geist”</Geist_Knife.label>
-  <Geist_Knife.description>它是一种装置和飞刀，可以增强尼亚美亚的幻觉能力，导致精神错乱，使被它刺伤的人的行动减慢。</Geist_Knife.description>
-  <Geist_Knife_Projectile.label>绑定刀片“Geist”</Geist_Knife_Projectile.label>
-  <Larva_SKnife.label>拥有剑“拉尔瓦”</Larva_SKnife.label>
-  <Larva_SKnife.description>增强尼亚美亚幻觉能力的装置和射击武器。特种部队刀是绑定刀片“Geist”的强化衍生版本，拥有高性能的发射机构和飞向目标的诅咒刀片，即使在很远的距离也能击中对手。</Larva_SKnife.description>
-  <Larva_SKnife_Projectile.label>拥有剑“拉尔瓦”</Larva_SKnife_Projectile.label>
-  <Rugeiyu_Pila.label>魔枪“鲁吉耶”</Rugeiyu_Pila.label>
-  <Rugeiyu_Pila.description>增强尼亚美亚幻觉能力的装置和投掷武器。向敌人投掷威力较低但具有幻觉效果的克隆矛五次。</Rugeiyu_Pila.description>
-  <Rugeiyu_Pilum_Thrown.label>魔枪“鲁吉耶”</Rugeiyu_Pilum_Thrown.label>
-  <Nearmaere_WildHunt.label>梦之杖“狂猎”</Nearmaere_WildHunt.label>
-  <Nearmaere_WildHunt.description>它是一种增强尼亚美亚幻觉能力的装置，是一种反军事武器。它可以从极远的距离释放出大范围的洗脑伤害，迫使对手狂暴自相残杀。但威力很低，开火需要相当长的时间，如果对手快速推进，就很难准确瞄准。</Nearmaere_WildHunt.description>
-  <Nearmaere_WildHunt_B.label>梦之杖“狂猎”</Nearmaere_WildHunt_B.label>
-  <Gun_AssaultRifle_NM.label>谢菲特轨道炮</Gun_AssaultRifle_NM.label>
-  <Gun_AssaultRifle_NM.description>继承了创造者知识的阿勒提亚教会和继承了技术的亚人工业共同创造的超电磁炮。 \n搭载机械再现的召唤能力，从远距离高速发射搭载召唤纳米机械的子弹。 \n它具有出色的破坏力、穿透力和射速，但其主要缺点是机动困难，且后坐力巨大，精度很低。</Gun_AssaultRifle_NM.description>
-  <Bullet_AssaultRifle_NM.label>谢菲特轨道炮</Bullet_AssaultRifle_NM.label>
-  <HAR_NM_Weapon_Gun_a.label>采瓦特步枪</HAR_NM_Weapon_Gun_a.label>
-  <HAR_NM_Weapon_Gun_a.description>在人造种族的诞生地迦南星球上使用的步枪。 \n高侵彻力、稳定火力可期。 \n问题是有点难处理。 \n\nTsevaot 步枪具有出色的速射能力和射程，并且在任何距离都具有很高的精度。 \n还配备了一把剑，可以在紧急情况下进行近战。</HAR_NM_Weapon_Gun_a.description>
-  <HAR_NM_Weapon_Gun_b.label>格塞姆霰弹枪</HAR_NM_Weapon_Gun_b.label>
-  <HAR_NM_Weapon_Gun_b.description>在人造种族的诞生地迦南星球上使用的霰弹枪。 \n高侵彻力、稳定火力可期。 \n问题是有点难处理。 \n\n格塞姆霰弹枪虽然射程较短，但破坏力却十分强大，足以轻松碾碎机械生命体。</HAR_NM_Weapon_Gun_b.description>
-  <HAR_NM_Weapon_Sword_a.label>米什马尔边缘</HAR_NM_Weapon_Sword_a.label>
-  <HAR_NM_Weapon_Sword_a.description>在人造种族的诞生地迦南星球上使用的剑。 \n高侵彻力、稳定火力可期。 \n它更注重维持角色而不是歼灭，并且有能力提高近战角色所需的能力。</HAR_NM_Weapon_Sword_a.description>
+  <HAR_NM_M_XXX.description>尼亚米尔·阿拉迪亚从宇宙深渊召来的超存在。其真名会令没有资质者在记忆时产生致命认知错位并引发精神崩溃，因此被隐去。
+
+据说祂与里托鲁纳召唤的“空海大人”属于同族，性情同样温和。进入其感知范围者会因原理不明的干涉立即停止行动，最终化为肉块般的怪物。阿拉迪亚似乎能够与祂交流，因此不受这种异常影响。
+
+阿拉迪亚通常不会向召唤物传递敌我识别，干涉会无差别波及双方；同样能够与超存在交流的里托鲁纳与夸里拉王族则可以承受这种影响。她们仅把这种足以酿成大灾难的召唤视为“收拾玩具”，把超存在当成方便的杀戮兵器。女巫过去如此堆起尸山，今后也会继续随心所欲。</HAR_NM_M_XXX.description>
+  <HAR_NM_Archotech_a.label>魔女之棺</HAR_NM_Archotech_a.label>
+  <HAR_NM_Archotech_a.description>封印了被人工种族们称为“棺之君主”的魔女之棺。\n被认为是罪不可赦的大罪人，据说能自行使用独特的法术。\n如果解开封印的话可以解放她并且让她加入殖民地。\n\n作为魔女，她会对殖民地的人际关系产生很大的影响。</HAR_NM_Archotech_a.description>
+  <HAR_NM_Archotech_b.description>可以向ETHOS邀请派遣入驻人员的通信机。\n使用之后，一名ETHOS改良系尼亚米尔作为伙伴加入殖民地。</HAR_NM_Archotech_b.description>
+  <HAR_NM_Proj_GrenadeFrag.label>召唤的手雷</HAR_NM_Proj_GrenadeFrag.label>
+  <HAR_NM_BroadshieldProjector.label>召唤的护盾</HAR_NM_BroadshieldProjector.label>
+  <HAR_NM_BroadshieldProjector.description>仅对单纯子弹有效的小范围的低角护盾。与以往的护盾背包相比，范围很小，且具有3倍的展开时间。\n缺陷是防护范围小，所以无法防御爆炸伤害。</HAR_NM_BroadshieldProjector.description>
+  <HAR_NM_TrapIED_HighExplosive.label>召唤的地雷</HAR_NM_TrapIED_HighExplosive.label>
+  <HAR_NM_TrapIED_HighExplosive.description>尼亚米尔·改良系召唤的地雷。\n踩上去或施加冲击时，会发生半径6格的爆炸。</HAR_NM_TrapIED_HighExplosive.description>
+  <HAR_NM_Bullet_Shell_HighExplosive_Base.label>欧律托斯炮</HAR_NM_Bullet_Shell_HighExplosive_Base.label>
+  <HAR_NM_VanometricPowerCell.label>里托鲁纳发电机</HAR_NM_VanometricPowerCell.label>
+  <HAR_NM_VanometricPowerCell.description>人工种族神子里托鲁纳·迪纳米斯开发的发电机。它利用持续膨胀的宇宙引力发电，无需燃料。对殖民地运营十分有用，但市场价值很高，需要留意。</HAR_NM_VanometricPowerCell.description>
+  <HAR_NM_Filth_FireFoam_a.label>极寒力场（扩散）</HAR_NM_Filth_FireFoam_a.label>
+  <HAR_NM_Filth_FireFoam_a.description>产生超低温区域的力场。\n破坏中央的核心或半天后自然消失。</HAR_NM_Filth_FireFoam_a.description>
+  <Geist_Knife.label>縛刃『盖斯特』</Geist_Knife.label>
+  <Geist_Knife.description>一种放大尼亚米尔幻觉能力的投掷武器，被投掷的刀子刺伤的敌人不仅会减慢运动速度，并且还会导致精神混乱。</Geist_Knife.description>
+  <Geist_Knife_Projectile.label>縛刃『盖斯特』</Geist_Knife_Projectile.label>
+  <Larva_SKnife.label>憑剣『拉尔夫』</Larva_SKnife.label>
+  <Larva_SKnife.description>一种放大尼亚米尔幻觉能力的射击武器，通过使縛刃『盖斯特』强化派生出来的一种高性能射击武器，使用诅咒的剑刃飞向目标，其精确度足以命中远距离对手。</Larva_SKnife.description>
+  <Larva_SKnife_Projectile.label>憑剣『拉尔夫』</Larva_SKnife_Projectile.label>
+  <Rugeiyu_Pila.label>魔槍『勒盖耶』</Rugeiyu_Pila.label>
+  <Rugeiyu_Pila.description>一种放大尼亚米尔幻觉能力的投掷武器，威力很低但是有极强的幻觉作用，还可以分身可以对敌人进行连续的5次打击。</Rugeiyu_Pila.description>
+  <Rugeiyu_Pilum_Thrown.label>魔槍『勒盖耶』</Rugeiyu_Pilum_Thrown.label>
+  <Nearmaere_WildHunt.label>夢杖『荒猎』</Nearmaere_WildHunt.label>
+  <Nearmaere_WildHunt.description>通过极大加强尼亚米尔的幻觉能力的而生产的装备，拥有超远距离的超大范围的攻击用于对抗军队级别的敌人,被攻击到的人会无法控制自己的无差别狂暴,但本身威力非常低,而且还需要进行非常长的准备发射时间，因此，很难对付高速的成堆敌人。</Nearmaere_WildHunt.description>
+  <Nearmaere_WildHunt_B.label>夢杖『荒猎』</Nearmaere_WildHunt_B.label>
+  <Gun_AssaultRifle_NM.label>魑枪『郄浍墮狱』</Gun_AssaultRifle_NM.label>
+  <Gun_AssaultRifle_NM.description>这是由继承了造物主知识的尼亚米尔们和继承技术的亚人工业合作制作而成的高科技武器。在微小的纳米机器上再现了尼亚米尔的独特能力,将负载能力的纳米机器装载弹从远距离上高速射击。虽然子弹同时拥有高速高贯穿高破坏性的极强性能,但由于后坐力极其严重,命中率也非常低下。</Gun_AssaultRifle_NM.description>
+  <Bullet_AssaultRifle_NM.label>魑枪『郄浍墮狱』</Bullet_AssaultRifle_NM.label>
+  <HAR_NM_Weapon_Gun_a.label>卡兰德星步枪</HAR_NM_Weapon_Gun_a.label>
+  <HAR_NM_Weapon_Gun_a.description>人工种族起源的故乡卡兰德星所使用的步枪。\n有极高的穿透性和稳定的输出火力。\n缺陷是它的制作难度和成本。\n\n卡兰德星步枪的连射、射程都极其出色，无论在哪个距离都有很高的命中精度。\n附带着刺剑，紧急情况下也可以拔出进行近战。</HAR_NM_Weapon_Gun_a.description>
+  <HAR_NM_Weapon_Gun_b.label>卡兰德星霰弹枪</HAR_NM_Weapon_Gun_b.label>
+  <HAR_NM_Weapon_Gun_b.description>人工种族起源的故乡卡兰德星所使用的霰弹枪。\n有极高的穿透性和稳定的输出火力。\n缺陷是它的制作难度和成本。\n\n虽然射程很短，但其威力甚至能够轻易粉碎重型机械族的坚实防护</HAR_NM_Weapon_Gun_b.description>
+  <HAR_NM_Weapon_Sword_a.label>卡兰德星剑</HAR_NM_Weapon_Sword_a.label>
+  <HAR_NM_Weapon_Sword_a.description>人工种族起源的故乡卡兰德星所使用的剑。\n有极高的穿透性和轻便的操作性能。\n比起攻击更重视重心的维持，具有提高接近目标敌人所需要的能力的功能。</HAR_NM_Weapon_Sword_a.description>
 </LanguageData>

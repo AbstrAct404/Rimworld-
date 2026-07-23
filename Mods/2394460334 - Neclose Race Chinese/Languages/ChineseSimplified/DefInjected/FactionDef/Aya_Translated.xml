@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Neclose_P_Faction.label>死灵隐藏村庄</Neclose_P_Faction.label>
+  <Neclose_P_Faction.label>死灵的隐居之处</Neclose_P_Faction.label>
   <Neclose_P_Faction.pawnSingular>死灵</Neclose_P_Faction.pawnSingular>
-  <Neclose_P_Faction.description>死灵聚集并安静生活的村庄。</Neclose_P_Faction.description>
-  <Neclose_Faction_NPC.label>涅克洛斯_Faction</Neclose_Faction_NPC.label>
-  <Neclose_Faction_NPC.description>死灵居住的被细菌污染的区域的名称或居住在那里的人群的名称。它忠实地遵循其前创建者“起到威慑作用”的指示，不主动采取任何侵略行为，并保持中立。但一旦受到攻击，它就会释放出隐藏在体内的细菌和血液，捕食敌人。</Neclose_Faction_NPC.description>
+  <Neclose_P_Faction.description>死灵们聚集在一起愉快生活的地方。</Neclose_P_Faction.description>
+  <Neclose_Faction_NPC.label>死灵派系</Neclose_Faction_NPC.label>
+  <Neclose_Faction_NPC.description>死灵们居住的、被细菌污染的地区名称，也是生活在其上的生物的集团名称。忠实地遵从曾经的创造者“保持威慑”的指示，保持中立，不进行对外侵略行为。但是，一旦她们受到攻击，就会立刻将身体内隐藏的致命细菌和怪异血肉释放出来，将敌人残杀殆尽。</Neclose_Faction_NPC.description>
   <Neclose_Faction_NPC.pawnSingular>死灵</Neclose_Faction_NPC.pawnSingular>
-  <Neclose_Faction_NPC.fixedName>迪斯帕特尔</Neclose_Faction_NPC.fixedName>
-  <Neclose_Faction_NPC_b.label>那些黑暗的人</Neclose_Faction_NPC_b.label>
+  <Neclose_Faction_NPC.fixedName>牧菌战团</Neclose_Faction_NPC.fixedName>
+  <Neclose_Faction_NPC_b.label>昏暗之物</Neclose_Faction_NPC_b.label>
   <Neclose_Faction_NPC_b.pawnSingular>死灵</Neclose_Faction_NPC_b.pawnSingular>
-  <Neclose_Faction_NPC_b.fixedName>那些黑暗的人</Neclose_Faction_NPC_b.fixedName>
+  <Neclose_Faction_NPC_b.fixedName>昏暗之物</Neclose_Faction_NPC_b.fixedName>
 </LanguageData>

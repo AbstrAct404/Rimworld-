@@ -1,23 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <BOSS_RQ_Scratch.label>超振动刀片</BOSS_RQ_Scratch.label>
-  <BOSS_RQ_Scratch.labelNoun>超振动刀片</BOSS_RQ_Scratch.labelNoun>
-  <BOSS_RQ_Scratch.description>超振动刀片</BOSS_RQ_Scratch.description>
-  <BOSS_RQ_Hediff_b.description>由于精神干扰，虽然只是很短的时间，但他的运动功能却因思维走神而明显下降。</BOSS_RQ_Hediff_b.description>
-  <BOSS_RQ_Hediff_Gone_Error_a.description>渡星鸟对生灵的捕食行为\n灵魂被储存在大鸟的胃里，身体消失在太空中。 \n\n\n\n我当然会吃，但是如果我不吃为我准备的晚餐，那就太不礼貌了。</BOSS_RQ_Hediff_Gone_Error_a.description>
-  <BOSS_RQ_Hediff_Z_a.label>小鸟叽叽喳喳地叫着</BOSS_RQ_Hediff_Z_a.label>
-  <BOSS_RQ_Hediff_Z_a.description>雷奎恩·克里蒂亚斯深红色而温柔的歌声。 \n你将继续受到伤害，直到你完全康复。 \n几个小时后将被取消。</BOSS_RQ_Hediff_Z_a.description>
-  <BOSS_RQ_Hediff_Z_b.label>小鸟拍打着翅膀</BOSS_RQ_Hediff_Z_b.label>
-  <BOSS_RQ_Hediff_Z_b.description>雷奎恩·克里蒂亚斯的羽毛敲打让你感觉她还很年轻。 \n敌人会被强行击倒，如果持续倒地2小时，就会受到即时死亡伤害。 \n半天后取消。 \n\n此动作将由连续的近战攻击触发。 \n可以通过持续进行射击攻击来压制。</BOSS_RQ_Hediff_Z_b.description>
-  <BOSS_RQ_Hediff_Z_c.label>鸟宝宝巢盒</BOSS_RQ_Hediff_Z_c.label>
-  <BOSS_RQ_Hediff_Z_c.description>雷奎恩·克里蒂亚斯的短暂王国。 \n进入该区域的人会更容易受到攻击，但射击间隔会更短。 \n几个小时后将被取消。</BOSS_RQ_Hediff_Z_c.description>
-  <BOSS_RQ_Hediff_Z_d.label>鸟宝宝的眼泪</BOSS_RQ_Hediff_Z_d.label>
-  <BOSS_RQ_Hediff_Z_d.description>泪水中含有雷奎恩·克里蒂亚斯的鲜血。 \n。暂时增加受到的伤害。 \n这是一个严重的异常情况，但很快就会被取消。</BOSS_RQ_Hediff_Z_d.description>
-  <BOSS_RQ_Hediff_Z_e.label>幼鸟的样子</BOSS_RQ_Hediff_Z_e.label>
-  <BOSS_RQ_Hediff_Z_e.description>雷奎恩·克里蒂亚斯的圆眼睛。 \n。他的视力和听力都被他迷人的目光夺走了。 \n几个小时后将被取消。</BOSS_RQ_Hediff_Z_e.description>
-  <BOSS_RQ_Hediff_Z_f.label>阿斯特拉克里蒂亚斯</BOSS_RQ_Hediff_Z_f.label>
-  <BOSS_RQ_Hediff_Z_g.label>鸟宝宝唱歌</BOSS_RQ_Hediff_Z_g.label>
-  <BOSS_RQ_Hediff_Z_g.description>雷奎恩·克里蒂亚斯微弱的抽泣声。 \n接受它的人会变得精神脆弱。 \n几个小时后将被取消。</BOSS_RQ_Hediff_Z_g.description>
-  <BOSS_RQ_Hediff_Z_h.label>从虚空中探出头来……</BOSS_RQ_Hediff_Z_h.label>
-  <BOSS_RQ_Hediff_Z_h.description>潜伏在雷奎恩·克里蒂亚斯阴影下的人被察觉的状态。 \n落入其中的人，眨眼间就会精神崩溃。 \n这种状态本身会在一段时间后解除（精神崩溃还会继续）。 \n\n\n哦，我应该直接看它，抱歉。</BOSS_RQ_Hediff_Z_h.description>
+  <BOSS_RQ_Scratch.label>超振动刀刃</BOSS_RQ_Scratch.label>
+  <BOSS_RQ_Scratch.labelNoun>超振动刀刃</BOSS_RQ_Scratch.labelNoun>
+  <BOSS_RQ_Scratch.description>超振动刀刃</BOSS_RQ_Scratch.description>
+  <BOSS_RQ_Hediff_b.description>对象的思维能力在精神干扰下受到严重影响，运动能力大幅度下降。</BOSS_RQ_Hediff_b.description>
+  <BOSS_RQ_Hediff_Gone_Error_a.description>远渡星海之鸟对生命体做出的捕食行为
+灵魂被装进了大鸟的胃里，肉体则消失于宇宙之中。
+
+
+
+
+当然要吃干净啦，若是对精心准备的晚餐置之不理的话，岂不是很失礼吗？</BOSS_RQ_Hediff_Gone_Error_a.description>
+  <BOSS_RQ_Hediff_Z_a.label>雏鸟轻啼</BOSS_RQ_Hediff_Z_a.label>
+  <BOSS_RQ_Hediff_Z_a.description>雷奎恩·克里提亚斯深红色的婉转轻啼。\n在治愈前会持续受到伤害。\n数小时后会自行消散。</BOSS_RQ_Hediff_Z_a.description>
+  <BOSS_RQ_Hediff_Z_b.label>雏鸟振翅</BOSS_RQ_Hediff_Z_b.label>
+  <BOSS_RQ_Hediff_Z_b.description>雷奎恩·克里提亚斯的充满稚嫩感的振翅。\n被影响的对象将强制进入倒地状态，无人救援、持续倒地2小时的话会当场死亡。\n半天后会自行解除。\n这一能力会在持续进行近战攻击后发动。\n可以进行持续的远程射击来抑制此能力的发动。</BOSS_RQ_Hediff_Z_b.description>
+  <BOSS_RQ_Hediff_Z_c.label>雏鸟之巢</BOSS_RQ_Hediff_Z_c.label>
+  <BOSS_RQ_Hediff_Z_c.description>雷奎恩·克里提亚斯的虚幻领域。\n进入此领域的单位会变得极其脆弱，同时射击间隔变短。\n领域会在数小时后消散。</BOSS_RQ_Hediff_Z_c.description>
+  <BOSS_RQ_Hediff_Z_d.label>雏鸟泣血</BOSS_RQ_Hediff_Z_d.label>
+  <BOSS_RQ_Hediff_Z_d.description>雷奎恩·克里提亚斯的血泪。\n短时间内使受到的伤害提升。\n虽然是极为凶险的负面状态，但很快就会解除。</BOSS_RQ_Hediff_Z_d.description>
+  <BOSS_RQ_Hediff_Z_e.label>雏鸟凝望</BOSS_RQ_Hediff_Z_e.label>
+  <BOSS_RQ_Hediff_Z_e.description>来自雷奎恩·克里提亚斯那深邃瞳孔的凝望。\n其极具魅惑性的视线会剥夺对象的视力和听力。\n数小时后会恢复正常。</BOSS_RQ_Hediff_Z_e.description>
+  <BOSS_RQ_Hediff_Z_f.label>克里提亚斯之星</BOSS_RQ_Hediff_Z_f.label>
+  <BOSS_RQ_Hediff_Z_g.label>雏鸟啄食</BOSS_RQ_Hediff_Z_g.label>
+  <BOSS_RQ_Hediff_Z_g.description>来自雷奎恩·克里提亚斯轻柔的啄咬。\n被影响的对象心理会变得极端脆弱。\n数小时后会恢复正常。</BOSS_RQ_Hediff_Z_g.description>
+  <BOSS_RQ_Hediff_Z_h.label>窥视虚空</BOSS_RQ_Hediff_Z_h.label>
+  <BOSS_RQ_Hediff_Z_h.description>雷奎恩·克里提亚斯对藏于暗处之人的察觉。\n受到这种影响的人会瞬间进入崩溃状态。\n这种状态无法靠对象自行解除（精神崩溃将会持续下去）。\n\n\n啊呀，好好地去直视她不就好了吗，真可惜呢</BOSS_RQ_Hediff_Z_h.description>
 </LanguageData>

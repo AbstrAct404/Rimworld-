@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <BOSS_RQ_Incident_Requeen.letterText>一株蕴藏着大量生命的植物在殖民地附近坠毁。 \n作为一种防御本能，活植物会定期产生大量追随者。\n当它们被创造出来时，它们会吸收周围植物的能量，因此随着时间的推移，殖民地的性质将会枯萎。 \n\n她和她的追随者拥有非常坚固的盔甲，但他们对反物质有弱点，所以如果你的殖民地有这样的盔甲，请利用它。</BOSS_RQ_Incident_Requeen.letterText>
-  <BOSS_RQ_Incident_Requeen_b.letterText>一株蕴藏着大量生命的植物在殖民地附近坠毁。 \n作为一种防御本能，生物植物会周期性地产生大量的追随者。\n然后，它们会竖起炮塔包围自己，强化自己。 \n\n她和她的追随者拥有非常坚固的盔甲，但他们对反物质有弱点，所以如果你的殖民地有这样的盔甲，请利用它。</BOSS_RQ_Incident_Requeen_b.letterText>
-  <BOSS_RQ_Incident_Requeen_Z.letterText>一只穿越星辰的幼鸟在栖息地附近坠毁。 \n雏鸟似乎有能力追击任何攻击他们的东西。 \n它具有极高的耐用性，所以要做好长期战斗的准备。 \n\n半年后小鸟就会离开这个星球。</BOSS_RQ_Incident_Requeen_Z.letterText>
-  <BOSS_RQ_Incident_Requeen_Gone_Error.label>过星鸟</BOSS_RQ_Incident_Requeen_Gone_Error.label>
-  <BOSS_RQ_Incident_Requeen_Gone_Error.letterLabel>过星鸟</BOSS_RQ_Incident_Requeen_Gone_Error.letterLabel>
-  <BOSS_RQ_Incident_Requeen_Gone_Error.letterText>给我打电话的你一定是个有趣的人。</BOSS_RQ_Incident_Requeen_Gone_Error.letterText>
-  <BOSS_RQ_Incident_Viceroy.letterText>一支小型护航部队在殖民地附近坠毁。 \n该单元可能包含一些罕见的东西。</BOSS_RQ_Incident_Viceroy.letterText>
-  <BOSS_RQ_Incident_Remnant.label>女王的遗骸</BOSS_RQ_Incident_Remnant.label>
-  <BOSS_RQ_Incident_Remnant.letterLabel>女王的遗骸</BOSS_RQ_Incident_Remnant.letterLabel>
-  <BOSS_RQ_Incident_Remnant.letterText>某种生物植物的残骸连同它的少量下属一起坠毁在殖民地附近。 \n看起来它已经死了，已经停止了作为生命植物的功能。而且，遗骸中还有反物质反应，所以如果能妥善摧毁它，说不定就能获得反物质子弹。</BOSS_RQ_Incident_Remnant.letterText>
-  <BOSS_RQ_Incident_Monster_z.label>女王种族的孤儿</BOSS_RQ_Incident_Monster_z.label>
-  <BOSS_RQ_Incident_Monster_z.letterLabel>女王种族的孤儿</BOSS_RQ_Incident_Monster_z.letterLabel>
-  <BOSS_RQ_Incident_Drop.label>轨道卫星上的战斗</BOSS_RQ_Incident_Drop.label>
-  <BOSS_RQ_Incident_Drop.letterLabel>轨道卫星上的战斗</BOSS_RQ_Incident_Drop.letterLabel>
+  <BOSS_RQ_Incident_Requeen.letterText>孕育着巨型生命的机械生命体坠落到了殖民地附近。\n基于防御本能，机械生命体会定期生产大量的随从。\n在生产随从时会从周遭的草木中汲取能量，因此放任不管的话，殖民地终将变成一片荒漠。\n\n母体和生产的随从都配备有极其牢固的装甲，但是它们难以抵御反物质攻击——或许你可以活用这一弱点来击溃它们。</BOSS_RQ_Incident_Requeen.letterText>
+  <BOSS_RQ_Incident_Requeen_b.letterText>孕育着巨型生命的机械生命体坠落到了殖民地附近。\n基于防御本能，机械生命体会定期生产大量的随从。\n随后在自身周遭布置炮塔来巩固防御。\n\n母体和生产的随从都配备有极其牢固的装甲，但是它们难以抵御反物质攻击——或许你可以活用这一弱点来击溃它们。</BOSS_RQ_Incident_Requeen_b.letterText>
+  <BOSS_RQ_Incident_Requeen_Z.letterText>远渡星海的雏鸟坠落在了你的殖民地附近。\n似乎会追击对其发动攻击的目标。\n雏鸟有着非常高的耐久，你必须做好打持久战的准备。\n半年后它就会离开这颗星球。</BOSS_RQ_Incident_Requeen_Z.letterText>
+  <BOSS_RQ_Incident_Requeen_Gone_Error.label>远渡星海之鸟</BOSS_RQ_Incident_Requeen_Gone_Error.label>
+  <BOSS_RQ_Incident_Requeen_Gone_Error.letterLabel>远渡星海之鸟</BOSS_RQ_Incident_Requeen_Gone_Error.letterLabel>
+  <BOSS_RQ_Incident_Requeen_Gone_Error.letterText>把我呼唤到此地的你，也真是个有趣的家伙呢。</BOSS_RQ_Incident_Requeen_Gone_Error.letterText>
+  <BOSS_RQ_Incident_Viceroy.letterText>有少数护卫跟随的单位坠落到了殖民地附近。\n在其中或许能回收些珍奇的物品。</BOSS_RQ_Incident_Viceroy.letterText>
+  <BOSS_RQ_Incident_Remnant.label>女王种的残骸</BOSS_RQ_Incident_Remnant.label>
+  <BOSS_RQ_Incident_Remnant.letterLabel>女王种的残骸</BOSS_RQ_Incident_Remnant.letterLabel>
+  <BOSS_RQ_Incident_Remnant.letterText>伴随着少量部下的机械生命体坠落到了殖民地附近。\n似乎已经死亡，作为机械生命体的机能已经完全停止。此外，残骸中侦测到反物质信号，谨慎拆除的话或许能获得反物质弹。</BOSS_RQ_Incident_Remnant.letterText>
+  <BOSS_RQ_Incident_Monster_z.label>女王种的遗孤</BOSS_RQ_Incident_Monster_z.label>
+  <BOSS_RQ_Incident_Monster_z.letterLabel>女王种的遗孤</BOSS_RQ_Incident_Monster_z.letterLabel>
+  <BOSS_RQ_Incident_Drop.label>轨道卫星之战</BOSS_RQ_Incident_Drop.label>
+  <BOSS_RQ_Incident_Drop.letterLabel>轨道卫星之战</BOSS_RQ_Incident_Drop.letterLabel>
 </LanguageData>

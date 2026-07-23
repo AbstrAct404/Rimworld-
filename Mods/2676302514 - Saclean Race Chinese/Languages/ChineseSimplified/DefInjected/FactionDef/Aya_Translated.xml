@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Saclean_P_Faction.label>萨克莱恩的隐秘村庄</Saclean_P_Faction.label>
+  <Saclean_P_Faction.label>萨克莱恩的神秘乡</Saclean_P_Faction.label>
   <Saclean_P_Faction.pawnSingular>萨克莱恩</Saclean_P_Faction.pawnSingular>
-  <Saclean_P_Faction.description>萨克林人聚集并安静生活的村庄。</Saclean_P_Faction.description>
-  <Saclean_Faction_NPC.label>萨克琳_Faction</Saclean_Faction_NPC.label>
-  <Saclean_Faction_NPC.description>由萨克林组成的中立派系。</Saclean_Faction_NPC.description>
+  <Saclean_P_Faction.description>萨克莱恩们的隐秘聚落。</Saclean_P_Faction.description>
+  <Saclean_Faction_NPC.label>萨克莱恩派系</Saclean_Faction_NPC.label>
+  <Saclean_Faction_NPC.description>一个由萨克莱恩组成的中立派系。</Saclean_Faction_NPC.description>
   <Saclean_Faction_NPC.pawnSingular>萨克莱恩</Saclean_Faction_NPC.pawnSingular>
   <Saclean_Faction_NPC.fixedName>丝线</Saclean_Faction_NPC.fixedName>
 </LanguageData>

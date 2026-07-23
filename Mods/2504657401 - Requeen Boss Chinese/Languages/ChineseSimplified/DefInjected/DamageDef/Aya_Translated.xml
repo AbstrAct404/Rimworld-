@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <BOSS_RQ_Scratch.label>超振动刀片</BOSS_RQ_Scratch.label>
-  <BOSS_RQ_Damage_Z_a.label>小鸟叽叽喳喳地叫着</BOSS_RQ_Damage_Z_a.label>
-  <BOSS_RQ_Damage_Z_b.label>小鸟拍打着翅膀</BOSS_RQ_Damage_Z_b.label>
-  <BOSS_RQ_Damage_Z_c.label>幼鸟的样子</BOSS_RQ_Damage_Z_c.label>
-  <BOSS_RQ_Damage_Z_d.label>鸟宝宝的眼泪</BOSS_RQ_Damage_Z_d.label>
-  <BOSS_RQ_Damage_Z_e.label>阿斯特拉克里蒂亚斯</BOSS_RQ_Damage_Z_e.label>
-  <BOSS_RQ_Damage_Z_f.label>鸟宝宝唱歌</BOSS_RQ_Damage_Z_f.label>
+  <BOSS_RQ_Scratch.label>超振动刀刃</BOSS_RQ_Scratch.label>
+  <BOSS_RQ_Bullet_b.label>雏鸟泣血</BOSS_RQ_Bullet_b.label>
+  <BOSS_RQ_Damage_Z_a.label>雏鸟轻啼</BOSS_RQ_Damage_Z_a.label>
+  <BOSS_RQ_Damage_Z_b.label>雏鸟振翅</BOSS_RQ_Damage_Z_b.label>
+  <BOSS_RQ_Damage_Z_c.label>雏鸟凝望</BOSS_RQ_Damage_Z_c.label>
+  <BOSS_RQ_Damage_Z_d.label>雏鸟泣血</BOSS_RQ_Damage_Z_d.label>
+  <BOSS_RQ_Damage_Z_e.label>克里提亚斯之星</BOSS_RQ_Damage_Z_e.label>
+  <BOSS_RQ_Damage_Z_f.label>雏鸟啄食</BOSS_RQ_Damage_Z_f.label>
 </LanguageData>

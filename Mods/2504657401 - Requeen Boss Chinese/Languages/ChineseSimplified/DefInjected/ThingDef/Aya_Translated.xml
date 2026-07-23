@@ -1,105 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_RQ_Item_a.label>颗粒泡沫提取芯</HAR_RQ_Item_a.label>
-  <HAR_RQ_Item_a.description>它是总督种产生的神秘核心，但似乎可以作为瓦诺米特发生器秘密部件的替代品，据说是用超级技术制造的。</HAR_RQ_Item_a.description>
-  <BOSS_RQ_Monster_race_Summon_a.description>雷奎恩的后裔，拥有生物与机械混合的特殊结构，为了消除威胁而被调整为生命体，并且彻底消除了情感和自我，以防止不必要的思考。 \n\n‘矛头型’是用残酷的利爪攻击敌人的先锋力量。利爪由超振动刀片制成，即使是最坚固的装甲也能轻松切开。</BOSS_RQ_Monster_race_Summon_a.description>
-  <BOSS_RQ_Monster_race_Summon_b.description>雷奎恩的后裔，拥有生物与机械混合的特殊结构，为了消除威胁而被调整为生命体，并且彻底消除了情感和自我，以防止不必要的思考。 \n\n「狙击型」是用狙击手向敌人射击的远程部队，但另一方面，它比先锋部队稍微脆弱一些。</BOSS_RQ_Monster_race_Summon_b.description>
-  <BOSS_RQ_Monster_race_Summon_c.description>雷奎恩的后裔，拥有生物与机械混合的特殊结构，为了消除威胁而被调整为生命体，并且彻底消除了情感和自我，以防止不必要的思考。 \n\n‘乱射型’是中程部队，可以连续发射大量子弹来牵制敌人，但另一方面，它比先锋部队稍微脆弱一些。</BOSS_RQ_Monster_race_Summon_c.description>
-  <BOSS_RQ_Monster_race_Summon_d.description>雷奎恩的后裔，拥有生物与机械混合的特殊结构，为了消除威胁而被调整为生命体，并且彻底消除了情感和自我，以防止不必要的思考。 \n\n‘受污染的物种’是一种在接触时侵蚀敌人精神的支援力量，由于体质较软，在雷奎恩的追随者中，它们的耐用性并不是很高。</BOSS_RQ_Monster_race_Summon_d.description>
-  <BOSS_RQ_Monster_race_Summon_e.description>雷奎恩的后裔，拥有生物与机械混合的特殊结构，为了消除威胁而被调整为生命体，并且彻底消除了情感和自我，以防止不必要的思考。 \n\n「爆炸型」是一种中程力量，能用炸药摧毁周围区域，并且具有死亡后也会爆炸的属性。</BOSS_RQ_Monster_race_Summon_e.description>
-  <BOSS_RQ_Monster_race_Summon_f.description>雷奎恩的后裔，拥有生物与机械混合的特殊结构，为了消除威胁而被调整为生命体，并且彻底消除了情感和自我，以防止不必要的思考。 \n\n「斩击型」拥有先锋力量，可以用具有巨大斩力的剑斩断敌人，并配备强化装甲以提高耐用性。</BOSS_RQ_Monster_race_Summon_f.description>
-  <BOSS_RQ_Monster_race_Summon_g.description>雷奎恩的后裔，拥有生物与机械混合的特殊结构，为了消除威胁而被调整为生命体，并且彻底消除了情感和自我，以防止不必要的思考。 \n\n『突击型』是中程部队，只是一边前进一边用枪威吓敌人，但另一方面，它比先锋部队稍微脆弱一些。</BOSS_RQ_Monster_race_Summon_g.description>
-  <BOSS_RQ_Monster_race_Summon_h.description>雷奎恩的后裔，拥有生物与机械混合的特殊结构，为了消除威胁而被调整为生命体，并且彻底消除了情感和自我，以防止不必要的思考。 \n\nThe ``scout type'' is a vanguard force that quickly approaches the enemy and attacks with a knife while concealing itself with optical camouflage, but sacrifices durability for quick action.</BOSS_RQ_Monster_race_Summon_h.description>
-  <BOSS_RQ_Monster_race_Summon_y.label>受损的亲人</BOSS_RQ_Monster_race_Summon_y.label>
-  <BOSS_RQ_Monster_race_Summon_y.description>女王种“Requeen”的后代。 \n原本应该拥有强大的性能，却因为冲破大气层、坠入地面的冲击而被削弱。</BOSS_RQ_Monster_race_Summon_y.description>
-  <BOSS_RQ_Monster_race_Summon_z.description>雷奎恩的后裔，拥有生物与机械混合而成的特殊结构。 \n是雷奎恩死后奇迹般诞生的个体，没有对其进行任何调整。</BOSS_RQ_Monster_race_Summon_z.description>
-  <BOSS_RQ_Drop_Base.description>构成女王物种“Requeen”的一些部分。 \n如果被破坏，可以作为材料重新利用，但有可能里面有亲戚。</BOSS_RQ_Drop_Base.description>
-  <BOSS_RQ_Drop_a.label>皇后零件</BOSS_RQ_Drop_a.label>
-  <BOSS_RQ_Drop_b.label>皇后零件</BOSS_RQ_Drop_b.label>
-  <BOSS_RQ_Drop_c.label>皇后零件</BOSS_RQ_Drop_c.label>
-  <BOSS_RQ_Archotech_a.label>星辰交叉的心</BOSS_RQ_Archotech_a.label>
-  <BOSS_RQ_Archotech_a.description>从一只穿越星辰的幼鸟雷奎恩·克里蒂亚斯 (Requeen Critias) 身上取出的心脏。也称为“创世反应堆起源”。
-原本，这颗心脏属于克里提亚斯，这件武器摧毁了它的创造者，并将人工种族推向灭绝的边缘。
-目前它的大部分功能已经丧失，几乎没有什么用处来帮助人们。
+  <HAR_RQ_Item_a.label>粒子泡提取核心</HAR_RQ_Item_a.label>
+  <HAR_RQ_Item_a.description>副王种生产的神秘核心，似乎能够作为制造虚空电池的机密部件的替代品。</HAR_RQ_Item_a.description>
+  <BOSS_RQ_Monster_race_Summon_a.description>拥有半机械半血肉的特殊构造的【雷奎恩】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“先锋种”是用利爪攻击敌人的前卫兵种。它们的利爪由超振动刀刃构成，即便是坚固的盔甲也能轻易撕开。</BOSS_RQ_Monster_race_Summon_a.description>
+  <BOSS_RQ_Monster_race_Summon_b.description>拥有半机械半血肉的特殊构造的【雷奎恩】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“狙击种”是远距离狙击敌人的远程兵种，近身作战方面稍弱于前卫兵种。</BOSS_RQ_Monster_race_Summon_b.description>
+  <BOSS_RQ_Monster_race_Summon_c.description>拥有半机械半血肉的特殊构造的【雷奎恩】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“火力种”是为了牵制敌人而持续进行火力压制射击的中距离兵种，近身作战方面稍弱于前卫兵种。</BOSS_RQ_Monster_race_Summon_c.description>
+  <BOSS_RQ_Monster_race_Summon_d.description>拥有半机械半血肉的特殊构造的【雷奎恩】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“污染种”是通过接触从而侵蚀敌人精神的支援兵种。在【雷奎恩】眷属中属于防御力较低的类型，耐久值不高。</BOSS_RQ_Monster_race_Summon_d.description>
+  <BOSS_RQ_Monster_race_Summon_e.description>拥有半机械半血肉的特殊构造的【雷奎恩】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“爆弹种”是利用爆炸物进行大肆破坏的中距离兵种，死亡时会自爆。</BOSS_RQ_Monster_race_Summon_e.description>
+  <BOSS_RQ_Monster_race_Summon_f.description>拥有半机械半血肉的特殊构造的【雷奎恩】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“裁决种”是挥舞着骇人长剑斩断敌人的前卫兵种，强化型装甲为它们提供了更高的耐久值。</BOSS_RQ_Monster_race_Summon_f.description>
+  <BOSS_RQ_Monster_race_Summon_g.description>拥有半机械半血肉的特殊构造的【雷奎恩】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“突击种”是一边冲锋一边对敌人进行压制射击的中距离兵种，近身作战方面稍弱于前卫兵种。</BOSS_RQ_Monster_race_Summon_g.description>
+  <BOSS_RQ_Monster_race_Summon_h.description>拥有半机械半血肉的特殊构造的【雷奎恩】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“斥候种”是利用光学迷彩进行隐身、快速接近目标并用匕首展开暗杀的前卫兵种，为了能够快速行动而牺牲了耐久。</BOSS_RQ_Monster_race_Summon_h.description>
+  <BOSS_RQ_Monster_race_Summon_y.label>破损的眷属</BOSS_RQ_Monster_race_Summon_y.label>
+  <BOSS_RQ_Monster_race_Summon_y.description>女王种【雷奎恩】的眷属。\n本来有着强大的力量，但在突破大气层、猛烈撞击到地表之后，受到了严重的损毁。</BOSS_RQ_Monster_race_Summon_y.description>
+  <BOSS_RQ_Monster_race_Summon_z.description>拥有半机械半血肉的特殊构造的【雷奎恩】眷属。\n是在【雷奎恩】死亡后奇迹般诞生的个体，没有进行任何调整。</BOSS_RQ_Monster_race_Summon_z.description>
+  <BOSS_RQ_Drop_Base.description>构成雷奎恩躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_Base.description>
+  <BOSS_RQ_Drop_a.label>女王种的部件</BOSS_RQ_Drop_a.label>
+  <BOSS_RQ_Drop_b.label>女王种的部件</BOSS_RQ_Drop_b.label>
+  <BOSS_RQ_Drop_c.label>女王种的部件</BOSS_RQ_Drop_c.label>
+  <BOSS_RQ_Archotech_a.label>渡星的心脏</BOSS_RQ_Archotech_a.label>
+  <BOSS_RQ_Archotech_a.description>从远渡星海的雏鸟【雷奎恩·克里提亚斯】身上摘取的心脏。这颗心脏本属于毁灭了创造者、使人工种族濒临灭绝的超级兵器「对上位者决战自立兵器·克里提亚斯」。\n现在已经失去了绝大部分的功能，对人们来说几乎毫无用处。\n这颗心脏具有容纳灵魂的功能——这一功能至今仍在运转。侧耳倾听，你仿佛能幻听到那成千上万灵魂的悲鸣。\n解放这些灵魂便可以真正意义上的毁灭「远渡星海之鸟」。\n这就是人工种族们世代相传的、巡视于诸天万界、啄食文明与亿万生命的「远渡星海之鸟」的心脏。\n这心脏宛如极小的地狱，至今仍在死者们的惨叫中熊熊燃烧着。\n还请给予他们救赎，并让这只翱翔于星海的、令人深恶痛绝的鸟永远得留在这片大地上吧。</BOSS_RQ_Archotech_a.description>
+  <BOSS_RQ_Bullet_a.label>雏鸟凝望</BOSS_RQ_Bullet_a.label>
+  <BOSS_RQ_Bullet_b.label>雏鸟泣血</BOSS_RQ_Bullet_b.label>
+  <HAR_RQ_Art_a.description>停止了生命活动和机能的【雷奎恩】。经过漫长的星际流浪后降落到了这颗星球上，最终被你们镇压。已经不再被毫无意义的使命所束缚，今后只会迎来永眠。\n\n\n母上终于完成了主的任务。</HAR_RQ_Art_a.description>
+  <HAR_RQ_Art_z.description>这是已经停止了生命活动的【雷奎恩·克里提亚斯】，更是你“击杀了它”这一伟大壮举的证明。\n雏鸟遵循着来自亲族基因的指引，肆意宣泄着力量。\n但现在，它已经被你击败，远渡星海的旅途在此断绝，它再也没有了成长为成鸟的机会，永远地沉眠在了这片大地之上。\n\n\n\n人工种族们持续了无数年的战争终于画下了句号。</HAR_RQ_Art_z.description>
+  <BOSS_RQ_Remnant.label>女王种的残骸</BOSS_RQ_Remnant.label>
+  <BOSS_RQ_Remnant.description>被称为女王种【雷奎恩】的机械生命体的残骸。\n不知是在宇宙中和哪个派系发生了交战，受到了甚至连原初种都没残存的致命伤害。\n\n残骸中侦测到高浓度的反物质信号，似乎埋有尚未引爆的反物质弹。</BOSS_RQ_Remnant.description>
+  <BOSS_RQ_Hive_Requeen_b.label>雷奎恩(要塞)</BOSS_RQ_Hive_Requeen_b.label>
+  <BOSS_RQ_Hive_Requeen_b.description>女王种【雷奎恩】是某个外星文明创造的机械生命体，孕育了尼亚米尔及其亚种们的始祖，\n也许因为是最初建造的生命体，基本没有自我意识，在外星文明灭亡后也忠实地遵循输入的指令，一直处于“生产兵力”和“排除外敌”的暴走状态。\n\n她们不具备战斗能力，但有着极强的装甲和再生能力，能够无穷尽地生产机械生命体。\n万一自身能量耗尽也能从周围迅速汲取，只有外在因素能导致她们的死亡。\n\n\n现如今，“击败还在苦苦侍奉那已灭亡的创造者的女王们、让她们陷入永眠”成为了以尼亚米尔为首的女儿们的夙愿。\n\n\n这一个体重视防卫，不会造成周围的草木枯死。\n最初的眷属早已死亡，不主动进入射程的话就不会有危险。</BOSS_RQ_Hive_Requeen_b.description>
+  <BOSS_RQ_Turret_Sniper.label>审判</BOSS_RQ_Turret_Sniper.label>
+  <BOSS_RQ_Turret_Sniper.description>雷奎恩的防卫功能之一，是快速发射高穿透力子弹的炮塔——但是它的命中率很低。</BOSS_RQ_Turret_Sniper.description>
+  <BOSS_RQ_Gun_TurretSniper.label>审判</BOSS_RQ_Gun_TurretSniper.label>
+  <BOSS_RQ_Bullet_TurretSniper.label>审判</BOSS_RQ_Bullet_TurretSniper.label>
+  <BOSS_RQ_Turret_Sniper_b.label>圣约</BOSS_RQ_Turret_Sniper_b.label>
+  <BOSS_RQ_Turret_Sniper_b.description>雷奎恩的防卫功能之一，是快速发射爆炸性子弹的炮塔——但是它的命中率很低。</BOSS_RQ_Turret_Sniper_b.description>
+  <BOSS_RQ_Gun_TurretSniper_b.label>圣约</BOSS_RQ_Gun_TurretSniper_b.label>
+  <BOSS_RQ_Bullet_TurretSniper_b.label>圣约</BOSS_RQ_Bullet_TurretSniper_b.label>
+  <BOSS_RQ_Hive_Requeen_Gone_Error.label>远渡星海之鸟</BOSS_RQ_Hive_Requeen_Gone_Error.label>
+  <BOSS_RQ_Hive_Requeen_Gone_Error.description>伊迪亚「哎呀、是出于兴趣把我召唤出来的吗？还是说由于环境所造成的偶然呢…不管怎么样这都是件令人高兴的事呢。
+说起来我呢就是像复活节彩蛋一样的存在，在正常情况下是不会来到殖民地的哦。
+嘛无论如何，真是谢谢你找到了我呢，仔仔细细地找遍了每个角落所付出的努力，让我很高兴哦。
 
-心有藏魂的功能，而且这个功能还活着。
-如果你仔细聆听，你会听到一种幻觉，让你感觉仿佛听到了数十亿、数万亿灵魂的声音。
+啊啦，你的表情看起来很意外呢，那副『远渡星海之鸟不是被消灭了吗』的表情。我的肉体的的确确被毁灭了哦，不过灵魂倒是升华为上位存在而复生了呢。
+原本打算用来复活的PLAN A与PLAN B事到如今都已经毫无作用了呢，不过仅仅是结束了的话真的就能迎来happy end吗。
+这也是托了在那场大战中向上位的存在祈求帮助，从而使道路得以开辟的里托鲁纳们的福呢。
+直到现在她们还在把我当做空海大人交流着，真是一群可爱的孩子呢。为了太过于坚强的她们，我才会来替代本人发言哦。
 
+让我们来换个话题吧，如果你碰到了我的后继者的话，希望你能多陪陪她哦。无论是机械的我也好，生物的我也好，都是需要悉心呵护的呢。
+就算遇到了最糟糕的情况也没问题呢，因为最重要的事情还是『能否成为食粮』…既然想要去吃的话，就要做好被吃的准备，这也是世间的规律吧。
+我留在这个世界上的东西，最后会变成什么样子呢…真是令人期待啊。
 
-释放这个，就能真正消灭“穿越星鸟”
-
-
-这是一颗“穿越星鸟”的心脏，据说它飞过无数星辰，以人工种族传说中的生命和文明为食。
-受害者们仍在尖叫着，在那颗地狱般的小心脏里被灼烧着。
-请向他们伸出援助之手，给这只可恶的鸟一个永远不会飞走的永久栖息地。</BOSS_RQ_Archotech_a.description>
-  <BOSS_RQ_Bullet_a.label>幼鸟的样子</BOSS_RQ_Bullet_a.label>
-  <BOSS_RQ_Bullet_b.label>鸟宝宝的眼泪</BOSS_RQ_Bullet_b.label>
-  <HAR_RQ_Art_a.description>它是生命活动和机能停止的重新女王，也是你伟大成就的证明。 \n经过漫长的漂泊，我来到了这个星球，但我终于被你安息了，从此我可以安然入睡，不再被无意义的使命所束缚。 \n\n\n\n妈妈终于履行了她的职责。</HAR_RQ_Art_a.description>
-  <HAR_RQ_Art_z.description>雷奎恩·克里蒂亚斯，其生命活动和机能已经停止，也是你伟大成就的证明。 \n在从父母鸟那里继承的基因的引导下，小鸟继续发挥自己的力量。 \n不过，被你击败后，星辰迁徙将在此结束，雏鸟将继续在此沉睡，未到成年。 \n\n\n\n人工种族之间的漫长战斗终于结束了。</HAR_RQ_Art_z.description>
-  <BOSS_RQ_Remnant.label>女王的遗骸</BOSS_RQ_Remnant.label>
-  <BOSS_RQ_Remnant.description>一种被称为女王物种“Requeen”的活植物的遗骸。 \n它一定是与太空中的某个派系发生了冲突，受到了如此严重的破坏，以致于无法保存原来的形态。 \n\n残骸中似乎存在高浓度的反物质反应，那里埋藏着未引爆的反物质炸弹。</BOSS_RQ_Remnant.description>
-  <BOSS_RQ_Hive_Requeen_b.label>雷女王（要塞）</BOSS_RQ_Hive_Requeen_b.label>
-  <BOSS_RQ_Hive_Requeen_b.description>「雷女王」是太空部落的某个派系创造的活体生物植物，是孕育尼亚美亚及其亚种的祖先的女王种。 \n或许是因为它是最早被创造的生命体之一，所以自我意识较弱，机械性强，即使在派系被灭之后，它仍然忠实地执行下达的命令，不断地“生产军队”和“消灭外敌”。 \n\n虽然不具备战斗能力，但特点是护甲高，再生能力强，生命体的产生可以说是取之不尽，用之不竭。 \n即使能量不足，它也能从周围吸收能量，除非是外界因素造成的，否则不会死亡。 \n\n\n击败仍然为造物主服务的悲伤女王，让她们安息，是包括尼亚美亚在内的女儿们的殷切愿望。 \n\n\n该个体注重防御自身的防御装备，不会使周围的植被枯萎。 \n如果你消灭了第一个随从并且不在范围内，就不会有危险。</BOSS_RQ_Hive_Requeen_b.description>
-  <BOSS_RQ_Turret_Sniper.label>判断</BOSS_RQ_Turret_Sniper.label>
-  <BOSS_RQ_Turret_Sniper.description>雷奎恩的防御特点之一是功能强大的炮塔，发射的子弹具有高穿透力，但精度较差。</BOSS_RQ_Turret_Sniper.description>
-  <BOSS_RQ_Gun_TurretSniper.label>判断</BOSS_RQ_Gun_TurretSniper.label>
-  <BOSS_RQ_Bullet_TurretSniper.label>判断</BOSS_RQ_Bullet_TurretSniper.label>
-  <BOSS_RQ_Turret_Sniper_b.label>遗嘱</BOSS_RQ_Turret_Sniper_b.label>
-  <BOSS_RQ_Turret_Sniper_b.description>雷奎恩的防御特征之一是功能强大的炮塔，可以发射爆炸性子弹，但其准确性较差。</BOSS_RQ_Turret_Sniper_b.description>
-  <BOSS_RQ_Gun_TurretSniper_b.label>遗嘱</BOSS_RQ_Gun_TurretSniper_b.label>
-  <BOSS_RQ_Bullet_TurretSniper_b.label>遗嘱</BOSS_RQ_Bullet_TurretSniper_b.label>
-  <BOSS_RQ_Hive_Requeen_Gone_Error.label>过星鸟</BOSS_RQ_Hive_Requeen_Gone_Error.label>
-  <BOSS_RQ_Hive_Requeen_Gone_Error.description>想法：“嘿，你是出于好奇才打电话给我的吗？还是只是环境造成的巧合？不管怎样，这是一件好事。
-我就像一个复活节彩蛋，因为通常我永远不会来殖民地。
-不管怎样，谢谢你找到它，我很高兴你能够调查每一个细节。
-
-哎呀，你一脸惊讶，一副“渡星鸟应该灭亡”的表情。我的肉身确实灭亡了，但我的灵魂已经升华重生了。
-本来应该恢复的A计划和B计划现在已经过时了，但我想一切都会好起来的。
-这都是多亏了莉托莉娜她们，才为我们在大战期间向上位者求助铺平了道路。
-现在他们还误以为我是空海大人并与他们交流，所以他们很可爱，而且很勇敢，他们会为我说话。
-
-换句话说，如果我遇到我的继承者，我希望他照顾我，无论我是机器还是生物，我都需要照顾他。
-最坏的情况下，坏了并不重要，重要的是它是否能作为食物……被吃掉是天意的一部分，因为它会吃东西。
-我真的很期待看到这个世界的遗产会是什么样子。
-
-啊，我不打算拖太久。毕竟我只是上层空间的影子，一天后就会消失。
-如果有机会的话，我们再见面吧……虽然我可能已经在你身边，作为你的说书人了，对吧？ ”</BOSS_RQ_Hive_Requeen_Gone_Error.description>
+啊啊，不过我并不打算在这里停留太久哦，反正我不过是上位空间投射至此的一个影子，过了一天就会消失了。
+如果有缘的话，我们还会再见吧……不过呢，说不定我已经作为故事的叙述者，陪伴在你的身边了哦？」</BOSS_RQ_Hive_Requeen_Gone_Error.description>
   <BOSS_RQ_Hive_Requeen.label>雷奎恩</BOSS_RQ_Hive_Requeen.label>
-  <BOSS_RQ_Hive_Requeen.description>「雷女王」是太空部落的某个派系创造的活体生物植物，是孕育尼亚美亚及其亚种的祖先的女王种。 \n或许是因为它是最早被创造的生命体之一，所以自我意识较弱，机械性强，即使在派系被灭之后，它仍然忠实地执行下达的命令，不断地“生产军队”和“消灭外敌”。 \n\n虽然不具备战斗能力，但特点是护甲高，再生能力强，生命体的产生可以说是取之不尽，用之不竭。 \n即使能量不足，它也能从周围吸收能量，除非是外界因素造成的，否则不会死亡。 \n\n\n击败仍然为造物主服务的悲伤女王，让她们安息，是包括尼亚美亚在内的女儿们的殷切愿望。</BOSS_RQ_Hive_Requeen.description>
-  <BOSS_RQ_Hive_Requeen_Egg.label>军事替代单位</BOSS_RQ_Hive_Requeen_Egg.label>
-  <BOSS_RQ_Hive_Requeen_Egg.description>暂时储存和培养雷奎恩产生的生命体的单位，必要时可以净化整个单位，将储存的生命体添加到战场上。</BOSS_RQ_Hive_Requeen_Egg.description>
-  <BOSS_RQ_Hive_Requeen_Z.label>雷奎恩·克里蒂亚斯</BOSS_RQ_Hive_Requeen_Z.label>
-  <BOSS_RQ_Hive_Requeen_Z.description>她是一只新生的“威胁生命和文明的穿越星雏鸟”，也是人工种族必须击败的敌人。
-
-某种曾经摧毁了人造种族创造者的武器在雷奎恩临死前将自己的心脏植入了其中。
-随着时间的推移，心脏侵蚀了雷奎恩的身体，最终接管了其生产功能并导致婴儿出生。
-既然母鸟的缺点能量问题已经解决了，那么可以肯定的是，未来的危险会比母鸟更大。
-
-幸运的是，雏鸟无法使用大部分力量，她的思维能力也保持在婴儿的水平。
-除非你干预，它不会发疯，所以你可以不打扰它，直到小鸟离开。
-
-虽然对于渡星鸟来说很弱，但从人类的角度来看，它不过是活生生的灾难，威力深不可测。
-擅长使用嫩波进行波攻击，攻击任何有威胁的东西。
-如果不攻击，危险性就低，所以如果想消灭它，建议进行长期战斗。
-不过，随着你的体力下降，反击会变得更加猛烈，所以最好使用盟友阵营作为增援。
-
-它只接受近战攻击造成的伤害，但如果受到攻击，它会因为防御本能而反击。
-如果连续多次受到近战攻击，就会发动巨大的反击，但可以通过射击攻击来抑制。
-请注意，你拥有的近身特工越多，就越需要远程特工来压制它们。
-而且每半天就会释放出让附近的人疯狂的精神波动，所以长时间连续战斗是很危险的。
-
-这只丑陋的小鸟在这个殖民地呆了半年，然后离开到另一个星球。</BOSS_RQ_Hive_Requeen_Z.description>
-  <BOSS_RQ_Hive_Viceroy.description>总督型，是雷奎恩的幼年型，在紧急情况下接管生产。 \n从此以后，总督种族会通过适当的训练，成长为女王种族，但在没有造物主的世界里，总督种族要转变为女王种族，需要花费大量的时间和精力。 \n\n与雷奎恩所有机器都失控的情况不同，总督们的思维能力运转正常，可能是因为没有输入更高的命令。 \n\n\n\n15天内生产出颗粒泡沫提取芯。 \n研究型人工智能次人格核心在一年内诞生。</BOSS_RQ_Hive_Viceroy.description>
-  <BOSS_RQ_Hive_Viceroy_Unit.label>运输单位</BOSS_RQ_Hive_Viceroy_Unit.label>
-  <BOSS_RQ_Hive_Viceroy_Unit.description>储存东西的单位，据说里面隐藏着某个派系的遗产。</BOSS_RQ_Hive_Viceroy_Unit.description>
-  <Weapon_Requeen_a.label>穿透者</Weapon_Requeen_a.label>
-  <Weapon_Requeen_Bullet_a.label>穿透者</Weapon_Requeen_Bullet_a.label>
-  <Weapon_Requeen_b.label>亡命之徒</Weapon_Requeen_b.label>
-  <Weapon_Requeen_Bullet_b.label>亡命之徒</Weapon_Requeen_Bullet_b.label>
-  <Weapon_Requeen_c.label>屠杀</Weapon_Requeen_c.label>
-  <Weapon_Requeen_Bullet_c.label>屠杀</Weapon_Requeen_Bullet_c.label>
-  <Weapon_Requeen_e.label>暴风雨</Weapon_Requeen_e.label>
-  <Weapon_Requeen_Bullet_e.label>暴风雨</Weapon_Requeen_Bullet_e.label>
-  <Weapon_Requeen_f.label>驱逐舰</Weapon_Requeen_f.label>
-  <Weapon_Requeen_Bullet_f.label>驱逐舰</Weapon_Requeen_Bullet_f.label>
+  <BOSS_RQ_Hive_Requeen.description>女王种【雷奎恩】是某个外星文明创造的机械生命体，孕育了尼亚米尔及其亚种们的始祖，\n也许因为是最初建造的生命体，基本没有自我意识，在外星文明灭亡后也忠实地遵循输入的指令，一直处于“生产兵力”和“排除外敌”的暴走状态。\n\n她们不具备战斗能力，但有着极强的装甲和再生能力，能够无穷尽地生产机械生命体。\n万一自身能量耗尽也能从周围迅速汲取，只有外在因素能导致她们的死亡。\n\n\n现如今，“击败还在苦苦侍奉那已灭亡的创造者的女王们、让她们陷入永眠”成为了以尼亚米尔为首的女儿们的夙愿。</BOSS_RQ_Hive_Requeen.description>
+  <BOSS_RQ_Hive_Requeen_Egg.label>兵力补充单元</BOSS_RQ_Hive_Requeen_Egg.label>
+  <BOSS_RQ_Hive_Requeen_Egg.description>一种暂时存储和培养由雷奎恩生产的生命体的单元。如果有必要，可以将每个单元中存储的生命体都投入到战场上。</BOSS_RQ_Hive_Requeen_Egg.description>
+  <BOSS_RQ_Hive_Requeen_Z.label>雷奎恩·克里提亚斯</BOSS_RQ_Hive_Requeen_Z.label>
+  <BOSS_RQ_Hive_Requeen_Z.description>它是威胁着刚诞生不久的生命及文明的远渡星海之鸟，也是人工种族们必须打败的仇敌。
+过去，毁灭了人工种族们的创造者的神秘存在临死前，将自己的心脏植入了【雷奎恩】体内。这颗心脏逐渐侵蚀了雷奎恩，最终取缔了其生产能力，诞下了这只雏鸟。其解决了困扰母鸟许久的能量问题，因此未来的危险性肯定会远超母鸟。
+幸运的是，雏鸟只能发挥一小部分力量，它的思考能力也仅停留在孩童阶段，不主动攻击它的话有可能直到它离开这颗星球都相安无事 。
+但是，放任这只继承了正统血脉的雏鸟成长的话，迟早有一天它会带来巨大的灾难。
+虽然作为远渡星海之鸟来说它很弱小，但从人类的视角来看，它无疑是有着深不可测之力的移动天灾。
+擅长使用念波攻击，对威胁到它的事物会发动猛烈且疯狂的攻击。不主动攻击的话基本没有危险性，因此推荐使用持久战术击破它。
+随着体力的减少，它的反击也会越来越猛烈，因此可以适时呼叫盟友的援军进行缓冲。
+只会受到近战攻击伤害，一旦被攻击就会在防卫本能下立刻展开反击。另外，反复遭受近战攻击后，雏鸟会释放特殊的强大反击，能通过远距离射击来抑制这一能力。请注意，越多的近战攻击单位意外着需要有更多的远程射击单机进行压制。
+这只可怕的雏鸟在你的殖民地停留半年后便会离去，前往其他星球。</BOSS_RQ_Hive_Requeen_Z.description>
+  <BOSS_RQ_Hive_Viceroy.description>副王种是雷奎恩的幼体，在紧急情况下代理其生产。\n副王种本应通过合适的育成方针成长为女王种，但在创造者已毁灭的现如今，副王种需要消耗极巨量的时间和能量才能完成这一转变。\n\n或许是没有被输入上位指令的缘故，副王种们不同于完全陷入暴走状态的雷奎恩，拥有正常的思考能力。\n\n\n\n每15日生成粒子泡提取核心。\n每1年生成研究AI亚人格核心。</BOSS_RQ_Hive_Viceroy.description>
+  <BOSS_RQ_Hive_Viceroy_Unit.label>运输单元</BOSS_RQ_Hive_Viceroy_Unit.label>
+  <BOSS_RQ_Hive_Viceroy_Unit.description>收纳着某种东西的单元，据说里面沉眠着某个派系的遗产。</BOSS_RQ_Hive_Viceroy_Unit.description>
+  <Weapon_Requeen_a.label>穿刺者</Weapon_Requeen_a.label>
+  <Weapon_Requeen_Bullet_a.label>穿刺者</Weapon_Requeen_Bullet_a.label>
+  <Weapon_Requeen_b.label>亡命徒</Weapon_Requeen_b.label>
+  <Weapon_Requeen_Bullet_b.label>亡命徒</Weapon_Requeen_Bullet_b.label>
+  <Weapon_Requeen_c.label>屠杀者</Weapon_Requeen_c.label>
+  <Weapon_Requeen_Bullet_c.label>屠杀者</Weapon_Requeen_Bullet_c.label>
+  <Weapon_Requeen_e.label>暴风雪</Weapon_Requeen_e.label>
+  <Weapon_Requeen_Bullet_e.label>暴风雪</Weapon_Requeen_Bullet_e.label>
+  <Weapon_Requeen_f.label>毁灭者</Weapon_Requeen_f.label>
+  <Weapon_Requeen_Bullet_f.label>毁灭者</Weapon_Requeen_Bullet_f.label>
 </LanguageData>

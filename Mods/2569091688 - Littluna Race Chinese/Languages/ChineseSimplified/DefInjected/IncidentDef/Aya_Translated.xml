@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_LL_Id_a.label>年轻决战型</HAR_LL_Id_a.label>
-  <HAR_LL_Id_a.letterLabel>年轻决战型</HAR_LL_Id_a.letterLabel>
-  <HAR_LL_Id_a.letterText>拥有不稳定而强大的召唤能力的利托鲁纳已经加入了你的殖民地。 \n看来他因为路途遥远而身体虚弱。过一段时间他就会崩溃，但过几天他就会恢复。</HAR_LL_Id_a.letterText>
-  <HAR_LL_Incident_ShipPartCrash.letterText>一个外表可怕的巨大生命体落入了殖民地。 \n巨型生命体会产生追随者并试图摧毁殖民地周围的区域。</HAR_LL_Incident_ShipPartCrash.letterText>
-  <HAR_LL_Incident_ShipPartCrash_b.label>未知的灾难</HAR_LL_Incident_ShipPartCrash_b.label>
-  <HAR_LL_Incident_ShipPartCrash_b.letterLabel>未知的灾难</HAR_LL_Incident_ShipPartCrash_b.letterLabel>
-  <HAR_LL_Incident_ShipPartCrash_b.letterText>■■ 落在了殖民地上。 \n■■ 将产生追随者并试图摧毁殖民地周围的区域。</HAR_LL_Incident_ShipPartCrash_b.letterText>
+  <HAR_LL_Id_a.label>年幼的决战种</HAR_LL_Id_a.label>
+  <HAR_LL_Id_a.letterLabel>年幼的决战种</HAR_LL_Id_a.letterLabel>
+  <HAR_LL_Id_a.letterText>一名拥有不稳定而强大召唤能力的里托鲁纳加入了你的殖民地。
+她似乎因长途跋涉而十分虚弱，不久后便会因体力不支倒下，但几天内应该可以恢复。</HAR_LL_Id_a.letterText>
+  <HAR_LL_Incident_ShipPartCrash.letterText>巨大的生命体那令人畏惧的姿态降临在了殖民地。\n她将不断生成眷属，并尝试将殖民地化为废墟。</HAR_LL_Incident_ShipPartCrash.letterText>
+  <HAR_LL_Incident_ShipPartCrash_b.label>不为人知的灾厄</HAR_LL_Incident_ShipPartCrash_b.label>
+  <HAR_LL_Incident_ShipPartCrash_b.letterLabel>不为人知的灾厄</HAR_LL_Incident_ShipPartCrash_b.letterLabel>
+  <HAR_LL_Incident_ShipPartCrash_b.letterText>■■降临在了殖民地。\n■■将不断生成眷属，并尝试将殖民地化为废墟。</HAR_LL_Incident_ShipPartCrash_b.letterText>
 </LanguageData>

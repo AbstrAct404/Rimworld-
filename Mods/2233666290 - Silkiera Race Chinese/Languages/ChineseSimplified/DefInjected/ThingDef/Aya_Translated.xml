@@ -1,109 +1,109 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_SK_A_a.label>金属装甲</HAR_SK_A_a.label>
-  <HAR_SK_A_a.description>Silkira 的独特盔甲、防护服最初是为在恶劣环境下工作而设计的。因此，作为铠甲，它对于物理干扰的抵抗力并不是很强，但是却拥有极高的耐热性。</HAR_SK_A_a.description>
-  <HAR_SK_A_b.label>妖狐和服</HAR_SK_A_b.label>
-  <HAR_SK_A_b.description>据说，亚人工业制作的最高品质的和服，是希尔基耶拉 Vixenmaris独家的，被一些和服爱好者以高价出售。</HAR_SK_A_b.description>
-  <HAR_SK_AO_a.description>希尔基耶拉等人喜欢穿的内衣的特点是布料面积小、外观性感。</HAR_SK_AO_a.description>
-  <HAR_SK_AO_a.label>内衣A（丝啦）</HAR_SK_AO_a.label>
-  <HAR_SK_AH_a.description>模仿尼亚米尔号角的角。</HAR_SK_AH_a.description>
-  <HAR_SK_AH_a.label>角落（丝姬拉）</HAR_SK_AH_a.label>
-  <HAR_SK_AH_b.description>丝滑的la发带以可爱的方式排列。</HAR_SK_AH_b.description>
-  <HAR_SK_AH_b.label>头带（silkira）</HAR_SK_AH_b.label>
-  <HAR_SK_AH_c.description>蓬松的围巾对于御寒非常有效。</HAR_SK_AH_c.description>
-  <HAR_SK_AH_c.label>消声器（丝姬拉）</HAR_SK_AH_c.label>
-  <HAR_SK_AH_d.description>遮住半张脸的围巾，对于御寒非常有效。</HAR_SK_AH_d.description>
-  <HAR_SK_AH_d.label>军用披肩 (silkira)</HAR_SK_AH_d.label>
-  <HAR_SK_AH_e.description>足够长的披肩，可以包裹身体，有助于防寒防暑。</HAR_SK_AH_e.description>
-  <HAR_SK_AH_e.label>羊绒披肩 (silkira)</HAR_SK_AH_e.label>
-  <HAR_SK_AH_f.description>Silkira 的专属头盔、防护服最初是为恶劣环境下工作而设计的。因此，作为头盔，它的抗物理干扰能力不是很强，但具有极高的耐热性。</HAR_SK_AH_f.description>
-  <HAR_SK_AH_f.label>金属头盔</HAR_SK_AH_f.label>
-  <HAR_SK_AH_g.description>这是希尔基耶拉 Vixenmaris独有的发夹，它拥有很高的耐用性，但其外表却掩盖了这一点，这可能是由于巫术的缘故。</HAR_SK_AH_g.description>
-  <HAR_SK_AH_g.label>狐狸发夹</HAR_SK_AH_g.label>
-  <HAR_SK_AS_a.description>希尔基耶拉 等人喜爱的外套。它的重量更轻，因为它适合经常使用。</HAR_SK_AS_a.description>
-  <HAR_SK_AS_a.label>Mods外套（丝滑啦）</HAR_SK_AS_a.label>
-  <HAR_SK_AS_b.description>希尔基耶拉等人喜爱的工作服。它足够坚固，可以在事故中幸存，但也很难移动。</HAR_SK_AS_b.description>
-  <HAR_SK_AS_b.label>工作服（丝琪拉）</HAR_SK_AS_b.label>
-  <HAR_SK_AS_c.description>希尔基耶拉 等人喜爱的外套。它耐热、耐寒，但移动起来有点困难。</HAR_SK_AS_c.description>
-  <HAR_SK_AS_c.label>羽绒服（丝啦）</HAR_SK_AS_c.label>
-  <HAR_SK_AT_a.description>与Silkira村民穿的衣服类似，耐热耐寒，建议经常穿着。</HAR_SK_AT_a.description>
-  <HAR_SK_AT_a.label>村民服装（丝姬拉）</HAR_SK_AT_a.label>
-  <HAR_SK_AT_b.description>它还内置了 希尔基耶拉 的工作服和道具，使一般工作变得更快一些。</HAR_SK_AT_b.description>
-  <HAR_SK_AT_b.label>工作服（希尔基耶拉）</HAR_SK_AT_b.label>
-  <HAR_SK_AT_c.description>Silkira 的私人服装，由于消除了不必要的结构，因此易于移动。</HAR_SK_AT_c.description>
-  <HAR_SK_AT_c.label>私服（silkira）</HAR_SK_AT_c.label>
-  <HAR_SK_AT_d.description>Silkira 的小镇女孩服装很简单，但又不失可爱。</HAR_SK_AT_d.description>
-  <HAR_SK_AT_d.label>小镇女孩衣服（希尔基耶拉）</HAR_SK_AT_d.label>
-  <HAR_SK_AT_e.description>Silkira的服务员衣服比较暴露，或许是缺乏趣味性，更注重功能性。</HAR_SK_AT_e.description>
-  <HAR_SK_AT_e.label>等候制服（silkira）</HAR_SK_AT_e.label>
-  <HAR_SK_Meal_a.label>猫发泄口</HAR_SK_Meal_a.label>
-  <HAR_SK_Meal_a.description>“你不觉得你旅途中的食物都是肉干饼吗？ \n如果是这样的话，试试这个便当吧！ ]\n\n亚人工业出售的便当。采用不易腐烂的烹饪方法制成，保鲜时间长，是长途旅行的好伴侣。</HAR_SK_Meal_a.description>
-  <HAR_SK_Meal_f.label>硅胶</HAR_SK_Meal_f.label>
-  <HAR_SK_Meal_f.description>“我想把食物放在身边，但它会变质......\n如果是这样的话，试试这个窗台罐！ 』\n\n亚人工业出售的腌制食品。由于经过防腐处理，不打开包装就不会变质，但其缺点是烹调时间较长，营养成分略低。</HAR_SK_Meal_f.description>
-  <HAR_SK_Meal_b.label>丝滑牧场</HAR_SK_Meal_b.label>
-  <HAR_SK_Meal_b.description>“胃开心了，每一天都会开心！吃了这个，感觉精神百倍！\n\n亚人工业的套餐，以‘均衡菜单’的理念来吃，让身体保持好状态。\n\n对于Silkira等以身体为资本的人来说，这是一道幸福的菜肴。</HAR_SK_Meal_b.description>
-  <HAR_SK_Meal_e.label>丝滑拉面</HAR_SK_Meal_e.label>
-  <HAR_SK_Meal_e.description>``亚人工业主厨精心挑选的一道菜\n经典酱油拉面给你！ 』\n\n亚人工业提供拉面。因为是面条，吃起来不容易吃饱，但煮的时间也不长，适合批量生产。</HAR_SK_Meal_e.description>
-  <HAR_SK_Meal_c.label>野兽能量</HAR_SK_Meal_c.label>
-  <HAR_SK_Meal_c.description>``每天喝我们创造者的秘密营养饮料，过上健康的生活！ \n\n亚人工业出售的能量饮料有望提高免疫力，而且不会成瘾，所以很容易喝。</HAR_SK_Meal_c.description>
-  <HAR_SK_Meal_d.label>克莫米肉</HAR_SK_Meal_d.label>
-  <HAR_SK_Meal_d.description>“送给因为斯卡利亚病而找不到肉的顾客！\n让我们烤出大家都喜欢的肉吧！\n\n亚人工业出售的碎肉成分不明，经过亚人工业的秘密工艺处理，去除了原料的味道。但在这种状态下，它就像生肉一样，必须作为烹饪的原料。\n\n即使是‘烂肉’或‘人肉’肉，”它会很美味。</HAR_SK_Meal_d.description>
-  <HAR_SK_Meal_g.description>“您是否对想要吸毒的瘾君子感到困扰？\n我们公司提供廉价且安全的茶！\n\n亚人工业出售的神秘茶，由于亚人工业秘密的Cykaid特殊加工，中毒症状极小。</HAR_SK_Meal_g.description>
-  <HAR_SK_Medicine_a.label>医疗猫</HAR_SK_Medicine_a.label>
-  <HAR_SK_Medicine_a.description>``不需要中性胺的医疗产品\n这是一种儿童友好型产品，可最大限度地减少过敏反应！ \n\n亚人工业出售的医疗产品，性能比一般药品稍好，而且不需要中性胺，所以制作起来很容易，但是制作起来需要大量的材料。</HAR_SK_Medicine_a.description>
-  <HAR_SK_NPC_Z_Item_a.label>安魂曲的波动</HAR_SK_NPC_Z_Item_a.label>
-  <HAR_SK_NPC_Z_Item_a.description>哀兽身上散发出无色透明的力场。 \n当它受到撞击时，会引起反物质爆炸，但它会立即消失，可能是因为它是一个临时区域。</HAR_SK_NPC_Z_Item_a.description>
-  <HAR_SK_Mechanoid_race_a.label>阿科机械生命体收割者</HAR_SK_Mechanoid_race_a.label>
-  <HAR_SK_Mechanoid_race_a.description>``经过无数次实验终于正式上线\n我们快速准确地砍下了邪恶的头颅！ \n\n亚人工业通过分析和复制机械体创造了机械生命体，并通过替换难以复制的大脑部分成功地正常运作。相比正在繁殖的螳螂型，杀伤力本身有所下降，但机动性更强，持久力也更强。</HAR_SK_Mechanoid_race_a.description>
-  <HAR_SK_Mechanoid_race_b.label>赤穗机械生命体掠食者</HAR_SK_Mechanoid_race_b.label>
-  <HAR_SK_Mechanoid_race_b.description>“经过多次实验，终于正式投入使用\n我们以和平为目标，24小时砍敌人！” \n\n亚人工业通过分析和复制机械体创造了机械生命体，并通过替换难以复制的大脑部分成功地正常运作。与正在再现的蜈蚣型相比，消除了射击战斗，转向近战，以发挥其韧性。</HAR_SK_Mechanoid_race_b.description>
-  <HAR_SK_Mechanoid_race_c.label>赤穗机械生命体影子</HAR_SK_Mechanoid_race_c.label>
-  <HAR_SK_Mechanoid_race_c.description>“经过无数次的实验，它终于正式投入使用了。”它将用体内装满的炸药消灭星球上的敌人！ \n\n亚人工业通过分析和复制机械体创造了机械生命体，并通过替换难以复制的大脑部分成功地正常运作。它的装甲比其他装甲更薄、更脆弱，但一旦失去能力，它的自毁装置就会启动并爆炸。</HAR_SK_Mechanoid_race_c.description>
-  <HAR_SK_Mechanoid_race_e.label>阿科机械生命体士兵</HAR_SK_Mechanoid_race_e.label>
-  <HAR_SK_Mechanoid_race_e.description>“经过多次实验，终于正式投入使用\n不流血不流泪的钢铁战士射杀敌人！” \n\n亚人工业通过分析和复制机械体创造了机械生命体，并通过替换难以复制的大脑部分成功地正常运作。他擅长用枪进行远距离战斗，而且因为是机械兵，所以射击精度很高。</HAR_SK_Mechanoid_race_e.description>
-  <HAR_SK_race_Cat.label>丝毛猫</HAR_SK_race_Cat.label>
-  <HAR_SK_race_Cat.description>“一只长相可爱的宠物加入了队伍！\n它聪明敏捷，但体弱多病，不会战斗。\n\n亚人工业养的一只猫，虽然战斗力低，但寿命长，对环境有抵抗力。</HAR_SK_race_Cat.description>
-  <BMOT_Building_MailOrderTerminal_Base.description>这是一个邮购终端。您可以在舒适的家中立即购买您想要的物品。</BMOT_Building_MailOrderTerminal_Base.description>
-  <BMOT_Building_MailOrderTerminal_Food.description>这是一家可以直接与 Ajin Kogyo 供应商进行交易的商店。交易需要贸易信标，并且品种每三天更换一次。</BMOT_Building_MailOrderTerminal_Food.description>
-  <BMOT_Building_MailOrderTerminal_Material.description>这是一家可以直接与 Ajin Kogyo 供应商进行交易的商店。交易需要贸易信标，并且品种每三天更换一次。</BMOT_Building_MailOrderTerminal_Material.description>
-  <BMOT_Building_MailOrderTerminal_Furniture.description>这是一家可以直接与 Ajin Kogyo 供应商进行交易的商店。交易需要贸易信标，并且品种每三天更换一次。</BMOT_Building_MailOrderTerminal_Furniture.description>
-  <BMOT_Building_MailOrderTerminal_Animal.description>这是一家可以直接与 Ajin Kogyo 供应商进行交易的商店。交易需要贸易信标，并且品种每三天更换一次。</BMOT_Building_MailOrderTerminal_Animal.description>
-  <BMOT_Building_MailOrderTerminal_Slave.description>这是一家可以直接与 Ajin Kogyo 供应商进行交易的商店。交易需要贸易信标，并且品种每三天更换一次。</BMOT_Building_MailOrderTerminal_Slave.description>
-  <BMOT_Building_Recycle_a.description>“你的殖民地里武器和盔甲泛滥成灾吗？\n我们亚人工业会解决这个问题！\n\n亚人工业的修复商店，在这里你可以快速收集不需要的武器和盔甲。\n你还将收到“猫印章”作为感谢，你可以把它存起来兑换豪华奖品。</BMOT_Building_Recycle_a.description>
-  <BMOT_Building_Refinery_a.description>“那里的一位顾客得到了他梦想的船！ \n您在寻找燃料来运行您的汽车时遇到困难吗？ \n我们会解决您的问题！ ]\n\n亚人工业的炼油厂。它液化岩石并利用空气和电力将其转化为化学燃料。 \n\n它似乎是模仿人工种族巫女为了消磨时间而创造的机器。</BMOT_Building_Refinery_a.description>
-  <HAR_SK_Hive_a.description>``美味的罐头，吃起来真的很安全！ \n【请别犹豫，来问我吧！ ！ ！ \n\nAjin Kogyo 的一家经销店，在全国各地经销 Sill 罐。 \n他们分发这些东西的目的似乎是为了推广美味佳肴，为饥饿的人们做慈善工作。 \n人们对他敢于前往战区或极寒之地以获得认可的勇气感到既感激又敬畏。</HAR_SK_Hive_a.description>
-  <HAR_SK_TableBase.description>桌子是亚人工业的，中间是透明玻璃，看起来有点高级。</HAR_SK_TableBase.description>
-  <HAR_SK_Table2x2c.label>玻璃桌 (2x2)</HAR_SK_Table2x2c.label>
-  <HAR_SK_Table3x3c.label>玻璃桌 (3x3)</HAR_SK_Table3x3c.label>
+  <HAR_SK_A_a.label>黑钢装甲</HAR_SK_A_a.label>
+  <HAR_SK_A_a.description>丝姬拉专用的装甲，最初是为了在严峻环境下工作而制作的防护服装。因此作为装甲来说，物理防御性能不是很强，但是对热有极高的耐性。</HAR_SK_A_a.description>
+  <HAR_SK_A_b.label>妖狐的衣物</HAR_SK_A_b.label>
+  <HAR_SK_A_b.description>丝姬拉·狐媚的专用衣物。据说作为亚人工业质量最高的物品、在部分衣物爱好者之间大受欢迎。</HAR_SK_A_b.description>
+  <HAR_SK_AO_a.description>丝姬拉们很喜欢穿的内衣，布料面积小，看起来色色的。</HAR_SK_AO_a.description>
+  <HAR_SK_AO_a.label>内衣A(丝姬拉)</HAR_SK_AO_a.label>
+  <HAR_SK_AH_a.description>仿照尼亚米尔的角制作的装饰用角。</HAR_SK_AH_a.description>
+  <HAR_SK_AH_a.label>装饰用角(丝姬拉)</HAR_SK_AH_a.label>
+  <HAR_SK_AH_b.description>丝姬拉的发箍，被制作得很可爱。</HAR_SK_AH_b.description>
+  <HAR_SK_AH_b.label>发箍(丝姬拉)</HAR_SK_AH_b.label>
+  <HAR_SK_AH_c.description>毛茸茸的围巾，能很有效地抵御严寒。</HAR_SK_AH_c.description>
+  <HAR_SK_AH_c.label>围巾(丝姬拉)</HAR_SK_AH_c.label>
+  <HAR_SK_AH_d.description>遮住半边脸的披肩，能很有效地抵御严寒。</HAR_SK_AH_d.description>
+  <HAR_SK_AH_d.label>军用披肩(丝姬拉)</HAR_SK_AH_d.label>
+  <HAR_SK_AH_e.description>长得可以卷在身上的披肩，防寒防暑皆可用。</HAR_SK_AH_e.description>
+  <HAR_SK_AH_e.label>羊毛绒披肩(丝姬拉)</HAR_SK_AH_e.label>
+  <HAR_SK_AH_f.description>丝姬拉专用的头盔，最初是为了在严峻环境下工作而制作的防护服装。因此作为装甲来说，物理防御性能不是很强，但是对热有极高的耐性。</HAR_SK_AH_f.description>
+  <HAR_SK_AH_f.label>黑钢头盔</HAR_SK_AH_f.label>
+  <HAR_SK_AH_g.description>丝姬拉·狐媚的专用发簪，在妖术的加持下有着与外表不相称的高耐久。</HAR_SK_AH_g.description>
+  <HAR_SK_AH_g.label>妖狐的发簪</HAR_SK_AH_g.label>
+  <HAR_SK_AS_a.description>丝姬拉们爱穿的外套。因为经常使用，所以设计的较为轻便。</HAR_SK_AS_a.description>
+  <HAR_SK_AS_a.label>摩登外套(丝姬拉)</HAR_SK_AS_a.label>
+  <HAR_SK_AS_b.description>丝姬拉们爱穿的工装外套。它坚固耐用，即使发生事故也能让你毫发无伤，但也因此移动性有所削弱。</HAR_SK_AS_b.description>
+  <HAR_SK_AS_b.label>工装外套(丝姬拉)</HAR_SK_AS_b.label>
+  <HAR_SK_AS_c.description>丝姬拉们爱穿的外套。它具有耐热和耐寒性，但移动起来有点困难。</HAR_SK_AS_c.description>
+  <HAR_SK_AS_c.label>羽绒服装(丝姬拉)</HAR_SK_AS_c.label>
+  <HAR_SK_AT_a.description>适合村民穿的服装，抗寒保暖，推荐作为日常用服装穿戴。</HAR_SK_AT_a.description>
+  <HAR_SK_AT_a.label>村民装束(丝姬拉)</HAR_SK_AT_a.label>
+  <HAR_SK_AT_b.description>丝姬拉工作时穿的装束，因为还内置了工作用小道具，所以普通工作速度会略有提升。</HAR_SK_AT_b.description>
+  <HAR_SK_AT_b.label>工作装束(丝姬拉)</HAR_SK_AT_b.label>
+  <HAR_SK_AT_c.description>丝姬拉们穿的居家服装，舍去了繁琐的装饰，使行动更为方便。</HAR_SK_AT_c.description>
+  <HAR_SK_AT_c.label>居家服装(丝姬拉)</HAR_SK_AT_c.label>
+  <HAR_SK_AT_d.description>丝姬拉们穿的小镇女性装束，虽然朴素但也平添几分可爱。</HAR_SK_AT_d.description>
+  <HAR_SK_AT_d.label>小镇女性装束(丝姬拉)</HAR_SK_AT_d.label>
+  <HAR_SK_AT_e.description>丝姬拉们穿的侍者装束，露出度适中且强调功能性的服装饰。</HAR_SK_AT_e.description>
+  <HAR_SK_AT_e.label>侍者装束(丝姬拉)</HAR_SK_AT_e.label>
+  <HAR_SK_Meal_a.label>亚人便当</HAR_SK_Meal_a.label>
+  <HAR_SK_Meal_a.description>“你不觉得只有干肉饼的旅途很没劲吗？\n那就来试试亚人便当吧！”\n\n亚人工业售卖的便当，采用了不易腐烂的烹饪方法，能够长期保持新鲜，是外出旅行的必备物品。</HAR_SK_Meal_a.description>
+  <HAR_SK_Meal_f.label>兽娘罐头</HAR_SK_Meal_f.label>
+  <HAR_SK_Meal_f.description>“好想把食物带在身上，但是腐烂了……\n那就请试试兽娘罐头吧！”\n\n亚人工业售卖的保存食品，经过了防腐加工，只要不打开就永远不会腐烂。但是烹饪时间长、营养价值略低也是它的缺点。</HAR_SK_Meal_f.description>
+  <HAR_SK_Meal_b.label>兽娘套餐</HAR_SK_Meal_b.label>
+  <HAR_SK_Meal_b.description>“肚子幸福的话每天都幸福！吃了这个让你元气百倍！”\n\n亚人工业推出的套餐，以“膳食均衡”为理念，调整你的身体状态。\n\n对于坚信身体就是本钱的丝姬拉们来说，是一道令人愉悦的料理。</HAR_SK_Meal_b.description>
+  <HAR_SK_Meal_e.label>兽娘拉面</HAR_SK_Meal_e.label>
+  <HAR_SK_Meal_e.description>“亚人工业大厨最满意的菜品\n为你献上王道的酱油拉面！”\n\n亚人工业推出的拉面。由于是面食，所以你的肠胃可能并不想看到它们；但是拉面的制作时间短，适合大批量生产。</HAR_SK_Meal_e.description>
+  <HAR_SK_Meal_c.label>兽娘能量饮料</HAR_SK_Meal_c.label>
+  <HAR_SK_Meal_c.description>“我等创造者秘传的营养饮料，每日饮就健康生活！”\n\n亚人工业售卖的能量饮料，可以提高免疫力且不会上瘾，想怎么喝就怎么喝！</HAR_SK_Meal_c.description>
+  <HAR_SK_Meal_d.label>兽娘袋装肉</HAR_SK_Meal_d.label>
+  <HAR_SK_Meal_d.description>“献给还在对因狂暴症而腐烂的肉感到头疼的客人们！\n一起来烤大家都爱吃的美味肉吧！”\n\n亚人工业售卖的原料不明的肉馅，在亚人工业秘传的加工方法下，原本食材的味道早已消散。但这种状态下的它等同于生肉，必须要经过烹饪才能食用。\n\n不管是“腐肉”还是“人肉”，都会吃得很香吧。</HAR_SK_Meal_d.description>
+  <HAR_SK_Meal_g.description>“对成瘾品上瘾的人感到烦恼吗？\n本公司将为您提供廉价放心的红茶！”\n\n亚人工业售卖的不可思议的茶。亚人工业秘传的精神叶加工方法使其成瘾性得到了一定程度上的抑制。</HAR_SK_Meal_g.description>
+  <HAR_SK_Medicine_a.label>亚人医疗包</HAR_SK_Medicine_a.label>
+  <HAR_SK_Medicine_a.description>“不需要中性胺的医疗用品\n对极力抑制过敏反应的孩子也同样适用！”\n\n亚人工业售卖的医疗品，比一般的医药品性能稍高。因为不需要中性胺，所以容易制作，但是制作所需的材料稍多一些。</HAR_SK_Medicine_a.description>
+  <HAR_SK_NPC_Z_Item_a.label>镇魂摇曳曲</HAR_SK_NPC_Z_Item_a.label>
+  <HAR_SK_NPC_Z_Item_a.description>复仇战兽释放出的无色透明力场。\n受到冲击后会引发反物质爆炸，但由于领域只能维持很短一段时间，所以很快就会消失。</HAR_SK_NPC_Z_Item_a.description>
+  <HAR_SK_Mechanoid_race_a.label>亚工造机械生命体·收割者</HAR_SK_Mechanoid_race_a.label>
+  <HAR_SK_Mechanoid_race_a.description>“经过多次实验终于正式启动\n迅速且精准地斩下恶人首级！”\n\n亚人工业在解析并再现机械族后制作出的机械生命体，难以再现的大脑部件用其他物品替代，最终成功运行。与作为再现对象的机械飞螳相比，杀伤力有所降低，但是大大提高了机动性和防御力。</HAR_SK_Mechanoid_race_a.description>
+  <HAR_SK_Mechanoid_race_b.label>亚工造机械生命体·掠夺者</HAR_SK_Mechanoid_race_b.label>
+  <HAR_SK_Mechanoid_race_b.description>“经过多次实验终于正式启动\n为了和平，24小时不停地宰杀敌人吧！”\n\n亚人工业在解析并再现机械族后制作出的机械生命体，难以再现的大脑部件用其他物品替代，最终成功运行。与作为再现对象的机械蜈蚣相比，放弃了射击，活用其强悍的身体进行了近战的强化。</HAR_SK_Mechanoid_race_b.description>
+  <HAR_SK_Mechanoid_race_c.label>亚工造机械生命体·暗影</HAR_SK_Mechanoid_race_c.label>
+  <HAR_SK_Mechanoid_race_c.description>“经过多次实验终于正式启动\n用身上的炸药将敌人从这颗星球上彻底抹去！”\n\n亚人工业在解析并再现机械族后制作出的机械生命体，难以再现的大脑部件用其他物品替代，最终成功运行。与其他机械生命体相比，装甲更薄、更容易被破坏，可一旦陷入无法行动的状态就会立刻引爆身上所有的炸药。</HAR_SK_Mechanoid_race_c.description>
+  <HAR_SK_Mechanoid_race_e.label>亚工造机械生命体·铁血战兵</HAR_SK_Mechanoid_race_e.label>
+  <HAR_SK_Mechanoid_race_e.description>“经过多次实验终于正式启动\n不会流血流泪的钢铁战士将彻底击溃敌人！”\n\n亚人工业在解析并再现机械族后制作出的机械生命体，难以再现的大脑部件用其他物品替代，最终成功运行。擅长用枪进行远距离战斗，由于是机械士兵，射击精度也很高。</HAR_SK_Mechanoid_race_e.description>
+  <HAR_SK_race_Cat.label>柔顺的猫</HAR_SK_race_Cat.label>
+  <HAR_SK_race_Cat.description>“拥有可爱外表的宠物猫加入伙伴的行列啦！\n聪明又敏捷，但是无法战斗。”\n\n亚人工业饲养的猫，战五渣，但是寿命长，有很强的环境适应性。</HAR_SK_race_Cat.description>
+  <BMOT_Building_MailOrderTerminal_Base.description>邮购终端。足不出户便可立即购买所需商品。</BMOT_Building_MailOrderTerminal_Base.description>
+  <BMOT_Building_MailOrderTerminal_Food.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Food.description>
+  <BMOT_Building_MailOrderTerminal_Material.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Material.description>
+  <BMOT_Building_MailOrderTerminal_Furniture.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Furniture.description>
+  <BMOT_Building_MailOrderTerminal_Animal.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Animal.description>
+  <BMOT_Building_MailOrderTerminal_Slave.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Slave.description>
+  <BMOT_Building_Recycle_a.description>『还在为堆满殖民地的武器和护甲感到头疼？\n这一问题就由我等亚人工业来解决！』\n\n亚人工业开设的回收店，可以快速回收不需要的武器和护甲。\n另外，你还能得到作为谢礼的“猫咪印章”，能够兑换超豪华的奖品哦~</BMOT_Building_Recycle_a.description>
+  <BMOT_Building_Refinery_a.description>『那边那位刚刚入手了心仪飞船的客人！\n还在为缺乏燃料所困扰吗？\n这一烦恼就由我等来解决！』\n\n亚人工业的炼油机。能够将岩石液化，与空气与电力进行反应，从中提炼出化合燃料。\n\n据说其原型是人工种族的神子在闲暇之余制造的机器。</BMOT_Building_Refinery_a.description>
+  <HAR_SK_Hive_a.description>“真的吃了也没问题的美味兽娘罐头！\n你就敞开肚皮吃吧！！！”\n\n在各地飞来飞去分发兽娘罐头的亚人工业补给店。\n似乎是以宣传美味食品、拯救忍饥挨饿的人们的慈善行动为目的而分发的。\n为了让更多的人认识她们，不论是战场还是极寒之地都会前往；人们在感激的同时，也对这种毅力感到害怕。</HAR_SK_Hive_a.description>
+  <HAR_SK_TableBase.description>亚人工业制造的桌子，中央采用透明玻璃，看起来颇为高档。</HAR_SK_TableBase.description>
+  <HAR_SK_Table2x2c.label>玻璃桌(2x2)</HAR_SK_Table2x2c.label>
+  <HAR_SK_Table3x3c.label>玻璃桌(3x3)</HAR_SK_Table3x3c.label>
   <HAR_SK_Lamp.label>面板灯</HAR_SK_Lamp.label>
-  <HAR_SK_Lamp.description>亚人工业生产的电灯需要两倍多的材料来制造，但它可以照亮相当的面积。</HAR_SK_Lamp.description>
-  <HAR_SK_City_Light.description>“我将永远照亮你的殖民地！\n有了我们的技术，你不需要电！”\n\n亚人工业使用的路灯。看来发光部分是利用电力以外的能量来发光的。</HAR_SK_City_Light.description>
-  <HAR_SK_Art_a.label>装饰卡车</HAR_SK_Art_a.label>
-  <HAR_SK_Art_a.description>据说这辆车曾在某个星球上运行过，但不幸的是由于与燃料的兼容性而无法移动。</HAR_SK_Art_a.description>
-  <HAR_SK_Wall_Fence.label>现代围栏</HAR_SK_Wall_Fence.label>
-  <HAR_SK_Wall_Fence.description>亚金工业使用的现代围栏有一层薄薄的网墙，所以要小心子弹可以穿过它。</HAR_SK_Wall_Fence.description>
-  <HAR_SK_Item_Extra_a.label>亚人工业猫印章</HAR_SK_Item_Extra_a.label>
-  <HAR_SK_Item_Extra_a.description>``今天非常感谢您\n请妥善保管此印章！ ”\n\n我在收藏店收到的感谢邮票。攒起来可以兑换有价值的物品。</HAR_SK_Item_Extra_a.description>
-  <HAR_SK_Archotech_a.label>亚人工业白金门票</HAR_SK_Archotech_a.label>
-  <HAR_SK_Archotech_a.description>“如果您在管理殖民地时遇到困难，我们可以为您提供优秀的人力资源！”]\n\n使用时可以召唤有能力的Silkira的票证。 \n我不知道他是怎么来的，但他绝对是一个有前途的新人。</HAR_SK_Archotech_a.description>
-  <HAR_SK_Archotech_b.label>亚人工业黑票</HAR_SK_Archotech_b.label>
-  <HAR_SK_Archotech_b.description>``我们将为客户提供宝贵的人力资源。\n感谢您一直以来的支持！ ]\n\n使用时召唤特殊丝姬拉的票证。 \n目前还不清楚他是如何来到这里的，但不可否认的是，他是一个宝贵的人力资源。</HAR_SK_Archotech_b.description>
-  <HAR_SK_Archotech_c.label>宠物票</HAR_SK_Archotech_c.label>
-  <HAR_SK_Archotech_c.description>“殖民地需要治疗吗？\n你需要一只友善的猫！]\n\n一张使用时召唤丝猫的券。\n未知它使用什么原理。</HAR_SK_Archotech_c.description>
-  <HAR_SK_Archotech_d.label>樱票</HAR_SK_Archotech_d.label>
-  <HAR_SK_Archotech_d.description>“对于人手短缺的人来说是个好消息！\n我创造了一个奴隶精神完全暴露的连队奴隶！]\n\n一张使用时召唤神圣的券。\n不知道它使用什么原理。</HAR_SK_Archotech_d.description>
-  <HAR_SK_Archotech_e.label>鬼票</HAR_SK_Archotech_e.label>
-  <HAR_SK_Archotech_e.description>“我还没去过废墟，也没有四处寻找商人！！！\n我们会回应你们的呼喊！]\n\n一张使用时会召唤伊德哈尔的券。\n不知道它使用什么原理。</HAR_SK_Archotech_e.description>
-  <HAR_SK_Archotech_f.label>小票</HAR_SK_Archotech_f.label>
-  <HAR_SK_Archotech_f.description>「那个小女孩不会来殖民地的……\n如果是这样的话，就打电话给她吧！」]\n\n使用时可以召唤利托鲁纳的票券。 \n不清楚他们是怎么来的，但不知为何，他们因为长途旅行而感到疲倦。</HAR_SK_Archotech_f.description>
-  <HAR_SK_Weapon_a.label>生育镰刀</HAR_SK_Weapon_a.label>
-  <HAR_SK_Weapon_a.description>一把很难使用的镰刀，但可以用于耕作和战斗。装备后，它会给修炼带来+加值。</HAR_SK_Weapon_a.description>
-  <HAR_SK_Weapon_b.label>勤奋的扫帚</HAR_SK_Weapon_b.label>
-  <HAR_SK_Weapon_b.description>扫帚作为武器没用，但对日常生活有用，对移动速度和工作速度有+修正，不依赖于技能。</HAR_SK_Weapon_b.description>
-  <Gun_AssaultRifle_SK.label>火焰枪</Gun_AssaultRifle_SK.label>
-  <Gun_AssaultRifle_SK.description>亚人工业的特殊枪支和子弹具有燃烧特性，可以烧伤被击中的人。</Gun_AssaultRifle_SK.description>
-  <Bullet_Gun_AssaultRifle_SK.label>火焰枪</Bullet_Gun_AssaultRifle_SK.label>
+  <HAR_SK_Lamp.description>亚人工业制作的电灯，制作时使用了两倍以上的素材，但能照亮相应的范围。</HAR_SK_Lamp.description>
+  <HAR_SK_City_Light.description>“随时都会照亮您的殖民地！\n完全不需要电的高科技路灯！”\n\n亚人工业使用的路灯。发光部位用的并非电力，而是某种神秘能源，能够一直发光。</HAR_SK_City_Light.description>
+  <HAR_SK_Art_a.label>观赏用卡车</HAR_SK_Art_a.label>
+  <HAR_SK_Art_a.description>某外星球上用来运输的交通工具。遗憾的是并不兼容边缘世界的燃料，因此它无法移动。</HAR_SK_Art_a.description>
+  <HAR_SK_Wall_Fence.label>现代化围栏</HAR_SK_Wall_Fence.label>
+  <HAR_SK_Wall_Fence.description>亚人工业使用的现代化围栏。需要注意的是，子弹可以从铁丝间穿过。</HAR_SK_Wall_Fence.description>
+  <HAR_SK_Item_Extra_a.label>亚人工业猫咪印章</HAR_SK_Item_Extra_a.label>
+  <HAR_SK_Item_Extra_a.description>“今天也非常感谢\n请收好这个猫咪印章哦！”\n\n在回收店作为谢礼的印章，多存一些的话能用来交换贵重的奖品。</HAR_SK_Item_Extra_a.description>
+  <HAR_SK_Archotech_a.label>亚人工业白金券</HAR_SK_Archotech_a.label>
+  <HAR_SK_Archotech_a.description>“那边的艰难维持殖民地的小哥！\n我们将为你提供棒极了的人才！”\n\n使用后能召唤高品质丝姬拉的券。\n没人知道它是基于何种原理起作用的，但是至少在“它将为你的殖民地带来人才”这一点上，是毋庸置疑的。</HAR_SK_Archotech_a.description>
+  <HAR_SK_Archotech_b.label>亚人工业黑色券</HAR_SK_Archotech_b.label>
+  <HAR_SK_Archotech_b.description>“为尊贵的客户提供贵重的人才\n今后也请多多关照！”\n\n使用后能召唤特别的丝姬拉的券。\n没人知道它是基于何种原理起作用的，但是至少在“它将为你的殖民地带来人才”这一点上，是毋庸置疑的。</HAR_SK_Archotech_b.description>
+  <HAR_SK_Archotech_c.label>宠物券</HAR_SK_Archotech_c.label>
+  <HAR_SK_Archotech_c.description>“殖民地需要心灵上的治愈吗？ \n你需要一只黏人的小猫！”使用后能召唤出柔顺的猫的券。\n没人知道它是基于何种原理起作用的。</HAR_SK_Archotech_c.description>
+  <HAR_SK_Archotech_d.label>萨克莱恩券</HAR_SK_Archotech_d.label>
+  <HAR_SK_Archotech_d.description>“为人手不足的你带来一个好消息！\n奴性全开的社畜制作完成！”\n\n使用后能召唤萨克莱恩的券。\n没人知道它是基于何种原理起作用的。\n\n\n\n译者注：萨克莱恩出自作者的另一个mod：萨克莱恩</HAR_SK_Archotech_d.description>
+  <HAR_SK_Archotech_e.label>伊德海尔券</HAR_SK_Archotech_e.label>
+  <HAR_SK_Archotech_e.description>“在遗迹转了半天也没见到交易对象！！！\n我等将回应你的呼喊！”\n使用后能召唤伊德海尔的券。\n没人知道它是基于何种原理起作用的。\n\n\n\n译者注：伊德海尔出自作者的另一个mod：伊德海尔</HAR_SK_Archotech_e.description>
+  <HAR_SK_Archotech_f.label>小人族券</HAR_SK_Archotech_f.label>
+  <HAR_SK_Archotech_f.description>“那个小家伙还没来殖民地…\n那样的话直接叫过来就好了！”\n\n使用后能召唤里托鲁纳的券。\n没人知道它是基于何种原理起作用的。\n\n\n\n译者注：里托鲁纳出自作者的另一个mod：里托鲁纳</HAR_SK_Archotech_f.description>
+  <HAR_SK_Weapon_a.label>丰收大镰刀</HAR_SK_Weapon_a.label>
+  <HAR_SK_Weapon_a.description>虽然很难掌控，但是在农业和战斗中都能派上用场的大镰刀。装备后会提升装备者的种植能力。</HAR_SK_Weapon_a.description>
+  <HAR_SK_Weapon_b.label>勤勉者扫帚</HAR_SK_Weapon_b.label>
+  <HAR_SK_Weapon_b.description>无法作为武器使用的生活扫帚，对不依赖移动速度和技能等级的工作有一定的工作速度加成。</HAR_SK_Weapon_b.description>
+  <Gun_AssaultRifle_SK.label>炽热之枪</Gun_AssaultRifle_SK.label>
+  <Gun_AssaultRifle_SK.description>亚人工业制造的特种枪。子弹具有点燃性质，可以点着被击中的对手。</Gun_AssaultRifle_SK.description>
+  <Bullet_Gun_AssaultRifle_SK.label>炽热之枪</Bullet_Gun_AssaultRifle_SK.label>
   <Gun_IncendiaryLauncher_SK.label>熔岩发射器</Gun_IncendiaryLauncher_SK.label>
-  <Gun_IncendiaryLauncher_SK.description>亚人工业公司制造的一种特殊枪，可以通过点燃和散布粘性油而使火焰蔓延到大范围，但操作起来很困难，并且需要很长时间才能射击。</Gun_IncendiaryLauncher_SK.description>
+  <Gun_IncendiaryLauncher_SK.description>亚人工业制造的特种枪。虽然可以通过在点燃粘性油的同时喷洒来在大范围内喷吐火焰，但是由于其极难操作，所以射击速度很慢。</Gun_IncendiaryLauncher_SK.description>
   <Bullet_IncendiaryLauncher_SK.label>熔岩发射器</Bullet_IncendiaryLauncher_SK.label>
 </LanguageData>

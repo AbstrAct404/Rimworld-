@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_LL_Backstory_C1.title>■■ 婴儿</HAR_LL_Backstory_C1.title>
-  <HAR_LL_Backstory_C1.description>[PAWN_nameDef] 被███ 出自███ 之手。 [PAWN_pronoun] 不知道■■。 \n\n\n如果你能好好照顾我，我会很高兴！</HAR_LL_Backstory_C1.description>
-  <HAR_LL_Backstory_A1.title>迷人的伴侣</HAR_LL_Backstory_A1.title>
-  <HAR_LL_Backstory_A1.titleShort>伴侣</HAR_LL_Backstory_A1.titleShort>
-  <HAR_LL_Backstory_A1.description>【PAWN_nameDef】利用自己的美貌，被分配到了一个招待客人的销售岗位，虽然获得了社交能力和交际能力，但最终却并不擅长打工。</HAR_LL_Backstory_A1.description>
-  <HAR_LL_Backstory_A2.title>充满激情的建筑师</HAR_LL_Backstory_A2.title>
-  <HAR_LL_Backstory_A2.description>[PAWN_nameDef]意外地发现了他作为建筑师的天赋，但他对正确和精确的渴望让他与野生动物格格不入。</HAR_LL_Backstory_A2.description>
-  <HAR_LL_Backstory_A3.title>美丽的弓箭手</HAR_LL_Backstory_A3.title>
-  <HAR_LL_Backstory_A3.description>[PAWN_nameDef] 擅长射击远处的物体，并且可以使用弓或枪轻松做到这一点。</HAR_LL_Backstory_A3.description>
-  <HAR_LL_Backstory_A4.title>迷惑战士</HAR_LL_Backstory_A4.title>
-  <HAR_LL_Backstory_A4.description>[PAWN_nameDef]可以轻松处理他获得的东西，而且他似乎并不介意互相残杀。</HAR_LL_Backstory_A4.description>
+  <HAR_LL_Backstory_C1.title>■■的幼子</HAR_LL_Backstory_C1.title>
+  <HAR_LL_Backstory_C1.description>[PAWN_nameDef]经■■■之手接触了■■。尽管[PAWN_pronoun]并不知道■■是什么。\n\n\n要是能好好成长的话我会很高兴的！</HAR_LL_Backstory_C1.description>
+  <HAR_LL_Backstory_A1.title>充满魅力的接待员</HAR_LL_Backstory_A1.title>
+  <HAR_LL_Backstory_A1.titleShort>接待员</HAR_LL_Backstory_A1.titleShort>
+  <HAR_LL_Backstory_A1.description>[PAWN_nameDef]凭借出众外貌担任营业接待，学会了社交与处世之道；但另一方面，[PAWN_pronoun]不太擅长应付暴力场面。</HAR_LL_Backstory_A1.description>
+  <HAR_LL_Backstory_A2.title>热情洋溢的建筑师</HAR_LL_Backstory_A2.title>
+  <HAR_LL_Backstory_A2.description>[PAWN_nameDef]意外展现出建筑方面的才能；但由于过分追求精确，[PAWN_pronoun]不太擅长与野生动物相处。</HAR_LL_Backstory_A2.description>
+  <HAR_LL_Backstory_A3.title>华美的射手</HAR_LL_Backstory_A3.title>
+  <HAR_LL_Backstory_A3.description>[PAWN_nameDef]擅长射击很远处的目标，弓乃至于枪都如臂使指。</HAR_LL_Backstory_A3.description>
+  <HAR_LL_Backstory_A4.title>妖艳的战士</HAR_LL_Backstory_A4.title>
+  <HAR_LL_Backstory_A4.description>[PAWN_nameDef]能够轻松驾驭各种武器，[PAWN_pronoun]似乎也不排斥生死搏杀。</HAR_LL_Backstory_A4.description>
   <HAR_LL_Backstory_A5.title>性感设计师</HAR_LL_Backstory_A5.title>
   <HAR_LL_Backstory_A5.titleShort>设计师</HAR_LL_Backstory_A5.titleShort>
-  <HAR_LL_Backstory_A5.description>[PAWN_nameDef]凭借积累的想法和磨练的绘画技巧作为一名活跃的设计师。</HAR_LL_Backstory_A5.description>
-  <HAR_LL_Backstory_A6.title>大山深处的蛰居族</HAR_LL_Backstory_A6.title>
-  <HAR_LL_Backstory_A6.titleShort>引小森</HAR_LL_Backstory_A6.titleShort>
-  <HAR_LL_Backstory_A6.description>[PAWN_nameDef] 比与人互动更喜欢挖洞，而且他今天可能仍在挥舞着冰镐寻找矿石。</HAR_LL_Backstory_A6.description>
-  <HAR_LL_Backstory_A7.title>圣女仆</HAR_LL_Backstory_A7.title>
-  <HAR_LL_Backstory_A7.titleShort>女佣</HAR_LL_Backstory_A7.titleShort>
-  <HAR_LL_Backstory_A7.description>[PAWN_nameDef]是一名侍奉名流的女仆，并且可能是一位烹饪专家。</HAR_LL_Backstory_A7.description>
-  <HAR_LL_Backstory_A8.title>美容师</HAR_LL_Backstory_A8.title>
-  <HAR_LL_Backstory_A8.description>[PAWN_nameDef]是一位创作了很多作品的艺术家，他创作的作品取决于他当时的感性。</HAR_LL_Backstory_A8.description>
+  <HAR_LL_Backstory_A5.description>[PAWN_nameDef]凭借长期积累的创意与磨炼出的绘画技巧，作为设计师活跃至今。</HAR_LL_Backstory_A5.description>
+  <HAR_LL_Backstory_A6.title>深山隐居者</HAR_LL_Backstory_A6.title>
+  <HAR_LL_Backstory_A6.titleShort>隐居者</HAR_LL_Backstory_A6.titleShort>
+  <HAR_LL_Backstory_A6.description>[PAWN_nameDef]比起与人打交道，更喜欢挖洞。今天[PAWN_pronoun]肯定也在为了挖矿石而不断挥动镐子吧。</HAR_LL_Backstory_A6.description>
+  <HAR_LL_Backstory_A7.title>神圣女仆</HAR_LL_Backstory_A7.title>
+  <HAR_LL_Backstory_A7.titleShort>女仆</HAR_LL_Backstory_A7.titleShort>
+  <HAR_LL_Backstory_A7.description>[PAWN_nameDef]是一名侍奉位高权重者的女仆，很擅长做料理。</HAR_LL_Backstory_A7.description>
+  <HAR_LL_Backstory_A8.title>美感艺术家</HAR_LL_Backstory_A8.title>
+  <HAR_LL_Backstory_A8.description>[PAWN_nameDef]是创作出许多作品的艺术家；能创作出什么样的作品取决于当时的艺术灵感。</HAR_LL_Backstory_A8.description>
   <HAR_LL_Backstory_A9.title>天使教授</HAR_LL_Backstory_A9.title>
-  <HAR_LL_Backstory_A9.description>[PAWN_nameDef]是一位教授，他写的论文充满了邪恶的想法，令人惊讶的是，他似乎被高度评价为一个不能被嘲笑的人。</HAR_LL_Backstory_A9.description>
-  <HAR_LL_Backstory_A10.title>受欢迎的小镇女孩</HAR_LL_Backstory_A10.title>
-  <HAR_LL_Backstory_A10.description>[PAWN_nameDef]是一个随处可见的城镇女孩，但似乎因为她的外表而在异性中拥有良好的声誉。</HAR_LL_Backstory_A10.description>
-  <HAR_LL_Backstory_A11.title>梦见驯兽师</HAR_LL_Backstory_A11.title>
+  <HAR_LL_Backstory_A9.description>[PAWN_nameDef]是以恶魔般的想法写出奇葩论文的教授，意外地享有不能小觑的盛誉。</HAR_LL_Backstory_A9.description>
+  <HAR_LL_Backstory_A10.title>受欢迎的城镇女孩</HAR_LL_Backstory_A10.title>
+  <HAR_LL_Backstory_A10.description>[PAWN_nameDef]原本只是普通的城镇姑娘，但出众外貌似乎令[PAWN_pronoun]在异性中颇受欢迎。</HAR_LL_Backstory_A10.description>
+  <HAR_LL_Backstory_A11.title>梦想驯兽师</HAR_LL_Backstory_A11.title>
   <HAR_LL_Backstory_A11.titleShort>驯兽师</HAR_LL_Backstory_A11.titleShort>
-  <HAR_LL_Backstory_A11.description>[PAWN_nameDef]是一名驯兽师，梦想驯服全世界的野兽，但要小心大自然的奇观。</HAR_LL_Backstory_A11.description>
+  <HAR_LL_Backstory_A11.description>[PAWN_nameDef]是一名梦想驯服世间所有野兽的驯兽师，但仍需敬畏大自然的危险。</HAR_LL_Backstory_A11.description>
   <HAR_LL_Backstory_A12.title>白衣天使</HAR_LL_Backstory_A12.title>
   <HAR_LL_Backstory_A12.titleShort>护士</HAR_LL_Backstory_A12.titleShort>
-  <HAR_LL_Backstory_A12.description>[PAWN_nameDef] 是一名医疗技术精湛的护士，我很欣赏他有时会犯错误。</HAR_LL_Backstory_A12.description>
-  <HAR_LL_Backstory_Z_C1.title>小女孩抬头看</HAR_LL_Backstory_Z_C1.title>
-  <HAR_LL_Backstory_Z_C1.description>[PAWN_nameDef] 生来就比普通的 莉特露娜 拥有更多的知识。看来他光是看着星星就学到了很多东西。</HAR_LL_Backstory_Z_C1.description>
-  <HAR_LL_Backstory_Z_A1.title>星星的巫女</HAR_LL_Backstory_Z_A1.title>
-  <HAR_LL_Backstory_Z_A1.titleShort>星星的巫女</HAR_LL_Backstory_Z_A1.titleShort>
-  <HAR_LL_Backstory_Z_A1.description>[PAWN_nameDef] 作为 Seishin 的巫女取得了巨大的成功。那个座位已经不再属于一个人，他似乎唯一能做的就是发疯。</HAR_LL_Backstory_Z_A1.description>
-  <HAR_LL_Backstory_M_C1.title>重生的巫女</HAR_LL_Backstory_M_C1.title>
-  <HAR_LL_Backstory_M_C1.description>[PAWN_nameDef] 是 Lytoruna Dynamis 的复制品，他在人造种族的诞生地迦南星球上被视为神圣的孩子而受到崇拜。</HAR_LL_Backstory_M_C1.description>
-  <HAR_LL_Backstory_M_A1.title>创造者的继承者</HAR_LL_Backstory_M_A1.title>
-  <HAR_LL_Backstory_M_A1.titleShort>创造者的继承者</HAR_LL_Backstory_M_A1.titleShort>
-  <HAR_LL_Backstory_M_A1.description>[PAWN_nameDef] 作为一名巫女取得了巨大的成功。你可以和很多人交流</HAR_LL_Backstory_M_A1.description>
+  <HAR_LL_Backstory_A12.description>[PAWN_nameDef]是位医术高明的护士，但[PAWN_pronoun]偶尔也会犯一些可爱的小错误。</HAR_LL_Backstory_A12.description>
+  <HAR_LL_Backstory_Z_C1.title>仰望的童女</HAR_LL_Backstory_Z_C1.title>
+  <HAR_LL_Backstory_Z_C1.description>[PAWN_nameDef]生来就拥有着比普通里托鲁纳更为优异的知识。她只需仰望星辰便能通晓万事万物。</HAR_LL_Backstory_Z_C1.description>
+  <HAR_LL_Backstory_Z_A1.title>星辰的神子</HAR_LL_Backstory_Z_A1.title>
+  <HAR_LL_Backstory_Z_A1.titleShort>星辰的神子</HAR_LL_Backstory_Z_A1.titleShort>
+  <HAR_LL_Backstory_Z_A1.description>[PAWN_nameDef]已经升华成为了星辰的神子。这一位置并非凡人能够触及，而她的末路也只能是被疯狂所吞噬。</HAR_LL_Backstory_Z_A1.description>
+  <HAR_LL_Backstory_M_C1.title>重生的神子</HAR_LL_Backstory_M_C1.title>
+  <HAR_LL_Backstory_M_C1.description>[PAWN_nameDef]是在人工种族的故乡迦南星被视为圣女崇拜的里托鲁纳·杜娜米丝的复制体。</HAR_LL_Backstory_M_C1.description>
+  <HAR_LL_Backstory_M_A1.title>创造主的后继者</HAR_LL_Backstory_M_A1.title>
+  <HAR_LL_Backstory_M_A1.titleShort>创造主的后继者</HAR_LL_Backstory_M_A1.titleShort>
+  <HAR_LL_Backstory_M_A1.description>[PAWN_nameDef]无比适合神子之位。她能与每一个人心灵相通。</HAR_LL_Backstory_M_A1.description>
 </LanguageData>

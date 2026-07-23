@@ -1,104 +1,77 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Hediff_Geist.label>幽灵麻痹</Hediff_Geist.label>
-  <Hediff_Geist.description>由于尼亚美亚的精神干扰，虽然时间很短，但他的运动机能却因思维走神而严重受损。</Hediff_Geist.description>
-  <Hediff_Larva.label>拥有汽车</Hediff_Larva.label>
-  <Hediff_Larva.description>由于尼亚美亚的精神干扰，他的身体状况很差，根本无法动弹。</Hediff_Larva.description>
-  <Hediff_Rugeiyu.label>深度睡眠</Hediff_Rugeiyu.label>
-  <Hediff_Rugeiyu.description>由于尼亚美亚的精神干扰，他的思想和身体都会因为困倦而受到明显的损害，虽然时间很短，严重的话就会昏倒。</Hediff_Rugeiyu.description>
-  <Hediff_Genocide.label>所有种族灭绝</Hediff_Genocide.label>
-  <Hediff_Genocide.description>由于尼亚美亚的精神干扰，他正在无差别地狂暴。</Hediff_Genocide.description>
-  <HAR_NM_Hediff_a.label>扬升纳米机器</HAR_NM_Hediff_a.label>
-  <HAR_NM_Hediff_a.description>混入谢菲特轨道炮子弹中的纳米机器。 \n正常情况下，即使隐藏在体内也是无害的，但如果超过一定量，就会被激活，强行停止内脏功能而导致死亡。无论它是生物还是机器，它都能发挥作用，因为它在隐藏的情况下研究结构。</HAR_NM_Hediff_a.description>
-  <HAR_NM_XXX_Hediff.description>接受超人拯救的状态。 \n但看起来我错过了一些重要的东西...\n\n\n\n\n当我看到它时，我真的很紧张。 \n感觉有点毛茸茸的，好像被诱惑了一样。 \n我感觉我要发脾气并爱上Sora。 \n不过很奇怪……我气得自己都看自己了是吧？还是你被忽视了？ \n我是一个可爱的家伙，与索拉合不来，孤独一人。 \n你在吗？我想知道他生气了吗？看来我是那里的超级粉丝。 \n不过没关系，我太累了。 \n\nKamisama Makamisama，请不要厌倦乐园。</HAR_NM_XXX_Hediff.description>
-  <HAR_NM_Skill_Hediff_b.label>燃烧的耻辱</HAR_NM_Skill_Hediff_b.label>
-  <HAR_NM_Skill_Hediff_b.description>我们受到尼亚美亚·阿拉迪亚的干扰，导致它变得狂暴。 \n由于女巫的巧妙介入，看起来根本就不像是敌对行动。</HAR_NM_Skill_Hediff_b.description>
-  <HAR_NM_Skill_Hediff_c.label>颓废</HAR_NM_Skill_Hediff_c.label>
-  <HAR_NM_Skill_Hediff_c.description>你正在经历来自 Niamea Aradia 的干扰，这使你的身体变得沉重\n你的进度会减慢到迈出一步变得很麻烦的地步。</HAR_NM_Skill_Hediff_c.description>
-  <HAR_NM_Skill_Hediff_e.label>肥沃的忧郁</HAR_NM_Skill_Hediff_e.label>
-  <HAR_NM_Skill_Hediff_e.description>它受到尼亚美亚阿拉迪亚的干扰，这使得它的身体变得脆弱。 \n即使你穿着坚固的盔甲，你的防护也会降低到致命的程度。</HAR_NM_Skill_Hediff_e.description>
+  <Hediff_Geist.label>精神萎靡</Hediff_Geist.label>
+  <Hediff_Geist.description>由于尼亚米尔的精神干扰，虽然时间很短，但由于思维涣散，身体功能明显下降。</Hediff_Geist.description>
+  <Hediff_Larva.label>精神瘫痪</Hediff_Larva.label>
+  <Hediff_Larva.description>由于尼亚米尔的精神干扰，身体状况陷入了无法正常行动的状态。</Hediff_Larva.description>
+  <Hediff_Rugeiyu.label>精神怠倦</Hediff_Rugeiyu.label>
+  <Hediff_Rugeiyu.description>由于尼亚米尔的精神干扰，虽然时间很短，但由于困倦引起思考、身体能力显著下降，程度继续加深的话就会昏厥。</Hediff_Rugeiyu.description>
+  <Hediff_Genocide.label>精神狂暴</Hediff_Genocide.label>
+  <Hediff_Genocide.description>由于尼亚米尔的精神干涉，被无差别地狂暴化了。</Hediff_Genocide.description>
+  <HAR_NM_Hediff_a.label>即死预兆</HAR_NM_Hediff_a.label>
+  <HAR_NM_Hediff_a.description>混入魑枪『郄浍墮狱』子弹里的纳米机器引起的症状。\n通常潜伏在体内不会造成危害，但如果超过一定数量，就会被激活，使内脏功能强制停止而导致死亡。因为在潜伏中探查了机体构造，无论是对生物还是机械都能发挥作用。</HAR_NM_Hediff_a.description>
+  <HAR_NM_XXX_Hediff.description>正在接受超存在的“救济”。但看起来，她似乎正失去某种无比重要的东西……
+
+看着祂，不知为何就会安心。仿佛被拥入怀中，身体轻飘飘的；心也越来越轻，好像马上就要升上天空。
+可是好奇怪……远处的我正在看着我？还是我正在被注视？
+那个无法升上天空、孤零零站着的可怜的我，是在哭，还是在生气？
+看来那边才是真正的我。不过没关系，我已经太累了。
+
+创造者啊，创造者。请不要把我逐出乐园。</HAR_NM_XXX_Hediff.description>
+  <HAR_NM_Skill_Hediff_b.label>毁灭之息</HAR_NM_Skill_Hediff_b.label>
+  <HAR_NM_Skill_Hediff_b.description>受到由尼亚米尔·魔女系引起的狂暴化的干涉。\n因为魔女巧妙的干涉，甚至让人觉得不是敌对行为。</HAR_NM_Skill_Hediff_b.description>
+  <HAR_NM_Skill_Hediff_c.label>颓废之咒</HAR_NM_Skill_Hediff_c.label>
+  <HAR_NM_Skill_Hediff_c.description>受到尼亚米尔·魔女系的身体沉重的干扰。\n前进的速度变得极其迟缓，连迈出一步都觉得难如登天。</HAR_NM_Skill_Hediff_c.description>
+  <HAR_NM_Skill_Hediff_e.label>深渊之咒</HAR_NM_Skill_Hediff_e.label>
+  <HAR_NM_Skill_Hediff_e.description>受到尼亚米尔·魔女系的身体脆弱的干涉。\n即使穿着最坚固的铠甲，防御也会降低到致命的程度。</HAR_NM_Skill_Hediff_e.description>
   <Nearmaere_Artificial.label>人工种族</Nearmaere_Artificial.label>
-  <Nearmaere_Artificial.description>尼亚美亚是一个人工创造的种族，专门从事精神干扰，因此他们对与精神有关的事物有着很强的抵抗力，但另一方面，或许因为他们是人工生物，所以他们对疾病之类的抵抗力和免疫力较低。 \n\n而且，他们有追随者，可以召唤追随者与敌人作战，他们的力量和召唤数量由尼亚美亚的个人等级决定，大约一年内等级提升1级（等级限制为5级）。</Nearmaere_Artificial.description>
-  <Nearmaere_Artificial_b.label>人工上位种族</Nearmaere_Artificial_b.label>
-  <Nearmaere_Artificial_b.description>尼亚美亚·阿拉迪亚（Niamea Aradia）是尼亚美亚的完整形态，拥有在人类社会占据崇高地位的技能和技术。 \n克服长期以来一直受到关注的人工种族特有的免疫力问题，可以在精神上成长。</Nearmaere_Artificial_b.description>
-  <Nearmaere_Artificial_d.label>人工种族</Nearmaere_Artificial_d.label>
-  <Nearmaere_Artificial_d.description>尼亚美温盖特与普通尼亚美不同。虽然他不再召唤追随者，但他的免疫系统有所提升，精神状态也变得更强。</Nearmaere_Artificial_d.description>
-  <Nearmaere_Artificial_e.label>人工种族</Nearmaere_Artificial_e.label>
-  <Nearmaere_Artificial_e.description>Niamea Nemeseia 是普通 Niamea 的改进版本。经过基因调整，可以承受偏远星球上的艰难战斗。</Nearmaere_Artificial_e.description>
-  <HAR_NM_Hediff_Drag_a.description>温盖特从尸体中收集的药用材料。
-这种药材是从尸体中采集并以液体形式储存的。
+  <Nearmaere_Artificial.description>由于尼亚米尔是人工种族，特别针对精神干涉，所以对精神相关有很强的耐性，相反对人工生物或病毒等的抗性和免疫力很低。\n\n另外，她们有自己的眷属，可以召唤出来让其与敌人战斗，其强度、召唤数根据她们个人作为人工种族的Lv而定，约一年提升1级 (Lv上限为5)。</Nearmaere_Artificial.description>
+  <Nearmaere_Artificial_b.label>人工种族（魔女系）</Nearmaere_Artificial_b.label>
+  <Nearmaere_Artificial_b.description>尼亚米尔·魔女系是尼亚米尔的完成形态，拥有在人类社会上位的手腕和技巧。\n长期以来人工种族特有的免疫问题克服的同时，心灵能力也得到了增强。</Nearmaere_Artificial_b.description>
+  <Nearmaere_Artificial_d.label>人工种族（神秘系）</Nearmaere_Artificial_d.label>
+  <Nearmaere_Artificial_d.description>尼亚米尔·神秘系是与通常的尼亚米尔不同的存在。虽然没有了眷属召唤，但是免疫能力得到了改善，心灵方面也变强了。</Nearmaere_Artificial_d.description>
+  <Nearmaere_Artificial_e.label>人工种族（改良系）</Nearmaere_Artificial_e.label>
+  <Nearmaere_Artificial_e.description>尼亚米尔·改良系是寻常尼亚米尔进行了基因改良的种族。为了能忍受在边缘星球上的艰苦战斗，进行了特定的基因调整。</Nearmaere_Artificial_e.description>
+  <HAR_NM_Hediff_Drag_a.description>尼亚米尔·神秘系从人类尸体上提取的原药。
+这种原药是把从人类尸体上提取的东西制成液体保存着。
 
-液体药材主要可从人体获取。
+液体原药主要从人类尸体上提取。
 
-最多可补充300个。</HAR_NM_Hediff_Drag_a.description>
-  <HAR_NM_Hediff_Drag_b.description>温盖特从尸体中收集的药用材料。
-这是从尸体中收集并以固体形式储存的。
+最多可以补充至300单位上限。</HAR_NM_Hediff_Drag_a.description>
+  <HAR_NM_Hediff_Drag_b.description>尼亚米尔·神秘系从机械族尸体上采集的原药。
+这种原药是把从机械族尸体上提取的东西制成固体保存着。
 
-固体药材主要可以从机械生命体中收获。
+固体原药主要从机械族尸体上提取。
 
-最多可补充300个。</HAR_NM_Hediff_Drag_b.description>
-  <HAR_NM_Hediff_Drag_c.description>温盖特从尸体中收集的药用材料。
-这种药材是从尸体中采集并以粉末形式保存的。
+最多可以补充至300单位上限。</HAR_NM_Hediff_Drag_b.description>
+  <HAR_NM_Hediff_Drag_c.description>尼亚米尔·神秘系从动物尸体上采集的原药。
+这种原药把从动物尸体上采集的东西制成粉末保存着。
 
-粉末状药材主要可从动物中获得。
+粉末原药主要从动物尸体上提取。
 
-最多可补充300个。</HAR_NM_Hediff_Drag_c.description>
-  <HAR_NM_Hediff_Potency_a.label>Arctera 的长生不老药</HAR_NM_Hediff_Potency_a.label>
-  <HAR_NM_Hediff_Potency_a.description>据说这种药物的功效是由人工女巫种族尼亚美亚·阿拉迪亚的成员阿克特拉创造的。
-药效持续 8 小时，随后 4 小时出现副作用。
+最多可以补充至300单位上限。</HAR_NM_Hediff_Drag_c.description>
+  <HAR_NM_Hediff_Potency_a.label>阿尔克忒拉灵药</HAR_NM_Hediff_Potency_a.label>
+  <HAR_NM_Hediff_Potency_a.description>据说这种药物的功效是由人工女巫种族尼亚米尔·阿拉迪亚的成员阿克特拉创造的。\n药效持续 8 小时，随后 4 小时出现副作用。\n\n效果期间，身体能力提升，攻击力增强。\n当出现副作用时，运动功能会下降至 50%。\n\n\n\n老实说，我不信任阿拉迪娅，所以我不想太依赖这个药。\n他们表面上很平静，但内心却在嘲笑别人。</HAR_NM_Hediff_Potency_a.description>
+  <HAR_NM_Hediff_Potency_b.label>理念魔药</HAR_NM_Hediff_Potency_b.label>
+  <HAR_NM_Hediff_Potency_b.description>据说这种药物的功效是由人工雌性狐狸丝姬拉·维​​克斯玛丽斯 (丝姬拉 维克森玛丽斯) 之一艾廷 (艾提涅) 创造的。\n药效持续 8 小时，随后 4 小时出现副作用。\n\n当其生效时，身体能力会提高，防御力也会增强。\n相反，它会变得脆弱并产生副作用。\n\n\n\n药物本身的功效是有益的，用起来也不错。\n但不知道到底是堆了多少空间部落的尸体才炼制出这种药剂的……</HAR_NM_Hediff_Potency_b.description>
+  <HAR_NM_Hediff_Potency_c.label>迪纳米斯秘药</HAR_NM_Hediff_Potency_c.label>
+  <HAR_NM_Hediff_Potency_c.description>神子里托鲁纳·迪纳米斯所调制药物的效力。能够在没有副作用的情况下复活死者，并因复活的附带效果使其获得永久强化。
 
-效果期间，身体能力提升，攻击力增强。
-当出现副作用时，运动功能会下降至 50%。
+“那孩子究竟从哪里学会了这种调配方法？就连她的父亲也没想到这种手段。看来她声称能够与外宇宙交流，并非全是虚言。”</HAR_NM_Hediff_Potency_c.description>
+  <HAR_NM_Hediff_Potency_z.label>■■■的死药</HAR_NM_Hediff_Potency_z.label>
+  <HAR_NM_Hediff_Potency_z.description>温盖特使用据称从某个存在处交易得来的配方所制药物的效力。使用者会偏离正常生物范畴，化为只受你们驱使的侍从。成为非生物后会失去许多需求，但工作与社交能力也会出现致命缺陷。
 
+使用者不再流血，伤口会缓慢再生，但更容易饥饿，个体市场价值也会下降。
 
+“果然只有药效值得利用。无论制法还是来历，都无法用可记录的方式描述。究竟是对██的审查过于严格，还是宇宙本身在排斥██呢……”</HAR_NM_Hediff_Potency_z.description>
+  <HAR_NM_Hediff_Energy_a.label>储能核心</HAR_NM_Hediff_Energy_a.label>
+  <HAR_NM_Hediff_Energy_a.description>改良系尼亚米尔的特殊器官。
+具有消耗能量生成精密机械的功能。
 
-老实说，我不信任Aradia，所以我不想太依赖这个药。
-他们表面上很平静，但内心却在嘲笑别人。</HAR_NM_Hediff_Potency_a.description>
-  <HAR_NM_Hediff_Potency_b.label>艾廷的魔法药水</HAR_NM_Hediff_Potency_b.label>
-  <HAR_NM_Hediff_Potency_b.description>据说这种药物的功效是由人工雌性狐狸丝基拉·维​​克斯玛丽斯 (希尔基耶拉 Vixenmaris) 之一艾廷 (Etine) 创造的。
-药效持续 8 小时，随后 4 小时出现副作用。
-
-当其生效时，身体能力会提高，防御力也会增强。
-相反，它会变得脆弱并产生副作用。
-
-
-
-药物本身的功效是有益的，用起来也不错。
-但不知道到底是堆了多少空间部落的尸体才炼制出这种药剂的……</HAR_NM_Hediff_Potency_b.description>
-  <HAR_NM_Hediff_Potency_c.label>动力灵药</HAR_NM_Hediff_Potency_c.label>
-  <HAR_NM_Hediff_Potency_c.description>奇迹生物的人工种族“莉特露娜 Dynamis”所创造的药物的效力。
-使死者复活，没有副作用。
-
-它通过复活的次要效果得到永久强化。
-
-
-
-
-我想知道那个孩子从哪里得到这种配方的。
-就连他，她的父亲，也不知道该怎么做。
-他自我宣称自己可以与外太空沟通，这似乎并不令人意外。</HAR_NM_Hediff_Potency_c.description>
-  <HAR_NM_Hediff_Potency_z.label>■■■ 死亡药丸</HAR_NM_Hediff_Potency_z.label>
-  <HAR_NM_Hediff_Potency_z.description>温盖特通过与某个存在的交易而获得的方法所制造的药物的效力。
-被利用的人就变成了异类生灵，变成了单纯被你利用的奴仆。
-成为非生命体一方面消除了很多欲望，但另一方面在工作和互动上也存在致命缺陷。
-
-它不再流血，受到的伤口也会慢慢再生，但很容易受到补偿。
-此外，他们作为个人的价值正在下降。
-
-
-
-看来唯一能用的就是药力了；制造方法和过程无法被记录或表达。
-我不知道是对██的审查严格，还是宇宙在拒绝██，但是……
-如果我要说的话，那就是这种药物对人类来说太好了。</HAR_NM_Hediff_Potency_z.description>
-  <HAR_NM_Hediff_Energy_a.label>赫斯提亚熔炉</HAR_NM_Hediff_Energy_a.label>
-  <HAR_NM_Hediff_Energy_a.description>Niamea Nemeseia 中包含的器官。
-它具有消耗能量并产生精密机械的能力。
-
-
-随着时间的推移，能量本身会慢慢补充。
-还可以使用特殊技能“快速充电”来充电一定次数。</HAR_NM_Hediff_Energy_a.description>
-  <HAR_NM_Hediff_Energy_b.description>快速充电的副作用。
-增加卡路里消耗并使您更容易挨饿。
+能量本身会随着时间的流逝慢慢充能。
+使用专用技能“快速充能”也可以获得一定充能。</HAR_NM_Hediff_Energy_a.description>
+  <HAR_NM_Hediff_Energy_b.description>快速充能副作用。
+能量消耗增加，容易饥饿。
 
 副作用持续24小时。</HAR_NM_Hediff_Energy_b.description>
 </LanguageData>

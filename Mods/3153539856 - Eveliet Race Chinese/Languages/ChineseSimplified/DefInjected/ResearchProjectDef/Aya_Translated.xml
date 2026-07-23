@@ -1,42 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_EL_Research_A.label>伊夫里特研究：“传统”</HAR_EL_Research_A.label>
-  <HAR_EL_Research_A.description>对幻影人工种族“伊夫利特”进行研究。</HAR_EL_Research_A.description>
-  <HAR_EL_Research_B.label>伊夫里特研究：“收藏”</HAR_EL_Research_B.label>
-  <HAR_EL_Research_B.description>对幻影人工种族“伊夫利特”进行研究。</HAR_EL_Research_B.description>
-  <HAR_EL_Research_C.label>伊夫里特研究：“分析”</HAR_EL_Research_C.label>
-  <HAR_EL_Research_C.description>对幻影人工种族“伊夫利特”进行研究。</HAR_EL_Research_C.description>
-  <HAR_EL_Research_D.label>伊夫里特研究：“编辑”</HAR_EL_Research_D.label>
-  <HAR_EL_Research_D.description>对幻影人工种族“伊夫利特”进行研究。</HAR_EL_Research_D.description>
-  <HAR_EL_Research_E.label>伊夫里特研究：“恢复”</HAR_EL_Research_E.label>
-  <HAR_EL_Research_E.description>对幻影人工种族“伊夫利特”进行研究。</HAR_EL_Research_E.description>
-  <HAR_EL_Research_Weapon_A.label>伊夫里特研究：“神圣的宝藏”</HAR_EL_Research_Weapon_A.label>
-  <HAR_EL_Research_Weapon_A.description>对幻影人工种族“伊夫利特”进行研究。</HAR_EL_Research_Weapon_A.description>
-  <HAR_EL_Research_Apparel_A.label>伊夫里特研究：“圣痕”</HAR_EL_Research_Apparel_A.label>
-  <HAR_EL_Research_Apparel_A.description>对幻影人工种族“伊夫利特”进行研究。</HAR_EL_Research_Apparel_A.description>
-  <HAR_EL_Research_MIKO_A.label>新文件夹</HAR_EL_Research_MIKO_A.label>
-  <HAR_EL_Research_MIKO_A.description>埃尔泽莱姆的数据中隐藏着一个神秘的文件夹。</HAR_EL_Research_MIKO_A.description>
-  <HAR_EL_Research_MIKO_B.label>电影：尼亚美</HAR_EL_Research_MIKO_B.label>
-  <HAR_EL_Research_MIKO_B.description>似乎是里托鲁纳与尼亚美亚互动的视频数据。 \n\n“虽然是你们接替了伊芙酱，但你们却出奇的自由……伊芙酱开始抱怨也是有道理的。”</HAR_EL_Research_MIKO_B.description>
-  <HAR_EL_Research_MIKO_C.label>电影：异度之卡</HAR_EL_Research_MIKO_C.label>
-  <HAR_EL_Research_MIKO_C.description>似乎是 莉特露娜 与 泽诺奥卡 互动的视频数据。 \n\n``诺亚酱，诺亚酱，拿着这个。 ……别扶我起来！我明白你应该自己承担，但感觉就像被当作小孩子一样，所以我无法忍受。”</HAR_EL_Research_MIKO_C.description>
-  <HAR_EL_Research_MIKO_D.label>电影：《爱德哈尔》</HAR_EL_Research_MIKO_D.label>
-  <HAR_EL_Research_MIKO_D.description>似乎是 莉特露娜 与 伊德海尔 互动的视频数据。 \n\n``嗯，就是这样。这可以用于开发下一个物种！噢，不要消失，不要消失！ ”</HAR_EL_Research_MIKO_D.description>
-  <HAR_EL_Research_MIKO_E.label>电影: 丝姬拉</HAR_EL_Research_MIKO_E.label>
-  <HAR_EL_Research_MIKO_E.description>似乎是 莉特露娜 与 希尔基耶拉 互动的视频数据。 \n\n``呼呼呼呼，如果我有这个，我也能成为一个好女孩……！ ……放开诺亚酱！啊，我的药！ ？ ”</HAR_EL_Research_MIKO_E.description>
-  <HAR_EL_Research_MIKO_F.label>电影：死灵</HAR_EL_Research_MIKO_F.label>
-  <HAR_EL_Research_MIKO_F.description>似乎是 莉特露娜 与 涅克洛斯 互动的视频数据。 \n\n 『那个空间站还运转吗？是的，我需要尽快处理。如果太晚了我就会有麻烦了。”</HAR_EL_Research_MIKO_F.description>
-  <HAR_EL_Research_MIKO_G.label>电影: 太阳弧</HAR_EL_Research_MIKO_G.label>
-  <HAR_EL_Research_MIKO_G.description>似乎是 莉特露娜 与 索拉克 互动的视频数据。 \n\n``啊哈哈，景色真壮观！我可以站在肩膀上俯视索尔酱的位置了！ ……啊……我醉了……”</HAR_EL_Research_MIKO_G.description>
-  <HAR_EL_Research_MIKO_H.label>电影: 奎瑞拉</HAR_EL_Research_MIKO_H.label>
-  <HAR_EL_Research_MIKO_H.description>似乎是 莉特露娜 与 夸莉拉 互动的视频数据。 \n\n``我再次用圣剑吹毁了大地！ ？我不会让这样的事情再次发生！到时见！诺亚酱！完成了！ ”</HAR_EL_Research_MIKO_H.description>
-  <HAR_EL_Research_MIKO_I.label>电影：凯奥拉</HAR_EL_Research_MIKO_I.label>
-  <HAR_EL_Research_MIKO_I.description>似乎是 莉特露娜 与 Keiora 互动的视频数据。 \n\n『……是的，那就请多多关照吧。我爸爸有点担心。”</HAR_EL_Research_MIKO_I.description>
-  <HAR_EL_Research_MIKO_J.label>电影：Nexaga</HAR_EL_Research_MIKO_J.label>
-  <HAR_EL_Research_MIKO_J.description>似乎是 莉特露娜 与 Nexaga 互动的视频数据。 \n\n``什么，你想给这个孩子起名字吗？ ……嗯，没错，那就成为玛丽亚酱吧！ ”</HAR_EL_Research_MIKO_J.description>
-  <HAR_EL_Research_MIKO_K.label>电影: 艾维利托</HAR_EL_Research_MIKO_K.label>
-  <HAR_EL_Research_MIKO_K.description>似乎是 莉特露娜 与 艾维利特 互动的视频数据。 \n\n``...你做得很好，伊芙酱。暴怒过后，你的心情平静了吗？ ……是啊……是啊，剩下的就交给我吧。是啊，没关系”</HAR_EL_Research_MIKO_K.description>
-  <HAR_EL_Research_MIKO_N.label>视频数据整合</HAR_EL_Research_MIKO_N.label>
-  <HAR_EL_Research_MIKO_N.description>原本以为只是视频的数据，结果被巧妙地划分了。 \n将其合并为一个。</HAR_EL_Research_MIKO_N.description>
-  <HAR_EL_Research_MIKO_L.description>我祈祷那些知道这一点的人都是善良的。</HAR_EL_Research_MIKO_L.description>
+  <HAR_EL_Research_A.label>埃维利托研究:『传承』</HAR_EL_Research_A.label>
+  <HAR_EL_Research_A.description>对幻之人工种族『埃维利托』进行研究。</HAR_EL_Research_A.description>
+  <HAR_EL_Research_B.label>埃维利托研究:『收集』</HAR_EL_Research_B.label>
+  <HAR_EL_Research_B.description>对幻之人工种族『埃维利托』进行研究。</HAR_EL_Research_B.description>
+  <HAR_EL_Research_C.label>埃维利托研究:『解析』</HAR_EL_Research_C.label>
+  <HAR_EL_Research_C.description>对幻之人工种族『埃维利托』进行研究。</HAR_EL_Research_C.description>
+  <HAR_EL_Research_D.label>埃维利托研究:『编辑』</HAR_EL_Research_D.label>
+  <HAR_EL_Research_D.description>对幻之人工种族『埃维利托』进行研究。</HAR_EL_Research_D.description>
+  <HAR_EL_Research_E.label>埃维利托研究:『复原』</HAR_EL_Research_E.label>
+  <HAR_EL_Research_E.description>对幻之人工种族『埃维利托』进行研究。</HAR_EL_Research_E.description>
+  <HAR_EL_Research_Weapon_A.label>埃维利托研究:『神器』</HAR_EL_Research_Weapon_A.label>
+  <HAR_EL_Research_Weapon_A.description>对幻之人工种族『埃维利托』进行研究。</HAR_EL_Research_Weapon_A.description>
+  <HAR_EL_Research_Apparel_A.label>埃维利托研究:『圣痕』</HAR_EL_Research_Apparel_A.label>
+  <HAR_EL_Research_Apparel_A.description>对幻之人工种族『埃维利托』进行研究。</HAR_EL_Research_Apparel_A.description>
+  <HAR_EL_Research_MIKO_A.label>新的文件夹</HAR_EL_Research_MIKO_A.label>
+  <HAR_EL_Research_MIKO_A.description>混杂在埃维利托数据中的迷之文件夹。</HAR_EL_Research_MIKO_A.description>
+  <HAR_EL_Research_MIKO_B.label>影像：夜魔</HAR_EL_Research_MIKO_B.label>
+  <HAR_EL_Research_MIKO_B.description>类似里托鲁纳的存在与尼亚米尔的交流影像数据。\n\n『虽然继承了伊娃酱的工作，但你们真是意外的自由奔放啊……难怪那个伊娃酱也会发牢骚呢』</HAR_EL_Research_MIKO_B.description>
+  <HAR_EL_Research_MIKO_C.label>影像：人鱼</HAR_EL_Research_MIKO_C.label>
+  <HAR_EL_Research_MIKO_C.description>类似里托鲁纳的存在与塞诺卡的交流影像数据。\n\n『诺亚酱诺亚酱帮我拿一下那个嘛。…呀！不要把我抱起来啊！我知道「自己的东西要自己拿」啦，但我真的受不了你老是把我当成小孩子嘛』</HAR_EL_Research_MIKO_C.description>
+  <HAR_EL_Research_MIKO_D.label>影像：幽鬼</HAR_EL_Research_MIKO_D.label>
+  <HAR_EL_Research_MIKO_D.description>类似里托鲁纳的存在与伊德海尔的交流影像数据。\n\n『嗯嗯，原来是这样的构造啊。这样就能用在下个种族的开发上了呢！诶诶别消失别消失啊！』</HAR_EL_Research_MIKO_D.description>
+  <HAR_EL_Research_MIKO_E.label>影像：兽人</HAR_EL_Research_MIKO_E.label>
+  <HAR_EL_Research_MIKO_E.description>类似里托鲁纳的存在与丝姬拉的交流影像数据。\n\n『嘻嘻嘻，有了这个的话我也能拥有NICE BODY了…呀！……快放开我诺亚酱！啊啊啊我的药啊！？』</HAR_EL_Research_MIKO_E.description>
+  <HAR_EL_Research_MIKO_F.label>影像：细菌</HAR_EL_Research_MIKO_F.label>
+  <HAR_EL_Research_MIKO_F.description>类似里托鲁纳的存在与死灵的交流影像数据。\n\n『那个空间站居然还在运作吗？嗯，得快点处理了呢。要是耽误了的话可就难办了』</HAR_EL_Research_MIKO_F.description>
+  <HAR_EL_Research_MIKO_G.label>影像：龙人</HAR_EL_Research_MIKO_G.label>
+  <HAR_EL_Research_MIKO_G.description>类似里托鲁纳的存在与索拉克的交流影像数据。\n\n『啊哈哈哈真是绝景绝景啊！坐在索尔酱肩上的话我也能站在俯视者的立场上了呢！………啊……头有点晕…』</HAR_EL_Research_MIKO_G.description>
+  <HAR_EL_Research_MIKO_H.label>影像：王族</HAR_EL_Research_MIKO_H.label>
+  <HAR_EL_Research_MIKO_H.description>类似里托鲁纳的存在与夸里拉的交流影像数据。\n\n『又用圣剑把土地吹飞了！？再有第二次的话我绝对不会原谅你了！在那里好好反省！诺亚酱！赶紧来管管啊！』</HAR_EL_Research_MIKO_H.description>
+  <HAR_EL_Research_MIKO_I.label>影像：混沌</HAR_EL_Research_MIKO_I.label>
+  <HAR_EL_Research_MIKO_I.description>类似里托鲁纳的存在与凯奥拉的交流影像数据。\n\n『…嗯，到那时候就请多关照了。爸爸真是到了什么时候都那么爱操心呢』</HAR_EL_Research_MIKO_I.description>
+  <HAR_EL_Research_MIKO_J.label>影像：混种</HAR_EL_Research_MIKO_J.label>
+  <HAR_EL_Research_MIKO_J.description>类似里托鲁纳的存在与混血种的交流影像数据。\n\n『嗯，你想让我给这孩子起个名字吗？…嗯、这样吧，就叫玛利亚酱吧！』</HAR_EL_Research_MIKO_J.description>
+  <HAR_EL_Research_MIKO_K.label>影像：埃维利托</HAR_EL_Research_MIKO_K.label>
+  <HAR_EL_Research_MIKO_K.description>类似里托鲁纳的存在与埃维利托的交流影像数据。\n\n『…干得漂亮伊娃酱。现在头脑稍微冷静下来了吗？……嗯…嗯，接下来就交给我吧。所以，请安心吧』</HAR_EL_Research_MIKO_K.description>
+  <HAR_EL_Research_MIKO_N.label>影像数据统合</HAR_EL_Research_MIKO_N.label>
+  <HAR_EL_Research_MIKO_N.description>在原本以为只是影像的文件中，找到了被巧妙地分割开来的数据。\n接下来，它们将被统合到一起。</HAR_EL_Research_MIKO_N.description>
+  <HAR_EL_Research_MIKO_L.description>我祈祷着了解到了这一切的，是一位善良之人。</HAR_EL_Research_MIKO_L.description>
 </LanguageData>

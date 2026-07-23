@@ -1,167 +1,167 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Aya_Race_Ap_C_T_a.description>一款人造的比赛儿童衬衫，由于是针对儿童的，所以性能一般。</Aya_Race_Ap_C_T_a.description>
+  <Aya_Race_Ap_C_T_a.description>人工种族儿童穿着的衬衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_a.description>
   <Aya_Race_Ap_C_T_a.label>儿童衬衫</Aya_Race_Ap_C_T_a.label>
-  <Aya_Race_Ap_C_T_b.description>这是一件人造儿童比赛衬衫，既然是儿童用的，那么它的性能就很一般了。</Aya_Race_Ap_C_T_b.description>
-  <Aya_Race_Ap_C_T_b.label>儿童衬衫</Aya_Race_Ap_C_T_b.label>
-  <Aya_Race_Ap_C_T_c.description>一块人工种族儿童用的布料，其性能与儿童用的一样温和。</Aya_Race_Ap_C_T_c.description>
-  <Aya_Race_Ap_C_T_d.description>人造种族的孩子们的校服，既然是给孩子们的，那么他们的表现就很一般了。</Aya_Race_Ap_C_T_d.description>
-  <Aya_Race_Ap_C_T_d.label>子供用学生服装</Aya_Race_Ap_C_T_d.label>
-  <HAR_LL_A_a.label>禁断铠甲</HAR_LL_A_a.label>
-  <HAR_LL_A_a.description>虽然这是专门为利托鲁纳打造的战甲，而且针对利托鲁纳脆弱的身体，却从未真正使用过。</HAR_LL_A_a.description>
-  <HAR_LL_O_a.description>Ritorina喜欢穿的内衣。</HAR_LL_O_a.description>
-  <HAR_LL_O_a.label>内衣A (莉特露娜)</HAR_LL_O_a.label>
-  <HAR_LL_H_a.description>小露娜专用头部装备。</HAR_LL_H_a.description>
-  <HAR_LL_H_a.label>小头带</HAR_LL_H_a.label>
-  <HAR_LL_H_b.description>小露娜专用头部装备。</HAR_LL_H_b.description>
-  <HAR_LL_H_b.label>小丝带</HAR_LL_H_b.label>
-  <HAR_LL_H_c.description>小露娜专用头部装备。</HAR_LL_H_c.description>
-  <HAR_LL_H_c.label>小皇冠</HAR_LL_H_c.label>
-  <HAR_LL_H_e.description>小露娜专用头部装备。</HAR_LL_H_e.description>
-  <HAR_LL_H_e.label>小消声器</HAR_LL_H_e.label>
-  <HAR_LL_H_f.description>虽然这是专门为利托鲁纳打造的战斗头盔，而且针对利托鲁纳脆弱的身体，却从未真正使用过。</HAR_LL_H_f.description>
-  <HAR_LL_H_f.label>禁忌头盔</HAR_LL_H_f.label>
-  <HAR_LL_S_a.description>莉特露娜 专用设备。</HAR_LL_S_a.description>
-  <HAR_LL_S_a.label>小外套</HAR_LL_S_a.label>
-  <HAR_LL_S_b.description>莉特露娜 专用设备。</HAR_LL_S_b.description>
-  <HAR_LL_S_b.label>小海角</HAR_LL_S_b.label>
-  <HAR_LL_S_c.description>莉特露娜 专用设备。</HAR_LL_S_c.description>
-  <HAR_LL_S_c.label>小斗篷</HAR_LL_S_c.label>
-  <HAR_LL_S_e.description>莉特露娜 专用设备。</HAR_LL_S_e.description>
-  <HAR_LL_S_e.label>小袍子</HAR_LL_S_e.label>
-  <HAR_LL_T_a.description>莉特露娜 专用设备。</HAR_LL_T_a.description>
-  <HAR_LL_T_a.label>小衬衫</HAR_LL_T_a.label>
-  <HAR_LL_T_b.description>莉特露娜 专用设备。</HAR_LL_T_b.description>
-  <HAR_LL_T_b.label>小衬衫</HAR_LL_T_b.label>
-  <HAR_LL_T_c.description>莉特露娜 专用设备。</HAR_LL_T_c.description>
-  <HAR_LL_T_c.label>小床单</HAR_LL_T_c.label>
-  <HAR_LL_T_e.description>莉特露娜 专用设备。</HAR_LL_T_e.description>
-  <HAR_LL_T_e.label>小西装外套</HAR_LL_T_e.label>
-  <HAR_LL_M_a.label>空海大人</HAR_LL_M_a.label>
-  <HAR_LL_M_a.description>被利托鲁纳从宇宙召唤出来的超级存在。 “空海大人”这个名字是利托鲁娜给她起的，她的真名无人知晓。 \n他拥有很高的智力，虽然外表不适合他，但气质沉稳，却无法与普通人交流。他似乎与莉托鲁娜志趣相投，对她十分友好。 \n\n他们以传授智慧、相互理解为名，向敌对势力发送无差别的心灵感应，但不知为何，那些被灌输的人却疯狂地互相残杀，结果变成了地狱。 \n即使是它的创造者也只能将其理解为“决定战斗的存在”，并且由于其极高的风险而被禁止将利托鲁纳用作武器。 \n\n\n除了当事人之外，没有人知道他们为何响应利托鲁纳的召唤，而且他们也没有说什么。 \n或者也许他通过不谈论它来保护他的盟友免受“过时的智慧”的影响。</HAR_LL_M_a.description>
-  <HAR_LL_M_z.label>小卢娜·卢克</HAR_LL_M_z.label>
-  <HAR_LL_M_z.description>与Lit Luna Rim Elishon分离的人偶。
-虽然动作迟缓，体力也没有，但只要里姆·艾利修翁还活着，身体健康，就会源源不断地不断涌现。
+  <Aya_Race_Ap_C_T_b.description>人工种族儿童穿着的罩衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_b.description>
+  <Aya_Race_Ap_C_T_b.label>儿童罩衫</Aya_Race_Ap_C_T_b.label>
+  <Aya_Race_Ap_C_T_c.description>人工种族儿童使用的裹身布。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_c.description>
+  <Aya_Race_Ap_C_T_d.description>人工种族儿童穿着的学生服。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_d.description>
+  <Aya_Race_Ap_C_T_d.label>儿童款式学生服装</Aya_Race_Ap_C_T_d.label>
+  <HAR_LL_A_a.label>禁断之铠</HAR_LL_A_a.label>
+  <HAR_LL_A_a.description>里托鲁纳专用的铠甲。为身体脆弱的里托鲁纳们定制的战斗用铠甲，但实际上从未被动用过。</HAR_LL_A_a.description>
+  <HAR_LL_O_a.description>里托鲁纳们爱穿的内衣。</HAR_LL_O_a.description>
+  <HAR_LL_O_a.label>内衣A(里托鲁纳)</HAR_LL_O_a.label>
+  <HAR_LL_H_a.description>里托鲁纳专用的头部装备。</HAR_LL_H_a.description>
+  <HAR_LL_H_a.label>小小发箍</HAR_LL_H_a.label>
+  <HAR_LL_H_b.description>里托鲁纳专用的头部装备。</HAR_LL_H_b.description>
+  <HAR_LL_H_b.label>小小缎带</HAR_LL_H_b.label>
+  <HAR_LL_H_c.description>里托鲁纳专用的头部装备。</HAR_LL_H_c.description>
+  <HAR_LL_H_c.label>小小皇冠</HAR_LL_H_c.label>
+  <HAR_LL_H_e.description>里托鲁纳专用的头部装备。</HAR_LL_H_e.description>
+  <HAR_LL_H_e.label>小小围巾</HAR_LL_H_e.label>
+  <HAR_LL_H_f.description>里托鲁纳专用的头盔。为身体脆弱的里托鲁纳们定制的战斗用头盔，但实际上从未被动用过。</HAR_LL_H_f.description>
+  <HAR_LL_H_f.label>禁断头盔</HAR_LL_H_f.label>
+  <HAR_LL_S_a.description>里托鲁纳专用的装备。</HAR_LL_S_a.description>
+  <HAR_LL_S_a.label>小小外套</HAR_LL_S_a.label>
+  <HAR_LL_S_b.description>里托鲁纳专用的装备。</HAR_LL_S_b.description>
+  <HAR_LL_S_b.label>小小斗篷</HAR_LL_S_b.label>
+  <HAR_LL_S_c.description>里托鲁纳专用的装备。</HAR_LL_S_c.description>
+  <HAR_LL_S_c.label>小小披风</HAR_LL_S_c.label>
+  <HAR_LL_S_e.description>里托鲁纳专用的装备。</HAR_LL_S_e.description>
+  <HAR_LL_S_e.label>小小长袍</HAR_LL_S_e.label>
+  <HAR_LL_T_a.description>里托鲁纳专用的装备。</HAR_LL_T_a.description>
+  <HAR_LL_T_a.label>小小汗衫</HAR_LL_T_a.label>
+  <HAR_LL_T_b.description>里托鲁纳专用的装备。</HAR_LL_T_b.description>
+  <HAR_LL_T_b.label>小小衬衫</HAR_LL_T_b.label>
+  <HAR_LL_T_c.description>里托鲁纳专用的装备。</HAR_LL_T_c.description>
+  <HAR_LL_T_c.label>小小披巾</HAR_LL_T_c.label>
+  <HAR_LL_T_e.description>里托鲁纳专用的装备。</HAR_LL_T_e.description>
+  <HAR_LL_T_e.label>小小夹克</HAR_LL_T_e.label>
+  <HAR_LL_M_a.label>空天之海</HAR_LL_M_a.label>
+  <HAR_LL_M_a.description>里托鲁纳从宇宙深处召唤的超然存在，“空天之海”这个名字也是里托鲁纳们加上的，无人知晓其真实名字。\n拥有超群的智慧和与外表不符的温和性格，但是无法和常人交流；恰好和里托鲁纳们的交流波长相同，对她们非常友好。\n\n以“为了让敌对势力相互理解而传授智慧”这一理由进行着无差别的心灵传输，但是被教化的人们不知为何开始发狂而互相残杀，结果将周边变成了地狱绘图。\n由于过于危险，就连创造者也只把里托鲁纳们当作是“定胜负的存在”而进行掌控，一般的战斗中禁止派出。\n\n\n除了当事人外，没人知道为什么空天之海会回应里托鲁纳的召唤——里托鲁纳对此事也避而不谈。\n也许是以避而不谈来保护自己的伙伴免受“过量智慧”的影响。</HAR_LL_M_a.description>
+  <HAR_LL_M_z.label>里托鲁纳·琉刻</HAR_LL_M_z.label>
+  <HAR_LL_M_z.description>从里托鲁纳·边缘乐土身上所分离出来的类似人形的物体。
+尽管脚步很慢，体力也很差，但只要边缘乐土尚存就会无穷无尽的涌现出来。
 
-死亡的瞬间，血肉膨胀爆炸，对周围造成伤害。
-然而，这次爆炸对里姆·艾利修翁来说却被视为自伤，穿透了防御，造成了巨大的伤害。</HAR_LL_M_z.description>
-  <HAR_LL_M_LC.label>阿波斯托洛斯</HAR_LL_M_LC.label>
-  <HAR_LL_M_LC.description>由巨型生命体创造的神秘亲属。
-它是一种危险的生物，可以快速致命地挥砍，
-尤其异常的是，只要本体残存，它就能多次再生。</HAR_LL_M_LC.description>
-  <HAR_LL_EX_Bullet_b.label>暗血</HAR_LL_EX_Bullet_b.label>
-  <HAR_LL_EX_Bullet_c.label>银色羽毛</HAR_LL_EX_Bullet_c.label>
-  <HAR_LL_EX_Bullet_d.label>米科的哭声</HAR_LL_EX_Bullet_d.label>
-  <CSS_SummonEffect.description>闪耀的召唤魔法阵。</CSS_SummonEffect.description>
-  <HAR_LL_Hive_Critias.label>莉特露娜蜂巢·克里蒂亚斯</HAR_LL_Hive_Critias.label>
-  <HAR_LL_Hive_Critias.description>潘多拉·布托斯召唤的神秘生命体。
-外壳类似于人工种族认可的超级存在，坚固无比。
-可怕的是，其内部搭载着与曾经被称为灾难的“■■■■■”相同的反应堆堆芯。
+死亡时，会使血肉一口气膨胀开来，将周遭事物一并卷入爆炸之中。
+但是，这种爆炸本身也会对边缘乐土造成伤害。而作为自残的代价，造成的伤害具有极强的护甲贯穿能力。</HAR_LL_M_z.description>
+  <HAR_LL_M_LC.label>使徒</HAR_LL_M_LC.label>
+  <HAR_LL_M_LC.description>从巨大生命体上分离而出的迷之眷属。
+是能够放出速度与杀伤能力都异常强悍的斩击的危险生物，
+其最大的特异之处是在于不击杀本体就会无限产生的再生能力。</HAR_LL_M_LC.description>
+  <HAR_LL_EX_Bullet_b.label>灰暗之血</HAR_LL_EX_Bullet_b.label>
+  <HAR_LL_EX_Bullet_c.label>银色之羽</HAR_LL_EX_Bullet_c.label>
+  <HAR_LL_EX_Bullet_d.label>神子的哭泣</HAR_LL_EX_Bullet_d.label>
+  <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>
+  <HAR_LL_Hive_Critias.label>伪■族·克■■亚斯</HAR_LL_Hive_Critias.label>
+  <HAR_LL_Hive_Critias.description>通过潘多拉深渊召唤而出的迷之生命体。
+其外壳类似于人工种族认知中被称为超存在的物体，极其牢固。
+更可怕的是，其内部搭载有过去被视为灾厄的『■■■■■』相同的炉心。
 
-正是██将在██中被释放，而██将吞噬██。
-有必要在其完全生长之前尽快进行。
+无■如何，当■■到解放时，都■将一切吞■■尽。
+必须在■完全成长之前尽快将其■■────…─……
 
-虽然它是一个强大的存在，但它本来就不应该在这个空间里，所以随着时间的推移它会回到原来的维度。
-
-
-
-充满难以置信、深不见底的爱的巫女的哭声，到处回响。
-
-
-哦，还没推出呢。
-但我想我会借此机会和你一起去试驾我可爱的■■。</HAR_LL_Hive_Critias.description>
-  <HAR_LL_Hive_Elysium.label>小露娜·瑞姆 艾利森</HAR_LL_Hive_Elysium.label>
-  <HAR_LL_Hive_Elysium.description>一种奇怪的 莉特露娜 形式，被 Turella Campana 称为。
-他通常会隐藏在另一个阶段，继续吸收这颗星球上的亡魂。
-据说它那可怕的身体是由数十万个砗磲组成的。
-虽然它应该是有限的存在，但它却具有不朽的特性，即使被某人的神力保护而毁灭，最终也会复活。
-
-看来深渊主宰海达诺亚正在拼命寻找它，并在牺牲无数异形的同时继续毁灭它。
-另外，根据Entelecheia的研究，Limuelishion的基因与莉特露娜 Dynamis的基因非常相似。
-
-由于体型巨大，根本无法移动，但会释放出利托鲁纳·流克来与对手进行战斗。
-总共有 30 个 Litoruna Leukes。
-
-只接受射击攻击，但除​​了利托鲁纳·卢克的爆炸外，无法格挡。
-
-使半径50格内的敌人无法再生并强化身体，所以战斗时需要考虑到这些。
-如果可能的话，你可以通过呼叫增援来受到一些伤害。
+尽管是无比强大的存在，但它并不是这个宇宙的原生者，随着时间的流逝，它也会回到属于自己的次元吧。
 
 
 
-接触到真相并被虚空所吸引的巫女们，现在变成了傀儡，邀请她们的灵魂前往天堂。
-他们寻求净土的尽头的平静，知道他们的最终目的地是无底的空虚。
+或许有一种■■，被注入了无底虚无宠爱的神子的恸哭，正不知在何时何地，不断回响着。
+
+
+啊呀，还没有到向你展示的时间呢。
+不过，难得有这样的机会，就陪我一起试运行一下我可爱的■■吧。</HAR_LL_Hive_Critias.description>
+  <HAR_LL_Hive_Elysium.label>里托鲁纳·边缘乐土</HAR_LL_Hive_Elysium.label>
+  <HAR_LL_Hive_Elysium.description>通过疯狂之钟召唤而出的异形里托鲁纳。
+她们平时存在于另一个位面之中，不断吸收着这个这颗星球充盈而出的死者灵魂。
+那令人畏惧的外观，由成百上千数万里托鲁纳的躯体所组成。
+尽管原来的她们只是渺小的种族，但某个人所赐予的加护使她们化为了无论重复多少次都能死而复生的不灭存在。
+
+渊丛主海迪尔诺亚似乎正在用血丝密布的双眼找寻着某样东西，并以牺牲了无数人鱼族同胞的惨重代价不断对它进行着破坏。
+根据恩特雷凯亚的调查，边缘乐土的遗传基因与里托鲁纳·杜娜米丝极其相似。
+
+巨大的身躯使她完全失去了行动能力，只能通过召唤里托鲁纳·琉刻来对抗敌对者。
+里托鲁纳·琉刻将被不断召唤以确保总数为30个。
+
+她只会受到射击造成的伤害，唯一的例外是她无法抵抗里托鲁纳·琉刻的爆炸带来的伤害。
+
+考虑到在她的半径50格内都会受到无法得到恢复以及强化身体机能的效果，在与她之间的战斗过程中需要慎之又慎。
+如果可以的话，可以考虑请求援军，以期对她造成一定量的伤害。
 
 
 
-你吃还是被吃，全由你决定。</HAR_LL_Hive_Elysium.description>
-  <HAR_LL_Item_a.label>伊科里托斯</HAR_LL_Item_a.label>
-  <HAR_LL_Item_a.description>从 莉特露娜 Ideas Clavos 获得的血红色物质。
-		将其作为武器使用，可以获得极高的杀伤力。
-		
-		
-		它只是一个血块，不应该是活的，但出于某种原因，我情不自禁地感觉自己正在被监视。
-		眼神里充满了怜悯、蔑视，还有无尽的、空洞的怜悯。</HAR_LL_Item_a.description>
-  <HAR_LL_Archotech_a.label>混沌魔药</HAR_LL_Archotech_a.label>
-  <HAR_LL_Archotech_a.description>一杯由 Ichorritos 制成的可怕血。
-通过在Litoruna上使用它，它可以重生为Litoruna Ideas Clavos。
-然而，你需要小心，因为你作为 Litoruna 的原始个性和能力将会消失。
-
-
-通过喝下杯中收集的血液，可以达到伊迪亚斯·克拉沃斯及其前辈所认可的境界。
-然而，像他们一样真的能幸福吗？
+接触到了真理，最终被吞噬殆尽的神子神女们，如今化为了引诱游魂踏入乐土的傀儡。
+在净土的尽头，尽管她们知晓寻求安息的终点即是堕入永恒的虚无，但她们依旧祈求这永远的平静。
 
 
 
+是要吃掉她，还是被她吃掉呢？这一切都取决于你哦。</HAR_LL_Hive_Elysium.description>
+  <HAR_LL_Item_a.label>灵液之石</HAR_LL_Item_a.label>
+  <HAR_LL_Item_a.description>从里托鲁纳·伊迪亚之奴处取得的赤红如血的物质。
+将它用作武器的材料，能够产生极强的杀伤力。
 
 
-天外，天后，无底的虚空，依然在等待着愚昧的智者。</HAR_LL_Archotech_a.description>
-  <HAR_LL_Archotech_b.label>金相相思</HAR_LL_Archotech_b.label>
-  <HAR_LL_Archotech_b.description>用 Ichorritos 创造的带来灾难的哨子。
-通过吹气，它可以从平行世界召唤“属于跨星鸟的人”。
-如果你要与召唤的东西战斗，你可能需要一定程度的能力。
+仅仅只是本应没有生命的血块，但不知为何会有被其所注视的感觉。
+那是混杂着怜悯与轻蔑，却又如同无尽的虚空一般充满慈爱的眼神。</HAR_LL_Item_a.description>
+  <HAR_LL_Archotech_a.label>混沌圣杯</HAR_LL_Archotech_a.label>
+  <HAR_LL_Archotech_a.description>用灵液之石制作的令人畏惧的鲜血之杯。
+对里托鲁纳使用的话，能够使其作为里托鲁纳·伊迪亚之奴重获新生。
+但是，原有的里托鲁纳的人格与经历会在转变过程中一并消失，因此是否使用此物请务必慎之又慎。
 
 
-
-召唤那些曾经在地球上传播灾难的人的笛子。
-不过，即将到来的母鸟已经不在这个空间了，所以邀请的只有继承了那血脉的幼鸟。</HAR_LL_Archotech_b.description>
-  <HAR_LL_Archotech_c.label>图雷拉坎帕纳</HAR_LL_Archotech_c.label>
-  <HAR_LL_Archotech_c.description>用 Ichorritos 制成的铃铛，会发出疯狂的声音。
-通过使用它，你可以给殖民地带来灾难。
+通过领受杯中蓄有的血液，可以深入过去的里托鲁纳·伊迪亚之奴们的意识领域。
+但是，和她们踏上了同样的道路，是否会带来幸福呢？
 
 
 
 
-曾经属于 莉特露娜 Dunamis 的钟的复制品。
-据说，如果你演奏它，女孩们真的会回来听到声音。
-无论我多么思念故乡，却再也回不到故乡了。</HAR_LL_Archotech_c.description>
-  <HAR_LL_Archotech_d.label>克里奥·斯特帕诺斯</HAR_LL_Archotech_d.label>
-  <HAR_LL_Archotech_d.description>纯白色的花冠，取自Litluna Limuelishon。
-据说，它曾经是造物主创造并赐予莉托鲁娜·迪纳米斯的一件圣宝，也是她神圣地位的证明。
-即使受到极度的污染和杂质，也没有失去丝毫的纯净。
-通过使用它，目标可以获得强大的力量。
+
+在宇宙之外、天空里侧、无底的虚空仍在等待着那些愚蠢的贤者。</HAR_LL_Archotech_a.description>
+  <HAR_LL_Archotech_b.label>绝望之笛</HAR_LL_Archotech_b.label>
+  <HAR_LL_Archotech_b.description>用灵液之石制作的招来灾祸的笛子。
+将其奏响即可招来来自平行世界的『所属于远渡星海之鸟的东西』。
+如果想要与被召唤出来的东西战斗的话，那就需要有足够的实力。
 
 
 
-依然保持着纯洁的圣宝，但这朵花冠却成为了将其与灾难联系在一起的奇点。</HAR_LL_Archotech_d.description>
-  <HAR_LL_Archotech_e.label>潘多拉毛鱼</HAR_LL_Archotech_e.label>
-  <HAR_LL_Archotech_e.description>像是从 莉特露娜 Lim Elysion 中取出的盒子一样的东西。
-当你打开它时，你感觉灾难即将爆发。
-至少不应该在有人居住的地方开放。
-
-
-据说存在于利托鲁纳·迪纳米斯体内的神秘器官。
-这个器官允许与不同维度进行更高级的交流。
-
-如果拥有这个盒子的人是明智的，他或她就不应该打开它。</HAR_LL_Archotech_e.description>
-  <HAR_LL_Archotech_f.label>诺埃斯塔夫罗斯</HAR_LL_Archotech_f.label>
-  <HAR_LL_Archotech_f.description>据说是在莉特露娜 Dynamis的大脑中产生的十字形器官。
-据说它有能力从与其沟通的不同维度接收能量。
-通过使用它，目标可以获得强大的力量。
+那是一支能够唤来在无数星球上洒下灾厄的存在的笛子。
+然而，如今亲鸟已经不在这片宇宙之中，因此被引诱而来的只有继承了她血脉的雏鸟们。</HAR_LL_Archotech_b.description>
+  <HAR_LL_Archotech_c.label>疯狂之钟</HAR_LL_Archotech_c.label>
+  <HAR_LL_Archotech_c.description>用灵液之石制作的钟，其音色充满疯狂。
+使用它会将灾厄带至殖民地中。
 
 
 
-接收来自宇宙外部的力量的银色十字架。
-然而，现在却变成了一个无底洞的玩具。</HAR_LL_Archotech_f.description>
-  <HAR_LL_Filth_FireFoam_a.label>梅塔诺亚</HAR_LL_Filth_FireFoam_a.label>
+
+那是一个仿照了里托鲁纳·杜娜米丝所拥有的钟制作而成的复制品。
+据说，钟声一旦响起，她们就会如同抱有怀念之情一般现身于此。
+无论多么思念故乡，都再也无法回到那个地方了。</HAR_LL_Archotech_c.description>
+  <HAR_LL_Archotech_d.label>荣光花冠</HAR_LL_Archotech_d.label>
+  <HAR_LL_Archotech_d.description>从里托鲁纳·边缘乐土处获得的纯白花冠。
+曾经是由创造者为里托鲁纳·杜娜米丝所制造并赋予她们的神器，同时也是她们身为神子的证明。
+无论是面对怎样的污浊与不净，都不会为它的纯洁带来些许微尘。
+使用该目标的对象将会获得巨大的力量。
+
+
+
+时至今日依然保存着纯粹的神器，但也正是这个花冠，成为了与灾厄结缘的特异点。</HAR_LL_Archotech_d.description>
+  <HAR_LL_Archotech_e.label>潘多拉深渊</HAR_LL_Archotech_e.label>
+  <HAR_LL_Archotech_e.description>从里托鲁纳·边缘乐土处摘出的形似箱子的物体。
+能感到一种一旦将其打开，就会释放出灾厄的危机感。
+至少，在有人居住的地方不宜将其打开。
+
+
+里托鲁纳·杜娜米丝的体内存在着迷样的脏器。
+这种脏器能用于与不同的次元进行交流，因而高度发达。
+
+致这个箱子的持有者，若你理智尚存的话，那就请不要打开它。</HAR_LL_Archotech_e.description>
+  <HAR_LL_Archotech_f.label>思想十字</HAR_LL_Archotech_f.label>
+  <HAR_LL_Archotech_f.description>里托鲁纳·杜娜米丝的大脑中生成的形似十字架的器官。
+拥有与不同的次元进行交流，接受能量的功能。
+使用该目标的对象将会获得巨大的力量。
+
+
+
+曾用来接受从宇宙的外侧被赐予的能量的银色十字架、
+如今已化为了无底的虚空手中的玩具。</HAR_LL_Archotech_f.description>
+  <HAR_LL_Filth_FireFoam_a.label>忏悔</HAR_LL_Filth_FireFoam_a.label>
 </LanguageData>

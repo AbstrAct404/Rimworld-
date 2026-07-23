@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Category_Idearn.label>艾迪安的衣服</Category_Idearn.label>
-  <HAR_IA_Category_Material.label>想法产生部分</HAR_IA_Category_Material.label>
-  <HAR_IA_Category_Spawn.label>理想的生物模型</HAR_IA_Category_Spawn.label>
+  <Category_Idearn.label>理念的服装</Category_Idearn.label>
+  <HAR_IA_Category_Material.label>理念生成零件</HAR_IA_Category_Material.label>
+  <HAR_IA_Category_Spawn.label>理念生物模型</HAR_IA_Category_Spawn.label>
 </LanguageData>

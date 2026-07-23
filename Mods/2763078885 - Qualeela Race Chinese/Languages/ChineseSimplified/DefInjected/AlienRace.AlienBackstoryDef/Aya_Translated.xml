@@ -1,52 +1,52 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_QL_Backstory_C1.title>纯文化种植</HAR_QL_Backstory_C1.title>
-  <HAR_QL_Backstory_C1.description>[PAWN_nameDef]出生在一个与世隔绝的宇宙设施中，并在那里度过了童年。[PAWN_pronoun]在那段时间从未接触过任何危险，快乐地成长。</HAR_QL_Backstory_C1.description>
-  <HAR_QL_Backstory_C2.title>权贵的养子</HAR_QL_Backstory_C2.title>
-  <HAR_QL_Backstory_C2.description>[PAWN_nameDef]在记事之前就因战争失去了出生地，但幸运的是[PAWN_pronoun]被一位有权有势的人收养，并在富裕的环境中学到了很多东西。</HAR_QL_Backstory_C2.description>
-  <HAR_QL_Backstory_C3.title>游牧民族的女儿</HAR_QL_Backstory_C3.title>
-  <HAR_QL_Backstory_C3.description>[PAWN_nameDef] 是一位游牧父亲和奎利拉母亲的孩子。 [PAWN_pronoun] 在动物和大自然的包围下长大，并掌握了与它们打交道的技能。</HAR_QL_Backstory_C3.description>
-  <HAR_QL_Backstory_C4.title>厨师的鸡蛋</HAR_QL_Backstory_C4.title>
-  <HAR_QL_Backstory_C4.description>[PAWN_nameDef] 是一位有抱负的厨师，对烹饪世界着迷。当时，[PAWN_pronoun]还没有经验，但他的厨艺却比一般人好。</HAR_QL_Backstory_C4.description>
-  <HAR_QL_Backstory_C5.title>年轻的训练士兵</HAR_QL_Backstory_C5.title>
-  <HAR_QL_Backstory_C5.description>[PAWN_nameDef]是一名训练有素的士兵，从小就接受格斗技术训练，[PAWN_pronoun]可以在一定程度上处理近战和射击。</HAR_QL_Backstory_C5.description>
-  <HAR_QL_Backstory_C6.title>地下小人</HAR_QL_Backstory_C6.title>
-  <HAR_QL_Backstory_C6.description>[PAWN_nameDef] 失去了家园，从此生活在一个黑暗的洞穴中，[PAWN_pronoun] 在那里学会了如何采矿和建造。</HAR_QL_Backstory_C6.description>
-  <HAR_QL_Backstory_C7.title>皇室血统</HAR_QL_Backstory_C7.title>
-  <HAR_QL_Backstory_C7.titleShort>皇室血统</HAR_QL_Backstory_C7.titleShort>
-  <HAR_QL_Backstory_C7.description>[PAWN_nameDef]是奎利拉合法血统的成员，作为王室成员，他学会了如何与他人交往以及如何保护自己。</HAR_QL_Backstory_C7.description>
-  <HAR_QL_Backstory_A1.title>迷人的伴侣</HAR_QL_Backstory_A1.title>
-  <HAR_QL_Backstory_A1.titleShort>伴侣</HAR_QL_Backstory_A1.titleShort>
-  <HAR_QL_Backstory_A1.description>【PAWN_nameDef】利用自己的美貌，被分配到了一个招待客人的销售岗位，虽然获得了社交能力和交际能力，但最终却并不擅长打工。</HAR_QL_Backstory_A1.description>
-  <HAR_QL_Backstory_A2.title>充满激情的建筑师</HAR_QL_Backstory_A2.title>
-  <HAR_QL_Backstory_A2.description>[PAWN_nameDef]意外地发现了他作为建筑师的天赋，但他对正确和精确的渴望让他与野生动物格格不入。</HAR_QL_Backstory_A2.description>
-  <HAR_QL_Backstory_A3.title>美丽的弓箭手</HAR_QL_Backstory_A3.title>
-  <HAR_QL_Backstory_A3.description>[PAWN_nameDef] 擅长射击远处的物体，并且可以使用弓或枪轻松做到这一点。</HAR_QL_Backstory_A3.description>
-  <HAR_QL_Backstory_A4.title>迷惑战士</HAR_QL_Backstory_A4.title>
-  <HAR_QL_Backstory_A4.description>[PAWN_nameDef]可以轻松处理他获得的东西，而且他似乎并不介意互相残杀。</HAR_QL_Backstory_A4.description>
+  <HAR_QL_Backstory_C1.title>隔离设施成长者</HAR_QL_Backstory_C1.title>
+  <HAR_QL_Backstory_C1.description>[PAWN_nameDef]出生于一座与外界隔离的宙族设施，并在那里度过童年。期间[PAWN_pronoun]从未遭遇危险，平安长大。</HAR_QL_Backstory_C1.description>
+  <HAR_QL_Backstory_C2.title>权贵养子</HAR_QL_Backstory_C2.title>
+  <HAR_QL_Backstory_C2.description>[PAWN_nameDef]年幼懂事时因战争失去故乡；幸运的是，[PAWN_pronoun]被权贵收养，并在富裕环境中学到了许多知识。</HAR_QL_Backstory_C2.description>
+  <HAR_QL_Backstory_C3.title>游牧民之女</HAR_QL_Backstory_C3.title>
+  <HAR_QL_Backstory_C3.description>[PAWN_nameDef]是游牧民的父亲与夸里拉的母亲所生的孩子。[PAWN_pronoun]在动物和大自然的陪伴下长大，了解与它们相关的技术。</HAR_QL_Backstory_C3.description>
+  <HAR_QL_Backstory_C4.title>见习厨师</HAR_QL_Backstory_C4.title>
+  <HAR_QL_Backstory_C4.description>[PAWN_nameDef]是被烹饪世界吸引的见习厨师。尽管当时仍很稚嫩，[PAWN_pronoun]的厨艺已经胜过普通人。</HAR_QL_Backstory_C4.description>
+  <HAR_QL_Backstory_C5.title>年幼训练兵</HAR_QL_Backstory_C5.title>
+  <HAR_QL_Backstory_C5.description>[PAWN_nameDef]自幼接受战斗训练，[PAWN_pronoun]对近战与射击都具备一定基础。</HAR_QL_Backstory_C5.description>
+  <HAR_QL_Backstory_C6.title>小小的地底人</HAR_QL_Backstory_C6.title>
+  <HAR_QL_Backstory_C6.description>[PAWN_nameDef]失去故乡后一直生活在黑暗洞穴中，因此[PAWN_pronoun]掌握了采矿与建造的基础。</HAR_QL_Backstory_C6.description>
+  <HAR_QL_Backstory_C7.title>王族之血</HAR_QL_Backstory_C7.title>
+  <HAR_QL_Backstory_C7.titleShort>王族之血</HAR_QL_Backstory_C7.titleShort>
+  <HAR_QL_Backstory_C7.description>[PAWN_nameDef]是夸里拉皇家血脉正统的继承者，从小便作为王族接受了与他人交流以及自我保护的高等教育。</HAR_QL_Backstory_C7.description>
+  <HAR_QL_Backstory_A1.title>充满魅力的接待员</HAR_QL_Backstory_A1.title>
+  <HAR_QL_Backstory_A1.titleShort>接待员</HAR_QL_Backstory_A1.titleShort>
+  <HAR_QL_Backstory_A1.description>[PAWN_nameDef]凭借出众外貌担任营业接待，学会了社交与处世之道；但另一方面，[PAWN_pronoun]不太擅长应付暴力场面。</HAR_QL_Backstory_A1.description>
+  <HAR_QL_Backstory_A2.title>热情洋溢的建筑师</HAR_QL_Backstory_A2.title>
+  <HAR_QL_Backstory_A2.description>[PAWN_nameDef]意外展现出建筑方面的才能；但由于过分追求精确，[PAWN_pronoun]不太擅长与野生动物相处。</HAR_QL_Backstory_A2.description>
+  <HAR_QL_Backstory_A3.title>华美的射手</HAR_QL_Backstory_A3.title>
+  <HAR_QL_Backstory_A3.description>[PAWN_nameDef]擅长射击很远处的目标，弓乃至于枪都如臂使指。</HAR_QL_Backstory_A3.description>
+  <HAR_QL_Backstory_A4.title>妖艳的战士</HAR_QL_Backstory_A4.title>
+  <HAR_QL_Backstory_A4.description>[PAWN_nameDef]能够轻松驾驭各种武器，[PAWN_pronoun]似乎也不排斥生死搏杀。</HAR_QL_Backstory_A4.description>
   <HAR_QL_Backstory_A5.title>性感设计师</HAR_QL_Backstory_A5.title>
   <HAR_QL_Backstory_A5.titleShort>设计师</HAR_QL_Backstory_A5.titleShort>
-  <HAR_QL_Backstory_A5.description>[PAWN_nameDef]凭借积累的想法和磨练的绘画技巧作为一名活跃的设计师。</HAR_QL_Backstory_A5.description>
-  <HAR_QL_Backstory_A6.title>大山深处的蛰居族</HAR_QL_Backstory_A6.title>
-  <HAR_QL_Backstory_A6.titleShort>引小森</HAR_QL_Backstory_A6.titleShort>
-  <HAR_QL_Backstory_A6.description>[PAWN_nameDef] 比与人互动更喜欢挖洞，而且他今天可能仍在挥舞着冰镐寻找矿石。</HAR_QL_Backstory_A6.description>
-  <HAR_QL_Backstory_A7.title>夜班女仆</HAR_QL_Backstory_A7.title>
-  <HAR_QL_Backstory_A7.titleShort>女佣</HAR_QL_Backstory_A7.titleShort>
-  <HAR_QL_Backstory_A7.description>[PAWN_nameDef]是一名侍奉名流的女仆，并且可能是一位烹饪专家。</HAR_QL_Backstory_A7.description>
-  <HAR_QL_Backstory_A8.title>美容师</HAR_QL_Backstory_A8.title>
-  <HAR_QL_Backstory_A8.description>[PAWN_nameDef]是一位创作了很多作品的艺术家，他创作的作品取决于他当时的感性。</HAR_QL_Backstory_A8.description>
+  <HAR_QL_Backstory_A5.description>[PAWN_nameDef]凭借长期积累的创意与磨炼出的绘画技巧，作为设计师活跃至今。</HAR_QL_Backstory_A5.description>
+  <HAR_QL_Backstory_A6.title>深山隐居者</HAR_QL_Backstory_A6.title>
+  <HAR_QL_Backstory_A6.titleShort>隐居者</HAR_QL_Backstory_A6.titleShort>
+  <HAR_QL_Backstory_A6.description>[PAWN_nameDef]比起与人打交道，更喜欢挖洞。今天[PAWN_pronoun]肯定也在为了挖矿石而不断挥动镐子吧。</HAR_QL_Backstory_A6.description>
+  <HAR_QL_Backstory_A7.title>暗夜女仆</HAR_QL_Backstory_A7.title>
+  <HAR_QL_Backstory_A7.titleShort>女仆</HAR_QL_Backstory_A7.titleShort>
+  <HAR_QL_Backstory_A7.description>[PAWN_nameDef]是一名侍奉位高权重者的女仆，很擅长做料理。</HAR_QL_Backstory_A7.description>
+  <HAR_QL_Backstory_A8.title>美感艺术家</HAR_QL_Backstory_A8.title>
+  <HAR_QL_Backstory_A8.description>[PAWN_nameDef]是创作出许多作品的艺术家；能创作出什么样的作品取决于当时的艺术灵感。</HAR_QL_Backstory_A8.description>
   <HAR_QL_Backstory_A9.title>恶魔教授</HAR_QL_Backstory_A9.title>
-  <HAR_QL_Backstory_A9.description>[PAWN_nameDef]是一位教授，他写的论文充满了邪恶的想法，令人惊讶的是，他似乎被高度评价为一个不能被嘲笑的人。</HAR_QL_Backstory_A9.description>
-  <HAR_QL_Backstory_A10.title>受欢迎的小镇女孩</HAR_QL_Backstory_A10.title>
-  <HAR_QL_Backstory_A10.description>[PAWN_nameDef]是一个随处可见的城镇女孩，但似乎因为她的外表而在异性中拥有良好的声誉。</HAR_QL_Backstory_A10.description>
-  <HAR_QL_Backstory_A11.title>梦见驯兽师</HAR_QL_Backstory_A11.title>
+  <HAR_QL_Backstory_A9.description>[PAWN_nameDef]是以恶魔般的想法写出奇葩论文的教授，意外地享有不能小觑的盛誉。</HAR_QL_Backstory_A9.description>
+  <HAR_QL_Backstory_A10.title>受欢迎的城镇女孩</HAR_QL_Backstory_A10.title>
+  <HAR_QL_Backstory_A10.description>[PAWN_nameDef]原本只是普通的城镇姑娘，但出众外貌似乎令[PAWN_pronoun]在异性中颇受欢迎。</HAR_QL_Backstory_A10.description>
+  <HAR_QL_Backstory_A11.title>梦想驯兽师</HAR_QL_Backstory_A11.title>
   <HAR_QL_Backstory_A11.titleShort>驯兽师</HAR_QL_Backstory_A11.titleShort>
-  <HAR_QL_Backstory_A11.description>[PAWN_nameDef]是一名驯兽师，梦想驯服全世界的野兽，但要小心大自然的奇观。</HAR_QL_Backstory_A11.description>
+  <HAR_QL_Backstory_A11.description>[PAWN_nameDef]是一名梦想驯服世间所有野兽的驯兽师，但仍需敬畏大自然的危险。</HAR_QL_Backstory_A11.description>
   <HAR_QL_Backstory_A12.title>白衣夜魔</HAR_QL_Backstory_A12.title>
   <HAR_QL_Backstory_A12.titleShort>护士</HAR_QL_Backstory_A12.titleShort>
-  <HAR_QL_Backstory_A12.description>[PAWN_nameDef] 是一名医疗技术精湛的护士，我很欣赏他有时会犯错误。</HAR_QL_Backstory_A12.description>
-  <HAR_QL_Backstory_A13.title>梅塔特罗尼奥斯</HAR_QL_Backstory_A13.title>
-  <HAR_QL_Backstory_A13.titleShort>梅塔特罗尼奥斯</HAR_QL_Backstory_A13.titleShort>
-  <HAR_QL_Backstory_A13.description>[PAWN_nameDef]作为一个值得继承伟大造物主意志的夸莉拉已经成熟，多年来已经获得了人造种族王室成员的力量。</HAR_QL_Backstory_A13.description>
+  <HAR_QL_Backstory_A12.description>[PAWN_nameDef]是位医术高明的护士，但[PAWN_pronoun]偶尔也会犯一些可爱的小错误。</HAR_QL_Backstory_A12.description>
+  <HAR_QL_Backstory_A13.title>帝皇</HAR_QL_Backstory_A13.title>
+  <HAR_QL_Backstory_A13.titleShort>帝皇</HAR_QL_Backstory_A13.titleShort>
+  <HAR_QL_Backstory_A13.description>[PAWN_nameDef]作为足以继承伟大的造物主意志的夸里拉已经成熟，在这些年的时间里取得了与人工种族们的王相称的力量。</HAR_QL_Backstory_A13.description>
   <HAR_QL_Backstory_A90.title>噩梦商人</HAR_QL_Backstory_A90.title>
 </LanguageData>

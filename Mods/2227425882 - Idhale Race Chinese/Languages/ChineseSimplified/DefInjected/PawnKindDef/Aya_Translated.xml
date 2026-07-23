@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_IH_NPC_Kind_Base.label>拉哈谢拉</HAR_IH_NPC_Kind_Base.label>
-  <HAR_IH_NPC_a.label>拉哈谢拉</HAR_IH_NPC_a.label>
-  <HAR_IH_NPC_a.labelMale>拉哈谢拉</HAR_IH_NPC_a.labelMale>
-  <HAR_IH_NPC_a.labelFemale>拉哈谢拉</HAR_IH_NPC_a.labelFemale>
-  <HAR_IH_NPC_b.label>加多尔傀儡</HAR_IH_NPC_b.label>
-  <HAR_IH_NPC_b.labelMale>加多尔傀儡</HAR_IH_NPC_b.labelMale>
-  <HAR_IH_NPC_b.labelFemale>加多尔傀儡</HAR_IH_NPC_b.labelFemale>
-  <HAR_Idhale_Player.label>伊德海尔</HAR_Idhale_Player.label>
-  <HAR_Idhale_NPC_b_Player.label>罪灵</HAR_Idhale_NPC_b_Player.label>
+  <HAR_IH_NPC_Kind_Base.label>拉哈特·谢拉哈</HAR_IH_NPC_Kind_Base.label>
+  <HAR_IH_NPC_a.label>拉哈特·谢拉哈</HAR_IH_NPC_a.label>
+  <HAR_IH_NPC_a.labelMale>拉哈特·谢拉哈</HAR_IH_NPC_a.labelMale>
+  <HAR_IH_NPC_a.labelFemale>拉哈特·谢拉哈</HAR_IH_NPC_a.labelFemale>
+  <HAR_IH_NPC_b.label>巨型魔像</HAR_IH_NPC_b.label>
+  <HAR_IH_NPC_b.labelMale>巨型魔像</HAR_IH_NPC_b.labelMale>
+  <HAR_IH_NPC_b.labelFemale>巨型魔像</HAR_IH_NPC_b.labelFemale>
+  <HAR_Idhale_Player.label>伊德海尔殖民者</HAR_Idhale_Player.label>
+  <HAR_Idhale_NPC_b_Player.label>咎灵</HAR_Idhale_NPC_b_Player.label>
   <HAR_Idhale_KindBase_NPC.label>伊德海尔幸存者</HAR_Idhale_KindBase_NPC.label>
   <HAR_Idhale_NPC_Resident.label>伊德海尔幸存者</HAR_Idhale_NPC_Resident.label>
   <HAR_Idhale_KindBase_NPC_b.label>苍穹之魂之民</HAR_Idhale_KindBase_NPC_b.label>
-  <HAR_Idhale_NPC_b_Leader.label>罪灵</HAR_Idhale_NPC_b_Leader.label>
+  <HAR_Idhale_NPC_b_Leader.label>咎灵</HAR_Idhale_NPC_b_Leader.label>
 </LanguageData>

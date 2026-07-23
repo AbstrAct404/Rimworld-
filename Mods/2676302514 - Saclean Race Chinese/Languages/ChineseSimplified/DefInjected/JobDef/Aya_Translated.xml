@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_Saclean_Milking.reportString>试图挤奶</HAR_Saclean_Milking.reportString>
-  <HAR_Saclean_Shearing.reportString>尝试纺纱</HAR_Saclean_Shearing.reportString>
+  <HAR_Saclean_Milking.reportString>正在挤奶</HAR_Saclean_Milking.reportString>
+  <HAR_Saclean_Shearing.reportString>正在吐丝</HAR_Saclean_Shearing.reportString>
 </LanguageData>

@@ -3,19 +3,19 @@
   <HAR_M_Kind_Base.label>密特拉玛阿哈</HAR_M_Kind_Base.label>
   <HAR_M_Kind_Base.labelMale>密特拉玛阿哈</HAR_M_Kind_Base.labelMale>
   <HAR_M_Kind_Base.labelFemale>密特拉玛阿哈</HAR_M_Kind_Base.labelFemale>
-  <HAR_M_Kind_a.label>米特拉·玛拉哈（夜魔）</HAR_M_Kind_a.label>
-  <HAR_M_Kind_NPC_a.label>米特拉·玛拉哈（夜魔）</HAR_M_Kind_NPC_a.label>
-  <HAR_M_Kind_b.label>米特拉·玛拉哈（美人鱼）</HAR_M_Kind_b.label>
-  <HAR_M_Kind_NPC_b.label>米特拉·玛拉哈（美人鱼）</HAR_M_Kind_NPC_b.label>
-  <HAR_M_Kind_c.label>米特拉玛·阿哈（亚金）</HAR_M_Kind_c.label>
-  <HAR_M_Kind_NPC_c.label>米特拉玛·阿哈（亚金）</HAR_M_Kind_NPC_c.label>
-  <HAR_M_Kind_d.label>米特拉·马拉哈（各种形式）</HAR_M_Kind_d.label>
-  <HAR_M_Kind_NPC_d.label>米特拉·马拉哈（各种形式）</HAR_M_Kind_NPC_d.label>
-  <HAR_M_Kind_e.label>密特拉玛拉哈（龙人）</HAR_M_Kind_e.label>
-  <HAR_M_Kind_NPC_e.label>密特拉玛拉哈（龙人）</HAR_M_Kind_NPC_e.label>
-  <HAR_Qualeela_Player.label>夸莉拉_Player</HAR_Qualeela_Player.label>
+  <HAR_M_Kind_a.label>宝冠天使(夜魔)</HAR_M_Kind_a.label>
+  <HAR_M_Kind_NPC_a.label>宝冠天使(夜魔)</HAR_M_Kind_NPC_a.label>
+  <HAR_M_Kind_b.label>宝冠天使(人鱼)</HAR_M_Kind_b.label>
+  <HAR_M_Kind_NPC_b.label>宝冠天使(人鱼)</HAR_M_Kind_NPC_b.label>
+  <HAR_M_Kind_c.label>宝冠天使(亚人)</HAR_M_Kind_c.label>
+  <HAR_M_Kind_NPC_c.label>宝冠天使(亚人)</HAR_M_Kind_NPC_c.label>
+  <HAR_M_Kind_d.label>宝冠天使(异形)</HAR_M_Kind_d.label>
+  <HAR_M_Kind_NPC_d.label>宝冠天使(异形)</HAR_M_Kind_NPC_d.label>
+  <HAR_M_Kind_e.label>宝冠天使(龙人)</HAR_M_Kind_e.label>
+  <HAR_M_Kind_NPC_e.label>宝冠天使(龙人)</HAR_M_Kind_NPC_e.label>
+  <HAR_Qualeela_Player.label>夸里拉殖民者</HAR_Qualeela_Player.label>
   <HAR_Qualeela_KindBase_NPC_b.label>夸里拉的士兵</HAR_Qualeela_KindBase_NPC_b.label>
   <HAR_Qualeela_NPC_Trader_b.label>夸里拉商人</HAR_Qualeela_NPC_Trader_b.label>
-  <HAR_Qualeela_NPC_Leader_b.label>夸里拉的王室</HAR_Qualeela_NPC_Leader_b.label>
+  <HAR_Qualeela_NPC_Leader_b.label>夸里拉王族</HAR_Qualeela_NPC_Leader_b.label>
   <HAR_Qualeela_NPC_Resident_b.label>夸里拉的士兵</HAR_Qualeela_NPC_Resident_b.label>
 </LanguageData>

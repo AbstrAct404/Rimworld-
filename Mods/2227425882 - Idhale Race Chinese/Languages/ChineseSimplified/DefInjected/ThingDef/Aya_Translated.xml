@@ -1,44 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Aya_Race_Ap_C_T_a.description>一款人造的比赛儿童衬衫，由于是针对儿童的，所以性能一般。</Aya_Race_Ap_C_T_a.description>
+  <Aya_Race_Ap_C_T_a.description>人工种族儿童穿着的衬衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_a.description>
   <Aya_Race_Ap_C_T_a.label>儿童衬衫</Aya_Race_Ap_C_T_a.label>
-  <Aya_Race_Ap_C_T_b.description>这是一件人造儿童比赛衬衫，既然是儿童用的，那么它的性能就很一般了。</Aya_Race_Ap_C_T_b.description>
-  <Aya_Race_Ap_C_T_b.label>儿童衬衫</Aya_Race_Ap_C_T_b.label>
-  <Aya_Race_Ap_C_T_c.description>一块人工种族儿童用的布料，其性能与儿童用的一样温和。</Aya_Race_Ap_C_T_c.description>
-  <Aya_Race_Ap_C_T_d.description>人造种族的孩子们的校服，既然是给孩子们的，那么他们的表现就很一般了。</Aya_Race_Ap_C_T_d.description>
-  <Aya_Race_Ap_C_T_d.label>子供用学生服装</Aya_Race_Ap_C_T_d.label>
-  <HAR_IH_AO_a.description>伊德海尔 的内衣比原版 Near Mer 的内衣更下流。</HAR_IH_AO_a.description>
-  <HAR_IH_AO_a.label>内衣A（爱多哈尔）</HAR_IH_AO_a.label>
-  <HAR_IH_AS_a.description>斗篷让人想起死神，但能力本身并不是那么强大。</HAR_IH_AS_a.description>
-  <HAR_IH_AS_a.label>幽灵斗篷（伊德哈尔）</HAR_IH_AS_a.label>
-  <HAR_IH_AT_a.description>为伊德海尔定制的衣服，由于精神转变的影响，衣服的边缘已经破烂不堪。</HAR_IH_AT_a.description>
-  <HAR_IH_AT_a.label>幽灵衬衫（伊德海尔）</HAR_IH_AT_a.label>
-  <HAR_IH_AT_b.description>死者穿的衣服有降低敏感度的效果，可以克服伊德海尔的弱点。</HAR_IH_AT_b.description>
-  <HAR_IH_AT_b.label>死亡服装（伊德哈尔）</HAR_IH_AT_b.label>
-  <HAR_IH_AT_c.description>原本是一件看起来很奢华的衣服，本来是贵族才会穿的，但由于化灵的影响，边缘已经开始崩裂。您可以获得对毒物和疾病的一定抵抗力。</HAR_IH_AT_c.description>
-  <HAR_IH_AT_c.label>幽灵礼服（伊德哈尔）</HAR_IH_AT_c.label>
-  <HAR_IH_AT_d.description>伊德海尔的护士服不知为什么沾满了血，但似乎增加了医疗效果。</HAR_IH_AT_d.description>
-  <HAR_IH_AT_d.label>幽灵护士制服（伊德海尔）</HAR_IH_AT_d.label>
-  <HAR_IH_AT_e.description>伊德海尔尔以前穿的奴隶衣服也起到了束缚的作用，不过顺便说一下，他并不是被迫穿的，而是自愿穿的。以速度变慢为代价，某些任务变得更快。</HAR_IH_AT_e.description>
-  <HAR_IH_AT_e.label>鬼奴套装（伊德海尔）</HAR_IH_AT_e.label>
-  <HAR_IH_AT_z.description>为伊德海尔·阿冯·鲁阿赫量身定制的礼装，但似乎没有特殊效果。</HAR_IH_AT_z.description>
-  <HAR_IH_AT_z.label>以太礼装</HAR_IH_AT_z.label>
-  <HAR_IH_NPC_Race_a.label>拉哈谢拉</HAR_IH_NPC_Race_a.label>
-  <HAR_IH_NPC_Race_a.description>伊德海尔·阿冯鲁赫 (伊德海尔 阿冯·鲁阿赫) 的后裔。 \n本体本身性能较差，但在一定时间后会引起大爆炸，将本体和周围环境都摧毁。</HAR_IH_NPC_Race_a.description>
-  <HAR_IH_NPC_Race_b.label>加多尔傀儡</HAR_IH_NPC_Race_b.label>
-  <HAR_IH_NPC_Race_b.description>伊德海尔·阿冯鲁赫 (伊德海尔 阿冯·鲁阿赫) 的后裔。 \n。受到攻击时，利用坚固的身体移动，用锋利的手臂粉碎对手的神圣傀儡。 \n召唤的加多尔傀儡一天后就会消失。</HAR_IH_NPC_Race_b.description>
-  <HAR_IH_Bullet_a.label>哈维尔列夫</HAR_IH_Bullet_a.label>
-  <HAR_IH_Bullet_b.label>乳腺</HAR_IH_Bullet_b.label>
-  <HAR_IH_Item_a.label>辉耀之石</HAR_IH_Item_a.label>
-  <HAR_IH_Item_a.description>一种模仿其创造者曾经发现的高等生物外壳的物质。
-		在人工种族中，仅用于Idheir 阿冯·鲁阿赫的外壳。
-		
-		尽管它很难处理，但用作材料时其性能非常出色。
-		它像羽毛一样轻，但又比羽毛硬。
-		它对于需要大量砍杀的敌人特别有效。
-		
-		
-		据说，它像天空一样闪闪发光的蓝色是这只鸟最后看到的东西。</HAR_IH_Item_a.description>
-  <HAR_IH_Archotech_a.label>天穹之钥</HAR_IH_Archotech_a.label>
-  <HAR_IH_Archotech_a.description>创建者留下的天蓝色钥匙，以便第三方可以与 阿冯·鲁阿赫 签订合同。 \n通过使用它，你可以召唤 Idheir 阿冯·鲁阿赫 成为你的同伴。</HAR_IH_Archotech_a.description>
+  <Aya_Race_Ap_C_T_b.description>人工种族儿童穿着的罩衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_b.description>
+  <Aya_Race_Ap_C_T_b.label>儿童罩衫</Aya_Race_Ap_C_T_b.label>
+  <Aya_Race_Ap_C_T_c.description>人工种族儿童使用的裹身布。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_c.description>
+  <Aya_Race_Ap_C_T_d.description>人工种族儿童穿着的学生服。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_d.description>
+  <Aya_Race_Ap_C_T_d.label>儿童校服装</Aya_Race_Ap_C_T_d.label>
+  <HAR_IH_AO_a.description>伊德海尔穿的内衣，比原来尼亚米尔族的内衣更露骨。</HAR_IH_AO_a.description>
+  <HAR_IH_AO_a.label>内衣A款（伊德海尔）</HAR_IH_AO_a.label>
+  <HAR_IH_AS_a.description>犹如死神般的斗篷，但是本身性能不怎么样。</HAR_IH_AS_a.description>
+  <HAR_IH_AS_a.label>幽鬼斗篷(伊德海尔)</HAR_IH_AS_a.label>
+  <HAR_IH_AT_a.description>为伊德海尔量身定制的服装，受到灵体化的影响服装边缘变得破破烂烂。</HAR_IH_AT_a.description>
+  <HAR_IH_AT_a.label>幽鬼衬衫(伊德海尔)</HAR_IH_AT_a.label>
+  <HAR_IH_AT_b.description>死者所穿的服装，有降低心灵敏感度的效果并且能稍微克服伊德海尔的弱点。</HAR_IH_AT_b.description>
+  <HAR_IH_AT_b.label>死灵装束(伊德海尔)</HAR_IH_AT_b.label>
+  <HAR_IH_AT_c.description>高贵者所穿的高级服装，但是受到灵体化的影响服装边缘变得破破烂烂。能获得一些对毒性和疾病的抗性。</HAR_IH_AT_c.description>
+  <HAR_IH_AT_c.label>幽鬼礼服装(伊德海尔)</HAR_IH_AT_c.label>
+  <HAR_IH_AT_d.description>伊德海尔用的护士服装，虽然不知道为什么沾满了鲜血，但是能提升医疗效果。</HAR_IH_AT_d.description>
+  <HAR_IH_AT_d.label>幽鬼护士服装(伊德海尔)</HAR_IH_AT_d.label>
+  <HAR_IH_AT_e.description>伊德海尔用的拘束兼带着寻常服装效果的奴隶服装。顺带一提，这并非强制性——而是她们自己主动穿上的。以减慢移速为代价，提升了部分工作的工作效率。</HAR_IH_AT_e.description>
+  <HAR_IH_AT_e.label>幽鬼奴隶服装(伊德海尔)</HAR_IH_AT_e.label>
+  <HAR_IH_AT_z.description>为伊德海尔·罪孽灵量身定制的服装，然而并没有什么特殊的效果。</HAR_IH_AT_z.description>
+  <HAR_IH_AT_z.label>苍穹之服装</HAR_IH_AT_z.label>
+  <HAR_IH_NPC_Race_a.label>拉哈特·谢拉哈</HAR_IH_NPC_Race_a.label>
+  <HAR_IH_NPC_Race_a.description>伊德海尔·罪孽灵的眷属。\n尽管自身力量欠佳，但会在一定时间后引发巨大的爆炸，将自身与周边环境一并卷入。</HAR_IH_NPC_Race_a.description>
+  <HAR_IH_NPC_Race_b.label>巨型魔像</HAR_IH_NPC_Race_b.label>
+  <HAR_IH_NPC_Race_b.description>伊德海尔·罪孽灵的眷属。\n坚韧的躯体足以在抵挡攻击的同时灵活地进行移动，并用锋利的双爪粉碎敌人的神圣的魔像。\n被召唤出的巨型魔像将在一天后消失</HAR_IH_NPC_Race_b.description>
+  <HAR_IH_Bullet_a.label>巴耶力之剑</HAR_IH_Bullet_a.label>
+  <HAR_IH_Bullet_b.label>莫斯提马之枪</HAR_IH_Bullet_b.label>
+  <HAR_IH_Item_a.label>光辉之石</HAR_IH_Item_a.label>
+  <HAR_IH_Item_a.description>仿照创造者曾见过的上位种族的外壳所制成的物质。
+仅被用作人工种族中伊德海尔·罪孽灵的外壳上。
+
+这种处理难度极高的素材拥有着无比卓越的性能。
+轻如羽毛而又坚不可摧。
+在面对需要多次刻下伤痕的敌人时极其有效。
+
+那如苍穹一般闪耀着的蓝色光芒，据说便是那只鸟在生命的尽头所见的光景。</HAR_IH_Item_a.description>
+  <HAR_IH_Archotech_a.label>苍穹之匙</HAR_IH_Archotech_a.label>
+  <HAR_IH_Archotech_a.description>创造者为了使第三者能够与伊德海尔·罪孽灵签下契约而遗留下的天蓝钥匙。\n使用后能够召唤出伊德海尔·罪孽灵。</HAR_IH_Archotech_a.description>
 </LanguageData>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <BOSS_RQ_EX_Skill_a>“由于战斗导致飞机损坏率增加，阿斯特拉克里蒂亚斯序列作为紧急响应启动”</BOSS_RQ_EX_Skill_a>
-  <BOSS_RQ_EX_Skill_b>“使用所有 Idea 传感器执行空间分析并指定要擦除的目标区域”</BOSS_RQ_EX_Skill_b>
-  <BOSS_RQ_EX_Skill_c>“创世纪反应堆的限制器被释放，空间压缩开始达到临界点。”</BOSS_RQ_EX_Skill_c>
-  <BOSS_RQ_EX_Skill_d>“倒计时……10……9……8……”</BOSS_RQ_EX_Skill_d>
-  <BOSS_RQ_EX_Skill_e>《阿斯特拉克里蒂亚斯，解放》</BOSS_RQ_EX_Skill_e>
-  <BOSS_RQ_EX_Skill_End_a>“阿斯特拉危机序列已经完成，重新激活它所需的剩余Arche数量相当于2次。”</BOSS_RQ_EX_Skill_End_a>
-  <BOSS_RQ_EX_Skill_End_b>“阿斯特拉克里蒂亚斯序列已经完成，重新激活它所需的剩余Arche数量相当于一次使用。”</BOSS_RQ_EX_Skill_End_b>
-  <BOSS_RQ_EX_Skill_End_c>“《阿斯特拉危机》序列已经完成，重新激活它所需的拱门已经耗尽。需要时间来填充......</BOSS_RQ_EX_Skill_End_c>
+  <BOSS_RQ_EX_Skill_a>『检测到机体损伤率在战斗中增加，启动紧急预案，将克里提亚斯之星纳入运行序列』</BOSS_RQ_EX_Skill_a>
+  <BOSS_RQ_EX_Skill_b>『伊迪亚感应器全机能激活，空间分析开始，对即将抹杀的空间区域进行指定』</BOSS_RQ_EX_Skill_b>
+  <BOSS_RQ_EX_Skill_c>『创世反应炉限制解除，开始将目标区域进行空间压缩至临界点』</BOSS_RQ_EX_Skill_c>
+  <BOSS_RQ_EX_Skill_d>『倒计时…１０…９…８…』</BOSS_RQ_EX_Skill_d>
+  <BOSS_RQ_EX_Skill_e>『克里提亚斯之星——解放』</BOSS_RQ_EX_Skill_e>
+  <BOSS_RQ_EX_Skill_End_a>『克里提亚斯之星运行完毕，再次启动所需本源含量尚可运行2次』</BOSS_RQ_EX_Skill_End_a>
+  <BOSS_RQ_EX_Skill_End_b>『克里提亚斯之星运行完毕，再次启动所需本源含量尚可运行1次』</BOSS_RQ_EX_Skill_End_b>
+  <BOSS_RQ_EX_Skill_End_c>『克里提亚斯之星运行完毕，再次启动所需本源已经枯竭。距离下次填充完毕还需……』</BOSS_RQ_EX_Skill_End_c>
 </LanguageData>

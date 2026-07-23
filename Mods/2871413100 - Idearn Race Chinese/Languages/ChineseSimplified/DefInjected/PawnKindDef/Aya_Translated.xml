@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_IA_M_Kind_Base.label>物理拟态</HAR_IA_M_Kind_Base.label>
-  <HAR_IA_M_Kind_Base.labelMale>物理拟态</HAR_IA_M_Kind_Base.labelMale>
-  <HAR_IA_M_Kind_Base.labelFemale>物理拟态</HAR_IA_M_Kind_Base.labelFemale>
-  <HAR_IA_M_Kind_a.label>物理拟态</HAR_IA_M_Kind_a.label>
-  <HAR_Idearn_Laches_a.label>伊安·拉克斯</HAR_Idearn_Laches_a.label>
-  <HAR_Idearn_Charmides_a.label>理念卡米德斯 A 型</HAR_Idearn_Charmides_a.label>
-  <HAR_Idearn_Charmides_b.label>理念卡米德斯B型</HAR_Idearn_Charmides_b.label>
-  <HAR_Idearn_Menexenus_a.label>理念 Menexenos A 型</HAR_Idearn_Menexenus_a.label>
-  <HAR_Idearn_Menexenus_b.label>理念梅内克塞诺斯 B 型</HAR_Idearn_Menexenus_b.label>
-  <HAR_Idearn_Theaetetus_a.label>理念 Theaetetos A 型</HAR_Idearn_Theaetetus_a.label>
-  <HAR_Idearn_Theaetetus_b.label>理念泰阿泰托斯 B 型</HAR_Idearn_Theaetetus_b.label>
-  <HAR_Idearn_Critias.label>理念批判</HAR_Idearn_Critias.label>
+  <HAR_IA_M_Kind_Base.label>自然拟态</HAR_IA_M_Kind_Base.label>
+  <HAR_IA_M_Kind_Base.labelMale>自然拟态</HAR_IA_M_Kind_Base.labelMale>
+  <HAR_IA_M_Kind_Base.labelFemale>自然拟态</HAR_IA_M_Kind_Base.labelFemale>
+  <HAR_IA_M_Kind_a.label>自然拟态</HAR_IA_M_Kind_a.label>
+  <HAR_Idearn_Laches_a.label>理念·拉刻斯</HAR_Idearn_Laches_a.label>
+  <HAR_Idearn_Charmides_a.label>理念·卡尔米德斯 A型</HAR_Idearn_Charmides_a.label>
+  <HAR_Idearn_Charmides_b.label>理念·卡尔米德斯 B型</HAR_Idearn_Charmides_b.label>
+  <HAR_Idearn_Menexenus_a.label>理念·墨涅克塞诺斯 A型</HAR_Idearn_Menexenus_a.label>
+  <HAR_Idearn_Menexenus_b.label>理念·墨涅克塞诺斯 B型</HAR_Idearn_Menexenus_b.label>
+  <HAR_Idearn_Theaetetus_a.label>理念·泰阿泰托斯 A型</HAR_Idearn_Theaetetus_a.label>
+  <HAR_Idearn_Theaetetus_b.label>理念·泰阿泰托斯 B型</HAR_Idearn_Theaetetus_b.label>
+  <HAR_Idearn_Critias.label>理念·克里提亚斯</HAR_Idearn_Critias.label>
 </LanguageData>

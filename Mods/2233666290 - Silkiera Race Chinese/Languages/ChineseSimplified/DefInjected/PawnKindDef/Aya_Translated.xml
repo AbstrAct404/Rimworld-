@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_SK_Mechanoid_Kind_a.label>阿科机械生命体收割者</HAR_SK_Mechanoid_Kind_a.label>
-  <HAR_SK_Mechanoid_Kind_b.label>赤穗机械生命体掠食者</HAR_SK_Mechanoid_Kind_b.label>
-  <HAR_SK_Mechanoid_Kind_c.label>赤穗机械生命体影子</HAR_SK_Mechanoid_Kind_c.label>
-  <HAR_SK_Mechanoid_Kind_e.label>阿科机械生命体士兵</HAR_SK_Mechanoid_Kind_e.label>
-  <HAR_SK_PawnKind_Cat.label>丝毛猫</HAR_SK_PawnKind_Cat.label>
-  <HAR_Silkiera_Player.label>希尔基耶拉_Player</HAR_Silkiera_Player.label>
+  <HAR_SK_Mechanoid_Kind_a.label>亚工造机械生命体·收割者</HAR_SK_Mechanoid_Kind_a.label>
+  <HAR_SK_Mechanoid_Kind_b.label>亚工造机械生命体·掠夺者</HAR_SK_Mechanoid_Kind_b.label>
+  <HAR_SK_Mechanoid_Kind_c.label>亚工造机械生命体·暗影</HAR_SK_Mechanoid_Kind_c.label>
+  <HAR_SK_Mechanoid_Kind_e.label>亚工造机械生命体·铁血战兵</HAR_SK_Mechanoid_Kind_e.label>
+  <HAR_SK_PawnKind_Cat.label>柔顺的猫</HAR_SK_PawnKind_Cat.label>
+  <HAR_Silkiera_Player.label>兽娘殖民者</HAR_Silkiera_Player.label>
   <HAR_Silkiera_KindBase_NPC.label>亚人工业士兵</HAR_Silkiera_KindBase_NPC.label>
-  <HAR_Silkiera_NPC_Trader.label>亚人工业贸易商</HAR_Silkiera_NPC_Trader.label>
-  <HAR_Silkiera_NPC_Leader.label>亚进工业的领导者</HAR_Silkiera_NPC_Leader.label>
+  <HAR_Silkiera_NPC_Trader.label>亚人工业商人</HAR_Silkiera_NPC_Trader.label>
+  <HAR_Silkiera_NPC_Leader.label>亚人工业董事长</HAR_Silkiera_NPC_Leader.label>
   <HAR_Silkiera_NPC_Resident.label>亚人工业士兵</HAR_Silkiera_NPC_Resident.label>
-  <HAR_Silkiera_NPC_gunner.label>亚人工业火枪手</HAR_Silkiera_NPC_gunner.label>
+  <HAR_Silkiera_NPC_gunner.label>亚人工业枪手</HAR_Silkiera_NPC_gunner.label>
   <HAR_Silkiera_NPC_Sniper.label>亚人工业狙击手</HAR_Silkiera_NPC_Sniper.label>
-  <HAR_Silkiera_NPC_Industrial.label>亚人工业代理</HAR_Silkiera_NPC_Industrial.label>
-  <HAR_Silkiera_NPC_Grenade.label>亚人工业枪手</HAR_Silkiera_NPC_Grenade.label>
+  <HAR_Silkiera_NPC_Industrial.label>亚人工业工作人员</HAR_Silkiera_NPC_Industrial.label>
+  <HAR_Silkiera_NPC_Grenade.label>亚人工业炮击手</HAR_Silkiera_NPC_Grenade.label>
   <HAR_Silkiera_KindBase_NPC_b.label>丝姬拉</HAR_Silkiera_KindBase_NPC_b.label>
-  <HAR_Silkiera_NPC_Resident_b.label>丝姬拉品质</HAR_Silkiera_NPC_Resident_b.label>
-  <HAR_Silkiera_NPC_Resident_c.label>丝姬草</HAR_Silkiera_NPC_Resident_c.label>
+  <HAR_Silkiera_NPC_Resident_b.label>丝姬拉·改良种</HAR_Silkiera_NPC_Resident_b.label>
+  <HAR_Silkiera_NPC_Resident_c.label>丝姬拉·狐媚</HAR_Silkiera_NPC_Resident_c.label>
 </LanguageData>

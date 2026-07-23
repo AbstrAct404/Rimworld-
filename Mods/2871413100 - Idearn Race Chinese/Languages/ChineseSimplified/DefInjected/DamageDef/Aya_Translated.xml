@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_IA_Damage_a.label>大洋剑磷</HAR_IA_Damage_a.label>
-  <HAR_IA_Damage_b.label>霍普利松实践</HAR_IA_Damage_b.label>
-  <HAR_IA_Damage_c.label>Erythros Exia（喷雾）</HAR_IA_Damage_c.label>
-  <HAR_IA_Damage_d.label>埃里索斯·埃克西亚</HAR_IA_Damage_d.label>
-  <HAR_IA_Damage_e.label>基亚诺斯·埃克西亚</HAR_IA_Damage_e.label>
-  <HAR_IA_Damage_z_a.label>大洋剑磷</HAR_IA_Damage_z_a.label>
-  <HAR_IA_Damage_f.label>泰勒斯巴西利亚</HAR_IA_Damage_f.label>
-  <HAR_IA_Damage_g.label>巴西莱亚图雷拉</HAR_IA_Damage_g.label>
-  <HAR_IA_Damage_h.label>地狱巴西利亚</HAR_IA_Damage_h.label>
-  <HAR_IA_Damage_Otherside_a.label>另一面（不完整）</HAR_IA_Damage_Otherside_a.label>
-  <HAR_IA_Damage_Otherside_b.label>对方</HAR_IA_Damage_Otherside_b.label>
+  <HAR_IA_Damage_a.label>俄刻阿诺斯之剑</HAR_IA_Damage_a.label>
+  <HAR_IA_Damage_b.label>武装实践</HAR_IA_Damage_b.label>
+  <HAR_IA_Damage_c.label>猩红能天使（散布）</HAR_IA_Damage_c.label>
+  <HAR_IA_Damage_d.label>猩红能天使</HAR_IA_Damage_d.label>
+  <HAR_IA_Damage_e.label>靛蓝能天使</HAR_IA_Damage_e.label>
+  <HAR_IA_Damage_z_a.label>俄刻阿诺斯之剑</HAR_IA_Damage_z_a.label>
+  <HAR_IA_Damage_f.label>天国之意</HAR_IA_Damage_f.label>
+  <HAR_IA_Damage_g.label>天国之躁</HAR_IA_Damage_g.label>
+  <HAR_IA_Damage_h.label>天国之狱</HAR_IA_Damage_h.label>
+  <HAR_IA_Damage_Otherside_a.label>彼岸（不完全）</HAR_IA_Damage_Otherside_a.label>
+  <HAR_IA_Damage_Otherside_b.label>彼岸</HAR_IA_Damage_Otherside_b.label>
 </LanguageData>

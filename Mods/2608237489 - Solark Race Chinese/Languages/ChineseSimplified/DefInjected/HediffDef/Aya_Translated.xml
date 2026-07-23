@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <Solark_Artificial.label>人工种族</Solark_Artificial.label>
-  <Solark_Artificial.description>索拉克是一个人工创造的种族，被创造为具有高水平的身体能力。 \n\n随着岁月的流逝，那股力量会越来越接近完美，你的身体也会变得更加强大。 \nSolark的威力由Lv决定，一年左右增加Lv1（Lv上限为5）。</Solark_Artificial.description>
-  <Solark_Artificial_b.label>人工上位种族</Solark_Artificial_b.label>
-  <Solark_Artificial_b.description>索拉克·海勒莱夫作为索拉克的高级种，身​​体更加强壮。 \n\n随着岁月的流逝，那股力量会越来越接近完美，你的身体也会变得更加强大。 \n索拉克·海勒莱夫的力量由Lv决定，一年左右增加Lv1（Lv上限为5）。</Solark_Artificial_b.description>
-  <Solark_Hediff_a.description>这是索拉克·海勒莱夫释放龙躯的状态。 \n半天后龙体状态就会取消。</Solark_Hediff_a.description>
+  <Solark_Artificial.description>索拉克是一种人工创造的种族，旨在具有高水平的身体素质。\n\n随着岁月的流逝，它的力量将持续增加，并会转变为更强大的身体。\n\n索拉克族大约一年会上升一级（LV上限为5）。</Solark_Artificial.description>
+  <Solark_Artificial_b.label>上位人工种族</Solark_Artificial_b.label>
+  <Solark_Artificial_b.description>索拉克·海勒莱夫是索拉克的上位种，拥有更加强韧的肉体。
+
+她的力量会随岁月逐渐接近完成，身体也会愈发强大。海勒莱夫的力量由等级决定，约每年提升 1 级，最高为 5 级。</Solark_Artificial_b.description>
+  <Solark_Hediff_a.description>索拉克·海勒莱夫正在释放龙躯。龙体状态会在半天后解除。</Solark_Hediff_a.description>
 </LanguageData>

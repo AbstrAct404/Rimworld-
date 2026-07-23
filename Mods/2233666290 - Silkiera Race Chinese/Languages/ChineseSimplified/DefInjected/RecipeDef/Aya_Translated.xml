@@ -1,49 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_SK_Cook_a.label>制作猫便当（4份）</HAR_SK_Cook_a.label>
-  <HAR_SK_Cook_a.description>将肉、蔬菜和米饭煮熟，制成四份猫便当。</HAR_SK_Cook_a.description>
-  <HAR_SK_Cook_a.jobString>制作猫便当（4份）</HAR_SK_Cook_a.jobString>
-  <HAR_SK_Cook_b.label>制作丝质午餐（4 份）</HAR_SK_Cook_b.label>
-  <HAR_SK_Cook_b.description>煮肉、蔬菜、浆果、鸡蛋和米饭，为四人制作一顿丝滑的午餐。</HAR_SK_Cook_b.description>
-  <HAR_SK_Cook_b.jobString>制作丝质午餐（4 份）</HAR_SK_Cook_b.jobString>
-  <HAR_SK_Cook_c.label>制作野兽能量（4份）</HAR_SK_Cook_c.label>
-  <HAR_SK_Cook_c.description>烹饪蔬菜、浆果和啤酒花，制成四份野兽能量。</HAR_SK_Cook_c.description>
-  <HAR_SK_Cook_c.jobString>制作野兽能量（4份）</HAR_SK_Cook_c.jobString>
-  <HAR_SK_Cook_d.label>制作kemomi肉（30块）</HAR_SK_Cook_d.label>
-  <HAR_SK_Cook_d.description>处理尸体制成克莫米肉。</HAR_SK_Cook_d.description>
-  <HAR_SK_Cook_d.jobString>制作kemomi肉（30块）</HAR_SK_Cook_d.jobString>
-  <HAR_SK_Cook_e.label>制作丝滑拉面（4 份）</HAR_SK_Cook_e.label>
-  <HAR_SK_Cook_e.description>煮肉、蔬菜和米饭，制作四人份的丝滑拉面。</HAR_SK_Cook_e.description>
-  <HAR_SK_Cook_e.jobString>制作丝滑拉面（4 份）</HAR_SK_Cook_e.jobString>
-  <HAR_SK_Cook_f.label>制作锡罐（4份）</HAR_SK_Cook_f.label>
-  <HAR_SK_Cook_f.description>煮肉和蔬菜，制作四人份的肉罐头。</HAR_SK_Cook_f.description>
-  <HAR_SK_Cook_f.jobString>制作锡罐（4份）</HAR_SK_Cook_f.jobString>
-  <HAR_SK_Recipe_Recycle_a.description>我会让亚人工业收集不需要的武器。 \n您将收到一张猫邮票作为感谢。</HAR_SK_Recipe_Recycle_a.description>
-  <HAR_SK_Recipe_Recycle_b.label>回収:护甲全般</HAR_SK_Recipe_Recycle_b.label>
-  <HAR_SK_Recipe_Recycle_b.description>让亚人工业收集你不需要的盔甲。 \n您将收到一张猫邮票作为感谢。</HAR_SK_Recipe_Recycle_b.description>
-  <HAR_SK_Recipe_Recycle_c.description>我们将委托亚人工业公司收集这 10 种污染物以及收集费。 \n您将收到一张猫邮票作为感谢。</HAR_SK_Recipe_Recycle_c.description>
-  <HAR_SK_Recipe_exchange_a.label>交换：治愈者塞鲁姆</HAR_SK_Recipe_exchange_a.label>
-  <HAR_SK_Recipe_exchange_a.description>用 500 个猫印章兑换治愈者海豹。</HAR_SK_Recipe_exchange_a.description>
-  <HAR_SK_Recipe_exchange_b.label>交换：复活塞鲁姆</HAR_SK_Recipe_exchange_b.label>
-  <HAR_SK_Recipe_exchange_b.description>用 500 个猫印章兑换复活海拉姆。</HAR_SK_Recipe_exchange_b.description>
-  <HAR_SK_Recipe_exchange_c.label>交流：A​​I个性核心</HAR_SK_Recipe_exchange_c.label>
-  <HAR_SK_Recipe_exchange_c.description>用500张猫印章兑换AI个性核心。</HAR_SK_Recipe_exchange_c.description>
-  <HAR_SK_Recipe_exchange_d.label>兑换：黑票</HAR_SK_Recipe_exchange_d.label>
-  <HAR_SK_Recipe_exchange_d.description>用3000张猫印换黑票。</HAR_SK_Recipe_exchange_d.description>
-  <HAR_SK_Recipe_exchange_e.description>用500张猫印章兑换亚进工业路灯。</HAR_SK_Recipe_exchange_e.description>
-  <HAR_SK_Recipe_exchange_f.label>兑换：宠物票</HAR_SK_Recipe_exchange_f.label>
-  <HAR_SK_Recipe_exchange_f.description>用 50 张猫印章兑换宠物票。</HAR_SK_Recipe_exchange_f.description>
-  <HAR_SK_Recipe_exchange_g.label>交换：萤火虫</HAR_SK_Recipe_exchange_g.label>
-  <HAR_SK_Recipe_exchange_g.description>用 50 个猫印章兑换 5 个 Luciferium。</HAR_SK_Recipe_exchange_g.description>
-  <HAR_SK_Recipe_exchange_h.label>兑换：樱券</HAR_SK_Recipe_exchange_h.label>
-  <HAR_SK_Recipe_exchange_h.description>用 100 个猫印章兑换小樱门票。</HAR_SK_Recipe_exchange_h.description>
-  <HAR_SK_Recipe_exchange_i.label>交流：次人格核心</HAR_SK_Recipe_exchange_i.label>
-  <HAR_SK_Recipe_exchange_i.description>用 500 个猫印章交换一个次人格核心。</HAR_SK_Recipe_exchange_i.description>
-  <HAR_SK_Recipe_exchange_j.label>兑换：幽灵票</HAR_SK_Recipe_exchange_j.label>
-  <HAR_SK_Recipe_exchange_j.description>用2000张猫邮票换鬼票。</HAR_SK_Recipe_exchange_j.description>
-  <HAR_SK_Recipe_exchange_k.label>兑换：小票</HAR_SK_Recipe_exchange_k.label>
-  <HAR_SK_Recipe_exchange_k.description>用 2500 张猫邮票兑换小票。</HAR_SK_Recipe_exchange_k.description>
-  <HAR_SK_Recipe_exchange_n.description>用 50 个猫印章交换碎片。</HAR_SK_Recipe_exchange_n.description>
-  <HAR_SK_Recipe_Refinery_a.label>从岩石中制造化学燃料</HAR_SK_Recipe_Refinery_a.label>
-  <HAR_SK_Recipe_Refinery_a.description>岩石被液化以制造化学燃料。</HAR_SK_Recipe_Refinery_a.description>
+  <HAR_SK_Cook_a.label>制作亚人便当(四人份)</HAR_SK_Cook_a.label>
+  <HAR_SK_Cook_a.description>烹调肉、蔬菜和米来制作四人份的便当。</HAR_SK_Cook_a.description>
+  <HAR_SK_Cook_a.jobString>制作亚人便当(四人份)</HAR_SK_Cook_a.jobString>
+  <HAR_SK_Cook_b.label>制作兽娘套餐(四人份)</HAR_SK_Cook_b.label>
+  <HAR_SK_Cook_b.description>烹饪肉、蔬菜、浆果、鸡蛋和大米，来制作四人份的精致套餐。</HAR_SK_Cook_b.description>
+  <HAR_SK_Cook_b.jobString>制作兽娘套餐(四人份)</HAR_SK_Cook_b.jobString>
+  <HAR_SK_Cook_c.label>制作兽娘能量饮料(四人份)</HAR_SK_Cook_c.label>
+  <HAR_SK_Cook_c.description>烹饪蔬菜、莓果和啤酒花，来制作四人份的能量饮料。</HAR_SK_Cook_c.description>
+  <HAR_SK_Cook_c.jobString>制作兽娘能量饮料(四人份)</HAR_SK_Cook_c.jobString>
+  <HAR_SK_Cook_d.label>制作兽娘袋装肉(30个)</HAR_SK_Cook_d.label>
+  <HAR_SK_Cook_d.description>将尸体加工为兽娘袋装肉。</HAR_SK_Cook_d.description>
+  <HAR_SK_Cook_d.jobString>制作兽娘袋装肉(30个)</HAR_SK_Cook_d.jobString>
+  <HAR_SK_Cook_e.label>制作兽娘拉面(四人份)</HAR_SK_Cook_e.label>
+  <HAR_SK_Cook_e.description>将肉、蔬菜和米烹制成四人份的丰盛拉面。</HAR_SK_Cook_e.description>
+  <HAR_SK_Cook_e.jobString>制作兽娘拉面(四人份)</HAR_SK_Cook_e.jobString>
+  <HAR_SK_Cook_f.label>制作兽娘罐头(四人份)</HAR_SK_Cook_f.label>
+  <HAR_SK_Cook_f.description>将肉和蔬菜烹制成四人份的兽娘罐头。</HAR_SK_Cook_f.description>
+  <HAR_SK_Cook_f.jobString>制作兽娘罐头(四人份)</HAR_SK_Cook_f.jobString>
+  <HAR_SK_Recipe_Recycle_a.description>不需要的武器可以回收给亚人工业。\n作为谢礼，你将得到猫咪印章。</HAR_SK_Recipe_Recycle_a.description>
+  <HAR_SK_Recipe_Recycle_b.label>回收：全部护甲</HAR_SK_Recipe_Recycle_b.label>
+  <HAR_SK_Recipe_Recycle_b.description>不需要的护甲可以回收给亚人工业。\n作为谢礼，你将得到猫咪印章。</HAR_SK_Recipe_Recycle_b.description>
+  <HAR_SK_Recipe_Recycle_c.description>每次可将10份污染垃圾回收给亚人工业。\n作为谢礼，你将得到猫咪印章。</HAR_SK_Recipe_Recycle_c.description>
+  <HAR_SK_Recipe_exchange_a.label>交换:治愈机械液</HAR_SK_Recipe_exchange_a.label>
+  <HAR_SK_Recipe_exchange_a.description>使用500个猫咪印章交换治愈机械液。</HAR_SK_Recipe_exchange_a.description>
+  <HAR_SK_Recipe_exchange_b.label>交换:复活机械液</HAR_SK_Recipe_exchange_b.label>
+  <HAR_SK_Recipe_exchange_b.description>使用500个猫咪印章交换复活机械液。</HAR_SK_Recipe_exchange_b.description>
+  <HAR_SK_Recipe_exchange_c.label>交换：AI人格核心</HAR_SK_Recipe_exchange_c.label>
+  <HAR_SK_Recipe_exchange_c.description>使用500个猫咪印章交换AI人格核心。</HAR_SK_Recipe_exchange_c.description>
+  <HAR_SK_Recipe_exchange_d.label>交换:黑色券</HAR_SK_Recipe_exchange_d.label>
+  <HAR_SK_Recipe_exchange_d.description>使用3000个猫咪印章交换黑色券。</HAR_SK_Recipe_exchange_d.description>
+  <HAR_SK_Recipe_exchange_e.description>使用500个猫咪印章交换亚人工业路灯。</HAR_SK_Recipe_exchange_e.description>
+  <HAR_SK_Recipe_exchange_f.label>交换:宠物券</HAR_SK_Recipe_exchange_f.label>
+  <HAR_SK_Recipe_exchange_f.description>使用50个猫咪印章交换宠物券。</HAR_SK_Recipe_exchange_f.description>
+  <HAR_SK_Recipe_exchange_g.label>交换:魔鬼素</HAR_SK_Recipe_exchange_g.label>
+  <HAR_SK_Recipe_exchange_g.description>使用50个猫咪印章交换魔鬼素。</HAR_SK_Recipe_exchange_g.description>
+  <HAR_SK_Recipe_exchange_h.label>交换:萨克莱恩券</HAR_SK_Recipe_exchange_h.label>
+  <HAR_SK_Recipe_exchange_h.description>使用100个猫咪印章交换萨克莱恩券。</HAR_SK_Recipe_exchange_h.description>
+  <HAR_SK_Recipe_exchange_i.label>交换:亚人格核心</HAR_SK_Recipe_exchange_i.label>
+  <HAR_SK_Recipe_exchange_i.description>使用500个猫咪印章交换亚人格核心。</HAR_SK_Recipe_exchange_i.description>
+  <HAR_SK_Recipe_exchange_j.label>交换:伊德海尔券</HAR_SK_Recipe_exchange_j.label>
+  <HAR_SK_Recipe_exchange_j.description>使用2000个猫咪印章交换伊德海尔券。</HAR_SK_Recipe_exchange_j.description>
+  <HAR_SK_Recipe_exchange_k.label>交换:小人族券</HAR_SK_Recipe_exchange_k.label>
+  <HAR_SK_Recipe_exchange_k.description>使用2500个猫咪印章交换小人族券。</HAR_SK_Recipe_exchange_k.description>
+  <HAR_SK_Recipe_exchange_n.description>使用50个猫咪印章交换暗黑超凡碎片。</HAR_SK_Recipe_exchange_n.description>
+  <HAR_SK_Recipe_Refinery_a.label>从岩石中提炼化学燃料</HAR_SK_Recipe_Refinery_a.label>
+  <HAR_SK_Recipe_Refinery_a.description>将岩石液化，从中提炼化学燃料。</HAR_SK_Recipe_Refinery_a.description>
 </LanguageData>

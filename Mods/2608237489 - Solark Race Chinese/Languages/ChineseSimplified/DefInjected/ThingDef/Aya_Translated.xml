@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_SA_Armor_a.label>龙铠</HAR_SA_Armor_a.label>
-  <HAR_SA_Armor_a.description>索拉克的专属装甲配备了弥补其战斗弱点的功能，例如容易受到火灾。最初是在其创造者手下作为战斗人员时使用的战斗服。</HAR_SA_Armor_a.description>
-  <HAR_SA_Heads_a.description>索拉克 专为您打造发型的发带。</HAR_SA_Heads_a.description>
-  <HAR_SA_Heads_a.label>德雷克头带</HAR_SA_Heads_a.label>
-  <HAR_SA_Heads_b.description>索拉克 专用的头饰，可调理您的头发。</HAR_SA_Heads_b.description>
-  <HAR_SA_Heads_b.label>德雷克王冠</HAR_SA_Heads_b.label>
-  <HAR_SA_Heads_c.description>SolArc 的专用盖子，用于隐藏脸部。</HAR_SA_Heads_c.description>
-  <HAR_SA_Heads_c.label>德雷克盖</HAR_SA_Heads_c.label>
-  <HAR_SA_Heads_d.description>索拉克独有的头盔，具有弥补战斗中易受火灾等弱点的功能。它最初是在其创造者手下作为战士时使用的头盔。</HAR_SA_Heads_d.description>
-  <HAR_SA_Heads_d.label>龙头盔</HAR_SA_Heads_d.label>
-  <HAR_SA_Shell_a.description>这是 索拉克 专用的夹克，穿起来更可能是为了防止弄脏，而不是为了保护皮肤。</HAR_SA_Shell_a.description>
-  <HAR_SA_Shell_a.label>德雷克斗篷</HAR_SA_Shell_a.label>
-  <HAR_SA_Shell_b.description>这是 索拉克 专用的夹克，穿起来更可能是为了防止弄脏，而不是为了保护皮肤。</HAR_SA_Shell_b.description>
-  <HAR_SA_Shell_b.label>德雷克外套</HAR_SA_Shell_b.label>
-  <HAR_SA_Shell_c.description>使用索拉克特有的能量作为燃料的屏障发生器，具有强大的减伤效果。在战斗中非常有用，但其缺点是容易破碎且没有耐温性。</HAR_SA_Shell_c.description>
-  <HAR_SA_Shell_c.label>德雷克屏障</HAR_SA_Shell_c.label>
-  <HAR_SA_Tops_a.description>专门为索拉克制作的单薄衣服，或许是因为她的身体能力很高，所以只需要能够隐藏她的私处即可。</HAR_SA_Tops_a.description>
-  <HAR_SA_Tops_a.label>龙穿A</HAR_SA_Tops_a.label>
-  <HAR_SA_Tops_b.description>专门为索拉克制作的单薄衣服，或许是因为她的身体能力很高，所以只需要能够隐藏她的私处即可。</HAR_SA_Tops_b.description>
-  <HAR_SA_Tops_b.label>德雷克磨损B</HAR_SA_Tops_b.label>
-  <HAR_SA_Tops_c.description>专门为索拉克制作的单薄衣服，或许是因为她的身体能力很高，所以只需要能够隐藏她的私处即可。</HAR_SA_Tops_c.description>
-  <HAR_SA_Tops_c.label>德雷克磨损C</HAR_SA_Tops_c.label>
-  <HAR_SA_Tops_d.description>索拉克·海勒列夫专用的连衣裙，或许是因为她的身体能力较高，所以只需要起到衣服的作用。</HAR_SA_Tops_d.description>
-  <HAR_SA_Tops_d.label>谢网连衣裙</HAR_SA_Tops_d.label>
-  <HAR_SA_Archotech_a.label>反物质隔离装置</HAR_SA_Archotech_a.label>
-  <HAR_SA_Archotech_a.description>一个使用高科技的老单位。 \n里面似乎封印着一个人工种族，只要打开它，就可以让那个人加入你的殖民地。 \n由于该单位使用了与反物质有关的材料，因此似乎包含来自索拉克的人。</HAR_SA_Archotech_a.description>
+  <HAR_SA_Armor_a.label>龙之盔甲</HAR_SA_Armor_a.label>
+  <HAR_SA_Armor_a.description>索拉克专用的盔甲，弥补了在战斗中容易受到火伤害的弱点。原本是在造物主手下担任战斗员时的战斗服装。</HAR_SA_Armor_a.description>
+  <HAR_SA_Heads_a.description>索拉克专用的固定头发的装饰品。</HAR_SA_Heads_a.description>
+  <HAR_SA_Heads_a.label>龙之发箍</HAR_SA_Heads_a.label>
+  <HAR_SA_Heads_b.description>索拉克专用的固定头发的装饰品。</HAR_SA_Heads_b.description>
+  <HAR_SA_Heads_b.label>龙之头饰</HAR_SA_Heads_b.label>
+  <HAR_SA_Heads_c.description>索拉克专用的面罩。</HAR_SA_Heads_c.description>
+  <HAR_SA_Heads_c.label>龙之面罩</HAR_SA_Heads_c.label>
+  <HAR_SA_Heads_d.description>索拉克专用的头盔，弥补了在战斗中容易受到火伤害的弱点。原本是在造物主手下担任战斗员时的头盔。</HAR_SA_Heads_d.description>
+  <HAR_SA_Heads_d.label>龙之头盔</HAR_SA_Heads_d.label>
+  <HAR_SA_Shell_a.description>索拉克的专用披风。穿着它是防止身体被弄脏，而不是为了保护自己。</HAR_SA_Shell_a.description>
+  <HAR_SA_Shell_a.label>龙之披风</HAR_SA_Shell_a.label>
+  <HAR_SA_Shell_b.description>索拉克的专用披风。穿着它是防止身体被弄脏，而不是为了保护自己。</HAR_SA_Shell_b.description>
+  <HAR_SA_Shell_b.label>龙之外套</HAR_SA_Shell_b.label>
+  <HAR_SA_Shell_c.description>使用索拉克独有的能量作为燃料具有伤害减免效果的防护发生装置，在战斗中非常有用，但缺点是易坏，且没有温度耐性。</HAR_SA_Shell_c.description>
+  <HAR_SA_Shell_c.label>龙之护盾</HAR_SA_Shell_c.label>
+  <HAR_SA_Tops_a.description>索拉克专用的内衣。因为索拉克的身体能力很高，所以只起到遮羞功能。</HAR_SA_Tops_a.description>
+  <HAR_SA_Tops_a.label>龙之内衣A</HAR_SA_Tops_a.label>
+  <HAR_SA_Tops_b.description>索拉克专用的内衣。因为索拉克的身体能力很高，所以只起到遮羞功能。</HAR_SA_Tops_b.description>
+  <HAR_SA_Tops_b.label>龙之内衣B</HAR_SA_Tops_b.label>
+  <HAR_SA_Tops_c.description>索拉克专用的内衣。因为索拉克的身体能力很高，所以只起到遮羞功能。</HAR_SA_Tops_c.description>
+  <HAR_SA_Tops_c.label>龙之内衣C</HAR_SA_Tops_c.label>
+  <HAR_SA_Tops_d.description>索拉克·海勒莱夫专用的礼服。或许因为她本身身体能力很强，这件礼服只承担服装本身的作用。</HAR_SA_Tops_d.description>
+  <HAR_SA_Tops_d.label>谢梅斯连衣裙</HAR_SA_Tops_d.label>
+  <HAR_SA_Archotech_a.label>反物质收容装置</HAR_SA_Archotech_a.label>
+  <HAR_SA_Archotech_a.description>用古老科技制造的收容装置。\n里面似乎有一个人工种族，激活后会加入殖民地。\n因为收容装置使用了反物质，所以推测是和索拉克族有关。</HAR_SA_Archotech_a.description>
 </LanguageData>

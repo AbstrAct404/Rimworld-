@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_IA_Project_Mysterion.label>隐藏技术</HAR_IA_Project_Mysterion.label>
-  <HAR_IA_Project_Mysterion.description>研究生产 伊迪恩 的机器。</HAR_IA_Project_Mysterion.description>
-  <HAR_IA_Project_Fast.label>拉克斯计划</HAR_IA_Project_Fast.label>
-  <HAR_IA_Project_Fast.description>研究生产 伊迪恩 的机器。</HAR_IA_Project_Fast.description>
-  <HAR_IA_Project_Second.label>查米德计划</HAR_IA_Project_Second.label>
-  <HAR_IA_Project_Second.description>研究生产 伊迪恩 的机器。</HAR_IA_Project_Second.description>
-  <HAR_IA_Project_Otherside.label>其他研究</HAR_IA_Project_Otherside.label>
-  <HAR_IA_Project_Otherside.description>研究完善Otherside。 。</HAR_IA_Project_Otherside.description>
-  <HAR_IA_Project_Third.label>梅内克塞诺斯计划</HAR_IA_Project_Third.label>
-  <HAR_IA_Project_Third.description>研究生产 伊迪恩 的机器。</HAR_IA_Project_Third.description>
-  <HAR_IA_Project_Forth.label>泰阿泰德计划</HAR_IA_Project_Forth.label>
-  <HAR_IA_Project_Forth.description>研究生产 伊迪恩 的机器。</HAR_IA_Project_Forth.description>
-  <HAR_IA_Project_Final_a.description>研究隐藏在文物中的数据。</HAR_IA_Project_Final_a.description>
-  <HAR_IA_Project_Final_b.description>研究隐藏在文物中的数据。</HAR_IA_Project_Final_b.description>
-  <HAR_IA_Project_Final_c.description>研究隐藏在文物中的数据。</HAR_IA_Project_Final_c.description>
-  <HAR_IA_Project_Final_d.description>研究隐藏在文物中的数据。</HAR_IA_Project_Final_d.description>
-  <HAR_IA_Project_Final_e.description>研究隐藏在文物中的数据。</HAR_IA_Project_Final_e.description>
-  <HAR_IA_Project_Final_f.description>研究隐藏在文物中的数据。</HAR_IA_Project_Final_f.description>
-  <HAR_IA_Project_Final_g.label>离开这里</HAR_IA_Project_Final_g.label>
-  <HAR_IA_Project_Final_g.description>复活被安特雷凯亚烧毁的东西。</HAR_IA_Project_Final_g.description>
+  <HAR_IA_Project_Mysterion.label>隐匿技术</HAR_IA_Project_Mysterion.label>
+  <HAR_IA_Project_Mysterion.description>研究生产理念的机械装置。</HAR_IA_Project_Mysterion.description>
+  <HAR_IA_Project_Fast.label>拉凯斯计划</HAR_IA_Project_Fast.label>
+  <HAR_IA_Project_Fast.description>研究生产理念的机械装置。</HAR_IA_Project_Fast.description>
+  <HAR_IA_Project_Second.label>卡尔米德计划</HAR_IA_Project_Second.label>
+  <HAR_IA_Project_Second.description>研究生产理念的机械装置。</HAR_IA_Project_Second.description>
+  <HAR_IA_Project_Otherside.label>研究彼岸</HAR_IA_Project_Otherside.label>
+  <HAR_IA_Project_Otherside.description>了解彼岸以完成此研究。</HAR_IA_Project_Otherside.description>
+  <HAR_IA_Project_Third.label>美涅克塞努计划</HAR_IA_Project_Third.label>
+  <HAR_IA_Project_Third.description>研究生产理念的机械装置。</HAR_IA_Project_Third.description>
+  <HAR_IA_Project_Forth.label>泰阿泰托斯计划</HAR_IA_Project_Forth.label>
+  <HAR_IA_Project_Forth.description>研究生产理念的机械装置。</HAR_IA_Project_Forth.description>
+  <HAR_IA_Project_Final_a.description>研究隐藏在古老文物中的数据资料。</HAR_IA_Project_Final_a.description>
+  <HAR_IA_Project_Final_b.description>研究隐藏在古老文物中的数据资料。</HAR_IA_Project_Final_b.description>
+  <HAR_IA_Project_Final_c.description>研究隐藏在古老文物中的数据资料。</HAR_IA_Project_Final_c.description>
+  <HAR_IA_Project_Final_d.description>研究隐藏在古老文物中的数据资料。</HAR_IA_Project_Final_d.description>
+  <HAR_IA_Project_Final_e.description>研究隐藏在古老文物中的数据资料。</HAR_IA_Project_Final_e.description>
+  <HAR_IA_Project_Final_f.description>研究隐藏在古老文物中的数据资料。</HAR_IA_Project_Final_f.description>
+  <HAR_IA_Project_Final_g.label>就此开始</HAR_IA_Project_Final_g.label>
+  <HAR_IA_Project_Final_g.description>重现被恩特雷凯亚焚毁之物。</HAR_IA_Project_Final_g.description>
 </LanguageData>

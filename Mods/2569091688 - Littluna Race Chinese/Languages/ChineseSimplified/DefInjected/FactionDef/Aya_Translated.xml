@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Littluna_P_Faction.label>小露娜的隐秘村庄</Littluna_P_Faction.label>
+  <Littluna_P_Faction.label>里托鲁纳的隐居地</Littluna_P_Faction.label>
   <Littluna_P_Faction.pawnSingular>里托鲁纳</Littluna_P_Faction.pawnSingular>
-  <Littluna_P_Faction.description>小露娜们聚集并安静生活的村庄。</Littluna_P_Faction.description>
-  <Littluna_Faction_NPC.label>莉特露娜_Faction</Littluna_Faction_NPC.label>
-  <Littluna_Faction_NPC.description>主要由利托鲁纳人组成的稀有派系，基本上与其他种族混合。</Littluna_Faction_NPC.description>
+  <Littluna_P_Faction.description>里托鲁纳们安稳生活的聚居地。</Littluna_P_Faction.description>
+  <Littluna_Faction_NPC.label>里托鲁纳派系</Littluna_Faction_NPC.label>
+  <Littluna_Faction_NPC.description>以里托鲁纳为主、掺杂着其他种族的稀有派系。</Littluna_Faction_NPC.description>
   <Littluna_Faction_NPC.pawnSingular>里托鲁纳</Littluna_Faction_NPC.pawnSingular>
-  <Littluna_Faction_NPC.fixedName>里托鲁纳派系</Littluna_Faction_NPC.fixedName>
-  <Littluna_Faction_NPC_b.label>疯狂的女孩</Littluna_Faction_NPC_b.label>
-  <Littluna_Faction_NPC_b.description>理托鲁纳的敌对派系，理应实力较弱。永远不要靠近。</Littluna_Faction_NPC_b.description>
+  <Littluna_Faction_NPC.fixedName>里托鲁纳的派系</Littluna_Faction_NPC.fixedName>
+  <Littluna_Faction_NPC_b.label>狂乱童女</Littluna_Faction_NPC_b.label>
+  <Littluna_Faction_NPC_b.description>看似脆弱的敌对里托鲁纳派系。不 要 靠 近 她 们</Littluna_Faction_NPC_b.description>
   <Littluna_Faction_NPC_b.pawnSingular>里托鲁纳</Littluna_Faction_NPC_b.pawnSingular>
-  <Littluna_Faction_NPC_b.fixedName>疯狂的女孩</Littluna_Faction_NPC_b.fixedName>
+  <Littluna_Faction_NPC_b.fixedName>狂乱童女</Littluna_Faction_NPC_b.fixedName>
 </LanguageData>

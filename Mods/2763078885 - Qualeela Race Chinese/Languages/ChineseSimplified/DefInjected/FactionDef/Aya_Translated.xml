@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Qualeela_P_Faction.label>夸里拉的隐藏村庄</Qualeela_P_Faction.label>
+  <Qualeela_P_Faction.label>夸里拉的隐居地</Qualeela_P_Faction.label>
   <Qualeela_P_Faction.pawnSingular>夸里拉</Qualeela_P_Faction.pawnSingular>
-  <Qualeela_P_Faction.description>奎利拉等人聚集并安静生活的村庄。</Qualeela_P_Faction.description>
-  <Qualeela_Faction_NPC_c.label>恩特莱切亚</Qualeela_Faction_NPC_c.label>
-  <Qualeela_Faction_NPC_c.description>一个由夸里拉等人统治的国家，他们继承了造物主“让生命更强大、更广阔”的愿望。\n本来，由于生态原因，人工种族无法将其人口增加到一个国家的规模，但他们通过利用继承的权力控制和操作造物主留下的生物植物来克服这一点。 \n从那时起，它的力量就稳步扩大，现在已经发展到可以在众多星系中运作的地步。 \n\n他们对其他派系具有侵略性，但往往忽视较小的派系。 \n但是，属性值异常增加的派系被视为危险分子，会被入侵。 \n\n虽然是一个军事实力和规模不寻常的国家，但入侵的标准是是否危险，所以通过对话谈判达成解决是有可能的。</Qualeela_Faction_NPC_c.description>
+  <Qualeela_P_Faction.description>夸里拉们聚集在一起平静生活的居住点。</Qualeela_P_Faction.description>
+  <Qualeela_Faction_NPC_c.label>恩特雷凯亚</Qualeela_Faction_NPC_c.label>
+  <Qualeela_Faction_NPC_c.description>继承了造物主『让生命更为强大，踏足更广之处』的遗愿，由夸里拉们所支配的国家。\n从人工种族原本的生态而言是不可能增长到国家规模的人口的，但她们通过从创造主那里继承而来的使用活体生产设备的权限克服了这一问题。\n自此以后她们不断扩大自己的势力，时至今日已经成长到了足以在数个星系中活动的程度。\n\n她们对多数派系都采取着攻击性态势，但也有着对小规模派系视而不见的倾向。\n但对那些蓄有异常丰富财富的派系，她们则会将其视为危险分析加以侵略。\n\n尽管是战力与规模都异常强盛的国家，但是是否会遭到她们的侵略则能够通过进行对话与交涉来和解。</Qualeela_Faction_NPC_c.description>
   <Qualeela_Faction_NPC_c.pawnSingular>夸里拉</Qualeela_Faction_NPC_c.pawnSingular>
-  <Qualeela_Faction_NPC_c.fixedName>恩特莱切亚</Qualeela_Faction_NPC_c.fixedName>
+  <Qualeela_Faction_NPC_c.fixedName>恩特雷凯亚</Qualeela_Faction_NPC_c.fixedName>
 </LanguageData>

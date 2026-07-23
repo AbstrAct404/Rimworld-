@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_CO_UB_Recipe_a.label>塞费尔哈宗</HAR_CO_UB_Recipe_a.label>
-  <HAR_CO_UB_Recipe_a.description>从 Geophorus 生成 Seferhazon。</HAR_CO_UB_Recipe_a.description>
-  <HAR_CO_UB_Recipe_b.label>鲁阿维里特</HAR_CO_UB_Recipe_b.label>
-  <HAR_CO_UB_Recipe_b.description>从 geophorus 生成 Ruahberit。</HAR_CO_UB_Recipe_b.description>
+  <HAR_CO_UB_Recipe_a.label>预言之书</HAR_CO_UB_Recipe_a.label>
+  <HAR_CO_UB_Recipe_a.description>通过佛拉斯之星生成预言之书。</HAR_CO_UB_Recipe_a.description>
+  <HAR_CO_UB_Recipe_b.label>契约之灵</HAR_CO_UB_Recipe_b.label>
+  <HAR_CO_UB_Recipe_b.description>通过佛拉斯之星生成契约之灵。</HAR_CO_UB_Recipe_b.description>
 </LanguageData>
