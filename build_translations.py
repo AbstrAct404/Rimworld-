@@ -122,6 +122,20 @@ EXCLUDED_OUTPUT_IDS = {
     "3223847402", "3223847562", "3223847765",
 }
 
+# Published Steam Workshop item IDs for the maintained translation packages.
+# They are kept separately from the original workshop IDs so a rebuild never
+# risks creating a new Workshop page instead of updating the intended one.
+PUBLISHED_FILE_IDS = {
+    "2198830432": "3769646709", "2216916011": "3769645281",
+    "2227425882": "3769645740", "2233666290": "3769650937",
+    "2394460334": "3769646881", "2504657401": "3769649735",
+    "2569091688": "3769646243", "2608237489": "3769651652",
+    "2676302514": "3769650099", "2763078885": "3769649414",
+    "2871413100": "3769645094", "2946679071": "3769644534",
+    "2954714860": "3769644933", "3153539856": "3769644777",
+    "3505571618": "3769644292",
+}
+
 
 def text(element: ET.Element | None) -> str:
     return (element.text or "").strip() if element is not None else ""
@@ -201,6 +215,48 @@ def google_translate(values: list[str], cache: dict[str, str]) -> dict[str, str]
 def xml_write(path: Path, root: ET.Element) -> None:
     ET.indent(root, space="  ")
     ET.ElementTree(root).write(path, encoding="utf-8", xml_declaration=True)
+
+
+def vdf_quote(value: str) -> str:
+    """Escape a Steam Workshop VDF string without altering Chinese text."""
+    return value.replace('"', '\\"').replace("\r\n", "\\n").replace("\n", "\\n")
+
+
+def vdf_path(path: Path) -> str:
+    """SteamCMD reliably accepts forward-slash absolute paths on Windows."""
+    return str(path.resolve()).replace("\\", "/")
+
+
+def write_steam_vdfs(destination: Path, vdf_dir: Path) -> None:
+    """Generate explicit SteamCMD update manifests for every maintained item."""
+    vdf_dir.mkdir(parents=True, exist_ok=True)
+    for mod_id, fallback_name in MODS:
+        package = destination / f"{mod_id} - {fallback_name} Chinese"
+        about = ET.parse(package / "About" / "About.xml").getroot()
+        title = text(about.find("name"))
+        description = text(about.find("description"))
+        content = "\n".join([
+            '"workshopitem"', '{',
+            '\t"appid"\t\t"294100"',
+            f'\t"publishedfileid"\t\t"{PUBLISHED_FILE_IDS[mod_id]}"',
+            f'\t"contentfolder"\t\t"{vdf_quote(vdf_path(package))}"',
+            f'\t"previewfile"\t\t"{vdf_quote(vdf_path(package / "About" / "Preview.png"))}"',
+            f'\t"title"\t\t"{vdf_quote(title)}"',
+            f'\t"description"\t\t"{vdf_quote(description)}"',
+            '\t"changenote"\t\t"更新：完善简体中文翻译，适配 RimWorld 1.6。"',
+            '}', '',
+        ])
+        (vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}.vdf").write_text(content, encoding="utf-8")
+    commands = [
+        "@ShutdownOnFailedCommand 1",
+        "@NoPromptForPassword 0",
+        *[
+            f'workshop_build_item "{vdf_path(vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}.vdf")}"'
+            for mod_id, _ in MODS
+        ],
+        "",
+    ]
+    (vdf_dir / "steamcmd_commands.txt").write_text("\n".join(commands), encoding="utf-8")
 
 
 def build_one(mod_id: str, fallback_name: str, destination: Path, translate_google: bool, cache: dict[str, str]) -> dict:
@@ -340,6 +396,7 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--destination", type=Path, required=True)
     parser.add_argument("--translate-google", action="store_true")
+    parser.add_argument("--steam-vdf-dir", type=Path)
     args = parser.parse_args()
     args.destination.mkdir(parents=True, exist_ok=True)
     for mod_id in EXCLUDED_OUTPUT_IDS:
@@ -351,6 +408,8 @@ def main() -> None:
     # Japanese fallbacks so they are translated correctly on this run.
     cache = {source: target for source, target in cache.items() if not is_japanese(target)}
     report = [build_one(mid, name, args.destination, args.translate_google, cache) for mid, name in MODS]
+    if args.steam_vdf_dir:
+        write_steam_vdfs(args.destination, args.steam_vdf_dir)
     cache_file.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
     (args.destination / "BUILD-REPORT.json").write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
     print(json.dumps(report, ensure_ascii=False, indent=2))

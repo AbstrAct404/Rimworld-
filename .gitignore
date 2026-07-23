@@ -1,0 +1,5 @@
+# Generated SteamCMD manifests carry machine-specific absolute paths.
+steam_upload/
+
+# SteamCMD runtime downloaded locally for Workshop publishing.
+tools/
