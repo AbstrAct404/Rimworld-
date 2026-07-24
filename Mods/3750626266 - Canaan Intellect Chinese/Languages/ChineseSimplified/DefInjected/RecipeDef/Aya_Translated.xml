@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Aya_CI_Recipe_Material_a.label>委托制造「生物的灵油」</Aya_CI_Recipe_Material_a.label>
-  <Aya_CI_Recipe_Material_a.description>提供毛皮，委托制造「生物的灵油」。</Aya_CI_Recipe_Material_a.description>
+  <Aya_CI_Recipe_Material_a.label>委托制造「生物灵油」</Aya_CI_Recipe_Material_a.label>
+  <Aya_CI_Recipe_Material_a.description>提供毛皮，委托制造「生物灵油」。</Aya_CI_Recipe_Material_a.description>
   <Aya_CI_Recipe_Material_a.jobString>委托制造中</Aya_CI_Recipe_Material_a.jobString>
-  <Aya_CI_Recipe_Material_b.label>委托制造「植物的灵油」</Aya_CI_Recipe_Material_b.label>
-  <Aya_CI_Recipe_Material_b.description>提供木材，委托制造「植物的灵油」。</Aya_CI_Recipe_Material_b.description>
+  <Aya_CI_Recipe_Material_b.label>委托制造「植物灵油」</Aya_CI_Recipe_Material_b.label>
+  <Aya_CI_Recipe_Material_b.description>提供木材，委托制造「植物灵油」。</Aya_CI_Recipe_Material_b.description>
   <Aya_CI_Recipe_Material_b.jobString>委托制造中</Aya_CI_Recipe_Material_b.jobString>
-  <Aya_CI_Recipe_Material_c.label>委托制造「矿物的灵油」</Aya_CI_Recipe_Material_c.label>
-  <Aya_CI_Recipe_Material_c.description>提供金属，委托制造「矿物的灵油」。</Aya_CI_Recipe_Material_c.description>
+  <Aya_CI_Recipe_Material_c.label>委托制造「矿物灵油」</Aya_CI_Recipe_Material_c.label>
+  <Aya_CI_Recipe_Material_c.description>提供金属，委托制造「矿物灵油」。</Aya_CI_Recipe_Material_c.description>
   <Aya_CI_Recipe_Material_c.jobString>委托制造中</Aya_CI_Recipe_Material_c.jobString>
-  <Aya_CI_Recipe_Artifact_a.label>委托制造「生命的圣餐药」</Aya_CI_Recipe_Artifact_a.label>
-  <Aya_CI_Recipe_Artifact_a.description>提供专用素材，委托制造「生命的圣餐药」。</Aya_CI_Recipe_Artifact_a.description>
+  <Aya_CI_Recipe_Artifact_a.label>委托制造「生命圣餐药」</Aya_CI_Recipe_Artifact_a.label>
+  <Aya_CI_Recipe_Artifact_a.description>提供专用素材，委托制造「生命圣餐药」。</Aya_CI_Recipe_Artifact_a.description>
   <Aya_CI_Recipe_Artifact_a.jobString>委托制造中</Aya_CI_Recipe_Artifact_a.jobString>
-  <Aya_CI_Recipe_Artifact_b.label>委托制造「祝福的圣餐药」</Aya_CI_Recipe_Artifact_b.label>
-  <Aya_CI_Recipe_Artifact_b.description>提供专用素材，委托制造「祝福的圣餐药」。</Aya_CI_Recipe_Artifact_b.description>
+  <Aya_CI_Recipe_Artifact_b.label>委托制造「淬体圣餐药」</Aya_CI_Recipe_Artifact_b.label>
+  <Aya_CI_Recipe_Artifact_b.description>提供专用素材，委托制造「淬体圣餐药」。</Aya_CI_Recipe_Artifact_b.description>
   <Aya_CI_Recipe_Artifact_b.jobString>委托制造中</Aya_CI_Recipe_Artifact_b.jobString>
-  <Aya_CI_Recipe_Artifact_c.label>委托制造「知恵的圣餐药」</Aya_CI_Recipe_Artifact_c.label>
-  <Aya_CI_Recipe_Artifact_c.description>提供专用素材，委托制造「知恵的圣餐药」。</Aya_CI_Recipe_Artifact_c.description>
+  <Aya_CI_Recipe_Artifact_c.label>委托制造「通心圣餐药」</Aya_CI_Recipe_Artifact_c.label>
+  <Aya_CI_Recipe_Artifact_c.description>提供专用素材，委托制造「通心圣餐药」。</Aya_CI_Recipe_Artifact_c.description>
   <Aya_CI_Recipe_Artifact_c.jobString>委托制造中</Aya_CI_Recipe_Artifact_c.jobString>
-  <Aya_CI_Recipe_Artifact_x.label>委托制造「光晕的圣餐药」</Aya_CI_Recipe_Artifact_x.label>
-  <Aya_CI_Recipe_Artifact_x.description>提供专用素材，委托制造「光晕的圣餐药」。</Aya_CI_Recipe_Artifact_x.description>
+  <Aya_CI_Recipe_Artifact_x.label>委托制造「威能圣餐药」</Aya_CI_Recipe_Artifact_x.label>
+  <Aya_CI_Recipe_Artifact_x.description>提供专用素材，委托制造「威能圣餐药」。</Aya_CI_Recipe_Artifact_x.description>
   <Aya_CI_Recipe_Artifact_x.jobString>委托制造中</Aya_CI_Recipe_Artifact_x.jobString>
   <Aya_CI_Recipe_Artifact_MechSerumHealer.label>委托制造「痊愈机械液」</Aya_CI_Recipe_Artifact_MechSerumHealer.label>
   <Aya_CI_Recipe_Artifact_MechSerumHealer.description>提供专用素材，委托制造「痊愈机械液」。</Aya_CI_Recipe_Artifact_MechSerumHealer.description>

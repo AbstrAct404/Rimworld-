@@ -36,10 +36,10 @@
   <BOSS_EF_Item_a.description>从大型执行者身上滴下的神秘液体。
     \n是一种哪怕轻轻碰撞也会引发大爆炸的极易爆炸性液体。
     \n由于容易气化的性质，很快就会消失。</BOSS_EF_Item_a.description>
-  <BOSS_EF_Item_b.label>星陨铁石</BOSS_EF_Item_b.label>
+  <BOSS_EF_Item_b.label>星陨铁</BOSS_EF_Item_b.label>
   <BOSS_EF_Item_b.description>从陨石中发掘出的特殊矿石。
     \n非常坚固，可以当作建筑材料使用，但是会大大增加工作量。
-    \n用作近战武器的制作材料时，会为武器附加上星陨铁石特有的重量和锋锐。
+    \n用作近战武器的制作材料时，会为武器附加上星陨铁特有的重量和锋锐。
     \n因为是来自宇宙的材料，因此与其规格相比，价格被预估得很低。</BOSS_EF_Item_b.description>
   <BOSS_EF_Hive_Enforcer.label>蜂巢陨星</BOSS_EF_Hive_Enforcer.label>
   <BOSS_EF_Hive_Enforcer.description>从太空飞来的神秘陨石。

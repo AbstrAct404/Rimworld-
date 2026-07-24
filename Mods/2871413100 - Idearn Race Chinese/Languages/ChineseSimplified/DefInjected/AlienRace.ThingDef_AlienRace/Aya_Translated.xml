@@ -1,12 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_Idearn_Charmides_a.label>伊迪安·卡尔米德 A型</HAR_Idearn_Charmides_a.label>
-  <HAR_Idearn_Charmides_a.description>伊迪安是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
+  <HAR_Idearn_Theaetetus_b.label>伊迪安·泰阿泰德 B型</HAR_Idearn_Theaetetus_b.label>
+  <HAR_Idearn_Theaetetus_b.description>伊迪安是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
 通过采用某种科学技术，使得幽灵姬灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
+这一型号能够使用彼岸能力阻断伤害。
 
 每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
 
-卡尔米德A型是近战能力特化的个体，耐久与护甲比起拉凯斯型都有所提升。</HAR_Idearn_Charmides_a.description>
+泰阿泰德B型是使用了统括种·库莉菈的数据创造的单兵镇压特化的上位个体。能够作为战略兵器散播大量的纳米机械，对周遭大范围持续造成大量伤害。</HAR_Idearn_Theaetetus_b.description>
+  <HAR_Idearn_Menexenus_b.label>伊迪安·梅涅克赛努 B型</HAR_Idearn_Menexenus_b.label>
+  <HAR_Idearn_Menexenus_b.description>伊迪安是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
+通过采用某种科学技术，使得幽灵姬灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
+这一型号能够使用不完整的彼岸能力。
+
+每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
+
+梅涅克赛努B型是扰乱能力特化的个体，能够利用自身的高机动性迅速冲入敌阵的薄弱之处，散播火焰阻碍敌方的进攻步调，或是通过EMP来限制机械生命体的行动能力。</HAR_Idearn_Menexenus_b.description>
+  <HAR_Idearn_Theaetetus_a.label>伊迪安·泰阿泰德 A型</HAR_Idearn_Theaetetus_a.label>
+  <HAR_Idearn_Theaetetus_a.description>伊迪安是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
+通过采用某种科学技术，使得幽灵姬灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
+这一型号能够使用彼岸能力阻断伤害。
+
+每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
+
+泰阿泰德A型是使用了女王种的数据创造的军事战术特化的上位个体。能够同时召唤多个近战特化的眷属，并通过散播纳米机械强化周围的友军。</HAR_Idearn_Theaetetus_a.description>
+  <HAR_Idearn_Menexenus_a.label>伊迪安·梅涅克赛努 A型</HAR_Idearn_Menexenus_a.label>
+  <HAR_Idearn_Menexenus_a.description>伊迪安是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
+通过采用某种科学技术，使得幽灵姬灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
+这一型号能够使用不完整的彼岸能力。
+
+每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
+
+梅涅克赛努A型是妨碍能力特化的个体，能够持续散播纳米机械削弱周围的敌对个体。</HAR_Idearn_Menexenus_a.description>
   <HAR_Idearn_Charmides_b.label>伊迪安·卡尔米德 B型</HAR_Idearn_Charmides_b.label>
   <HAR_Idearn_Charmides_b.description>伊迪安是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
 通过采用某种科学技术，使得幽灵姬灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
@@ -14,6 +39,13 @@
 每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
 
 卡尔米德B型是移动能力特化的个体，耐久与护甲比起拉凯斯型都有所提升。</HAR_Idearn_Charmides_b.description>
+  <HAR_Idearn_Charmides_a.label>伊迪安·卡尔米德 A型</HAR_Idearn_Charmides_a.label>
+  <HAR_Idearn_Charmides_a.description>伊迪安是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
+通过采用某种科学技术，使得幽灵姬灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
+
+每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
+
+卡尔米德A型是近战能力特化的个体，耐久与护甲比起拉凯斯型都有所提升。</HAR_Idearn_Charmides_a.description>
   <HAR_Idearn_Critias.label>伊迪安·克里提亚斯（焚书模型）</HAR_Idearn_Critias.label>
   <HAR_Idearn_Critias.description>伊迪安·克里提亚斯（焚书模型），是将噩梦兵器“对上位者决战自立兵器·克里提亚斯”以人工种族形态重现的产物。它曾毁灭创造者，并将人工种族逼至灭绝边缘。
 
@@ -33,36 +65,4 @@
 每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
 
 拉凯斯是伊迪安的基础型号，只拥有最基本的性能，但即便如此她们的各项技能仍远胜于人类。</HAR_Idearn_Laches_a.description>
-  <HAR_Idearn_Menexenus_a.label>伊迪安·梅涅克赛努 A型</HAR_Idearn_Menexenus_a.label>
-  <HAR_Idearn_Menexenus_a.description>伊迪安是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
-通过采用某种科学技术，使得幽灵姬灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
-这一型号能够使用不完整的彼岸能力。
-
-每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
-
-梅涅克赛努A型是妨碍能力特化的个体，能够持续散播纳米机械削弱周围的敌对个体。</HAR_Idearn_Menexenus_a.description>
-  <HAR_Idearn_Menexenus_b.label>伊迪安·梅涅克赛努 B型</HAR_Idearn_Menexenus_b.label>
-  <HAR_Idearn_Menexenus_b.description>伊迪安是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
-通过采用某种科学技术，使得幽灵姬灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
-这一型号能够使用不完整的彼岸能力。
-
-每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
-
-梅涅克赛努B型是扰乱能力特化的个体，能够利用自身的高机动性迅速冲入敌阵的薄弱之处，散播火焰阻碍敌方的进攻步调，或是通过EMP来限制机械生命体的行动能力。</HAR_Idearn_Menexenus_b.description>
-  <HAR_Idearn_Theaetetus_a.label>伊迪安·泰阿泰德 A型</HAR_Idearn_Theaetetus_a.label>
-  <HAR_Idearn_Theaetetus_a.description>伊迪安是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
-通过采用某种科学技术，使得幽灵姬灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
-这一型号能够使用彼岸能力阻断伤害。
-
-每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
-
-泰阿泰德A型是使用了女王种的数据创造的军事战术特化的上位个体。能够同时召唤多个近战特化的眷属，并通过散播纳米机械强化周围的友军。</HAR_Idearn_Theaetetus_a.description>
-  <HAR_Idearn_Theaetetus_b.label>伊迪安·泰阿泰德 B型</HAR_Idearn_Theaetetus_b.label>
-  <HAR_Idearn_Theaetetus_b.description>伊迪安是一支充满谜团的种族，除了她们是人工种族的一员，以及一些零散的技术资料以外，便再无任何记录。
-通过采用某种科学技术，使得幽灵姬灵体一般的特性在她们身上成功复现，即使在极端环境下也能够活动自如。
-这一型号能够使用彼岸能力阻断伤害。
-
-每个象限需要更换1次「本源药盒(药品)」，否则会因为身体机能停止而死亡。
-
-泰阿泰德B型是使用了统括种·库莉菈的数据创造的单兵镇压特化的上位个体。能够作为战略兵器散播大量的纳米机械，对周遭大范围持续造成大量伤害。</HAR_Idearn_Theaetetus_b.description>
 </LanguageData>

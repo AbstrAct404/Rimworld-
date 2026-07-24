@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <Aya_CI_Bullet_a.label>仁慈的一击</Aya_CI_Bullet_a.label>
-  <Aya_CI_Material_a.label>生物的灵油</Aya_CI_Material_a.label>
+  <Aya_CI_Material_a.label>生物灵油</Aya_CI_Material_a.label>
   <Aya_CI_Material_a.description>由少年所制作的加工品。作为基底的素材已液化，散发着黯淡的光泽。\n与其他灵油组合便能成为强化道具。</Aya_CI_Material_a.description>
-  <Aya_CI_Material_b.label>植物的灵油</Aya_CI_Material_b.label>
+  <Aya_CI_Material_b.label>植物灵油</Aya_CI_Material_b.label>
   <Aya_CI_Material_b.description>由少年所制作的加工品。作为基底的素材已液化，散发着黯淡的光泽。\n与其他灵油组合便能成为强化道具。</Aya_CI_Material_b.description>
-  <Aya_CI_Material_c.label>矿物的灵油</Aya_CI_Material_c.label>
+  <Aya_CI_Material_c.label>矿物灵油</Aya_CI_Material_c.label>
   <Aya_CI_Material_c.description>由少年所制作的加工品。作为基底的素材已液化，散发着黯淡的光泽。\n与其他灵油组合便能成为强化道具。</Aya_CI_Material_c.description>
   <Aya_CI_Bullet_Phobia_a.label>腐败恐惧</Aya_CI_Bullet_Phobia_a.label>
   <Aya_CI_Book_a.label>迦南创世记</Aya_CI_Book_a.label>
@@ -37,12 +37,12 @@
   <Aya_CI_Skill_Gain_j.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［君主恩典］\n强化指定格子周围的所有殖民者。\n身为人工种族王族的库利菈之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_j.description>
   <Aya_CI_Thing_Creator_a.label>隐退者的工坊</Aya_CI_Thing_Creator_a.label>
   <Aya_CI_Thing_Creator_a.description>不知为何，让人感受到人工种族兵器既视感的可动式工坊。\n作为工坊而言规模偏小，却内含众多功能。\n构造似乎极为坚固，以一般手段几乎不可能将其破坏。\n\n工坊之中端坐着一名年幼的少年，会帮助殖民地中的居民。\n其技术水准极高，令人感受到他过去似乎曾在高度文明之下担任过技术人员或研究者。\n然而，虽然待人亲切，却对自己的来历绝口不提。\n\n\n\n若是人工种族们知晓真相，恐怕会为之昏厥的存在。\n但由于认知阻碍，他们应该无法正确感知到这一点。\n\n除了被施加了术法、成为他所期望之姿的混沌灵们之外。</Aya_CI_Thing_Creator_a.description>
-  <Aya_CI_Artifact_a.label>生命的圣餐药</Aya_CI_Artifact_a.label>
+  <Aya_CI_Artifact_a.label>生命圣餐药</Aya_CI_Artifact_a.label>
   <Aya_CI_Artifact_a.description>由灵油创造而成的璀璨药剂。\n使用后，使用者的生命力将获得提升。\n力量拥有等级，最大等级为50。\n\n效果为各部位耐久值会依照等级提升而上升。\n\n达到等级 10 时的奖励：［出血无效］］\n达到等级 30 时的奖励：［毒耐性　真空耐性］\n\n\n\n相传远古时代，人工种族的造物主将此祝福的圣水赐予居住于迦南的人类。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n原本是创造迦南的灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_a.description>
-  <Aya_CI_Artifact_b.label>祝福的圣餐药</Aya_CI_Artifact_b.label>
+  <Aya_CI_Artifact_b.label>淬体圣餐药</Aya_CI_Artifact_b.label>
   <Aya_CI_Artifact_b.description>由灵油创造而成的璀璨药剂。\n使用后，使用者的生命力将获得提升。\n力量拥有等级，最大等级为50。\n\n效果为强化身体能力、移动速度、伤害减免率。\n强化幅度会在后半逐渐提升。\n\n达到等级 10 时的奖励：［制作具有品质的物品时，品质提升1级］］\n达到等级 30 时的奖励：［将30以上受到的伤害削减至30］\n\n相传远古时代，人工种族的造物主将此祝福的圣水赐予居住于迦南的人类。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n原本是创造迦南的灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_b.description>
-  <Aya_CI_Artifact_c.label>知恵的圣餐药</Aya_CI_Artifact_c.label>
+  <Aya_CI_Artifact_c.label>通心圣餐药</Aya_CI_Artifact_c.label>
   <Aya_CI_Artifact_c.description>由灵油创造而成的璀璨药剂。\n使用后，使用者的精神力将获得提升。\n力量拥有等级，最大等级为50。\n\n效果为强化意识、射击间隔、医疗、种植、社交。\n强化幅度从中段逐渐提升。\n\n达到等级 10 时的奖励：［负面心情减半（小数点向下舍去）］\n达到等级 30 时的奖励：［状态上限无效化］\n\n相传远古时代，人工种族的造物主将此祝福的圣水赐予居住于迦南的人类。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n原本是创造迦南的灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_c.description>
-  <Aya_CI_Artifact_x.label>光晕的圣餐药</Aya_CI_Artifact_x.label>
+  <Aya_CI_Artifact_x.label>威能圣餐药</Aya_CI_Artifact_x.label>
   <Aya_CI_Artifact_x.description>由灵油创造而成的璀璨药剂。\n使用后，使用者造成的伤害将获得提升。\n力量拥有等级，最大等级为50。\n\n效果为造成的伤害依照等级提升约1.2倍（等级50时为10倍）。\n\n相传远古时代，人工种族的造物主将此圣水赐予居住于迦南的人类，作为祝福。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n它原本是创造迦南灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_x.description>
 </LanguageData>

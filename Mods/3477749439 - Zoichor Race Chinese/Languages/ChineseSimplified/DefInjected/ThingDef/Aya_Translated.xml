@@ -53,10 +53,10 @@
 
 
 这套设备由人工种族的神子——伪神族·杜娜米丝亲手设计。技术极为先进，但运行需要消耗大量资源。</HAR_ZC_BMOT_Building_Incubator.description>
-  <HAR_ZC_Item_a.label>碎裂的罗迪西昂</HAR_ZC_Item_a.label>
-  <HAR_ZC_Item_a.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的罗迪西昂会增加。\n\n碎裂的罗迪西昂可以稍微强化苍褪的太阳。</HAR_ZC_Item_a.description>
-  <HAR_ZC_Item_b.label>缺失的罗迪西昂</HAR_ZC_Item_b.label>
-  <HAR_ZC_Item_b.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的罗迪西昂会增加。碎裂的罗迪西昂可以强化苍褪的太阳。</HAR_ZC_Item_b.description>
-  <HAR_ZC_Item_c.label>完整的罗迪西昂</HAR_ZC_Item_c.label>
-  <HAR_ZC_Item_c.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的罗迪西昂会增加。完整的罗迪西昂可以强化苍褪的太阳。</HAR_ZC_Item_c.description>
+  <HAR_ZC_Item_a.label>碎裂的苍阳果</HAR_ZC_Item_a.label>
+  <HAR_ZC_Item_a.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的苍阳果会增加。\n\n碎裂的苍阳果可以稍微强化苍褪的太阳。</HAR_ZC_Item_a.description>
+  <HAR_ZC_Item_b.label>残缺的苍阳果</HAR_ZC_Item_b.label>
+  <HAR_ZC_Item_b.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的苍阳果会增加。碎裂的苍阳果可以强化苍褪的太阳。</HAR_ZC_Item_b.description>
+  <HAR_ZC_Item_c.label>完整的苍阳果</HAR_ZC_Item_c.label>
+  <HAR_ZC_Item_c.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的苍阳果会增加。完整的苍阳果可以强化苍褪的太阳。</HAR_ZC_Item_c.description>
 </LanguageData>

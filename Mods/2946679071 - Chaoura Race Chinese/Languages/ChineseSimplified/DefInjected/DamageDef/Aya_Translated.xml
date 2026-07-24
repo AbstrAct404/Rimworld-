@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_CO_Damage_a.label>断影</HAR_CO_Damage_a.label>
-  <HAR_CO_Damage_b.label>血狂</HAR_CO_Damage_b.label>
   <HAR_CO_UB_Damage_a.label>空之剑</HAR_CO_UB_Damage_a.label>
   <HAR_CO_UB_Damage_b.label>白垩之光</HAR_CO_UB_Damage_b.label>
   <HAR_CO_UB_Damage_c.label>灾厄彗星</HAR_CO_UB_Damage_c.label>
   <HAR_CO_UB_Damage_EX_b.label>拂晓明星之女</HAR_CO_UB_Damage_EX_b.label>
+  <HAR_CO_Damage_a.label>断影</HAR_CO_Damage_a.label>
+  <HAR_CO_Damage_b.label>血狂</HAR_CO_Damage_b.label>
 </LanguageData>

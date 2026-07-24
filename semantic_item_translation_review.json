@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "status": "applied",
+  "generatedAt": "2026-07-24",
+  "appliedAt": "2026-07-24",
+  "scope": {
+    "modsAudited": 21,
+    "focus": [
+      "药物与医疗用品",
+      "可服用的强化物品",
+      "制造材料与特殊资源",
+      "具有明确实用效果但现译名意义不明的装备或道具"
+    ],
+    "rules": [
+      "优先让玩家从名称中判断物品的大致用途。",
+      "保留已经能够清楚表达用途的意译名称。",
+      "人名、角色名和纯剧情专有名词不因音译而自动改名。",
+      "原文没有明确效果时不凭空补写效果。",
+      "本文件中的 proposedTranslation 已写入对应独立汉化包与整合汉化包。"
+    ]
+  },
+  "proposals": [
+    {
+      "modId": "3477749439",
+      "modName": "[Aya]Zoichor Race",
+      "defName": "HAR_ZC_Item_a",
+      "originalName": "砕けたロディシアン",
+      "currentTranslation": "碎裂的罗迪西昂",
+      "proposedTranslation": "碎裂的苍阳果",
+      "category": "种族强化物品",
+      "effectSummary": "锢魂魔使用后，可小幅强化“苍褪的太阳”。",
+      "reason": "原物是蓝色石榴状果实，核心用途是强化苍褪的太阳；“苍阳果”比纯音译更容易识别其用途与形态。",
+      "confidence": "high",
+      "affectedKeyPrefixes": [
+        "HAR_ZC_Item_a",
+        "HAR_ZC_Recipe_a",
+        "HAR_ZC_Research_B"
+      ]
+    },
+    {
+      "modId": "3477749439",
+      "modName": "[Aya]Zoichor Race",
+      "defName": "HAR_ZC_Item_b",
+      "originalName": "欠けたロディシアン",
+      "currentTranslation": "缺失的罗迪西昂",
+      "proposedTranslation": "残缺的苍阳果",
+      "category": "种族强化物品",
+      "effectSummary": "锢魂魔使用后，可中幅强化“苍褪的太阳”。",
+      "reason": "“欠けた”是残缺或有缺口，并非物品缺失；同时将意义不明的音译统一为“苍阳果”。",
+      "confidence": "high",
+      "affectedKeyPrefixes": [
+        "HAR_ZC_Item_b",
+        "HAR_ZC_Recipe_b",
+        "HAR_ZC_Research_C"
+      ]
+    },
+    {
+      "modId": "3477749439",
+      "modName": "[Aya]Zoichor Race",
+      "defName": "HAR_ZC_Item_c",
+      "originalName": "完全なロディシアン",
+      "currentTranslation": "完整的罗迪西昂",
+      "proposedTranslation": "完整的苍阳果",
+      "category": "种族强化物品",
+      "effectSummary": "锢魂魔使用后，可大幅强化“苍褪的太阳”。",
+      "reason": "与前两级采用同一功能性名称，使玩家能直接辨认这是同系列的高阶强化果实。",
+      "confidence": "high",
+      "affectedKeyPrefixes": [
+        "HAR_ZC_Item_c",
+        "HAR_ZC_Recipe_c",
+        "HAR_ZC_Research_D"
+      ]
+    },
+    {
+      "modId": "2871413100",
+      "modName": "[Aya]Idearn Race",
+      "defName": "HAR_IA_Item_a",
+      "originalName": "ノモスセル",
+      "currentTranslation": "诺莫斯细胞",
+      "proposedTranslation": "法则数据胞",
+      "category": "制造材料",
+      "effectSummary": "机械生命体携带的存储介质，内部记录有制造数据。",
+      "reason": "NOMOS 有“法则”之意；“数据胞”同时保留 cell 的形态感并指出其存储制造数据的实际价值。",
+      "confidence": "medium",
+      "affectedKeyPrefixes": [
+        "HAR_IA_Item_a"
+      ]
+    },
+    {
+      "modId": "3153539856",
+      "modName": "[Aya]Eveliet Race",
+      "defName": "HAR_EL_Material_a",
+      "originalName": "エメトエヴェン",
+      "currentTranslation": "埃梅特·埃文",
+      "proposedTranslation": "伊娃莉特血晶矿",
+      "category": "装备材料",
+      "effectSummary": "伊娃莉特吸血时产生的白色矿石，用于制作特殊装备。",
+      "reason": "现译为纯音译，无法看出它是矿物材料；新名称同时说明来源、颜色与物品类型。",
+      "confidence": "medium",
+      "affectedKeyPrefixes": [
+        "HAR_EL_Material_a"
+      ]
+    },
+    {
+      "modId": "2946679071",
+      "modName": "[Aya]Chaoura Race",
+      "defName": "HAR_CO_UB_Item_a",
+      "originalName": "アツィルトヘヴェル",
+      "currentTranslation": "原形之空",
+      "proposedTranslation": "原形超物质",
+      "category": "顶级装备材料",
+      "effectSummary": "脱离现世法则的高性能金属，可用于制作极强武具。",
+      "reason": "保留“原形”的设定含义，并补出“超物质”这一物品性质，避免玩家误以为它是技能或抽象状态。",
+      "confidence": "high",
+      "affectedKeyPrefixes": [
+        "HAR_CO_UB_Item_a"
+      ]
+    },
+    {
+      "modId": "3675887482",
+      "modName": "[Aya]Outerm Race",
+      "defName": "HAR_OT_Drag_a",
+      "originalName": "アンゲロカイン",
+      "currentTranslation": "天使该隐",
+      "proposedTranslation": "天使隐剂",
+      "category": "成瘾性药物",
+      "effectSummary": "浓缩酒精制成的廉价毒品，提供长时间的愉悦感。",
+      "reason": "“天使该隐”容易被误认为人物；“天使醉剂”保留原名风格，并直接表明它是酒精类药物。",
+      "confidence": "high",
+      "affectedKeyPrefixes": [
+        "HAR_OT_Drag_a"
+      ]
+    },
+    {
+      "modId": "3675887482",
+      "modName": "[Aya]Outerm Race",
+      "defName": "HAR_OT_Weapon_Idea",
+      "originalName": "アタナシア",
+      "currentTranslation": "阿塔纳西亚【待核译名】",
+      "proposedTranslation": "噬魂邪枪",
+      "category": "特殊武器",
+      "effectSummary": "攻击周围多个敌人，并会随着击杀数量增加锋利度。",
+      "reason": "当前名称仍带待审核标记且无法判断物品类型；新名称依据其吞噬灵魂、越杀越强的效果进行意译。",
+      "confidence": "medium",
+      "affectedKeyPrefixes": [
+        "HAR_OT_Weapon_Idea"
+      ]
+    },
+    {
+      "modId": "2729712799",
+      "modName": "[Aya]Enforcer Boss",
+      "defName": "BOSS_EF_Item_a",
+      "originalName": "フレアグリセリン",
+      "currentTranslation": "耀斑甘油",
+      "proposedTranslation": "耀斑甘油",
+      "category": "爆炸性材料",
+      "effectSummary": "受到轻微冲击便会猛烈爆炸，而且会迅速挥发。",
+      "reason": "“耀斑”偏向景象描述；“爆燃”更直接地说明该液体的危险性和实用方向。",
+      "confidence": "high",
+      "affectedKeyPrefixes": [
+        "BOSS_EF_Item_a"
+      ]
+    },
+    {
+      "modId": "2729712799",
+      "modName": "[Aya]Enforcer Boss",
+      "defName": "BOSS_EF_Item_b",
+      "originalName": "ミーティアライト",
+      "currentTranslation": "星陨铁石",
+      "proposedTranslation": "星陨铁",
+      "category": "建筑与武器材料",
+      "effectSummary": "坚固的陨石矿物，可作墙体或近战武器材料。",
+      "reason": "“铁石”语义重复且不够自然；“星陨铁”简洁，并能直接判断它是陨星来源的金属材料。",
+      "confidence": "high",
+      "affectedKeyPrefixes": [
+        "BOSS_EF_Item_b"
+      ]
+    },
+    {
+      "modId": "3750626266",
+      "modName": "[Aya]Canaan Intellect",
+      "defName": "Aya_CI_Material_a",
+      "originalName": "生物の霊油",
+      "currentTranslation": "生物的灵油",
+      "proposedTranslation": "生物灵油",
+      "category": "强化药制造材料",
+      "effectSummary": "与其他灵油组合后可制造强化物品。",
+      "reason": "删除日式直译结构中的“的”，使材料名称更符合中文物品命名习惯。",
+      "confidence": "high",
+      "affectedKeyPrefixes": [
+        "Aya_CI_Material_a"
+      ]
+    },
+    {
+      "modId": "3750626266",
+      "modName": "[Aya]Canaan Intellect",
+      "defName": "Aya_CI_Material_b",
+      "originalName": "植物の霊油",
+      "currentTranslation": "植物的灵油",
+      "proposedTranslation": "植物灵油",
+      "category": "强化药制造材料",
+      "effectSummary": "与其他灵油组合后可制造强化物品。",
+      "reason": "删除日式直译结构中的“的”，并与同系列材料统一命名。",
+      "confidence": "high",
+      "affectedKeyPrefixes": [
+        "Aya_CI_Material_b"
+      ]
+    },
+    {
+      "modId": "3750626266",
+      "modName": "[Aya]Canaan Intellect",
+      "defName": "Aya_CI_Material_c",
+      "originalName": "鉱物の霊油",
+      "currentTranslation": "矿物的灵油",
+      "proposedTranslation": "矿物灵油",
+      "category": "强化药制造材料",
+      "effectSummary": "与其他灵油组合后可制造强化物品。",
+      "reason": "删除日式直译结构中的“的”，并与同系列材料统一命名。",
+      "confidence": "high",
+      "affectedKeyPrefixes": [
+        "Aya_CI_Material_c"
+      ]
+    },
+    {
+      "modId": "3750626266",
+      "modName": "[Aya]Canaan Intellect",
+      "defName": "Aya_CI_Artifact_a",
+      "originalName": "生命の聖餐薬",
+      "currentTranslation": "生命的圣餐药",
+      "proposedTranslation": "生命圣餐药",
+      "category": "永久强化药",
+      "effectSummary": "提高身体部位耐久，并逐步获得防出血、抗毒和真空耐受。",
+      "reason": "保留原文“生命”意象，同时改为自然的中文复合名词。",
+      "confidence": "high",
+      "affectedKeyPrefixes": [
+        "Aya_CI_Artifact_a"
+      ]
+    },
+    {
+      "modId": "3750626266",
+      "modName": "[Aya]Canaan Intellect",
+      "defName": "Aya_CI_Artifact_b",
+      "originalName": "祝福の聖餐薬",
+      "currentTranslation": "祝福的圣餐药",
+      "proposedTranslation": "淬体圣餐药",
+      "category": "永久强化药",
+      "effectSummary": "强化身体能力、移动速度与伤害减免，并提供制作与承伤奖励。",
+      "reason": "原名“祝福”无法区分具体效果；“强体”能让玩家快速识别它主要强化身体与防御。",
+      "confidence": "medium",
+      "affectedKeyPrefixes": [
+        "Aya_CI_Artifact_b"
+      ]
+    },
+    {
+      "modId": "3750626266",
+      "modName": "[Aya]Canaan Intellect",
+      "defName": "Aya_CI_Artifact_c",
+      "originalName": "知恵の聖餐薬",
+      "currentTranslation": "知恵的圣餐药",
+      "proposedTranslation": "通心圣餐药",
+      "category": "永久强化药",
+      "effectSummary": "强化意识、射击间隔、医疗、种植与社交能力。",
+      "reason": "修正夹杂日文汉字与“的”字结构的问题；“心智”比单独使用“智慧”更贴近其综合精神能力增益。",
+      "confidence": "high",
+      "affectedKeyPrefixes": [
+        "Aya_CI_Artifact_c"
+      ]
+    },
+    {
+      "modId": "3750626266",
+      "modName": "[Aya]Canaan Intellect",
+      "defName": "Aya_CI_Artifact_x",
+      "originalName": "光暈の聖餐薬",
+      "currentTranslation": "光晕的圣餐药",
+      "proposedTranslation": "威能圣餐药",
+      "category": "永久强化药",
+      "effectSummary": "按等级大幅提高使用者造成的伤害。",
+      "reason": "“光晕”无法提示实际效果；“威能”保留神圣药剂的风格，并能表达它是纯粹的伤害强化药。",
+      "confidence": "medium",
+      "affectedKeyPrefixes": [
+        "Aya_CI_Artifact_x"
+      ]
+    }
+  ],
+  "auditedWithoutRenameProposal": [
+    {
+      "modId": "2198830432",
+      "reason": "药物与实用物品名称已基本采用功能性意译。"
+    },
+    {
+      "modId": "2216916011",
+      "reason": "装备与材料名称能够表达类型或用途。"
+    },
+    {
+      "modId": "2227425882",
+      "reason": "“辉耀之石”“天穹之钥”等虽具设定色彩，但已能辨认物品类型。"
+    },
+    {
+      "modId": "2233666290",
+      "reason": "食物、医疗包、召唤券等名称已明确表达用途。"
+    },
+    {
+      "modId": "2394460334",
+      "reason": "蜂蜜酒、肉块等实用物品名称含义清楚。"
+    },
+    {
+      "modId": "2504657401",
+      "reason": "核心、心脏和兵力单元等名称已能体现物品性质。"
+    },
+    {
+      "modId": "2569091688",
+      "reason": "“灵液之石”“混沌圣杯”等已采用可理解的意译。"
+    },
+    {
+      "modId": "2608237489",
+      "reason": "反物质收容装置等名称已经功能化。"
+    },
+    {
+      "modId": "2676302514",
+      "reason": "“飞蛾恢复凝胶”已准确提示其医疗用途。"
+    },
+    {
+      "modId": "2763078885",
+      "reason": "主要特殊装备已译为“大地之剑”“统御之枪”等明确名称。"
+    },
+    {
+      "modId": "2954714860",
+      "reason": "未发现需要按药物或实用物品规则重命名的对象。"
+    },
+    {
+      "modId": "3489429571",
+      "reason": "未发现需要按药物或实用物品规则重命名的对象。"
+    },
+    {
+      "modId": "3505571618",
+      "reason": "核心模组中相关通用术语目前不需要单独重命名。"
+    },
+    {
+      "modId": "2706009136",
+      "reason": "未发现意义不明且需要功能性意译的药物或实用物品名称。"
+    }
+  ]
+}

@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_CO_NPC_Race_a.label>埃维德拉万</HAR_CO_NPC_Race_a.label>
+  <HAR_CO_NPC_Race_a.description>混沌灵·阿瓦露其安的眷属。移动缓慢且不耐打，但经过一段时间后会发生大爆炸。</HAR_CO_NPC_Race_a.description>
+  <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>
+  <HAR_CO_Weapon_a.label>幽冥的祭礼刀</HAR_CO_Weapon_a.label>
+  <HAR_CO_Weapon_a.description>混沌灵专用的神器，不仅用于战斗，也用于仪式。\n杀伤力虽然很低，但因为可以穿透铠甲的缝隙、向其中刺入暗影，所以基本无视对方的护甲。\n砍向敌人时会人为引发深渊腐败。</HAR_CO_Weapon_a.description>
+  <HAR_CO_Weapon_b.description>混沌灵专用的武器。\n这把武器类似大剑，也能发挥出与外观相应的威力。\n通常被用于对付深渊腐败无法产生作用的对手。</HAR_CO_Weapon_b.description>
+  <HAR_CO_Weapon_c.description>混沌灵专用的武器。\n尽管是一把大太刀，但挥刀速度很快，使用起来也很方便。\n通常被用于对付深渊腐败无法产生作用的对手。</HAR_CO_Weapon_c.description>
+  <HAR_CO_Weapon_UB.label>无限之光</HAR_CO_Weapon_UB.label>
+  <HAR_CO_Weapon_UB.description>混沌灵·阿瓦露其安持有的巨剑，从材料到制造工艺都笼罩在谜团之中。
+
+它仿照原型神子曾挥舞的圣剑制成，性能却远超原物。每次挥动都能将周围敌人一并斩裂，顷刻堆起尸山。由于这把剑不属于现世，只有同样脱离常理的存在才能握持。
+
+这把灵剑由集合精神“艾芙耶谢尔”创造，至今仍未完成。即便如此强大的武器，距离斩杀假想敌■■■仍遥不可及。她们仍相信终有一日能够讨伐目标，因此从未停止锻造。</HAR_CO_Weapon_UB.description>
   <Aya_Race_Ap_C_T_a.description>人工种族儿童穿着的衬衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_a.description>
   <Aya_Race_Ap_C_T_a.label>儿童衬衫</Aya_Race_Ap_C_T_a.label>
   <Aya_Race_Ap_C_T_b.description>人工种族儿童穿着的罩衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_b.description>
@@ -11,7 +24,7 @@
   <HAR_CO_Apparel_Head_a.label>影之缎带</HAR_CO_Apparel_Head_a.label>
   <HAR_CO_Apparel_Head_b.description>混沌灵专用的风帽，为了充分发挥混沌灵潜藏在暗影中的力量，抛弃了物防属性。</HAR_CO_Apparel_Head_b.description>
   <HAR_CO_Apparel_Head_b.label>影之风帽</HAR_CO_Apparel_Head_b.label>
-  <HAR_CO_Apparel_Head_c.description>混沌灵专用的头盔，在创造者时代从事侦察、暗杀活动的混沌灵们穿戴的头盔。\n虽然没有物理防护装甲，但是能显著提高闪避和移动速度。</HAR_CO_Apparel_Head_c.description>
+  <HAR_CO_Apparel_Head_c.description>混沌灵专用的头盔，在创造者时代从事侦察、暗杀活动的混沌灵们穿戴的头盔。\n虽然没有物理防护装甲，但是能显着提高闪避和移动速度。</HAR_CO_Apparel_Head_c.description>
   <HAR_CO_Apparel_Head_c.label>影之头盔</HAR_CO_Apparel_Head_c.label>
   <HAR_CO_Apparel_Shell_a.description>混沌灵专用的斗篷，为了充分发挥混沌灵潜藏在暗影中的力量，抛弃了物防属性。</HAR_CO_Apparel_Shell_a.description>
   <HAR_CO_Apparel_Shell_a.label>影之斗篷</HAR_CO_Apparel_Shell_a.label>
@@ -23,12 +36,10 @@
   <HAR_CO_Apparel_Tops_c.label>斯基亚礼装 C</HAR_CO_Apparel_Tops_c.label>
   <HAR_CO_Apparel_Tops_z.description>混沌灵·阿瓦露其安的白垩色礼服。耐久度很高，但除耐热外几乎没有防护能力——不过，阿瓦露其安大概也不需要护甲。</HAR_CO_Apparel_Tops_z.description>
   <HAR_CO_Apparel_Tops_z.label>米什帕提姆礼装</HAR_CO_Apparel_Tops_z.label>
-  <HAR_CO_NPC_Race_a.label>埃维德拉万</HAR_CO_NPC_Race_a.label>
-  <HAR_CO_NPC_Race_a.description>混沌灵·阿瓦露其安的眷属。移动缓慢且不耐打，但经过一段时间后会发生大爆炸。</HAR_CO_NPC_Race_a.description>
   <HAR_CO_UB_Bullet_a.label>空之剑</HAR_CO_UB_Bullet_a.label>
   <HAR_CO_UB_Bullet_b.label>灾厄彗星</HAR_CO_UB_Bullet_b.label>
   <HAR_CO_UB_Bullet_c.label>灾厄彗星</HAR_CO_UB_Bullet_c.label>
-  <HAR_CO_UB_Item_a.label>原形之空</HAR_CO_UB_Item_a.label>
+  <HAR_CO_UB_Item_a.label>原形超物质</HAR_CO_UB_Item_a.label>
   <HAR_CO_UB_Item_a.description>混沌灵·阿瓦露其安遗下的超物质。这种来自深渊或天界的金属完全脱离现世法则；若制成武具，足以轻易征服边境星球。
 
 然而，其加工难度也前所未有。没有近乎神技的工艺，便难以驾驭这种材料。
@@ -51,15 +62,4 @@
   <HAR_CO_UB_Archotech_b.label>契约之灵</HAR_CO_UB_Archotech_b.label>
   <HAR_CO_UB_Archotech_b.description>蕴含着生命的神圣结晶。
 使用之后，能够让那个存在作为同伴加入。</HAR_CO_UB_Archotech_b.description>
-  <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>
-  <HAR_CO_Weapon_a.label>幽冥的祭礼刀</HAR_CO_Weapon_a.label>
-  <HAR_CO_Weapon_a.description>混沌灵专用的神器，不仅用于战斗，也用于仪式。\n杀伤力虽然很低，但因为可以穿透铠甲的缝隙、向其中刺入暗影，所以基本无视对方的护甲。\n砍向敌人时会人为引发深渊腐败。</HAR_CO_Weapon_a.description>
-  <HAR_CO_Weapon_b.description>混沌灵专用的武器。\n这把武器类似大剑，也能发挥出与外观相应的威力。\n通常被用于对付深渊腐败无法产生作用的对手。</HAR_CO_Weapon_b.description>
-  <HAR_CO_Weapon_c.description>混沌灵专用的武器。\n尽管是一把大太刀，但挥刀速度很快，使用起来也很方便。\n通常被用于对付深渊腐败无法产生作用的对手。</HAR_CO_Weapon_c.description>
-  <HAR_CO_Weapon_UB.label>无限之光</HAR_CO_Weapon_UB.label>
-  <HAR_CO_Weapon_UB.description>混沌灵·阿瓦露其安持有的巨剑，从材料到制造工艺都笼罩在谜团之中。
-
-它仿照原型神子曾挥舞的圣剑制成，性能却远超原物。每次挥动都能将周围敌人一并斩裂，顷刻堆起尸山。由于这把剑不属于现世，只有同样脱离常理的存在才能握持。
-
-这把灵剑由集合精神“艾芙耶谢尔”创造，至今仍未完成。即便如此强大的武器，距离斩杀假想敌■■■仍遥不可及。她们仍相信终有一日能够讨伐目标，因此从未停止锻造。</HAR_CO_Weapon_UB.description>
 </LanguageData>

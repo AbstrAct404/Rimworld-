@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <Aya_CI_Artifact_a.description>由灵油创造而成的璀璨药剂。\n使用后，使用者的生命力将获得提升。\n力量拥有等级，最大等级为50。\n\n效果为各部位耐久值会依照等级提升而上升。\n\n达到等级 10 时的奖励：［出血无效］］\n达到等级 30 时的奖励：［毒耐性　真空耐性］\n\n\n\n相传远古时代，人工种族的造物主将此祝福的圣水赐予居住于迦南的人类。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n原本是创造迦南的灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_a.description>
-  <Aya_CI_Artifact_a.label>生命的圣餐药</Aya_CI_Artifact_a.label>
+  <Aya_CI_Artifact_a.label>生命圣餐药</Aya_CI_Artifact_a.label>
   <Aya_CI_Artifact_b.description>由灵油创造而成的璀璨药剂。\n使用后，使用者的生命力将获得提升。\n力量拥有等级，最大等级为50。\n\n效果为强化身体能力、移动速度、伤害减免率。\n强化幅度会在后半逐渐提升。\n\n达到等级 10 时的奖励：［制作具有品质的物品时，品质提升1级］］\n达到等级 30 时的奖励：［将30以上受到的伤害削减至30］\n\n相传远古时代，人工种族的造物主将此祝福的圣水赐予居住于迦南的人类。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n原本是创造迦南的灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_b.description>
-  <Aya_CI_Artifact_b.label>祝福的圣餐药</Aya_CI_Artifact_b.label>
+  <Aya_CI_Artifact_b.label>淬体圣餐药</Aya_CI_Artifact_b.label>
   <Aya_CI_Artifact_c.description>由灵油创造而成的璀璨药剂。\n使用后，使用者的精神力将获得提升。\n力量拥有等级，最大等级为50。\n\n效果为强化意识、射击间隔、医疗、种植、社交。\n强化幅度从中段逐渐提升。\n\n达到等级 10 时的奖励：［负面心情减半（小数点向下舍去）］\n达到等级 30 时的奖励：［状态上限无效化］\n\n相传远古时代，人工种族的造物主将此祝福的圣水赐予居住于迦南的人类。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n原本是创造迦南的灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_c.description>
-  <Aya_CI_Artifact_c.label>知恵的圣餐药</Aya_CI_Artifact_c.label>
+  <Aya_CI_Artifact_c.label>通心圣餐药</Aya_CI_Artifact_c.label>
   <Aya_CI_Artifact_x.description>由灵油创造而成的璀璨药剂。\n使用后，使用者造成的伤害将获得提升。\n力量拥有等级，最大等级为50。\n\n效果为造成的伤害依照等级提升约1.2倍（等级50时为10倍）。\n\n相传远古时代，人工种族的造物主将此圣水赐予居住于迦南的人类，作为祝福。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n它原本是创造迦南灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_x.description>
-  <Aya_CI_Artifact_x.label>光晕的圣餐药</Aya_CI_Artifact_x.label>
+  <Aya_CI_Artifact_x.label>威能圣餐药</Aya_CI_Artifact_x.label>
   <Aya_CI_Book_a.label>迦南创世记</Aya_CI_Book_a.label>
   <Aya_CI_Bullet_Phobia_a.label>腐败恐惧</Aya_CI_Bullet_Phobia_a.label>
   <Aya_CI_Bullet_a.label>仁慈的一击</Aya_CI_Bullet_a.label>
   <Aya_CI_Material_a.description>由少年所制作的加工品。作为基底的素材已液化，散发着黯淡的光泽。\n与其他灵油组合便能成为强化道具。</Aya_CI_Material_a.description>
-  <Aya_CI_Material_a.label>生物的灵油</Aya_CI_Material_a.label>
+  <Aya_CI_Material_a.label>生物灵油</Aya_CI_Material_a.label>
   <Aya_CI_Material_b.description>由少年所制作的加工品。作为基底的素材已液化，散发着黯淡的光泽。\n与其他灵油组合便能成为强化道具。</Aya_CI_Material_b.description>
-  <Aya_CI_Material_b.label>植物的灵油</Aya_CI_Material_b.label>
+  <Aya_CI_Material_b.label>植物灵油</Aya_CI_Material_b.label>
   <Aya_CI_Material_c.description>由少年所制作的加工品。作为基底的素材已液化，散发着黯淡的光泽。\n与其他灵油组合便能成为强化道具。</Aya_CI_Material_c.description>
-  <Aya_CI_Material_c.label>矿物的灵油</Aya_CI_Material_c.label>
+  <Aya_CI_Material_c.label>矿物灵油</Aya_CI_Material_c.label>
   <Aya_CI_Permit_a.description>“真棒！太厉害了！做得很好！这个印章就奖励给你啦！”\n——神子
 
 向少年消耗交涉点数后获得的神秘许可证。委托其制造特殊道具时必须出示。
@@ -56,7 +56,7 @@
   <Aya_Race_Ap_NC_C_T_a.label>儿童款式暗夜装</Aya_Race_Ap_NC_C_T_a.label>
   <Aya_Race_Ap_XO_C_T_a.description>人工种族的儿童们穿的服装，性能有所降低。</Aya_Race_Ap_XO_C_T_a.description>
   <Aya_Race_Ap_XO_C_T_a.label>儿童异度服</Aya_Race_Ap_XO_C_T_a.label>
-  <BMOT_Building_Incubator.description>过去人工种族的创造主所制造的培养器。\n能够通过读取专用的数据来创造出相应的生物。。</BMOT_Building_Incubator.description>
+  <BMOT_Building_Incubator.description>过去人工种族的造物主所制造的培养器。\n能够通过读取专用的数据来创造出相应的生物。</BMOT_Building_Incubator.description>
   <BMOT_Building_Incubator.label>神之形</BMOT_Building_Incubator.label>
   <BMOT_Building_MailOrderTerminal_Animal.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Animal.description>
   <BMOT_Building_MailOrderTerminal_Base.description>邮购终端。足不出户便可立即购买所需商品。</BMOT_Building_MailOrderTerminal_Base.description>
@@ -103,9 +103,9 @@
   <BOSS_EF_Item_a.label>耀斑甘油</BOSS_EF_Item_a.label>
   <BOSS_EF_Item_b.description>从陨石中发掘出的特殊矿石。
     \n非常坚固，可以当作建筑材料使用，但是会大大增加工作量。
-    \n用作近战武器的制作材料时，会为武器附加上星陨铁石特有的重量和锋锐。
+    \n用作近战武器的制作材料时，会为武器附加上星陨铁特有的重量和锋锐。
     \n因为是来自宇宙的材料，因此与其规格相比，价格被预估得很低。</BOSS_EF_Item_b.description>
-  <BOSS_EF_Item_b.label>星陨铁石</BOSS_EF_Item_b.label>
+  <BOSS_EF_Item_b.label>星陨铁</BOSS_EF_Item_b.label>
   <BOSS_EF_M_race_Base.label>执行者</BOSS_EF_M_race_Base.label>
   <BOSS_EF_M_race_a.description>与陨石一同到来的神秘生命体，拥有巨大的体型和质量，非常难从物理层面上破坏。
     \n虽然移动速度很慢，但是由于它们能操纵那巨大的质量引发宛如彗星撞击般恐怖且强力的攻击，所以还是不要和它们近身作战为好。
@@ -203,7 +203,7 @@
   <HAR_CO_Apparel_Head_a.label>影之缎带</HAR_CO_Apparel_Head_a.label>
   <HAR_CO_Apparel_Head_b.description>混沌灵专用的风帽，为了充分发挥混沌灵潜藏在暗影中的力量，抛弃了物防属性。</HAR_CO_Apparel_Head_b.description>
   <HAR_CO_Apparel_Head_b.label>影之风帽</HAR_CO_Apparel_Head_b.label>
-  <HAR_CO_Apparel_Head_c.description>混沌灵专用的头盔，在创造者时代从事侦察、暗杀活动的混沌灵们穿戴的头盔。\n虽然没有物理防护装甲，但是能显著提高闪避和移动速度。</HAR_CO_Apparel_Head_c.description>
+  <HAR_CO_Apparel_Head_c.description>混沌灵专用的头盔，在创造者时代从事侦察、暗杀活动的混沌灵们穿戴的头盔。\n虽然没有物理防护装甲，但是能显着提高闪避和移动速度。</HAR_CO_Apparel_Head_c.description>
   <HAR_CO_Apparel_Head_c.label>影之头盔</HAR_CO_Apparel_Head_c.label>
   <HAR_CO_Apparel_Shell_a.description>混沌灵专用的斗篷，为了充分发挥混沌灵潜藏在暗影中的力量，抛弃了物防属性。</HAR_CO_Apparel_Shell_a.description>
   <HAR_CO_Apparel_Shell_a.label>影之斗篷</HAR_CO_Apparel_Shell_a.label>
@@ -256,7 +256,7 @@
 然而，其加工难度也前所未有。没有近乎神技的工艺，便难以驾驭这种材料。
 
 它以创造者昔日制造的金属“佐哈尔·埃文”为原型。阿瓦露其安们继承了未竟的成果，至今仍在持续改良。据说那美丽的白色表面会映出已逝神子光轮的辉光。</HAR_CO_UB_Item_a.description>
-  <HAR_CO_UB_Item_a.label>原形之空</HAR_CO_UB_Item_a.label>
+  <HAR_CO_UB_Item_a.label>原形超物质</HAR_CO_UB_Item_a.label>
   <HAR_CO_UB_Mote_EX_a.label>尘埃</HAR_CO_UB_Mote_EX_a.label>
   <HAR_CO_UB_Mote_EX_b_a.label>尘埃</HAR_CO_UB_Mote_EX_b_a.label>
   <HAR_CO_UB_Mote_EX_b_b.label>尘埃</HAR_CO_UB_Mote_EX_b_b.label>
@@ -302,7 +302,7 @@
   <HAR_EL_Apparel_Head_c.label>伊沙芭宝石</HAR_EL_Apparel_Head_c.label>
   <HAR_EL_Apparel_Head_d.description>伊娃莉特专用的头盔。\n由于是最初期的产物因此没有设置减少伤害的功能。</HAR_EL_Apparel_Head_d.description>
   <HAR_EL_Apparel_Head_d.label>埃利昂头盔</HAR_EL_Apparel_Head_d.label>
-  <HAR_EL_Apparel_Head_e.description>伊娃莉特专用的神圣头纱。据说只有最为古老，也是最接近创造主的她才有资格穿上。</HAR_EL_Apparel_Head_e.description>
+  <HAR_EL_Apparel_Head_e.description>伊娃莉特专用的神圣头纱。据说只有最为古老，也是最接近造物主的她才有资格穿上。</HAR_EL_Apparel_Head_e.description>
   <HAR_EL_Apparel_Head_e.label>伊沙芭面纱</HAR_EL_Apparel_Head_e.label>
   <HAR_EL_Apparel_Shell_a.description>伊娃莉特专用的外衣。由于是仍在调整过程中的装备，因此性能不高。</HAR_EL_Apparel_Shell_a.description>
   <HAR_EL_Apparel_Shell_a.label>伊沙芭夹克 A</HAR_EL_Apparel_Shell_a.label>
@@ -332,7 +332,7 @@
 
 
 
-『妮亚美，汝等虔诚的信仰使创造主的荣光更为辉煌
+『妮亚美，汝等虔诚的信仰使造物主的荣光更为辉煌
 　汝等能够成为吾妹乃是吾之骄傲
 
 
@@ -345,7 +345,7 @@
 
 
 
-『希诺奥卡，身为创造主的矛头与铠甲的士兵们啊
+『希诺奥卡，身为造物主的矛头与铠甲的士兵们啊
 　正是汝等的辛勤工作才换来了迦南的和平
 　今后吾也无比期待着你们的表现
 
@@ -359,7 +359,7 @@
 
 
 『伊海拉，汝等乃是诞生于偶然的种族
-　但是汝等的诞生为创造主展现了新的道路
+　但是汝等的诞生为造物主展现了新的道路
 　这可是足矣名传千古的，无比美妙的事情啊
 
 
@@ -385,7 +385,7 @@
 
 
 
-『索拉克，作为强大的龙人们，仅仅是汝等的存在本身便是对宙族的抑制力
+『索拉克（龙姬），作为强大的龙人们，仅仅是汝等的存在本身便是对宙族的抑制力
 　希望你们今后也能够继续担当迦南的守卫者
 
 
@@ -444,7 +444,7 @@
 　…话说回来啊，不要为了做实验就轻易地踏上非人之道好吗…
 　前几天的爆炸事故，这边为了平息骚乱也是费了好大的功夫呢…？』</HAR_EL_EyeCover_i.description>
   <HAR_EL_EyeCover_i.label>光之奴·兽人</HAR_EL_EyeCover_i.label>
-  <HAR_EL_Item_a.description>记载着人工种族『肖像种伊娃莉特』创造方式的资料的一部分。。
+  <HAR_EL_Item_a.description>记载着人工种族『肖像种伊娃莉特』创造方式的资料的一部分。
 资料一共被分为了五份。
 
 这些资料是由一种未知的语言书写的。
@@ -455,7 +455,7 @@
 
 『虽然爸爸已经这么说了，但我觉得还是应该再给这个孩子一次机会』</HAR_EL_Item_a.description>
   <HAR_EL_Item_a.label>肖像种：重设计数据 A</HAR_EL_Item_a.label>
-  <HAR_EL_Item_b.description>记载着人工种族『肖像种伊娃莉特』创造方式的情报的一部分。。
+  <HAR_EL_Item_b.description>记载着人工种族『肖像种伊娃莉特』创造方式的情报的一部分。
 资料一共被分为了五份。
 
 这些资料是由一种未知的语言书写的。
@@ -466,7 +466,7 @@
 
 『嗯，那就试试看降低一部分性能来提高稳定性吧』</HAR_EL_Item_b.description>
   <HAR_EL_Item_b.label>肖像种：重设计数据 B</HAR_EL_Item_b.label>
-  <HAR_EL_Item_c.description>记载着人工种族『肖像种伊娃莉特』创造方式的情报的一部分。。
+  <HAR_EL_Item_c.description>记载着人工种族『肖像种伊娃莉特』创造方式的情报的一部分。
 资料一共被分为了五份。
 
 这些资料是由一种未知的语言书写的。
@@ -477,7 +477,7 @@
 
 『不足的部分就靠外宇宙的知识来弥补！』</HAR_EL_Item_c.description>
   <HAR_EL_Item_c.label>肖像种：重设计数据 C</HAR_EL_Item_c.label>
-  <HAR_EL_Item_d.description>记载着人工种族『肖像种伊娃莉特』创造方式的情报的一部分。。
+  <HAR_EL_Item_d.description>记载着人工种族『肖像种伊娃莉特』创造方式的情报的一部分。
 资料一共被分为了五份。
 
 这些资料是由一种未知的语言书写的。
@@ -488,7 +488,7 @@
 
 『嗯，鸟的骚动总算停下来了，这边的事情也可以重新开始了』</HAR_EL_Item_d.description>
   <HAR_EL_Item_d.label>肖像种：重设计数据 D</HAR_EL_Item_d.label>
-  <HAR_EL_Item_e.description>记载着人工种族『肖像种伊娃莉特』创造方式的情报的一部分。。
+  <HAR_EL_Item_e.description>记载着人工种族『肖像种伊娃莉特』创造方式的情报的一部分。
 资料一共被分为了五份。
 
 这些资料是由一种未知的语言书写的。
@@ -501,7 +501,7 @@
   <HAR_EL_Item_e.label>肖像种：重设计数据 E</HAR_EL_Item_e.label>
   <HAR_EL_Material_a.description>伊娃莉特吸血时产生的白色矿石。
 可以被用于制作某些特殊的装备。</HAR_EL_Material_a.description>
-  <HAR_EL_Material_a.label>埃梅特·埃文</HAR_EL_Material_a.label>
+  <HAR_EL_Material_a.label>伊娃莉特血晶矿</HAR_EL_Material_a.label>
   <HAR_EL_Monster_a.description>在人工种族的故乡迦南星人气很高的布娃娃。
 被亚人工业当做广告，以『迦南浮莲子』的名义进行了系列化。
 最早是伊娃莉特为了尚且年幼，对夜晚感到害怕的妹妹们制造的小小朋友。
@@ -573,7 +573,7 @@
   <HAR_EL_Spawn_b.description>容纳着■■■■■的休眠仓。\n使用后能让■■■■■作为殖民者加入。</HAR_EL_Spawn_b.description>
   <HAR_EL_Spawn_b.label>封有■■■■■的休眠仓</HAR_EL_Spawn_b.label>
   <HAR_EL_Weapon_a.description>真理教会的教祖伊娃莉特所持有的圣绝之剑。
-是在人工种族的故乡『迦南星』的教会创建伊始，由创造主所赐予的东西。
+是在人工种族的故乡『迦南星』的教会创建伊始，由造物主所赐予的东西。
 剑中寄宿着超存在的力量，因此除了对其具有高度亲和性的伊娃莉特以外无人能够使用。
 通过这把剑降低规格进行仿制，才诞生了后来的那些神器。
 
@@ -604,8 +604,8 @@
   <HAR_IA_Item_ArcheCartridge.description>内含有伊迪安的生命活动所必须的能量的药盒。\n每个象限需要更换一次。\n要是处于能量枯竭状态就会陷入无法行动的境地因此建议尽早更换。</HAR_IA_Item_ArcheCartridge.description>
   <HAR_IA_Item_ArcheCartridge.label>本源药盒</HAR_IA_Item_ArcheCartridge.label>
   <HAR_IA_Item_a.description>机械生命体体内夹杂着的神秘物体。\n似乎拥有作为储存介质的功能，其中已经记录了某些制造数据的样子。</HAR_IA_Item_a.description>
-  <HAR_IA_Item_a.label>诺莫斯细胞</HAR_IA_Item_a.label>
-  <HAR_IA_Item_b.description>将诺莫斯细胞重新组装后制成的零件。\n是制造机械生命体伊迪安必须的材料。</HAR_IA_Item_b.description>
+  <HAR_IA_Item_a.label>法则数据胞</HAR_IA_Item_a.label>
+  <HAR_IA_Item_b.description>将法则数据胞重新组装后制成的零件。\n是制造机械生命体伊迪安必须的材料。</HAR_IA_Item_b.description>
   <HAR_IA_Item_b.label>技术遗物</HAR_IA_Item_b.label>
   <HAR_IA_Item_c.description>制造机械生命体伊迪安必须的高性能传感器。\n用于提供五感与能量检测的能力。</HAR_IA_Item_c.description>
   <HAR_IA_Item_c.label>伊迪安传感器</HAR_IA_Item_c.label>
@@ -654,7 +654,7 @@
 召唤出的自然拟态会在三天后消失。</HAR_IA_M_Race_Base.description>
   <HAR_IA_M_Race_Base.label>自然拟态</HAR_IA_M_Race_Base.label>
   <HAR_IA_M_Race_a.label>自然拟态</HAR_IA_M_Race_a.label>
-  <HAR_IA_Things_Mysterion.description>通过研究再现出的创造伊迪安的机器。传说中曾在被创造主失去后引发了灾厄。</HAR_IA_Things_Mysterion.description>
+  <HAR_IA_Things_Mysterion.description>通过研究再现出的创造伊迪安的机器。传说中曾在被造物主失去后引发了灾厄。</HAR_IA_Things_Mysterion.description>
   <HAR_IA_Things_Mysterion.label>圣礼秘仪</HAR_IA_Things_Mysterion.label>
   <HAR_IA_tops_a.description>伊迪安专用的装备，对基础性能极高的她们而言服装的重要性并不高，因此只保留了最低限度的穿着。</HAR_IA_tops_a.description>
   <HAR_IA_tops_a.label>梅卡涅礼装 A</HAR_IA_tops_a.label>
@@ -1115,8 +1115,8 @@
 无底虚空正注视着你——无论何时，永远、永远。</HAR_OT_BaseMeleeWeapon_a.description>
   <HAR_OT_Bullet_AssaultRifle_a.label>推罗火枪(子弹)</HAR_OT_Bullet_AssaultRifle_a.label>
   <HAR_OT_Bullet_AssaultRifle_b.label>推罗火炮(子弹)</HAR_OT_Bullet_AssaultRifle_b.label>
-  <HAR_OT_Drag_a.description>混沌在地下社会中散布的毒品。\n经过特殊加工，将酒精成分完全浓缩而成。\n摄取后能获得长时间持续的幸福感。\n\n在其他毒品都有危险成瘾性的情况下，\n天使该隐与酒精中毒相比，危险性相对较低。\n由于制造成本低廉，因此在地下社会中爆发性地流行，成为混沌确立地位的重要因素。</HAR_OT_Drag_a.description>
-  <HAR_OT_Drag_a.label>天使该隐</HAR_OT_Drag_a.label>
+  <HAR_OT_Drag_a.description>混沌在地下社会中散布的毒品。\n经过特殊加工，将酒精成分完全浓缩而成。\n摄取后能获得长时间持续的幸福感。\n\n在其他毒品都有危险成瘾性的情况下，\n天使隐剂与酒精中毒相比，危险性相对较低。\n由于制造成本低廉，因此在地下社会中爆发性地流行，成为混沌确立地位的重要因素。</HAR_OT_Drag_a.description>
+  <HAR_OT_Drag_a.label>天使隐剂</HAR_OT_Drag_a.label>
   <HAR_OT_Gas_ToxicCustom.label>朱红之毒</HAR_OT_Gas_ToxicCustom.label>
   <HAR_OT_Material_a.description>混沌所持有的稀有金属。\n散发着令所有人为之倾倒的美丽光泽。\n\n作为加工素材亦是顶级之选，用于武具之上将发挥绝大的威力。\n但其真正的价值，或许更能在家具等艺术品上得到体现。\n\n各派系都在探查迪斯提基亚的取得管道，至今仍不得而知。\n也有一说，低声流传着这是她们所信仰的神明赐予之物的无稽之谈。</HAR_OT_Material_a.description>
   <HAR_OT_Material_a.label>恩赐</HAR_OT_Material_a.label>
@@ -1150,7 +1150,7 @@
 
 
 这是曾经的我的一部分，请随意使用吧。</HAR_OT_Weapon_Idea.description>
-  <HAR_OT_Weapon_Idea.label>阿塔纳西亚【待核译名】</HAR_OT_Weapon_Idea.label>
+  <HAR_OT_Weapon_Idea.label>噬魂邪枪</HAR_OT_Weapon_Idea.label>
   <HAR_OT_Weapon_a.label>幻影短剑</HAR_OT_Weapon_a.label>
   <HAR_OT_Weapon_b.label>幻影战斧</HAR_OT_Weapon_b.label>
   <HAR_OT_Weapon_c.label>幻影战镰</HAR_OT_Weapon_c.label>
@@ -1417,12 +1417,12 @@
   <HAR_ZC_Heads_d.label>地狱头盔</HAR_ZC_Heads_d.label>
   <HAR_ZC_Heads_e.description>对喜爱暗色服装的锢魂魔而言，这件白色外套显得格外特别。\n这是她的盟友混沌灵送给她的礼物。\n据说她会在重要仪式时穿上这件外套。</HAR_ZC_Heads_e.description>
   <HAR_ZC_Heads_e.label>混沌面具</HAR_ZC_Heads_e.label>
-  <HAR_ZC_Item_a.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的罗迪西昂会增加。\n\n碎裂的罗迪西昂可以稍微强化苍褪的太阳。</HAR_ZC_Item_a.description>
-  <HAR_ZC_Item_a.label>碎裂的罗迪西昂</HAR_ZC_Item_a.label>
-  <HAR_ZC_Item_b.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的罗迪西昂会增加。碎裂的罗迪西昂可以强化苍褪的太阳。</HAR_ZC_Item_b.description>
-  <HAR_ZC_Item_b.label>缺失的罗迪西昂</HAR_ZC_Item_b.label>
-  <HAR_ZC_Item_c.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的罗迪西昂会增加。完整的罗迪西昂可以强化苍褪的太阳。</HAR_ZC_Item_c.description>
-  <HAR_ZC_Item_c.label>完整的罗迪西昂</HAR_ZC_Item_c.label>
+  <HAR_ZC_Item_a.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的苍阳果会增加。\n\n碎裂的苍阳果可以稍微强化苍褪的太阳。</HAR_ZC_Item_a.description>
+  <HAR_ZC_Item_a.label>碎裂的苍阳果</HAR_ZC_Item_a.label>
+  <HAR_ZC_Item_b.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的苍阳果会增加。碎裂的苍阳果可以强化苍褪的太阳。</HAR_ZC_Item_b.description>
+  <HAR_ZC_Item_b.label>残缺的苍阳果</HAR_ZC_Item_b.label>
+  <HAR_ZC_Item_c.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的苍阳果会增加。完整的苍阳果可以强化苍褪的太阳。</HAR_ZC_Item_c.description>
+  <HAR_ZC_Item_c.label>完整的苍阳果</HAR_ZC_Item_c.label>
   <HAR_ZC_Onskin_a.description>锢魂魔爱用的内衣。虽然外观看起来不怎么可靠，却不容易损坏。</HAR_ZC_Onskin_a.description>
   <HAR_ZC_Onskin_a.label>看守者内衣</HAR_ZC_Onskin_a.label>
   <HAR_ZC_Shell_a.description>锢魂魔爱用的外套。\n具有强大的耐热结构，使她能够在寒冷的星球上进行活动。</HAR_ZC_Shell_a.description>

@@ -230,7 +230,7 @@ KEY_OVERRIDES = {
     "HAR_Nexaga_KindBase_NPC.label": "涅克萨迦居民",
     # Outerm additions introduced after the reference language pack was made.
     "HAR_OT_BaseMeleeWeapon_a.description": "奥特姆使用的神秘武器，仿佛活物般鲜明地搏动着。据说每杀死一个敌人，刀锋便会变得更加锐利。\n\n这把武器恶名昭彰，许多持有者最终都走上了大肆杀戮的歧途。\n\n\n\n\n杀吧，服从你的欲望。堆起尸骸，还要更加残酷。\n吾主渴求■■。以鲜烈血色，为那倦怠褪色的故事重新着彩。\n无底虚空正注视着你——无论何时，永远、永远。",
-    "HAR_OT_Weapon_Idea.label": "阿塔纳西亚【待核译名】",
+    "HAR_OT_Weapon_Idea.label": "噬魂邪枪",
     "HAR_OT_Weapon_Idea.description": "由“虚空■■■”赐予的邪异长枪。它蕴含虚空之力，每次挥动都能攻击周围 5 格内的所有敌人；杀死的生物越多，其锋利程度便越会无止境地增长。\n\n构成它的物质与“远渡星海之鸟·克里提亚斯”的外壳极其相似。它如同活物般散发热量并不断蠕动。\n\n据说其中吸纳了亿万灵魂，侧耳倾听时还能听见受苦灵魂的呻吟。\n\n\n\n\n\n这是曾经的我的一部分，请随意使用吧。",
     "HAR_OT_Hediff_Bed_a.label": "贪食爱欲的雌鸟",
     "HAR_OT_Hediff_Bed_a.description": "奥特姆陷入肉欲后的状态。肉体得到激活，身体能力暂时提升。\n\n奥特姆在遗传层面有着强烈性欲，一两次远远无法满足。她们如吞食猎物的肉食兽般贪婪，只会不断追求欢愉。\n\n此状态将在半天后结束。",
@@ -307,7 +307,7 @@ KEY_OVERRIDES = {
     "HAR_EL_Item_c.label": "肖像种：重设计数据 C",
     "HAR_EL_Item_d.label": "肖像种：重设计数据 D",
     "HAR_EL_Item_e.label": "肖像种：重设计数据 E",
-    "HAR_EL_Material_a.label": "埃梅特·埃文",
+    "HAR_EL_Material_a.label": "伊娃莉特血晶矿",
     "HAR_EL_Spawn_a.label": "伊娃莉特封装胶囊",
     "HAR_IA_Armor_a.label": "艾提翁护甲",
     "HAR_IA_Armor_b.label": "奥尔芬礼装",
@@ -433,6 +433,11 @@ def reviewed_game_translation(mod_id: str, key: str, original: str) -> str:
     added Japanese key therefore fails the build until it has been reviewed
     and checked in.
     """
+    # Canonical key overrides are global consistency rules and must win over
+    # older per-package review caches. Otherwise rebuilding a downloaded
+    # source mod can silently resurrect superseded terminology.
+    if key in KEY_OVERRIDES:
+        return CANONICAL_SOURCE_TRANSLATIONS.get(original, KEY_OVERRIDES[key])
     sources = (
         MANUAL_REVIEW_OVERRIDES,
         REVIEWED_GAME_TRANSLATIONS,
@@ -442,8 +447,6 @@ def reviewed_game_translation(mod_id: str, key: str, original: str) -> str:
         value = source.get(mod_id, {}).get(key)
         if value is not None:
             return CANONICAL_SOURCE_TRANSLATIONS.get(original, value)
-    if key in KEY_OVERRIDES:
-        return CANONICAL_SOURCE_TRANSLATIONS.get(original, KEY_OVERRIDES[key])
     if is_japanese(original):
         raise RuntimeError(
             f"Unreviewed Japanese game text: mod={mod_id} key={key} value={original!r}"

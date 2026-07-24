@@ -137,7 +137,7 @@
 
 一旦陷入这种状态，就需要大量时间才能够恢复。</HAR_EL_Hediff_b.description>
   <HAR_EL_Hediff_b.label>亚当的禁制</HAR_EL_Hediff_b.label>
-  <HAR_EL_Hediff_c.description>创造主赐予伊娃莉特作为辅助器官的强化外壳。
+  <HAR_EL_Hediff_c.description>造物主赐予伊娃莉特作为辅助器官的强化外壳。
 通过将救济的血杯中补充的血液作为燃料启动。
 
 一旦将这层外壳解放的话，伊娃莉特就会破除封印恢复原有的力量，发挥出超人一般的性能。
@@ -311,9 +311,9 @@
 
 此状态会在数小时内完全恢复。</HAR_OT_Hediff_Bed_b.description>
   <HAR_OT_Hediff_Bed_b.label>沉溺欢愉的猎物</HAR_OT_Hediff_Bed_b.label>
-  <HAR_OT_Hediff_Drag_a.description>摄取了天使该隐后的状态。\n药物控制的酒精会带来强烈的幸福感。\n由于情绪起伏剧烈，需要注意容易变得好斗。</HAR_OT_Hediff_Drag_a.description>
-  <HAR_OT_Hediff_Drag_a.label>天使该隐</HAR_OT_Hediff_Drag_a.label>
-  <HAR_OT_Hediff_Drag_a.labelNoun>天使该隐</HAR_OT_Hediff_Drag_a.labelNoun>
+  <HAR_OT_Hediff_Drag_a.description>摄取了天使隐剂后的状态。\n药物控制的酒精会带来强烈的幸福感。\n由于情绪起伏剧烈，需要注意容易变得好斗。</HAR_OT_Hediff_Drag_a.description>
+  <HAR_OT_Hediff_Drag_a.label>天使隐剂</HAR_OT_Hediff_Drag_a.label>
+  <HAR_OT_Hediff_Drag_a.labelNoun>天使隐剂</HAR_OT_Hediff_Drag_a.labelNoun>
   <HAR_OT_Hediff_Idea.description>与太古带来灾厄的克里提亚斯、其核心■■■所缔结的契约。\n承受来自更高次元注入的力量，已获得堪称魔人的身体能力。\n\n身体构造似乎也发生了变化，饮食与睡眠等维持生命所需的一切皆变得不再必要。\n\n最大的特征是不死性，即便死亡也会立即复生。\n但若在短暂间隔内死亡次数过多，将无法正常行动。\n\n\n\n获得了不死之躯的你，接下来打算杀死什么呢？</HAR_OT_Hediff_Idea.description>
   <HAR_OT_Hediff_Idea.label>灵知持有者</HAR_OT_Hediff_Idea.label>
   <HAR_OT_Hediff_Idea_z.description>透过契约者的灵知复活后的初始状态。虽不会死亡，但无法正常行动。\n若在短暂的间隔内持续死亡，将会陷入倒地状态。\n\n此状态最多在1天内解除。</HAR_OT_Hediff_Idea_z.description>
@@ -374,7 +374,7 @@
   <HAR_ZC_Hediff_EX.description>被阿拉斯托耳斩中的状态。\n只要是仍怀有良知之人，就无法逃离自己所犯下的罪孽。\n\n\n王族们为了立下的誓言使命，侵略边境星球，肆意施行破坏。\n然而，即便有所理由，杀戮仍是杀戮，这是纵使倾尽一生也无法赎清的大罪。\n因此，他们留下后代，完成使命的世代则拖着沉重的脚步前往梅拉芙。\n在那里，坦承自己的罪行，由锢魂魔以刀刃斩首，完成最终的清算。\n遗体与首级最终会被埋入冰冷的冻土深处，永不再苏醒。\n\n唯有锢魂魔，知晓王族们那痛苦的忏悔。</HAR_ZC_Hediff_EX.description>
   <HAR_ZC_Hediff_EX_Penalty.description>非锢魂魔者装备阿拉斯托耳时所产生的惩罚。\n\n此惩罚会持续数年之久。\n\n阿拉斯托尔会自行挑选持有者。\n唯有地狱之存在被允许挥舞此剑，其他者将遭受审判。\n与天堂不同，地狱之中亦有严密的法则存在。</HAR_ZC_Hediff_EX_Penalty.description>
   <HAR_ZC_Hediff_EX_Penalty.label>汝，并非法狱之人</HAR_ZC_Hediff_EX_Penalty.label>
-  <HAR_ZC_Hediff_a.description>锢魂魔所背负的，是一颗散发着苍白光芒的黑色太阳。\n其本质是拥有巨大质量却极低重量的存在。\n其释放的火焰，虽为炎，却能将炙烧之物冻结。\n无视宇宙的物理法则，拥有极端的特异性。\n\n最初处于『封印』状态，需通过使用罗迪西昂来逐步解放力量。\n使用达到一定数量后，其阶段会逐步提升，总共分为六阶段：\n『封印』『灯火』『燐火』『天火』『净火』『劫火』\n\n\n其原型是混沌灵从地狱带回的冰冷火焰。\n而神子则使用从造物主处继承的技术，将这火焰升华成了太阳的形式。\n\n\n在太阳之中，穿越洞口后，迎面而来的是一片深不可测的深渊。\n其中究竟有什么？又有什么正在沉眠？\n只有锢魂魔与其盟友知晓其中的真相。</HAR_ZC_Hediff_a.description>
+  <HAR_ZC_Hediff_a.description>锢魂魔所背负的，是一颗散发着苍白光芒的黑色太阳。\n其本质是拥有巨大质量却极低重量的存在。\n其释放的火焰，虽为炎，却能将炙烧之物冻结。\n无视宇宙的物理法则，拥有极端的特异性。\n\n最初处于『封印』状态，需通过使用苍阳果来逐步解放力量。\n使用达到一定数量后，其阶段会逐步提升，总共分为六阶段：\n『封印』『灯火』『燐火』『天火』『净火』『劫火』\n\n\n其原型是混沌灵从地狱带回的冰冷火焰。\n而神子则使用从造物主处继承的技术，将这火焰升华成了太阳的形式。\n\n\n在太阳之中，穿越洞口后，迎面而来的是一片深不可测的深渊。\n其中究竟有什么？又有什么正在沉眠？\n只有锢魂魔与其盟友知晓其中的真相。</HAR_ZC_Hediff_a.description>
   <HAR_ZC_Hediff_a.label>苍褪的太阳</HAR_ZC_Hediff_a.label>
   <HAR_ZC_Hediff_b.description>正式名称『神子的白银币』。\n锢魂魔将人工种族特有的虚数能力，大部分资源投入到这枚银币的生成当中。\n将这枚银币投入到苍褪的太阳中进行熔烧，便会引发特异的现象。\n\n这枚银币是可能性在创造锢魂魔后，赐予她们的技术，亦是纪念之物。\n银币的正反两面，分别描绘了两位神子的侧颜。\n\n（最大容量为100/每日自动恢复）</HAR_ZC_Hediff_b.description>
   <HAR_ZC_Hediff_b.label>白银币</HAR_ZC_Hediff_b.label>

@@ -8,9 +8,9 @@
   <HAR_OT_Hediff_e.description>奥特姆从更高次元的存在获得力量而被强化的状态。\n\n若在此状态下死亡，能够复活一次。\n作为代价，此状态会被强制解除。\n\n拥有强大力量的奥特姆，能够从所信仰的「虚空的■■■」获得加护。\n为了将神谕化为现实，她们将自身化作薪柴般燃烧战斗。\n即使前方等待的是死亡，她们也绝不会停下。\n\n此状态会在半日后结束。</HAR_OT_Hediff_e.description>
   <HAR_OT_Hediff_d.label>催化</HAR_OT_Hediff_d.label>
   <HAR_OT_Hediff_d.description>受到奥特姆邪恶的一击后的状态。\n\n由于被灌入不可视的能量，身心变得不稳定。\n目前尚未查明是透过何种机制造成的，只是不适与恐惧不断加剧。\n\n此状态会在数小时后完全恢复。</HAR_OT_Hediff_d.description>
-  <HAR_OT_Hediff_Drag_a.label>天使该隐</HAR_OT_Hediff_Drag_a.label>
-  <HAR_OT_Hediff_Drag_a.labelNoun>天使该隐</HAR_OT_Hediff_Drag_a.labelNoun>
-  <HAR_OT_Hediff_Drag_a.description>摄取了天使该隐后的状态。\n药物控制的酒精会带来强烈的幸福感。\n由于情绪起伏剧烈，需要注意容易变得好斗。</HAR_OT_Hediff_Drag_a.description>
+  <HAR_OT_Hediff_Drag_a.label>天使隐剂</HAR_OT_Hediff_Drag_a.label>
+  <HAR_OT_Hediff_Drag_a.labelNoun>天使隐剂</HAR_OT_Hediff_Drag_a.labelNoun>
+  <HAR_OT_Hediff_Drag_a.description>摄取了天使隐剂后的状态。\n药物控制的酒精会带来强烈的幸福感。\n由于情绪起伏剧烈，需要注意容易变得好斗。</HAR_OT_Hediff_Drag_a.description>
   <HAR_OT_Hediff_j.label>逆卡巴拉</HAR_OT_Hediff_j.label>
   <HAR_OT_Hediff_j.description>奥特姆将隐藏之力完全释放的状态。\n\n此状态期间，身体耐久值提升为5倍，生命力也随之提高。\n此外，能够抵御对自身不利的异常状态。\n但是，进入此状态之前所受到的异常状态无法被无效化。\n\n\n\n自所信仰的■■■处获赐虚空之壳，披覆其上，从而晋升超存在之格。\n奥特姆们放任冲动，散播鲜血与暴虐，以恶玷污世界。\n那狂暴凶刃所指，毫无分别，王族、骑士、咎灵皆不例外。\n\n\n此状态会在半天后结束。</HAR_OT_Hediff_j.description>
   <HAR_OT_Hediff_i.label>掠食者</HAR_OT_Hediff_i.label>

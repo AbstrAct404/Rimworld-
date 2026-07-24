@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <Idearn_Artificial_b.label>本源药盒</Idearn_Artificial_b.label>
+  <Idearn_Artificial_b.description>伊迪安维持生命活动的剩余能量。\n当能量降低到5%时，伊迪安会进入节能模式，这时候将会失去移动能力。\n如果继续降低至0%就会死亡，所以如果剩余能量低时，建议及时更换本源药盒。</Idearn_Artificial_b.description>
+  <Idearn_Artificial.label>新生种族</Idearn_Artificial.label>
+  <Idearn_Artificial.description>伊迪安是生物与机械的混合体，拥有优秀的演算能力。\n随着时间的推移，她的处理速度会得到优化和加速，每一个动作都会更加精确。\n大约每年提升 1 级（等级上限为 5）。</Idearn_Artificial.description>
   <HAR_IA_Skill_Hediff_a.label>感官离线</HAR_IA_Skill_Hediff_a.label>
   <HAR_IA_Skill_Hediff_a.description>伊迪安·梅涅克赛努 A型散布的纳米机械，能够削弱敌对目标的战斗能力。效果最多持续半天；只要目标仍位于梅涅克赛努 A型的作用范围内，效果便会持续存在。</HAR_IA_Skill_Hediff_a.description>
   <HAR_IA_Skill_Hediff_b.label>武装实践</HAR_IA_Skill_Hediff_b.label>
@@ -23,10 +27,6 @@
   <HAR_IA_Skill_Hediff_h.description>这是创造者未能在库莉菈·凯特尔身上实现的王权机能之一。伊迪安·克里提亚斯（焚书模型）展开的空间压缩领域，会把敌对目标的时间流速减慢至极限。该状态会在半天后解除。</HAR_IA_Skill_Hediff_h.description>
   <HAR_IA_Skill_Hediff_z.label>克里提亚斯系统</HAR_IA_Skill_Hediff_z.label>
   <HAR_IA_Skill_Hediff_z.description>克里提亚斯原本作为对上位者决战兵器而内置的系统\n能够自动捕获干涉方并对其进行解析，在解析完成时将对象放逐至虚数空间。</HAR_IA_Skill_Hediff_z.description>
-  <Idearn_Artificial_b.label>本源药盒</Idearn_Artificial_b.label>
-  <Idearn_Artificial_b.description>伊迪安维持生命活动的剩余能量。\n当能量降低到5%时，伊迪安会进入节能模式，这时候将会失去移动能力。\n如果继续降低至0%就会死亡，所以如果剩余能量低时，建议及时更换本源药盒。</Idearn_Artificial_b.description>
-  <Idearn_Artificial.label>新生种族</Idearn_Artificial.label>
-  <Idearn_Artificial.description>伊迪安是生物与机械的混合体，拥有优秀的演算能力。\n随着时间的推移，她的处理速度会得到优化和加速，每一个动作都会更加精确。\n大约每年提升 1 级（等级上限为 5）。</Idearn_Artificial.description>
   <Idearn_Otherside_a.label>彼岸</Idearn_Otherside_a.label>
   <Idearn_Otherside_a.description>正式名称是「抗干扰压缩空间装甲」，是一层在伊迪安体表展开的空间薄膜。\n将广阔的空间压缩成薄膜并缠绕身侧，能让外界的干扰顺着空间薄膜滑过，而不影响本身。\n但是，是否能完全避免干涉，则需要视搭载的伊迪安规格而定。 \n\n\n这种灵体化一样的性质是模仿幽灵姬的特殊能力而取得的技术，也因此得名「彼岸」。</Idearn_Otherside_a.description>
   <Idearn_Otherside_b.label>彼岸</Idearn_Otherside_b.label>

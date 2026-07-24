@@ -6,27 +6,27 @@
   <Aya_CI_Recipe_Artifact_MechSerumResurrector.description>提供专用素材，委托制造「复苏机械液」。</Aya_CI_Recipe_Artifact_MechSerumResurrector.description>
   <Aya_CI_Recipe_Artifact_MechSerumResurrector.jobString>委托制造中</Aya_CI_Recipe_Artifact_MechSerumResurrector.jobString>
   <Aya_CI_Recipe_Artifact_MechSerumResurrector.label>委托制造「复苏机械液」</Aya_CI_Recipe_Artifact_MechSerumResurrector.label>
-  <Aya_CI_Recipe_Artifact_a.description>提供专用素材，委托制造「生命的圣餐药」。</Aya_CI_Recipe_Artifact_a.description>
+  <Aya_CI_Recipe_Artifact_a.description>提供专用素材，委托制造「生命圣餐药」。</Aya_CI_Recipe_Artifact_a.description>
   <Aya_CI_Recipe_Artifact_a.jobString>委托制造中</Aya_CI_Recipe_Artifact_a.jobString>
-  <Aya_CI_Recipe_Artifact_a.label>委托制造「生命的圣餐药」</Aya_CI_Recipe_Artifact_a.label>
-  <Aya_CI_Recipe_Artifact_b.description>提供专用素材，委托制造「祝福的圣餐药」。</Aya_CI_Recipe_Artifact_b.description>
+  <Aya_CI_Recipe_Artifact_a.label>委托制造「生命圣餐药」</Aya_CI_Recipe_Artifact_a.label>
+  <Aya_CI_Recipe_Artifact_b.description>提供专用素材，委托制造「淬体圣餐药」。</Aya_CI_Recipe_Artifact_b.description>
   <Aya_CI_Recipe_Artifact_b.jobString>委托制造中</Aya_CI_Recipe_Artifact_b.jobString>
-  <Aya_CI_Recipe_Artifact_b.label>委托制造「祝福的圣餐药」</Aya_CI_Recipe_Artifact_b.label>
-  <Aya_CI_Recipe_Artifact_c.description>提供专用素材，委托制造「知恵的圣餐药」。</Aya_CI_Recipe_Artifact_c.description>
+  <Aya_CI_Recipe_Artifact_b.label>委托制造「淬体圣餐药」</Aya_CI_Recipe_Artifact_b.label>
+  <Aya_CI_Recipe_Artifact_c.description>提供专用素材，委托制造「通心圣餐药」。</Aya_CI_Recipe_Artifact_c.description>
   <Aya_CI_Recipe_Artifact_c.jobString>委托制造中</Aya_CI_Recipe_Artifact_c.jobString>
-  <Aya_CI_Recipe_Artifact_c.label>委托制造「知恵的圣餐药」</Aya_CI_Recipe_Artifact_c.label>
-  <Aya_CI_Recipe_Artifact_x.description>提供专用素材，委托制造「光晕的圣餐药」。</Aya_CI_Recipe_Artifact_x.description>
+  <Aya_CI_Recipe_Artifact_c.label>委托制造「通心圣餐药」</Aya_CI_Recipe_Artifact_c.label>
+  <Aya_CI_Recipe_Artifact_x.description>提供专用素材，委托制造「威能圣餐药」。</Aya_CI_Recipe_Artifact_x.description>
   <Aya_CI_Recipe_Artifact_x.jobString>委托制造中</Aya_CI_Recipe_Artifact_x.jobString>
-  <Aya_CI_Recipe_Artifact_x.label>委托制造「光晕的圣餐药」</Aya_CI_Recipe_Artifact_x.label>
-  <Aya_CI_Recipe_Material_a.description>提供毛皮，委托制造「生物的灵油」。</Aya_CI_Recipe_Material_a.description>
+  <Aya_CI_Recipe_Artifact_x.label>委托制造「威能圣餐药」</Aya_CI_Recipe_Artifact_x.label>
+  <Aya_CI_Recipe_Material_a.description>提供毛皮，委托制造「生物灵油」。</Aya_CI_Recipe_Material_a.description>
   <Aya_CI_Recipe_Material_a.jobString>委托制造中</Aya_CI_Recipe_Material_a.jobString>
-  <Aya_CI_Recipe_Material_a.label>委托制造「生物的灵油」</Aya_CI_Recipe_Material_a.label>
-  <Aya_CI_Recipe_Material_b.description>提供木材，委托制造「植物的灵油」。</Aya_CI_Recipe_Material_b.description>
+  <Aya_CI_Recipe_Material_a.label>委托制造「生物灵油」</Aya_CI_Recipe_Material_a.label>
+  <Aya_CI_Recipe_Material_b.description>提供木材，委托制造「植物灵油」。</Aya_CI_Recipe_Material_b.description>
   <Aya_CI_Recipe_Material_b.jobString>委托制造中</Aya_CI_Recipe_Material_b.jobString>
-  <Aya_CI_Recipe_Material_b.label>委托制造「植物的灵油」</Aya_CI_Recipe_Material_b.label>
-  <Aya_CI_Recipe_Material_c.description>提供金属，委托制造「矿物的灵油」。</Aya_CI_Recipe_Material_c.description>
+  <Aya_CI_Recipe_Material_b.label>委托制造「植物灵油」</Aya_CI_Recipe_Material_b.label>
+  <Aya_CI_Recipe_Material_c.description>提供金属，委托制造「矿物灵油」。</Aya_CI_Recipe_Material_c.description>
   <Aya_CI_Recipe_Material_c.jobString>委托制造中</Aya_CI_Recipe_Material_c.jobString>
-  <Aya_CI_Recipe_Material_c.label>委托制造「矿物的灵油」</Aya_CI_Recipe_Material_c.label>
+  <Aya_CI_Recipe_Material_c.label>委托制造「矿物灵油」</Aya_CI_Recipe_Material_c.label>
   <Aya_CI_Recipe_Skill_Gain_a.description>提供专用素材，委托制造「始原之淀：混沌跃迁」。</Aya_CI_Recipe_Skill_Gain_a.description>
   <Aya_CI_Recipe_Skill_Gain_a.jobString>委托制造中</Aya_CI_Recipe_Skill_Gain_a.jobString>
   <Aya_CI_Recipe_Skill_Gain_a.label>委托制造「始原之淀：混沌跃迁」</Aya_CI_Recipe_Skill_Gain_a.label>
@@ -124,13 +124,13 @@
   <HAR_ZC_Cook_b.description>将米煮熟，制作出四人份地狱浓汤。</HAR_ZC_Cook_b.description>
   <HAR_ZC_Cook_b.jobString>烹调地狱浓汤x4</HAR_ZC_Cook_b.jobString>
   <HAR_ZC_Cook_b.label>烹调地狱浓汤x4</HAR_ZC_Cook_b.label>
-  <HAR_ZC_Recipe_a.description>从地之佛拉斯生成罗迪西昂。</HAR_ZC_Recipe_a.description>
+  <HAR_ZC_Recipe_a.description>从地之佛拉斯生成苍阳果。</HAR_ZC_Recipe_a.description>
   <HAR_ZC_Recipe_a.jobString>创造中</HAR_ZC_Recipe_a.jobString>
-  <HAR_ZC_Recipe_a.label>碎裂的罗迪西昂</HAR_ZC_Recipe_a.label>
-  <HAR_ZC_Recipe_b.description>从地之佛拉斯生成罗迪西昂。</HAR_ZC_Recipe_b.description>
+  <HAR_ZC_Recipe_a.label>碎裂的苍阳果</HAR_ZC_Recipe_a.label>
+  <HAR_ZC_Recipe_b.description>从地之佛拉斯生成苍阳果。</HAR_ZC_Recipe_b.description>
   <HAR_ZC_Recipe_b.jobString>创造中</HAR_ZC_Recipe_b.jobString>
-  <HAR_ZC_Recipe_b.label>缺失的罗迪西昂</HAR_ZC_Recipe_b.label>
-  <HAR_ZC_Recipe_c.description>从地之佛拉斯生成罗迪西昂。</HAR_ZC_Recipe_c.description>
+  <HAR_ZC_Recipe_b.label>残缺的苍阳果</HAR_ZC_Recipe_b.label>
+  <HAR_ZC_Recipe_c.description>从地之佛拉斯生成苍阳果。</HAR_ZC_Recipe_c.description>
   <HAR_ZC_Recipe_c.jobString>创造中</HAR_ZC_Recipe_c.jobString>
-  <HAR_ZC_Recipe_c.label>完整的罗迪西昂</HAR_ZC_Recipe_c.label>
+  <HAR_ZC_Recipe_c.label>完整的苍阳果</HAR_ZC_Recipe_c.label>
 </LanguageData>
