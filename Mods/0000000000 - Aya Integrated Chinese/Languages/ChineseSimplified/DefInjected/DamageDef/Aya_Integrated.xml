@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Aya_CI_Damage_Bullet_Merciful.deathMessage>{0} 被射杀了。</Aya_CI_Damage_Bullet_Merciful.deathMessage>
+  <Aya_CI_Damage_Bullet_Merciful.label>仁慈的一击</Aya_CI_Damage_Bullet_Merciful.label>
+  <Aya_CI_Damage_Phobia_a.deathMessage>{0} 死于一场爆炸。</Aya_CI_Damage_Phobia_a.deathMessage>
+  <Aya_CI_Damage_Phobia_a.label>腐败恐惧</Aya_CI_Damage_Phobia_a.label>
+  <BOSS_EF_BombSuper.label>耀斑甘油</BOSS_EF_BombSuper.label>
+  <BOSS_EF_Bullet.deathMessage>{0} 被射杀了。</BOSS_EF_Bullet.deathMessage>
+  <BOSS_EF_Bullet.label>彗星弹</BOSS_EF_Bullet.label>
+  <BOSS_EF_Damage_a.deathMessage>{0} 被辗压致死。</BOSS_EF_Damage_a.deathMessage>
+  <BOSS_EF_Damage_a.label>彗星撞击</BOSS_EF_Damage_a.label>
+  <BOSS_RQ_Bullet_b.label>雏鸟泣血</BOSS_RQ_Bullet_b.label>
+  <BOSS_RQ_Damage_Z_a.label>雏鸟轻啼</BOSS_RQ_Damage_Z_a.label>
+  <BOSS_RQ_Damage_Z_b.label>雏鸟振翅</BOSS_RQ_Damage_Z_b.label>
+  <BOSS_RQ_Damage_Z_c.label>雏鸟凝望</BOSS_RQ_Damage_Z_c.label>
+  <BOSS_RQ_Damage_Z_d.label>雏鸟泣血</BOSS_RQ_Damage_Z_d.label>
+  <BOSS_RQ_Damage_Z_e.label>克里提亚斯之星</BOSS_RQ_Damage_Z_e.label>
+  <BOSS_RQ_Damage_Z_f.label>雏鸟啄食</BOSS_RQ_Damage_Z_f.label>
+  <BOSS_RQ_Scratch.label>超振动刀刃</BOSS_RQ_Scratch.label>
+  <Damage_Geist.label>鬼切</Damage_Geist.label>
+  <Damage_Genocide.label>毁灭</Damage_Genocide.label>
+  <Damage_Genocide_Bomb.label>毁灭</Damage_Genocide_Bomb.label>
+  <Damage_Larva.label>虫噬</Damage_Larva.label>
+  <Damage_Rugeiyu.label>梦魇</Damage_Rugeiyu.label>
+  <HAR_CO_Damage_a.label>断影</HAR_CO_Damage_a.label>
+  <HAR_CO_Damage_b.label>血狂</HAR_CO_Damage_b.label>
+  <HAR_CO_UB_Damage_EX.deathMessage>{0} 被射杀了。</HAR_CO_UB_Damage_EX.deathMessage>
+  <HAR_CO_UB_Damage_EX.label>无边光</HAR_CO_UB_Damage_EX.label>
+  <HAR_CO_UB_Damage_EX_b.deathMessage>{0} 死于一场爆炸。</HAR_CO_UB_Damage_EX_b.deathMessage>
+  <HAR_CO_UB_Damage_EX_b.label>拂晓明星之女</HAR_CO_UB_Damage_EX_b.label>
+  <HAR_CO_UB_Damage_Reflection.deathMessage>{0} 死于一场爆炸。</HAR_CO_UB_Damage_Reflection.deathMessage>
+  <HAR_CO_UB_Damage_Reflection.label>反射</HAR_CO_UB_Damage_Reflection.label>
+  <HAR_CO_UB_Damage_a.deathMessage>{0} 死于一场爆炸。</HAR_CO_UB_Damage_a.deathMessage>
+  <HAR_CO_UB_Damage_a.label>空之剑</HAR_CO_UB_Damage_a.label>
+  <HAR_CO_UB_Damage_b.deathMessage>{0} 死于一场爆炸。</HAR_CO_UB_Damage_b.deathMessage>
+  <HAR_CO_UB_Damage_b.label>白垩之光</HAR_CO_UB_Damage_b.label>
+  <HAR_CO_UB_Damage_c.deathMessage>{0} 死于一场爆炸。</HAR_CO_UB_Damage_c.deathMessage>
+  <HAR_CO_UB_Damage_c.label>灾厄彗星</HAR_CO_UB_Damage_c.label>
+  <HAR_EL_Damage_a.label>猩红之吻</HAR_EL_Damage_a.label>
+  <HAR_EL_Damage_b.label>利乏音之壳</HAR_EL_Damage_b.label>
+  <HAR_EL_Damage_c.label>斩裂王女</HAR_EL_Damage_c.label>
+  <HAR_EL_Damage_d.label>破碎迦南</HAR_EL_Damage_d.label>
+  <HAR_EL_Damage_e.label>黑暗之宴</HAR_EL_Damage_e.label>
+  <HAR_IA_Damage_Otherside_a.label>彼岸（不完全）</HAR_IA_Damage_Otherside_a.label>
+  <HAR_IA_Damage_Otherside_b.label>彼岸</HAR_IA_Damage_Otherside_b.label>
+  <HAR_IA_Damage_a.label>俄刻阿诺斯之剑</HAR_IA_Damage_a.label>
+  <HAR_IA_Damage_b.label>武装实践</HAR_IA_Damage_b.label>
+  <HAR_IA_Damage_c.label>猩红能天使（散布）</HAR_IA_Damage_c.label>
+  <HAR_IA_Damage_d.label>猩红能天使</HAR_IA_Damage_d.label>
+  <HAR_IA_Damage_e.label>靛蓝能天使</HAR_IA_Damage_e.label>
+  <HAR_IA_Damage_f.label>天国之意</HAR_IA_Damage_f.label>
+  <HAR_IA_Damage_g.label>天国之躁</HAR_IA_Damage_g.label>
+  <HAR_IA_Damage_h.label>天国之狱</HAR_IA_Damage_h.label>
+  <HAR_IA_Damage_z_a.label>俄刻阿诺斯之剑</HAR_IA_Damage_z_a.label>
+  <HAR_IH_Damage_Attack.label>炼狱的彼岸</HAR_IH_Damage_Attack.label>
+  <HAR_IH_Damage_a.label>神之兵器</HAR_IH_Damage_a.label>
+  <HAR_IH_Damage_b.label>哈米吉多顿</HAR_IH_Damage_b.label>
+  <HAR_IH_Damage_c.label>巴耶力之剑</HAR_IH_Damage_c.label>
+  <HAR_IH_Damage_d.label>莫斯提马之枪</HAR_IH_Damage_d.label>
+  <HAR_IH_Damage_e.label>巴别的审判</HAR_IH_Damage_e.label>
+  <HAR_LL_Damage_Attack.label>狂乱降生</HAR_LL_Damage_Attack.label>
+  <HAR_LL_EX_Damage_a.label>灰暗之血</HAR_LL_EX_Damage_a.label>
+  <HAR_LL_EX_Damage_b.label>圣母之血</HAR_LL_EX_Damage_b.label>
+  <HAR_LL_LC_Damage_a.label>银色之羽</HAR_LL_LC_Damage_a.label>
+  <HAR_LL_LC_Damage_b.label>忏悔</HAR_LL_LC_Damage_b.label>
+  <HAR_LL_LC_Damage_c.label>神子的哭泣</HAR_LL_LC_Damage_c.label>
+  <HAR_LL_Skill_MIKO_Damage_a.label>你好，朋友！</HAR_LL_Skill_MIKO_Damage_a.label>
+  <HAR_LL_Skill_MIKO_Damage_c.label>神子的天眼</HAR_LL_Skill_MIKO_Damage_c.label>
+  <HAR_NC_Damage_Gas.label>露娜泰克细菌</HAR_NC_Damage_Gas.label>
+  <HAR_NC_Damage_a.label>露娜泰克细菌</HAR_NC_Damage_a.label>
+  <HAR_NC_Skill_Damage_a.label>星之声</HAR_NC_Skill_Damage_a.label>
+  <HAR_NC_Skill_Damage_c.label>迦南之影</HAR_NC_Skill_Damage_c.label>
+  <HAR_NM_Damage_Bullet.label>强巴雷弹</HAR_NM_Damage_Bullet.label>
+  <HAR_NM_Skill_Damage_a.label>灭绝之劫</HAR_NM_Skill_Damage_a.label>
+  <HAR_NM_Skill_Damage_b.label>毁灭之息</HAR_NM_Skill_Damage_b.label>
+  <HAR_NM_Skill_Damage_b_b.label>古老医术</HAR_NM_Skill_Damage_b_b.label>
+  <HAR_NM_Skill_Damage_b_c.label>阿尔克忒拉灵药</HAR_NM_Skill_Damage_b_c.label>
+  <HAR_NM_Skill_Damage_b_d.label>艾提涅魔药</HAR_NM_Skill_Damage_b_d.label>
+  <HAR_NM_Skill_Damage_b_e.label>杜娜米丝秘药</HAR_NM_Skill_Damage_b_e.label>
+  <HAR_NM_Skill_Damage_b_z.label>■■■的死药</HAR_NM_Skill_Damage_b_z.label>
+  <HAR_NM_Skill_Damage_c.label>颓废之咒</HAR_NM_Skill_Damage_c.label>
+  <HAR_NM_Skill_Damage_d.label>极寒之域</HAR_NM_Skill_Damage_d.label>
+  <HAR_NM_Skill_Damage_e.label>深渊之咒</HAR_NM_Skill_Damage_e.label>
+  <HAR_OT_Damage_Bullet_a.deathMessage>{0} 被射杀了。</HAR_OT_Damage_Bullet_a.deathMessage>
+  <HAR_OT_Damage_Bullet_a.label>子弹</HAR_OT_Damage_Bullet_a.label>
+  <HAR_OT_Damage_Smoke.label>朱红之毒</HAR_OT_Damage_Smoke.label>
+  <HAR_OT_Damage_Weapon_a.deathMessage>{0} 被射杀了。</HAR_OT_Damage_Weapon_a.deathMessage>
+  <HAR_OT_Damage_Weapon_a.label>悲惨之刃</HAR_OT_Damage_Weapon_a.label>
+  <HAR_OT_Damage_a.deathMessage>{0} 死于一场爆炸。</HAR_OT_Damage_a.deathMessage>
+  <HAR_OT_Damage_a.label>维克拉卡斯</HAR_OT_Damage_a.label>
+  <HAR_OT_Damage_d.deathMessage>{0} 死于一场爆炸。</HAR_OT_Damage_d.deathMessage>
+  <HAR_OT_Damage_d.label>催化</HAR_OT_Damage_d.label>
+  <HAR_OT_Damage_g.deathMessage>{0} 被射杀了。</HAR_OT_Damage_g.deathMessage>
+  <HAR_OT_Damage_g.label>血裂</HAR_OT_Damage_g.label>
+  <HAR_OT_Damage_null.deathMessage>{0} 死于一场爆炸。</HAR_OT_Damage_null.deathMessage>
+  <HAR_OT_Damage_null.label>伤害(无)</HAR_OT_Damage_null.label>
+  <HAR_QL_Damage_a.label>王权誓约</HAR_QL_Damage_a.label>
+  <HAR_QL_Damage_b.label>王权护佑</HAR_QL_Damage_b.label>
+  <HAR_QL_Damage_c.label>大地之剑</HAR_QL_Damage_c.label>
+  <HAR_SK_Flame.label>炽热之枪</HAR_SK_Flame.label>
+  <HAR_SK_Flame_b.label>熔岩发射器</HAR_SK_Flame_b.label>
+  <HAR_SK_Scratch.label>超振动刀刃</HAR_SK_Scratch.label>
+  <HAR_XO_Damage_a.label>深渊重压</HAR_XO_Damage_a.label>
+  <HAR_XO_Damage_b.label>奥尔基努斯之赤</HAR_XO_Damage_b.label>
+  <HAR_XO_Damage_c.label>深渊贯穿</HAR_XO_Damage_c.label>
+  <HAR_ZC_Damage_EX.deathMessage>{0} 被射杀了。</HAR_ZC_Damage_EX.deathMessage>
+  <HAR_ZC_Damage_a.deathMessage>{0} 死于一场爆炸。</HAR_ZC_Damage_a.deathMessage>
+  <HAR_ZC_Damage_a.label>冻炎</HAR_ZC_Damage_a.label>
+  <HAR_ZC_Damage_b.deathMessage>{0} 死于一场爆炸。</HAR_ZC_Damage_b.deathMessage>
+  <HAR_ZC_Damage_b.label>暗黒的咆哮</HAR_ZC_Damage_b.label>
+  <HAR_ZC_Damage_c.deathMessage>{0} 死于一场爆炸。</HAR_ZC_Damage_c.deathMessage>
+  <HAR_ZC_Damage_c.label>恶魔的一击</HAR_ZC_Damage_c.label>
+  <HAR_ZC_Damage_d.deathMessage>{0} 死于一场爆炸。</HAR_ZC_Damage_d.deathMessage>
+  <HAR_ZC_Damage_d.label>地狱之钉</HAR_ZC_Damage_d.label>
+  <HAR_ZC_Damage_e.deathMessage>{0} 死于一场爆炸。</HAR_ZC_Damage_e.deathMessage>
+  <HAR_ZC_Damage_f.deathMessage>{0} 死于一场爆炸。</HAR_ZC_Damage_f.deathMessage>
+  <HAR_ZC_Damage_y.deathMessage>{0} 死于一场爆炸。</HAR_ZC_Damage_y.deathMessage>
+  <HAR_ZC_Damage_y.label>送往冥界</HAR_ZC_Damage_y.label>
+</LanguageData>

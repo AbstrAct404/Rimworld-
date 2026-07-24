@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>[Aya] 人工种族简体中文整合汉化包 v1.6</name>
+  <author>AbstrAct404 / Chinese localization</author>
+  <packageId>abstract404.aya.integrated.zh</packageId>
+  <description>Aya 人工种族系列简体中文整合汉化包。
+
+可只安装自己使用的原模组，无需安装整合包支持的全部种族。请将本汉化置于所有 Aya 原模组之后加载；不要与对应的独立汉化包同时启用。
+
+当前收录 21 个原模组，共合并 3020 条游戏文本。
+
+——
+兼容版本：RimWorld 1.6
+本模组仅含翻译文件，不包含任何原模组资源。</description>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <loadAfter>
+    <li>Ayameduki.HARNearmare</li>
+    <li>Ayameduki.HARXenoorca</li>
+    <li>Ayameduki.HARIdhale</li>
+    <li>Ayameduki.HARSilkiera</li>
+    <li>Ayameduki.HARNeclose</li>
+    <li>Ayameduki.BOSSRequeen</li>
+    <li>Ayameduki.HARLittluna</li>
+    <li>Ayameduki.HARSolark</li>
+    <li>Ayameduki.HARSaclean</li>
+    <li>Ayameduki.HARNexaga</li>
+    <li>Ayameduki.BOSSEnforcer</li>
+    <li>Ayameduki.HARQualeela</li>
+    <li>Ayameduki.HARIdearn</li>
+    <li>Ayameduki.HARChaoura</li>
+    <li>Ayameduki.IdeaStoryteller</li>
+    <li>Ayameduki.HAREveliet</li>
+    <li>Ayameduki.HARZoichor</li>
+    <li>Ayameduki.HARChaouraUB</li>
+    <li>Ayameduki.AyaRacePremise</li>
+    <li>Ayameduki.HAROuterm</li>
+    <li>Ayameduki.AyaCanaanIntellect</li>
+  </loadAfter>
+</ModMetaData>

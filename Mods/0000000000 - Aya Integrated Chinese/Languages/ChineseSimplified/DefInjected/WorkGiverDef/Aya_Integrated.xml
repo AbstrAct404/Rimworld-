@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Aya_CI_Recycle_WorkGiver.label>隐退者的工坊</Aya_CI_Recycle_WorkGiver.label>
+  <HAR_EL_Recycle_WorkGiver.label>神之形</HAR_EL_Recycle_WorkGiver.label>
+  <HAR_IA_WorkGiver.label>制造伊迪安</HAR_IA_WorkGiver.label>
+  <HAR_OT_WorkGiver_Devote.label>献上尸体</HAR_OT_WorkGiver_Devote.label>
+  <HAR_SK_Refinery_WorkGiver.label>炼油</HAR_SK_Refinery_WorkGiver.label>
+  <HAR_Saclean_Milk.label>飞蛾姬产奶中</HAR_Saclean_Milk.label>
+  <HAR_Saclean_Shear.label>飞蛾姬吐丝中</HAR_Saclean_Shear.label>
+  <HAR_ZC_Recycle_WorkGiver.label>地之佛拉斯</HAR_ZC_Recycle_WorkGiver.label>
+</LanguageData>

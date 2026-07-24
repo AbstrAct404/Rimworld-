@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Aya_Race_Xenotype.description>“人工种族”是这类生命的统称。为避免种群失控扩张，她们经基因改造后只能诞下女性。由于无法独立构成完整物种，灭绝风险很高，因此以更强的繁殖力和战斗力加以补偿；同时，她们也具有寻求精神伴侣的倾向，以免凭借力量支配他人。</Aya_Race_Xenotype.description>
+  <Aya_Race_Xenotype.label>人工族</Aya_Race_Xenotype.label>
+  <Aya_Race_Xenotype_ChaouraUB.description>由人工种族进化而来的种族。其变异的方向与其说是肉体上的，倒不如说是以精神上的为主。直至今日，她们的一切依旧包裹于谜团之中。</Aya_Race_Xenotype_ChaouraUB.description>
+  <Aya_Race_Xenotype_ChaouraUB.label>艾芙耶谢尔</Aya_Race_Xenotype_ChaouraUB.label>
+  <Aya_Race_Xenotype_b.description>酷似人工种族的种族。她们的内在性质极其相似，据此推测二者之间应该有所联系。</Aya_Race_Xenotype_b.description>
+  <Aya_Race_Xenotype_b.label>界外之血</Aya_Race_Xenotype_b.label>
+  <HAR_OT_Xenotype.description>人工种族的亚种。与伊什穆提特同样，目前仅发现女性个体。以极具攻击性的种族而闻名，且天生不孕。她们既无生殖能力，究竟是如何维系种族延续的，至今仍是未解之谜。</HAR_OT_Xenotype.description>
+  <HAR_OT_Xenotype.label>厄倪俄世代</HAR_OT_Xenotype.label>
+</LanguageData>

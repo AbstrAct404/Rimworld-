@@ -29,6 +29,8 @@
 | Littluna / リトルーナ | 伪神族 |
 | Nearmare / ニアメーア | 魅魔 |
 | Neclose / ネクロース | 牧菌妖姬 |
+| Nexaga / ネクサーガ | 涅克萨迦 |
+| Outerm / アウターム | 奥特姆 |
 | Qualeela / クオリーラ | 库莉菈 |
 | Requeen / レクイーン | 女王种 |
 | Saclean / サクリーン | 飞蛾姬 |
@@ -43,7 +45,7 @@
 |---|---|
 | Avonruach | 阿冯·鲁阿赫 |
 | Chaoura Avalzion / ケイオーラ・アヴァルツィオン | 混沌灵·阿瓦露其安 |
-| Efiyeashel / エフイェアシェル | 埃菲耶阿谢尔 |
+| Efiyeashel / エフイェアシェル | 艾芙耶谢尔 |
 | Idearn Critias / イデアーン・クリティアス | 伊迪安·克里提亚斯（焚书模型） |
 | Idearn Charmides / カルミデス | 伊迪安·卡尔米德 |
 | Idearn Menexenos / メネクセノス | 伊迪安·梅涅克赛努 |

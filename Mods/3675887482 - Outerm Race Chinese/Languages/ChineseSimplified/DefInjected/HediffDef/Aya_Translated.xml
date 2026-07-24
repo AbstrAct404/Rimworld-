@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_OT_Hediff_c.label>锋刃之心智</HAR_OT_Hediff_c.label>
+  <HAR_OT_Hediff_c.description>奥特姆的危机感知能力被提升至极限的状态。\n\n原理不明，但奥特姆们的直觉异常敏锐。\n再加上轻盈的身体能力，使他们即使身处枪林弹雨之中也能持续战斗。\n\n\n对于射击攻击会以高机率回避，而对于非射击攻击则以低机率回避。\n\n\n此状态会在数小时后结束。</HAR_OT_Hediff_c.description>
+  <Outerm_Artificial.label>人工种族(奥特姆)</Outerm_Artificial.label>
+  <Outerm_Artificial.description>奥特姆是一种起源不明的人工种族。\n和其他人工种族相同，会随着时间经过而增强力量。\n\n目前尚未解明是透过什么机制增强的，\n有一种说法认为是受到更高次元力量的作用。\n\n大约1年提升1级(上限为10级)。</Outerm_Artificial.description>
+  <HAR_OT_Hediff_e.label>使徒</HAR_OT_Hediff_e.label>
+  <HAR_OT_Hediff_e.description>奥特姆从更高次元的存在获得力量而被强化的状态。\n\n若在此状态下死亡，能够复活一次。\n作为代价，此状态会被强制解除。\n\n拥有强大力量的奥特姆，能够从所信仰的「虚空的■■■」获得加护。\n为了将神谕化为现实，她们将自身化作薪柴般燃烧战斗。\n即使前方等待的是死亡，她们也绝不会停下。\n\n此状态会在半日后结束。</HAR_OT_Hediff_e.description>
+  <HAR_OT_Hediff_d.label>催化</HAR_OT_Hediff_d.label>
+  <HAR_OT_Hediff_d.description>受到奥特姆邪恶的一击后的状态。\n\n由于被灌入不可视的能量，身心变得不稳定。\n目前尚未查明是透过何种机制造成的，只是不适与恐惧不断加剧。\n\n此状态会在数小时后完全恢复。</HAR_OT_Hediff_d.description>
+  <HAR_OT_Hediff_Drag_a.label>天使该隐</HAR_OT_Hediff_Drag_a.label>
+  <HAR_OT_Hediff_Drag_a.labelNoun>天使该隐</HAR_OT_Hediff_Drag_a.labelNoun>
+  <HAR_OT_Hediff_Drag_a.description>摄取了天使该隐后的状态。\n药物控制的酒精会带来强烈的幸福感。\n由于情绪起伏剧烈，需要注意容易变得好斗。</HAR_OT_Hediff_Drag_a.description>
+  <HAR_OT_Hediff_j.label>逆卡巴拉</HAR_OT_Hediff_j.label>
+  <HAR_OT_Hediff_j.description>奥特姆将隐藏之力完全释放的状态。\n\n此状态期间，身体耐久值提升为5倍，生命力也随之提高。\n此外，能够抵御对自身不利的异常状态。\n但是，进入此状态之前所受到的异常状态无法被无效化。\n\n\n\n自所信仰的■■■处获赐虚空之壳，披覆其上，从而晋升超存在之格。\n奥特姆们放任冲动，散播鲜血与暴虐，以恶玷污世界。\n那狂暴凶刃所指，毫无分别，王族、骑士、咎灵皆不例外。\n\n\n此状态会在半天后结束。</HAR_OT_Hediff_j.description>
+  <HAR_OT_Hediff_i.label>掠食者</HAR_OT_Hediff_i.label>
+  <HAR_OT_Hediff_i.description>奥特姆捕食尸体后获得强化的状态。\n\n捕食时治愈3处伤口，并暂时强化身体能力。\n此强化共有三个阶段，每次捕食便会提升一个阶段。\n\n\n\n此状态每数小时减少一个阶段。</HAR_OT_Hediff_i.description>
+  <HAR_OT_Hediff_h.label>提西福涅</HAR_OT_Hediff_h.label>
+  <HAR_OT_Hediff_h.description>奥特姆的报复心被提升至极限的状态。\n\n遭敌人攻击时，会立即发动反击。\n但无法连续反击，每次反击之间有5次的间隔。\n毕竟只是报复，此状态本身无法无效化所受到的伤害。\n\n\n对于射击攻击会以相同子弹反弹，对于非射击攻击则将威力削减至1/10后立即反击。\n\n\n此状态会在数小时后结束。</HAR_OT_Hediff_h.description>
+  <HAR_OT_Hediff_Bed_a.label>贪食爱欲的雌鸟</HAR_OT_Hediff_Bed_a.label>
+  <HAR_OT_Hediff_Bed_a.description>奥特姆陷入肉欲后的状态。肉体得到激活，身体能力暂时提升。
+
+奥特姆在遗传层面有着强烈性欲，一两次远远无法满足。她们如吞食猎物的肉食兽般贪婪，只会不断追求欢愉。
+
+此状态将在半天后结束。</HAR_OT_Hediff_Bed_a.description>
+  <HAR_OT_Hediff_Bed_b.label>沉溺欢愉的猎物</HAR_OT_Hediff_Bed_b.label>
+  <HAR_OT_Hediff_Bed_b.description>遭奥特姆以情欲尽情索取后的状态。
+
+奥特姆丝毫不顾及对方体力的攻势会彻底瓦解其理智。想与她们结为伴侣，就必须做好相应的心理准备。
+
+此状态会在数小时内完全恢复。</HAR_OT_Hediff_Bed_b.description>
+  <HAR_OT_Hediff_Idea.label>灵知持有者</HAR_OT_Hediff_Idea.label>
+  <HAR_OT_Hediff_Idea.description>与太古带来灾厄的克里提亚斯、其核心■■■所缔结的契约。\n承受来自更高次元注入的力量，已获得堪称魔人的身体能力。\n\n身体构造似乎也发生了变化，饮食与睡眠等维持生命所需的一切皆变得不再必要。\n\n最大的特征是不死性，即便死亡也会立即复生。\n但若在短暂间隔内死亡次数过多，将无法正常行动。\n\n\n\n获得了不死之躯的你，接下来打算杀死什么呢？</HAR_OT_Hediff_Idea.description>
+  <HAR_OT_Hediff_Idea_z.label>复活初状</HAR_OT_Hediff_Idea_z.label>
+  <HAR_OT_Hediff_Idea_z.description>透过契约者的灵知复活后的初始状态。虽不会死亡，但无法正常行动。\n若在短暂的间隔内持续死亡，将会陷入倒地状态。\n\n此状态最多在1天内解除。</HAR_OT_Hediff_Idea_z.description>
+</LanguageData>

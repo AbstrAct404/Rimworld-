@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <StillCoolDownTime>尚未冷却完毕</StillCoolDownTime>
+  <LeftCoolDownTime>距离冷却完毕时间：</LeftCoolDownTime>
+  <Aya_CI_SkillGained>{PAWN_nameDef}习得了「{ITEM}」！</Aya_CI_SkillGained>
+  <Aya_CI_AlreadyHasSkill>{PAWN_nameDef}已经习得了「{ITEM}」的技术。</Aya_CI_AlreadyHasSkill>
+</LanguageData>

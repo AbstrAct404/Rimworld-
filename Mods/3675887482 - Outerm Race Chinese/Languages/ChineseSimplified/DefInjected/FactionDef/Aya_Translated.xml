@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Outerm_Faction_Player.pawnSingular>奥特姆</Outerm_Faction_Player.pawnSingular>
+  <Outerm_Faction.label>混沌</Outerm_Faction.label>
+  <Outerm_Faction.description>由奥特姆所组成的地下社会辛迪加组织。\n以残忍派系闻名，据说其凶暴程度甚至在杀人鲸旅团之上。\n沉醉于杀戮与掠夺之中，直到对方或自己死亡为止，都不会停止那残虐行径。\n\n一切皆为了甜蜜消融的愉悦，以及遵循伟大神祇的意志。</Outerm_Faction.description>
+  <Outerm_Faction.pawnSingular>奥特姆</Outerm_Faction.pawnSingular>
+  <Outerm_Faction.fixedName>混沌</Outerm_Faction.fixedName>
+</LanguageData>

@@ -30,6 +30,9 @@ MODS = [
     ("2504657401", "Requeen Boss"), ("2676302514", "Saclean Race"),
     ("2233666290", "Silkiera Race"), ("2608237489", "Solark Race"),
     ("2216916011", "Xenoorca Race"),
+    ("3750626266", "Canaan Intellect"), ("3489429571", "Chaoura UB"),
+    ("2729712799", "Enforcer Boss"), ("2706009136", "Nexaga Race"),
+    ("3675887482", "Outerm Race"), ("3477749439", "Zoichor Race"),
 ]
 
 FIELDS = {
@@ -217,6 +220,41 @@ WORKSHOP_DESCRIPTION_REPLACEMENTS = {
 # A deliberately obfuscated source label cannot be translated reliably by an
 # automatic service; use the established race name and a readable designation.
 KEY_OVERRIDES = {
+    # Canaan Intellect: the reference pack still leaves this newly expanded
+    # description in Japanese.
+    "Aya_CI_Permit_a.description": "“真棒！太厉害了！做得很好！这个印章就奖励给你啦！”\\n——神子\n\n向少年消耗交涉点数后获得的神秘许可证。委托其制造特殊道具时必须出示。\n\n造物主曾因“毫无节制地大量制造特殊道具并不妥当”而受到神子劝诫，于是制作了这种许可证。据说在古迦南，生产由神子管理，人们凭此证向造物主领取道具。印章图案采用了造物主的爱女——伪神族·杜娜米丝的形象。",
+    # Enforcer Boss.
+    "BOSS_EF_M_race_Base.label": "执行者",
+    "BOSS_EF_B_M_race_Base.description": "随陨石一同降临的神秘生命体。它体型与质量惊人，几乎无法以物理手段摧毁。\\n行动本身虽然迟缓，但其超大质量所爆发的攻击足以媲美陨石撞击，贸然接近绝非明智之举。\\n\\n这种生物已经近似于兵器，但似乎无法适应这颗星球的环境，活动时间极短；不足一天便会自行崩解消失。若无力将其破坏，也可设法拖延并阻止它接近殖民地，等待其自行消亡。\\n\\n大型个体各自拥有不同的特殊能力，可能对殖民者造成严重负面影响，请务必留意。",
+    # Nexaga is a proper race name; 混血种 remains its setting category.
+    "HAR_Nexaga_KindBase_NPC.label": "涅克萨迦居民",
+    # Outerm additions introduced after the reference language pack was made.
+    "HAR_OT_BaseMeleeWeapon_a.description": "奥特姆使用的神秘武器，仿佛活物般鲜明地搏动着。据说每杀死一个敌人，刀锋便会变得更加锐利。\n\n这把武器恶名昭彰，许多持有者最终都走上了大肆杀戮的歧途。\n\n\n\n\n杀吧，服从你的欲望。堆起尸骸，还要更加残酷。\n吾主渴求■■。以鲜烈血色，为那倦怠褪色的故事重新着彩。\n无底虚空正注视着你——无论何时，永远、永远。",
+    "HAR_OT_Weapon_Idea.label": "阿塔纳西亚【待核译名】",
+    "HAR_OT_Weapon_Idea.description": "由“虚空■■■”赐予的邪异长枪。它蕴含虚空之力，每次挥动都能攻击周围 5 格内的所有敌人；杀死的生物越多，其锋利程度便越会无止境地增长。\n\n构成它的物质与“远渡星海之鸟·克里提亚斯”的外壳极其相似。它如同活物般散发热量并不断蠕动。\n\n据说其中吸纳了亿万灵魂，侧耳倾听时还能听见受苦灵魂的呻吟。\n\n\n\n\n\n这是曾经的我的一部分，请随意使用吧。",
+    "HAR_OT_Hediff_Bed_a.label": "贪食爱欲的雌鸟",
+    "HAR_OT_Hediff_Bed_a.description": "奥特姆陷入肉欲后的状态。肉体得到激活，身体能力暂时提升。\n\n奥特姆在遗传层面有着强烈性欲，一两次远远无法满足。她们如吞食猎物的肉食兽般贪婪，只会不断追求欢愉。\n\n此状态将在半天后结束。",
+    "HAR_OT_Hediff_Bed_b.label": "沉溺欢愉的猎物",
+    "HAR_OT_Hediff_Bed_b.description": "遭奥特姆以情欲尽情索取后的状态。\n\n奥特姆丝毫不顾及对方体力的攻势会彻底瓦解其理智。想与她们结为伴侣，就必须做好相应的心理准备。\n\n此状态会在数小时内完全恢复。",
+    "HAR_Outerm_KindBase_NPC.label": "奥特姆",
+    "Outerm.SpawnLevelLimit": "生成奥特姆时人工种族等级的上限：{0}",
+    "Outerm.SpawnLevelBoost": "生成奥特姆时人工种族等级的额外加值（不会超过上限）：{0}",
+    "Outerm.DisableNpcSkillF": "禁止 NPC 使用提丰纳斯【待核译名】",
+    "Outerm.DisableNpcSkillF_Desc": "启用后，NPC 奥特姆将不再使用提丰纳斯（跳跃能力）。",
+    "Outerm.DisableNpcSkillG": "禁止 NPC 使用埃莫拉吉亚【待核译名】",
+    "Outerm.DisableNpcSkillG_Desc": "启用后，NPC 奥特姆将不再使用埃莫拉吉亚（扇形冲击波能力）。",
+    "Outerm.DisableNpcSkillH": "禁止 NPC 使用提西福涅【待核译名】",
+    "Outerm.DisableNpcSkillH_Desc": "启用后，NPC 奥特姆将不再使用提西福涅（反射能力）。",
+    "Outerm.DisableNpcSkillI": "禁止 NPC 使用哈帕克提科【待核译名】",
+    "Outerm.DisableNpcSkillI_Desc": "启用后，NPC 奥特姆将不再使用哈帕克提科（吞食尸体能力）。",
+    "Outerm.DisableNpcSkillJ": "禁止 NPC 使用凯吕福斯【待核译名】",
+    "Outerm.DisableNpcSkillJ_Desc": "启用后，NPC 奥特姆将不再使用凯吕福斯（觉醒能力）。",
+    # Zoichor current 1.6 additions.
+    "HAR_ZC_Incident_a.label": "古老的约定",
+    "HAR_ZC_Incident_a.letterLabel": "古老的约定",
+    "HAR_ZC_Incident_a.letterText": "一名笼罩着阴郁气息的人工种族——锢魂魔加入了你的殖民地。\\n她不愿说明加入的原因，不过似乎无需担心她会背叛。\\n\\n她目前的力量正处于封印状态；推进相关研究，或许能够找到帮助她取回力量的契机。",
+    "Zoichor_Artificial.description": "锢魂魔是由人工种族的神子——伪神族·杜娜米丝创造的人工种族。她们在人工种族中地位特殊，获得力量的方式也与众不同：不会随时间自然变强，必须借助名为“罗迪西安”的果实进行强化。\n\n她们拥有强大的再生能力，只要肉体没有彻底灰飞烟灭，就会缓慢恢复至完好状态。\n\n\n她们是在监狱行星担任狱卒的地狱恶魔。在忠实履行职责的同时，也与盟友持续开展着自己的计划。一切皆为实现夙愿；她们不会在现世谈论此事，只是默默推进。\n\n“请你一定要帮助那些被虚假命运玩弄的人。”\n\n与神子缔结的约定，至今仍深深刻在锢魂魔的灵魂之中。",
+    "HAR_ZC_BMOT_Building_Incubator.description": "制造锢魂魔相关物品所需的设备。在梅拉夫也设置有许多同类装置，主要用于生成罗迪西安。\n\n\n这套设备由人工种族的神子——伪神族·杜娜米丝亲手设计。技术极为先进，但运行需要消耗大量资源。",
     "HAR_LL_Hive_Critias.label": "伪神族蜂巢·克里蒂亚斯",
     # Idhale EX: Tzvaot Shekinah — divine presence/glory of the hosts.
     "HAR_IH_Hediff_EX_a.label": "万军神临",
@@ -324,6 +362,9 @@ PUBLISHED_FILE_IDS = {
     "2871413100": "3769645094", "2946679071": "3769644534",
     "2954714860": "3769644933", "3153539856": "3769644777",
     "3505571618": "3769644292",
+    "3750626266": "3770548028", "3489429571": "3770548439",
+    "2729712799": "3770548499", "2706009136": "3770548562",
+    "3675887482": "3770548625", "3477749439": "3770548688",
 }
 
 
@@ -511,6 +552,7 @@ def write_readme(package: Path, mod_id: str, about: ET.Element) -> None:
     versions = [text(item) for item in about.findall("./supportedVersions/li")]
     dependency = text(about.find("./modDependencies/li/packageId"))
     workshop_id = PUBLISHED_FILE_IDS[mod_id]
+    workshop_text = workshop_id if workshop_id != "0" else "待首次上传后回填"
     version_text = "、".join(f"RimWorld {version}" for version in versions)
     package_text = text(about.find("packageId"))
     content = "\n".join([
@@ -520,7 +562,7 @@ def write_readme(package: Path, mod_id: str, about: ET.Element) -> None:
         "",
         "---",
         f"- 原模组创意工坊 ID：{mod_id}",
-        f"- 本汉化创意工坊 ID：{workshop_id}",
+        f"- 本汉化创意工坊 ID：{workshop_text}",
         f"- 兼容版本：{version_text}",
         f"- packageId：`{package_text}`",
         f"- 前置 packageId：`{dependency}`",
@@ -638,6 +680,9 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
     load_after = ET.SubElement(about, "loadAfter")
     ET.SubElement(load_after, "li").text = original_id
     xml_write(out / "About" / "About.xml", about)
+    preview_source = source / "About" / "Preview.png"
+    if preview_source.is_file():
+        shutil.copy2(preview_source, out / "About" / "Preview.png")
     write_readme(out, mod_id, about)
 
     defs = active_defs(source)
@@ -715,15 +760,39 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
             folder = out / "Languages" / "ChineseSimplified" / "Keyed"
             folder.mkdir(parents=True, exist_ok=True)
             xml_write(folder / file_name, language)
+    supplemental = Path(__file__).with_name("supplemental") / mod_id
+    if supplemental.is_dir():
+        shutil.copytree(supplemental, out, dirs_exist_ok=True)
+        for file in supplemental.rglob("*.xml"):
+            try:
+                written += sum(
+                    1 for child in ET.parse(file).getroot() if text(child)
+                )
+            except ET.ParseError:
+                continue
     return {"id": mod_id, "name": fallback_name, "status": "built", "entries": written, "path": str(out)}
 
 
 def main() -> None:
+    global WORKSHOP
     parser = argparse.ArgumentParser()
     parser.add_argument("--destination", type=Path, required=True)
+    parser.add_argument(
+        "--workshop-root",
+        type=Path,
+        default=WORKSHOP,
+        help="RimWorld Workshop content/294100 directory containing source mods",
+    )
+    parser.add_argument(
+        "--mod-id",
+        action="append",
+        dest="mod_ids",
+        help="Build only the selected original Workshop ID (repeatable)",
+    )
     parser.add_argument("--translate-google", action="store_true")
     parser.add_argument("--steam-vdf-dir", type=Path)
     args = parser.parse_args()
+    WORKSHOP = args.workshop_root
     args.destination.mkdir(parents=True, exist_ok=True)
     for mod_id in EXCLUDED_OUTPUT_IDS:
         for folder in args.destination.glob(f"{mod_id} - * Chinese"):
@@ -733,7 +802,14 @@ def main() -> None:
     # Earlier generator revisions used a failed batch format.  Remove those
     # Japanese fallbacks so they are translated correctly on this run.
     cache = {source: target for source, target in cache.items() if not is_japanese(target)}
-    report = [build_one(mid, name, args.destination, args.translate_google, cache) for mid, name in MODS]
+    selected_mods = [
+        (mid, name) for mid, name in MODS
+        if not args.mod_ids or mid in set(args.mod_ids)
+    ]
+    report = [
+        build_one(mid, name, args.destination, args.translate_google, cache)
+        for mid, name in selected_mods
+    ]
     if args.steam_vdf_dir:
         write_steam_vdfs(args.destination, args.steam_vdf_dir)
     cache_file.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")

@@ -1,5 +1,8 @@
 # Generated SteamCMD manifests carry machine-specific absolute paths.
 steam_upload/
+original_mods/
+**/.DS_Store
+Mods/.translation-cache.json
 
 # SteamCMD runtime downloaded locally for Workshop publishing.
 tools/

@@ -2,6 +2,11 @@
 
 本仓库收录 Aya 人工种族系列的独立简体中文汉化包。每个目录均可单独作为 RimWorld 模组使用；加载时请将原模组置于对应汉化包之前。
 
+同时提供一个覆盖全部已维护项目的整合包：
+[Aya 人工种族简体中文整合汉化包](https://steamcommunity.com/sharedfiles/filedetails/?id=3770548798)。
+整合包不强制依赖所有原模组，只需安装实际游玩的原模组，并将整合包置于它们之后加载；
+不要再同时启用对应的独立汉化包。
+
 各模组目录中的 `README.md` 由 `About/About.xml` 生成，使用与 Steam 创意工坊上传 VDF 相同的标题、简介、兼容版本及依赖元数据。
 
 `Mods/BUILD-REPORT.json` 记录了本次构建的模组列表和翻译条目数。`build_translations.py` 用于从本地创意工坊源目录增量重建本仓库内容；不包含原模组的资源或程序集。
@@ -14,6 +19,8 @@
 - 魅魔（Nearmare）
 - 混沌灵（Chaoura）
 - 牧菌妖姬（Neclose）
+- 涅克萨迦（Nexaga）
+- 奥特姆（Outerm）
 - 索拉克（龙姬，Solark）
 - 人鱼姬（Xenoorca）
 - 伪神族（Littluna）
@@ -22,6 +29,15 @@
 - 锢魂魔（Zoichor）
 - 伊迪安（Idearn）
 - 女王种（Requeen Boss）
+
+## 本次新增独立汉化
+
+- [Canaan Intellect](https://steamcommunity.com/sharedfiles/filedetails/?id=3770548028)
+- [Chaoura UB](https://steamcommunity.com/sharedfiles/filedetails/?id=3770548439)
+- [Enforcer Boss](https://steamcommunity.com/sharedfiles/filedetails/?id=3770548499)
+- [Nexaga Race](https://steamcommunity.com/sharedfiles/filedetails/?id=3770548562)
+- [Outerm Race](https://steamcommunity.com/sharedfiles/filedetails/?id=3770548625)
+- [Zoichor Race](https://steamcommunity.com/sharedfiles/filedetails/?id=3770548688)
 
 特殊形态名称以各模组目录中的 README 和游戏内文本为准。
 

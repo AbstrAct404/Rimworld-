@@ -1,0 +1,275 @@
+{
+  "packageId": "abstract404.aya.integrated.zh",
+  "includedPackages": [
+    {
+      "originalWorkshopId": "2198830432",
+      "folder": "2198830432 - Nearmare Race Chinese",
+      "entriesRead": 365
+    },
+    {
+      "originalWorkshopId": "2216916011",
+      "folder": "2216916011 - Xenoorca Race Chinese",
+      "entriesRead": 157
+    },
+    {
+      "originalWorkshopId": "2227425882",
+      "folder": "2227425882 - Idhale Race Chinese",
+      "entriesRead": 144
+    },
+    {
+      "originalWorkshopId": "2233666290",
+      "folder": "2233666290 - Silkiera Race Chinese",
+      "entriesRead": 266
+    },
+    {
+      "originalWorkshopId": "2394460334",
+      "folder": "2394460334 - Neclose Race Chinese",
+      "entriesRead": 185
+    },
+    {
+      "originalWorkshopId": "2504657401",
+      "folder": "2504657401 - Requeen Boss Chinese",
+      "entriesRead": 125
+    },
+    {
+      "originalWorkshopId": "2569091688",
+      "folder": "2569091688 - Littluna Race Chinese",
+      "entriesRead": 208
+    },
+    {
+      "originalWorkshopId": "2608237489",
+      "folder": "2608237489 - Solark Race Chinese",
+      "entriesRead": 102
+    },
+    {
+      "originalWorkshopId": "2676302514",
+      "folder": "2676302514 - Saclean Race Chinese",
+      "entriesRead": 87
+    },
+    {
+      "originalWorkshopId": "2706009136",
+      "folder": "2706009136 - Nexaga Race Chinese",
+      "entriesRead": 93
+    },
+    {
+      "originalWorkshopId": "2729712799",
+      "folder": "2729712799 - Enforcer Boss Chinese",
+      "entriesRead": 45
+    },
+    {
+      "originalWorkshopId": "2763078885",
+      "folder": "2763078885 - Qualeela Race Chinese",
+      "entriesRead": 154
+    },
+    {
+      "originalWorkshopId": "2871413100",
+      "folder": "2871413100 - Idearn Race Chinese",
+      "entriesRead": 154
+    },
+    {
+      "originalWorkshopId": "2946679071",
+      "folder": "2946679071 - Chaoura Race Chinese",
+      "entriesRead": 148
+    },
+    {
+      "originalWorkshopId": "2954714860",
+      "folder": "2954714860 - Idea Storyteller Chinese",
+      "entriesRead": 3
+    },
+    {
+      "originalWorkshopId": "3153539856",
+      "folder": "3153539856 - Eveliet Race Chinese",
+      "entriesRead": 168
+    },
+    {
+      "originalWorkshopId": "3477749439",
+      "folder": "3477749439 - Zoichor Race Chinese",
+      "entriesRead": 164
+    },
+    {
+      "originalWorkshopId": "3489429571",
+      "folder": "3489429571 - Chaoura UB Chinese",
+      "entriesRead": 136
+    },
+    {
+      "originalWorkshopId": "3505571618",
+      "folder": "3505571618 - Aya Premise Core Chinese",
+      "entriesRead": 51
+    },
+    {
+      "originalWorkshopId": "3675887482",
+      "folder": "3675887482 - Outerm Race Chinese",
+      "entriesRead": 241
+    },
+    {
+      "originalWorkshopId": "3750626266",
+      "folder": "3750626266 - Canaan Intellect Chinese",
+      "entriesRead": 163
+    }
+  ],
+  "uniqueEntriesWritten": 3020,
+  "conflictCount": 23,
+  "conflicts": [
+    {
+      "key": "Aya_Race_Ap_C_T_d.label",
+      "keptValue": "儿童学生服",
+      "keptFrom": "2227425882",
+      "ignoredValue": "儿童款式学生服装",
+      "ignoredFrom": "2569091688"
+    },
+    {
+      "key": "Aya_Race_Ap_C_T_d.label",
+      "keptValue": "儿童学生服",
+      "keptFrom": "2227425882",
+      "ignoredValue": "儿童学生服装",
+      "ignoredFrom": "2676302514"
+    },
+    {
+      "key": "Aya_Race_Ap_C_T_d.label",
+      "keptValue": "儿童学生服",
+      "keptFrom": "2763078885",
+      "ignoredValue": "儿童款式学生服装",
+      "ignoredFrom": "2946679071"
+    },
+    {
+      "key": "Message_CannotUseEquipment",
+      "keptValue": "{0}无法使用该装备，已将其丢下。",
+      "keptFrom": "2946679071",
+      "ignoredValue": "{0} 无法使用这件装备，已将其丢下。",
+      "ignoredFrom": "3477749439"
+    },
+    {
+      "key": "HAR_CO_UB_Damage_a.label",
+      "keptValue": "空之剑",
+      "keptFrom": "2946679071",
+      "ignoredValue": "天之剑",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_UB_Damage_EX_b.label",
+      "keptValue": "拂晓明星之女",
+      "keptFrom": "2946679071",
+      "ignoredValue": "黎明之女．晨星",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "Chaoura_Faction_NPC_b.description",
+      "keptValue": "信奉着冥天虑这一宗教的混沌灵派系…应该。",
+      "keptFrom": "2946679071",
+      "ignoredValue": "信奉着冥天虑这一宗教的混沌灵派系...大概吧。",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "Chaoura_Artificial_z.description",
+      "keptValue": "混沌灵·阿瓦露其安是超越人工种族范畴、立于伊什穆提特顶点的存在。她们甚至难以被视为生物学意义上的生命，不需要满足任何维持生存的欲求。\n\n她们拥有近乎创造者的高度智慧与技术，是抵达群星彼端的新生命形态。怀抱必须完成的使命，她们仍在不断飞向更高处。",
+      "keptFrom": "2946679071",
+      "ignoredValue": "混沌灵·阿瓦露其安是超越了人工种族范畴的存在，是伊什穆提特之顶点的种族。\\n从生物学的角度来看，她们甚至无法被视为一般的生命体，因为她们完全不需要任何为了生存而产生的欲求。\\n\\n\\n凭借近乎造物主等级的智慧与技术，这些新生命的形式已踏足星辰之外的彼方。\\n怀抱着必须完成的神圣使命，她们仍不断飞翔，追寻更高的境界。",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_UB_Hediff_Clone.description",
+      "keptValue": "混沌灵·阿瓦露其安召来的平行世界个体，正作为阿瓦露其安的盟友作战。\n\n她只是暂时来到这个世界，经过一段时间或死亡后便会返回原本的世界。",
+      "keptFrom": "2946679071",
+      "ignoredValue": "由混沌灵·阿瓦露其安召唤出的平行存在。\\n作为阿瓦露其安的友军一同战斗。\\n\\n由于只是暂时来到这个世界，在经过一定时间或死亡后便会返回原本的世界。",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_UB_Hediff_EX_Penalty.label",
+      "keptValue": "其魂，非灵长所能",
+      "keptFrom": "2946679071",
+      "ignoredValue": "其魂，难达灵长之域",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_UB_Hediff_EX_Penalty.description",
+      "keptValue": "并非阿瓦露其安之人强行装备无限之光时所受到的惩戒。\n\n这一惩戒将会持续数年。\n\n生命，每一天都在持续着进化。\n而作为其顶点的灵长类，也在不断地变化着。\n在这个将星间航行化为了现实的时代，\n仍然需要依赖着物质容器的生命，已经是相当古老的形态了。",
+      "keptFrom": "2946679071",
+      "ignoredValue": "非混沌灵·阿瓦露其安者若装备无限光，将触发惩罚。\\n\\n此惩罚将持续数年。\\n\\n生命每天都在进化。\\n即便是作为顶点的灵长类，也会随着岁月而变化。\\n在这个能够穿越星海的时代，\\n仍依赖物质之器的生命，或许已属于旧时代了。",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_UB_Hediff_Promise.label",
+      "keptValue": "古老约定",
+      "keptFrom": "2946679071",
+      "ignoredValue": "古老的约定",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_UB_Hediff_Limit.description",
+      "keptValue": "表示混沌灵·阿瓦露其安能够维持现世存在的极限。通常处于无敌状态；数值达到 100% 时，无敌效果将被解除。\n\n对集合精神“艾芙耶谢尔”而言，阿瓦露其安只是其在现世活动的容器。容器本身超越物理法则，并不存在通常意义上的死亡；但容器毕竟不同于灵魂，并非绝对不灭。若持续承受过量攻击，阿瓦露其安的无敌性最终仍会崩溃。若在此状态下死亡，肉体将立即消散。",
+      "keptFrom": "2946679071",
+      "ignoredValue": "显现出混沌灵·阿瓦露其安所能存在的极限。\\n通常情况下她是无敌的，但当数值达到 100% 时，无敌状态将会解除。\\n\\n对于集合意识艾芙耶谢尔而言，阿瓦露其安只是其在现世中活动所使用的容器。\\n这个容器本身已超越物理法则，因此没有死亡的概念。\\n然而，容器毕竟不同于灵魂，并非真正意义上的不死，\\n若持续受到过量攻击，最终仍可能导致阿瓦露其安的无敌崩坏。\\n在那种状态下死亡的话，其肉体将会立即消失无踪。",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_UB_Incident_a.letterText",
+      "keptValue": "未知的白色混沌灵出现在了殖民地中。\\n她拥有着远超已知人工种族的力量。\\n请调动最高的战力对其进行讨伐。",
+      "keptFrom": "2946679071",
+      "ignoredValue": "未知的白色混沌灵出现在殖民地中。\\n其力量似乎远远凌驾于现有的人工种族之上。\\n请以最大战力迎击。",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_UB_Research_A.description",
+      "keptValue": "为与白垩的殉教者相遇而进行研究。",
+      "keptFrom": "2946679071",
+      "ignoredValue": "为了与白垩的殉道者相遇而进行研究。",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_UB_Research_B.label",
+      "keptValue": "隐匿的契约",
+      "keptFrom": "2946679071",
+      "ignoredValue": "被秘藏的盟约",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_UB_Research_B.description",
+      "keptValue": "为与白垩的殉教者相遇而进行研究。",
+      "keptFrom": "2946679071",
+      "ignoredValue": "为了与白垩的殉道者相遇而进行研究。",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_UB_Research_C.description",
+      "keptValue": "为与白垩的殉教者相遇而进行研究。",
+      "keptFrom": "2946679071",
+      "ignoredValue": "为了与白垩的殉道者相遇而进行研究。",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_UB_Research_D.description",
+      "keptValue": "为与白垩的殉教者相遇而进行研究。",
+      "keptFrom": "2946679071",
+      "ignoredValue": "为了与白垩的殉道者相遇而进行研究。",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_UB_Research_E.label",
+      "keptValue": "盟约的尽头",
+      "keptFrom": "2946679071",
+      "ignoredValue": "盟约的终焉",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_UB_Research_E.description",
+      "keptValue": "为与白垩的殉教者相遇而进行研究。",
+      "keptFrom": "2946679071",
+      "ignoredValue": "为了与白垩的殉道者相遇而进行研究。",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_Weapon_UB.label",
+      "keptValue": "无限之光",
+      "keptFrom": "2946679071",
+      "ignoredValue": "无限光",
+      "ignoredFrom": "3489429571"
+    },
+    {
+      "key": "HAR_CO_Weapon_UB.description",
+      "keptValue": "混沌灵·阿瓦露其安持有的巨剑，从材料到制造工艺都笼罩在谜团之中。\n\n它仿照原型神子曾挥舞的圣剑制成，性能却远超原物。每次挥动都能将周围敌人一并斩裂，顷刻堆起尸山。由于这把剑不属于现世，只有同样脱离常理的存在才能握持。\n\n这把灵剑由集合精神“艾芙耶谢尔”创造，至今仍未完成。即便如此强大的武器，距离斩杀假想敌■■■仍遥不可及。她们仍相信终有一日能够讨伐目标，因此从未停止锻造。",
+      "keptFrom": "2946679071",
+      "ignoredValue": "混沌灵·阿瓦露其安所持有的大剑。\\n从材质到制作过程，一切都笼罩在谜团之中。\\n\\n这把武器以神子曾经挥舞的圣剑作为原型仿制，但性能远远超越原型。\\n一旦挥动，便能将周围的敌人一网打尽，瞬间堆积起尸山。\\n然而，因为这是超越现世的剑，能握持它的仅限于同样脱离常理的存在。\\n\\n\\n由集合意识艾芙耶谢尔所创造，尚未完成的灵剑。\\n即便是这样的武器，也远远不足以斩杀其假想敌■■■。\\n但她们仍然相信，有一天必定能将其讨伐，因此持续锻造这把剑。",
+      "ignoredFrom": "3489429571"
+    }
+  ]
+}

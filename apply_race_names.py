@@ -57,6 +57,10 @@ SPECIAL_FORMS = {
 
 # Longest and most specific replacements must run first.
 TEXT_REPLACEMENTS = {
+    "埃菲耶阿谢尔": "艾芙耶谢尔",
+    "艾菲娅瑟尔": "艾芙耶谢尔",
+    "阿瓦露琪安": "阿瓦露其安",
+    "冥天慮": "冥天虑",
     # Littluna's 決戦種 is an epithet for its intended battlefield role,
     # rather than the name of a separate race.
     "幼年决战种": "年幼的“决战种”",
@@ -478,6 +482,8 @@ def override_language_keys() -> None:
     # take precedence where both maps contain the same key.
     game_overrides = {**BUILD_KEY_OVERRIDES, **KEY_OVERRIDES}
     for path in (ROOT / "Mods").rglob("Languages/ChineseSimplified/**/*.xml"):
+        if "0000000000 - Aya Integrated Chinese" in path.parts:
+            continue
         root = ET.parse(path).getroot()
         changed = False
         for node in root:
@@ -505,6 +511,8 @@ def override_language_keys() -> None:
 def update_about_and_readmes() -> None:
     for package in sorted((ROOT / "Mods").glob("* Chinese")):
         mod_id = package.name.split(" - ", 1)[0]
+        if mod_id == "0000000000":
+            continue
         about_path = package / "About" / "About.xml"
         root = ET.parse(about_path).getroot()
         forms = MOD_FORMS.get(mod_id)

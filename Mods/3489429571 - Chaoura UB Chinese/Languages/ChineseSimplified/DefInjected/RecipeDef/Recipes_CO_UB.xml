@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_CO_UB_Recipe_a.label>异象之书</HAR_CO_UB_Recipe_a.label>
+  <HAR_CO_UB_Recipe_a.description>从地行者生成异象之书。</HAR_CO_UB_Recipe_a.description>
+  <HAR_CO_UB_Recipe_a.jobString>创造中</HAR_CO_UB_Recipe_a.jobString>
+  <HAR_CO_UB_Recipe_b.label>盟约之灵</HAR_CO_UB_Recipe_b.label>
+  <HAR_CO_UB_Recipe_b.description>从地行者生成盟约之灵。</HAR_CO_UB_Recipe_b.description>
+  <HAR_CO_UB_Recipe_b.jobString>创造中</HAR_CO_UB_Recipe_b.jobString>
+</LanguageData>

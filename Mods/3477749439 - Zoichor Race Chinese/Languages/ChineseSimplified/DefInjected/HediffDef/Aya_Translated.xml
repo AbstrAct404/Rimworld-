@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_ZC_Hediff_strike.label>恶魔的一击</HAR_ZC_Hediff_strike.label>
+  <HAR_ZC_Hediff_strike.description>锢魂魔发出的强烈踢击。\n受到这一击的人会感受到剧烈的痛楚。\n\n此状态会在一个季节后解除。\n\n曾经在迦南有一位傍若无人的王族。\n由于其强大的权势，没有人敢反抗，整个王国因此陷入困境，\n正当此时，一位偶然造访迦南的锢魂魔，在提出忠告的同时，将此击赠予了王族。\n王族在此后的数月中，经历了痛苦的煎熬，\n直到痛楚平息，才悔过自新，成为了一位良善的国王。\n\n题外话，锢魂魔以爱踢腿而着名。</HAR_ZC_Hediff_strike.description>
+  <HAR_ZC_Hediff_c.label>幽暗的冻灼</HAR_ZC_Hediff_c.label>
+  <HAR_ZC_Hediff_c.description>被锢魂魔的苍炎所烧灼的状态。\n看似遭受烈焰焚烧，表面却凝结着冰霜。\n\n被苍炎灼烧的目标，将暂时失去对高温与火焰的耐性。\n此状态会在数小时内自动解除。\n\n这种外伤在梅拉芙的罪人身上相当常见。\n他们在刑罚过程中反复被灼烧，皮肤不断被破坏。</HAR_ZC_Hediff_c.description>
+  <Zoichor_Artificial.label>人工种族(锢魂魔)</Zoichor_Artificial.label>
+  <Zoichor_Artificial.description>锢魂魔是由人工种族的神子——伪神族·杜娜米丝创造的人工种族。她们在人工种族中地位特殊，获得力量的方式也与众不同：不会随时间自然变强，必须借助名为“罗迪西安”的果实进行强化。
+
+她们拥有强大的再生能力，只要肉体没有彻底灰飞烟灭，就会缓慢恢复至完好状态。
+
+
+她们是在监狱行星担任狱卒的地狱恶魔。在忠实履行职责的同时，也与盟友持续开展着自己的计划。一切皆为实现夙愿；她们不会在现世谈论此事，只是默默推进。
+
+“请你一定要帮助那些被虚假命运玩弄的人。”
+
+与神子缔结的约定，至今仍深深刻在锢魂魔的灵魂之中。</Zoichor_Artificial.description>
+  <HAR_ZC_Hediff_b.label>白银币</HAR_ZC_Hediff_b.label>
+  <HAR_ZC_Hediff_b.description>正式名称『神子的白银币』。\n锢魂魔将人工种族特有的虚数能力，大部分资源投入到这枚银币的生成当中。\n将这枚银币投入到苍褪的太阳中进行熔烧，便会引发特异的现象。\n\n这枚银币是可能性在创造锢魂魔后，赐予她们的技术，亦是纪念之物。\n银币的正反两面，分别描绘了两位神子的侧颜。\n\n（最大容量为100/每日自动恢复）</HAR_ZC_Hediff_b.description>
+  <HAR_ZC_Hediff_a.label>苍褪的太阳</HAR_ZC_Hediff_a.label>
+  <HAR_ZC_Hediff_a.description>锢魂魔所背负的，是一颗散发着苍白光芒的黑色太阳。\n其本质是拥有巨大质量却极低重量的存在。\n其释放的火焰，虽为炎，却能将炙烧之物冻结。\n无视宇宙的物理法则，拥有极端的特异性。\n\n最初处于『封印』状态，需通过使用罗迪西昂来逐步解放力量。\n使用达到一定数量后，其阶段会逐步提升，总共分为六阶段：\n『封印』『灯火』『燐火』『天火』『净火』『劫火』\n\n\n其原型是混沌灵从地狱带回的冰冷火焰。\n而神子则使用从造物主处继承的技术，将这火焰升华成了太阳的形式。\n\n\n在太阳之中，穿越洞口后，迎面而来的是一片深不可测的深渊。\n其中究竟有什么？又有什么正在沉眠？\n只有锢魂魔与其盟友知晓其中的真相。</HAR_ZC_Hediff_a.description>
+  <HAR_ZC_Hediff_e.label>地狱的责罚</HAR_ZC_Hediff_e.label>
+  <HAR_ZC_Hediff_e.description>被锢魂魔的力量从体内射出钉子的状态。\n\n受到此攻击者的装甲会被破坏，陷入脆弱状态。\n此状态会在数小时后解除。\n\n某些罪人因肉体强韧，使得普通刑罚难以奏效。\n然而，在锢魂魔的力量面前，任何肉体的防御都毫无意义。\n毛皮、甲壳、骨骼被强行剥离，柔软的神经被直接拖出暴露。\n如此一来，所有罪人都能平等地接受刑罚。\n只要仍是罪人，就绝无可能逃离责苦。</HAR_ZC_Hediff_e.description>
+  <HAR_ZC_Hediff_d.label>剜出的罪孽</HAR_ZC_Hediff_d.label>
+  <HAR_ZC_Hediff_d.description>受到锢魂魔的干涉波影响的状态。\n内心被罪恶感所折磨，丧失战斗能力。\n\n此状态会在数小时后解除。\n\n这是用来让梅拉芙的罪人认知自身罪孽的力量。\n被剖出的罪过让人无法移开目光，只能如同祈祷般，不断重复着忏悔。\n那副模样，如同虔诚的信徒一般。</HAR_ZC_Hediff_d.description>
+  <HAR_ZC_Hediff_f.label>黄泉归来</HAR_ZC_Hediff_f.label>
+  <HAR_ZC_Hediff_f.description>受锢魂魔之力复活的状态。\n\n因为复活的副作用而失去了行动能力。\n此状态会在一个季节后解除。\n\n在梅拉芙，死亡并非终结\n\n即使因无法承受责苦而选择自尽。\n即使在反复的刑罚中，身心达到极限。\n即使年老体衰，最终自然老死。\n锢魂魔都会将那人的灵魂重新召回现世。\n\n只要刑期未满，就永远不得解脱。</HAR_ZC_Hediff_f.description>
+  <HAR_ZC_Hediff_EX.description>被阿拉斯托耳斩中的状态。\n只要是仍怀有良知之人，就无法逃离自己所犯下的罪孽。\n\n\n王族们为了立下的誓言使命，侵略边境星球，肆意施行破坏。\n然而，即便有所理由，杀戮仍是杀戮，这是纵使倾尽一生也无法赎清的大罪。\n因此，他们留下后代，完成使命的世代则拖着沉重的脚步前往梅拉芙。\n在那里，坦承自己的罪行，由锢魂魔以刀刃斩首，完成最终的清算。\n遗体与首级最终会被埋入冰冷的冻土深处，永不再苏醒。\n\n唯有锢魂魔，知晓王族们那痛苦的忏悔。</HAR_ZC_Hediff_EX.description>
+  <HAR_ZC_Hediff_EX_Penalty.label>汝，并非法狱之人</HAR_ZC_Hediff_EX_Penalty.label>
+  <HAR_ZC_Hediff_EX_Penalty.description>非锢魂魔者装备阿拉斯托耳时所产生的惩罚。\n\n此惩罚会持续数年之久。\n\n阿拉斯托尔会自行挑选持有者。\n唯有地狱之存在被允许挥舞此剑，其他者将遭受审判。\n与天堂不同，地狱之中亦有严密的法则存在。</HAR_ZC_Hediff_EX_Penalty.description>
+  <HAR_ZC_Hediff_g.label>深渊之衣</HAR_ZC_Hediff_g.label>
+  <HAR_ZC_Hediff_g.description>锢魂魔展开了特殊的膜状屏障的状态。\n敌人的攻击会以高概率被反射，且反射的伤害取决于对方攻击的强度。\n此状态会在数小时后解除。\n\n此为混沌灵送给锢魂魔的概念之衣。\n结合了锢魂魔的力量，形成了不依赖黑暗环境的反射屏障。\n至于混沌灵如何研究这项技术，至今无人知晓。\n但能确定的是，即便对手集王国、工业与教会的力量于一身也无法抗衡，\n这或许可以称作接近曾经的造物主和神子权能的深渊造诣。</HAR_ZC_Hediff_g.description>
+  <HAR_ZC_Food_Hediff_a.label>地狱之热</HAR_ZC_Food_Hediff_a.label>
+  <HAR_ZC_Food_Hediff_a.description>食用了地狱浓汤后的状态。\n全身充满热气，对酷暑与严寒的耐性显着提升。\n\n此状态会持续一天。\n\n\n「啊啊啊啊啊啊，好冷好冷好冷啊～！纠罪酱快煮浓汤啦～！再这样下去我就要变成冰雕啦！」\n\n神子来访的那一天，总是比平时热闹。\n而照料她的锢魂魔们，脸上似乎带着一丝喜悦。\n\n那是一段再也无法重现的景色。</HAR_ZC_Food_Hediff_a.description>
+</LanguageData>

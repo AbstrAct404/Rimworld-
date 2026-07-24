@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_CO_UB_Hediff_Limit.label>显现临界</HAR_CO_UB_Hediff_Limit.label>
+  <HAR_CO_UB_Hediff_Limit.description>显现出混沌灵·阿瓦露其安所能存在的极限。\n通常情况下她是无敌的，但当数值达到 100% 时，无敌状态将会解除。\n\n对于集合意识艾芙耶谢尔而言，阿瓦露其安只是其在现世中活动所使用的容器。\n这个容器本身已超越物理法则，因此没有死亡的概念。\n然而，容器毕竟不同于灵魂，并非真正意义上的不死，\n若持续受到过量攻击，最终仍可能导致阿瓦露其安的无敌崩坏。\n在那种状态下死亡的话，其肉体将会立即消失无踪。</HAR_CO_UB_Hediff_Limit.description>
+  <HAR_CO_UB_Hediff_Limit.stages._0.label>0%</HAR_CO_UB_Hediff_Limit.stages._0.label>
+  <HAR_CO_UB_Hediff_Limit.stages._5.label>5%</HAR_CO_UB_Hediff_Limit.stages._5.label>
+  <HAR_CO_UB_Hediff_Limit.stages._10.label>10%</HAR_CO_UB_Hediff_Limit.stages._10.label>
+  <HAR_CO_UB_Hediff_Limit.stages._15.label>15%</HAR_CO_UB_Hediff_Limit.stages._15.label>
+  <HAR_CO_UB_Hediff_Limit.stages._20.label>20%</HAR_CO_UB_Hediff_Limit.stages._20.label>
+  <HAR_CO_UB_Hediff_Limit.stages._25.label>25%</HAR_CO_UB_Hediff_Limit.stages._25.label>
+  <HAR_CO_UB_Hediff_Limit.stages._30.label>30%</HAR_CO_UB_Hediff_Limit.stages._30.label>
+  <HAR_CO_UB_Hediff_Limit.stages._35.label>35%</HAR_CO_UB_Hediff_Limit.stages._35.label>
+  <HAR_CO_UB_Hediff_Limit.stages._40.label>40%</HAR_CO_UB_Hediff_Limit.stages._40.label>
+  <HAR_CO_UB_Hediff_Limit.stages._45.label>45%</HAR_CO_UB_Hediff_Limit.stages._45.label>
+  <HAR_CO_UB_Hediff_Limit.stages._50.label>50%</HAR_CO_UB_Hediff_Limit.stages._50.label>
+  <HAR_CO_UB_Hediff_Limit.stages._55.label>55%</HAR_CO_UB_Hediff_Limit.stages._55.label>
+  <HAR_CO_UB_Hediff_Limit.stages._60.label>60%</HAR_CO_UB_Hediff_Limit.stages._60.label>
+  <HAR_CO_UB_Hediff_Limit.stages._65.label>65%</HAR_CO_UB_Hediff_Limit.stages._65.label>
+  <HAR_CO_UB_Hediff_Limit.stages._70.label>70%</HAR_CO_UB_Hediff_Limit.stages._70.label>
+  <HAR_CO_UB_Hediff_Limit.stages._75.label>75%</HAR_CO_UB_Hediff_Limit.stages._75.label>
+  <HAR_CO_UB_Hediff_Limit.stages._80.label>80%</HAR_CO_UB_Hediff_Limit.stages._80.label>
+  <HAR_CO_UB_Hediff_Limit.stages._85.label>85%</HAR_CO_UB_Hediff_Limit.stages._85.label>
+  <HAR_CO_UB_Hediff_Limit.stages._90.label>90%</HAR_CO_UB_Hediff_Limit.stages._90.label>
+  <HAR_CO_UB_Hediff_Limit.stages._95.label>95%</HAR_CO_UB_Hediff_Limit.stages._95.label>
+  <HAR_CO_UB_Hediff_Limit.stages._100.label>100%</HAR_CO_UB_Hediff_Limit.stages._100.label>
+</LanguageData>

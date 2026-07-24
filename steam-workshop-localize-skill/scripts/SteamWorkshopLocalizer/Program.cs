@@ -42,6 +42,13 @@ try
     foreach (string manifestPath in manifests)
     {
         var item = ReadManifest(manifestPath);
+        if (item.PublishedFileId == 0)
+        {
+            ulong createdId = CreateWorkshopItem(appId);
+            ReplacePublishedFileId(manifestPath, createdId);
+            item = item with { PublishedFileId = createdId };
+            Console.WriteLine($"CREATED {createdId} manifest={manifestPath}");
+        }
         Console.WriteLine($"START {item.PublishedFileId} {item.Title}");
 
         UGCUpdateHandle_t handle = SteamUGC.StartItemUpdate(
@@ -60,6 +67,21 @@ try
         Require(SteamUGC.SetItemUpdateLanguage(handle, language), "SetItemUpdateLanguage");
         Require(SteamUGC.SetItemTitle(handle, item.Title), "SetItemTitle");
         Require(SteamUGC.SetItemDescription(handle, item.Description), "SetItemDescription");
+        Require(
+            SteamUGC.SetItemVisibility(
+                handle,
+                ERemoteStoragePublishedFileVisibility.k_ERemoteStoragePublishedFileVisibilityPublic
+            ),
+            "SetItemVisibility"
+        );
+        if (!string.IsNullOrWhiteSpace(item.PreviewFile))
+        {
+            if (!File.Exists(item.PreviewFile))
+                throw new FileNotFoundException(
+                    $"Preview file does not exist: {item.PreviewFile}"
+                );
+            Require(SteamUGC.SetItemPreview(handle, item.PreviewFile), "SetItemPreview");
+        }
 
         SteamAPICall_t apiCall = SteamUGC.SubmitItemUpdate(
             handle,
@@ -123,7 +145,66 @@ static WorkshopItem ReadManifest(string path)
     string? contentFolder = OptionalField(value, "contentfolder");
     if (contentFolder is not null)
         contentFolder = Unescape(contentFolder);
-    return new WorkshopItem(id, title, description, contentFolder);
+    string? previewFile = OptionalField(value, "previewfile");
+    if (previewFile is not null)
+        previewFile = Unescape(previewFile);
+    return new WorkshopItem(id, title, description, contentFolder, previewFile);
+}
+
+static ulong CreateWorkshopItem(uint appId)
+{
+    bool finished = false;
+    EResult result = EResult.k_EResultNone;
+    bool ioFailure = false;
+    bool legalAgreementRequired = false;
+    ulong publishedFileId = 0;
+    using var callResult = CallResult<CreateItemResult_t>.Create((data, failed) =>
+    {
+        result = data.m_eResult;
+        ioFailure = failed;
+        legalAgreementRequired = data.m_bUserNeedsToAcceptWorkshopLegalAgreement;
+        publishedFileId = data.m_nPublishedFileId.m_PublishedFileId;
+        finished = true;
+    });
+    callResult.Set(
+        SteamUGC.CreateItem(
+            new AppId_t(appId),
+            EWorkshopFileType.k_EWorkshopFileTypeCommunity
+        )
+    );
+    var deadline = DateTime.UtcNow.AddSeconds(60);
+    while (!finished && DateTime.UtcNow < deadline)
+    {
+        SteamAPI.RunCallbacks();
+        Thread.Sleep(100);
+    }
+    if (!finished || ioFailure || result != EResult.k_EResultOK || publishedFileId == 0)
+        throw new InvalidOperationException(
+            $"CreateItem failed: finished={finished}, result={result}, " +
+            $"ioFailure={ioFailure}, publishedFileId={publishedFileId}."
+        );
+    if (legalAgreementRequired)
+        throw new InvalidOperationException(
+            $"Steam requires a Workshop legal agreement for new item {publishedFileId}."
+        );
+    return publishedFileId;
+}
+
+static void ReplacePublishedFileId(string path, ulong publishedFileId)
+{
+    string value = File.ReadAllText(path);
+    string updated = new Regex(
+        "(\"publishedfileid\"\\s*\")0(\")"
+    ).Replace(
+        value,
+        match => match.Groups[1].Value + publishedFileId + match.Groups[2].Value,
+        1
+    );
+    if (updated == value)
+        throw new InvalidDataException(
+            $"Could not replace zero publishedfileid in manifest: {path}"
+        );
+    File.WriteAllText(path, updated);
 }
 
 static string Field(string value, string key)
@@ -207,5 +288,6 @@ sealed record WorkshopItem(
     ulong PublishedFileId,
     string Title,
     string Description,
-    string? ContentFolder
+    string? ContentFolder,
+    string? PreviewFile
 );

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Aya_CI_Archotech_ThingCategoryDef.label>圣遗物</Aya_CI_Archotech_ThingCategoryDef.label>
+  <Category_Aya_Race.label>人工种族服装</Category_Aya_Race.label>
+  <Category_Chaoura.label>混沌灵的服装</Category_Chaoura.label>
+  <Category_Eveliet.label>伊娃莉特的服装</Category_Eveliet.label>
+  <Category_Idearn.label>伊迪安的服装</Category_Idearn.label>
+  <Category_Idhale.label>幽灵姬服装</Category_Idhale.label>
+  <Category_Littluna.label>伪神族的服装</Category_Littluna.label>
+  <Category_Nearmaere.label>人工种族服装（成年魅魔）</Category_Nearmaere.label>
+  <Category_Neclose.label>牧菌妖姬的服装</Category_Neclose.label>
+  <Category_Outerm.label>奥特姆的服装</Category_Outerm.label>
+  <Category_Qualeela.label>库莉菈的服装</Category_Qualeela.label>
+  <Category_Saclean.label>飞蛾姬的服装</Category_Saclean.label>
+  <Category_Silkiera.label>亚人兽娘的服装</Category_Silkiera.label>
+  <Category_Solark.label>索拉克服饰</Category_Solark.label>
+  <Category_Xenoorca.label>人鱼姬的服装</Category_Xenoorca.label>
+  <Category_Zoichor.label>锢魂魔的服装</Category_Zoichor.label>
+  <HAR_IA_Category_Material.label>伊迪安生成零件</HAR_IA_Category_Material.label>
+  <HAR_IA_Category_Spawn.label>伊迪安生物模型</HAR_IA_Category_Spawn.label>
+</LanguageData>

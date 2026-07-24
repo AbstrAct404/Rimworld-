@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Outerm.SpawnLevelLimit>生成奥特姆时人工种族等级的上限：{0}</Outerm.SpawnLevelLimit>
+  <Outerm.SpawnLevelBoost>生成奥特姆时人工种族等级的额外加值（不会超过上限）：{0}</Outerm.SpawnLevelBoost>
+  <Outerm.DisableNpcSkillF>禁止 NPC 使用提丰纳斯【待核译名】</Outerm.DisableNpcSkillF>
+  <Outerm.DisableNpcSkillF_Desc>启用后，NPC 奥特姆将不再使用提丰纳斯（跳跃能力）。</Outerm.DisableNpcSkillF_Desc>
+  <Outerm.DisableNpcSkillG>禁止 NPC 使用埃莫拉吉亚【待核译名】</Outerm.DisableNpcSkillG>
+  <Outerm.DisableNpcSkillG_Desc>启用后，NPC 奥特姆将不再使用埃莫拉吉亚（扇形冲击波能力）。</Outerm.DisableNpcSkillG_Desc>
+  <Outerm.DisableNpcSkillH>禁止 NPC 使用提西福涅【待核译名】</Outerm.DisableNpcSkillH>
+  <Outerm.DisableNpcSkillH_Desc>启用后，NPC 奥特姆将不再使用提西福涅（反射能力）。</Outerm.DisableNpcSkillH_Desc>
+  <Outerm.DisableNpcSkillI>禁止 NPC 使用哈帕克提科【待核译名】</Outerm.DisableNpcSkillI>
+  <Outerm.DisableNpcSkillI_Desc>启用后，NPC 奥特姆将不再使用哈帕克提科（吞食尸体能力）。</Outerm.DisableNpcSkillI_Desc>
+  <Outerm.DisableNpcSkillJ>禁止 NPC 使用凯吕福斯【待核译名】</Outerm.DisableNpcSkillJ>
+  <Outerm.DisableNpcSkillJ_Desc>启用后，NPC 奥特姆将不再使用凯吕福斯（觉醒能力）。</Outerm.DisableNpcSkillJ_Desc>
+</LanguageData>

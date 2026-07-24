@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_CO_Race_Chaoura_z.label>混沌灵·阿瓦露其安</HAR_CO_Race_Chaoura_z.label>
+  <HAR_CO_Race_Chaoura_z.description>在造物主与神子已逝的世界中诞生，伊什穆提特中唯一被允许冠上「灵长」之名的人工灵长种族。\n阿瓦露其安是其容器之名，而魂的名字则被称作艾芙耶谢尔。\n由于她们一直活动于与这个宇宙不同的世界，除了同族与作为盟友的锢魂魔之外，无人知晓她们的存在。\n据说，通往她们所居之异界的大门，位于监狱星球梅拉芙上。\n\n因为拥有同样的属性，感知到了在神子被杀的事件背后潜藏的■■■，混沌灵们开始了自己的行动。\n她们主导着崇拜造物主与神子的宗教——「冥天虑」，并在无人知晓的情况下，展开对■■■的歼灭计划。\n\n她们首先追求的是自我进化。作为第一步\n她们尽可能地收集造物主所搜集的文物，反复进行研究与实验。\n在不断地改造之下，她们成为了与过去的神子极为相似的集合意识。\n\n突破了人工生命的科技奇点，她们抵达了超存在的领域，对她们而言，肉体的毁灭已不再等同于死亡。\n然而，即便超越了万物，她们依然无法与那仇敌■■■匹敌。\n\n\n即使如此，她们仍坚信，总有一天，必将让那人承受来自造物主与神子的报应。</HAR_CO_Race_Chaoura_z.description>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_a.commandDesc>瞬间移动到射程内任意格子上</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_a.commandDesc>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_a.commandLabel>影之彗星</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_a.commandLabel>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_b.commandDesc>向射程范围内的任意格子发射5枚爆裂弹</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_b.commandDesc>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_b.commandLabel>天之剑</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_b.commandLabel>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_c.commandDesc>向射程范围内的任意格子发射爆裂弹</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_c.commandDesc>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_c.commandLabel>天之剑</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_c.commandLabel>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_y.commandDesc>以自身为中心的10格内进行即死攻击。</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_y.commandDesc>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_y.commandLabel>黎明之女．晨星</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_y.commandLabel>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_z.commandDesc>初始化显现临界。冷却时间为一天。</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_z.commandDesc>
+  <HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_z.commandLabel>光辉之希望</HAR_CO_Race_Chaoura_z.comps.HAR_CO_UB_Comp_Skill_z.commandLabel>
+  <HAR_CO_Race_Chaoura_z.tools.left_fist.label>左拳</HAR_CO_Race_Chaoura_z.tools.left_fist.label>
+  <HAR_CO_Race_Chaoura_z.tools.right_fist.label>右拳</HAR_CO_Race_Chaoura_z.tools.right_fist.label>
+</LanguageData>

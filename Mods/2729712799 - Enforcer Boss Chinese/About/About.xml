@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>[Aya] Enforcer Boss_zh 人工种族汉化 v1.6</name>
+  <author>AbstrAct404 / Chinese localization</author>
+  <packageId>abstract404.aya.2729712799.zh</packageId>
+  <description>本 MOD 新增高难度袭击事件与首领型生命体“执行者”。
+
+【安装前注意】
+・来袭敌人的危险程度高于机械族。
+・原作者给出的强度比较：机械族 ＜ 执行者 ≪ 女王种。
+・建议在已有战力强化 MOD 的环境中使用。
+
+【新增事件】
+・天降执行者
+游戏开始约一年后可能发生，具体时间会受设置与其他 MOD 影响。载有生命体的陨石会坠入殖民地；执行者脱离陨石后将主动袭击人类。陨石与活体执行者会在约一天后自行消失，尸体则会保留。
+
+【陨石消失时掉落】
+・陨星岩 ×300
+・高级零部件 ×3
+
+【执行者的能力】
+・移动缓慢，可进行中近距离射击与高威力近战攻击。
+・大型个体的一击足以使目标重伤或死亡。
+・免疫爆炸；受到冲击时可生成会自行消失的爆炸物。
+・大型个体还能对附近敌对角色施加负面状态。
+
+【注意】
+・具体机制可能随原模组更新而调整。
+
+——
+兼容版本：RimWorld 1.6
+前置：原模组（请置于本汉化之前加载）
+本模组仅含翻译文件，不包含原模组资源。</description>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Ayameduki.BOSSEnforcer</packageId>
+      <displayName>Enforcer Boss</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2729712799</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ayameduki.BOSSEnforcer</li>
+  </loadAfter>
+</ModMetaData>

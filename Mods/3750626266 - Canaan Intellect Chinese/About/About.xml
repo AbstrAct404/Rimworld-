@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>[Aya] Canaan Intellect_zh 人工种族汉化 v1.6</name>
+  <author>AbstrAct404 / Chinese localization</author>
+  <packageId>abstract404.aya.3750626266.zh</packageId>
+  <description>本 MOD 新增角色强化系统。虽然属于 Aya 人工种族系列，但单独使用时不需要 Humanoid Alien Races。
+
+【新增事件】
+・造物之一
+殖民地附近会突然出现一座可重新安置的工坊。
+
+【工坊】
+・工坊每天获得 1 点工坊点数。
+・发生威胁事件时额外获得 3 点，最多储存 120 点。
+・可消耗点数换取特殊恩惠与制造许可。
+
+【新增物品】
+・生物灵油：以各类皮革为原料。
+・植物灵油：以木材为原料。
+・矿物灵油：以钢铁、黄金或白银为原料。
+・生命圣餐药：强化身体部位耐久度。
+・祝福圣餐药：强化身体机能。
+・智慧圣餐药：强化意识等能力。
+・特殊制造许可证：制造圣餐药所需的许可。
+
+【注意】
+・具体机制可能随原模组更新而调整。
+
+——
+兼容版本：RimWorld 1.6
+前置：原模组（请置于本汉化之前加载）
+本模组仅含翻译文件，不包含原模组资源。</description>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Ayameduki.AyaCanaanIntellect</packageId>
+      <displayName>Canaan Intellect</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3750626266</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ayameduki.AyaCanaanIntellect</li>
+  </loadAfter>
+</ModMetaData>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Aya_CI_Hediff_Resistance.label>创造之光</Aya_CI_Hediff_Resistance.label>
+  <Aya_CI_Hediff_Resistance.description>保护对象免受世界折磨的温暖光芒。\n增强对热与毒的抗性，提升生存能力。\n\n此状态将持续6天。\n\n\n\n造物主从幽灵姬的特性中获得灵感而开发出的技术。\n据说特别常用于保护身躯脆弱的伪神族们。</Aya_CI_Hediff_Resistance.description>
+  <Aya_CI_Hediff_c.label>渊源纯化:心理</Aya_CI_Hediff_c.label>
+  <Aya_CI_Hediff_c.description>外观与人格维持原样，却被重新塑造的状态。\n肉体与灵体并未产生变化，唯独性能获得了提升。\n这在生物学上不该成立，已达奇迹或魔法的领域。\n\n效果为强化身体能力、移动速度、伤害减免率。\n强化幅度会在后半逐渐提升。\n\n达到等级 10 时的奖励：［负面心情减半（小数点向下舍去）］\n达到等级 30 时的奖励：［状态上限无效化］</Aya_CI_Hediff_c.description>
+  <Aya_CI_Hediff_b.label>渊源纯化:机能</Aya_CI_Hediff_b.label>
+  <Aya_CI_Hediff_b.description>外观与人格维持原样，却被重新塑造的状态。\n肉体与灵体并未产生变化，唯独性能获得了提升。\n这在生物学上不该成立，已达奇迹或魔法的领域。\n\n效果为强化身体能力、移动速度、伤害减免率。\n强化幅度会在后半逐渐提升。\n\n达到等级 10 时的奖励：［制作具有品质的物品时，品质提升1级］\n达到等级 30 时的奖励：［将30以上受到的伤害削减至30］</Aya_CI_Hediff_b.description>
+  <Aya_CI_Hediff_a.label>渊源纯化:肉体</Aya_CI_Hediff_a.label>
+  <Aya_CI_Hediff_a.description>外观与人格维持原样，却被重新塑造的状态。\n肉体与灵体并未产生变化，唯独性能获得了提升。\n这在生物学上不该成立，已达奇迹或魔法的领域。\n\n效果为强化身体能力、移动速度、伤害减免率。\n强化幅度会在后半逐渐提升。\n\n达到等级 10 时的奖励：［出血无效］\n达到等级 30 时的奖励：［毒耐性　真空耐性］</Aya_CI_Hediff_a.description>
+  <Aya_CI_Hediff_x.label>渊源纯化:光晕</Aya_CI_Hediff_x.label>
+  <Aya_CI_Hediff_x.description>外观与人格维持原样，却被重新塑造的状态。\n肉体与灵体并未产生变化，唯独性能获得了提升。\n这在生物学上不该成立，已达奇迹或魔法的领域。\n\n效果为造成的伤害依照等级提升约1.2倍（等级50时为10倍）。</Aya_CI_Hediff_x.description>
+  <Aya_CI_SkillHolderHediff.label>始原之淀</Aya_CI_SkillHolderHediff.label>
+  <Aya_CI_Hediff_Phobia_a.label>腐败恐惧</Aya_CI_Hediff_Phobia_a.label>
+  <Aya_CI_Hediff_Phobia_a.description>被腐蚀性细菌所侵蚀的状态。\n护甲减半，变得更容易受到伤害。\n\n此状态经过6小时后结束。\n\n\n此力量以与细菌共生的人工种族「牧菌妖姬」的特异性为基础。\n虽然已去除了精神干涉的效果，但若在战斗中遭到侵蚀，可能会造成致命伤。</Aya_CI_Hediff_Phobia_a.description>
+  <Aya_CI_Hediff_Phase_a.label>相位薄膜</Aya_CI_Hediff_Phase_a.label>
+  <Aya_CI_Hediff_Phase_a.description>被能够遮断一切攻击的相位之膜所覆盖的状态。\n变得更加坚固，减轻所受到的伤害。\n\n此状态经过6小时后结束。\n\n\n此力量以潜伏于彼岸的人工种族「幽灵姬」的特异性为基础。\n由于肉体不像她们那样完全顺应，无法将所有伤害完全无效化。</Aya_CI_Hediff_Phase_a.description>
+  <Aya_CI_Hediff_Sovereign_a.label>君主恩典</Aya_CI_Hediff_Sovereign_a.label>
+  <Aya_CI_Hediff_Sovereign_a.description>受到卓越指挥所鼓舞的状态。\n战斗方面的性能获得提升。\n\n此状态经过6小时后结束。\n\n\n此力量以统治失去造物主后的迦南的人工种族「库利菈」的特异性为基础。\n那吸引人心的魅力，有时能够激发出超越原本性能的力量。</Aya_CI_Hediff_Sovereign_a.description>
+</LanguageData>

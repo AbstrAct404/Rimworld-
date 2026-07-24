@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_CO_Weapon_UB.label>无限光</HAR_CO_Weapon_UB.label>
+  <HAR_CO_Weapon_UB.description>混沌灵·阿瓦露其安所持有的大剑。\n从材质到制作过程，一切都笼罩在谜团之中。\n\n这把武器以神子曾经挥舞的圣剑作为原型仿制，但性能远远超越原型。\n一旦挥动，便能将周围的敌人一网打尽，瞬间堆积起尸山。\n然而，因为这是超越现世的剑，能握持它的仅限于同样脱离常理的存在。\n\n\n由集合意识艾芙耶谢尔所创造，尚未完成的灵剑。\n即便是这样的武器，也远远不足以斩杀其假想敌■■■。\n但她们仍然相信，有一天必定能将其讨伐，因此持续锻造这把剑。</HAR_CO_Weapon_UB.description>
+  <HAR_CO_Weapon_UB.verbs.HAR_CO_UB_Verb_MeleeAreaAttack.label>无限光</HAR_CO_Weapon_UB.verbs.HAR_CO_UB_Verb_MeleeAreaAttack.label>
+</LanguageData>

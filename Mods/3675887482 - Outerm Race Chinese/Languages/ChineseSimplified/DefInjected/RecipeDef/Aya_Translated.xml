@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_OT_Recipe_DevoteCorpse.label>献上尸体</HAR_OT_Recipe_DevoteCorpse.label>
+  <HAR_OT_Recipe_DevoteCorpse.description>将尸体投入伽蓝洞之骸中。\n作为回报，可以获得一些钢铁与塑钢。</HAR_OT_Recipe_DevoteCorpse.description>
+  <HAR_OT_Recipe_DevoteCorpse.jobString>正在献上尸体</HAR_OT_Recipe_DevoteCorpse.jobString>
+</LanguageData>

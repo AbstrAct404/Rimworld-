@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>
+  <HAR_ZC_Weapon_a.label>阿拉斯托耳</HAR_ZC_Weapon_a.label>
+  <HAR_ZC_Weapon_a.description>锢魂魔在执行特殊刑罚时所使用的地狱之剑。\n据说是由混沌灵所创造，其性能几乎可媲美迦南的神器。\n\n由地狱的物质构成，因此仅有锢魂魔能够安全地配戴。\n\n这把剑似乎具备能够直击灵魂的力量，对人类尤其有效。\n一旦被斩中，便会被揭示罪行，成为只能静待死亡的囚徒。\n\n那把剑仿佛拥有生命般地鼓动着。\n剑尖锐利得难以置信，无论是什么障碍，都仿佛能毫无阻碍地斩断。\n而更令人畏惧的是，这把剑对生者无比严苛。\n即便是王族，若曾犯下罪行，也绝不宽恕。</HAR_ZC_Weapon_a.description>
+  <Aya_Race_Ap_C_T_a.description>人工种族儿童穿着的衬衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_a.description>
+  <Aya_Race_Ap_C_T_a.label>儿童衬衫</Aya_Race_Ap_C_T_a.label>
+  <Aya_Race_Ap_C_T_b.description>人工种族儿童穿着的罩衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_b.description>
+  <Aya_Race_Ap_C_T_b.label>儿童罩衫</Aya_Race_Ap_C_T_b.label>
+  <Aya_Race_Ap_C_T_c.description>人工种族儿童使用的裹身布。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_c.description>
+  <Aya_Race_Ap_C_T_d.description>人工种族儿童穿着的学生服。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_d.description>
+  <HAR_ZC_Onskin_a.description>锢魂魔爱用的内衣。虽然外观看起来不怎么可靠，却不容易损坏。</HAR_ZC_Onskin_a.description>
+  <HAR_ZC_Onskin_a.label>看守者内衣</HAR_ZC_Onskin_a.label>
+  <HAR_ZC_Tops_a.description>锢魂魔爱用的服装。由于来自极寒的星球，因此服装的设计较为保守，露出较少。</HAR_ZC_Tops_a.description>
+  <HAR_ZC_Tops_a.label>看守者连衣裙A</HAR_ZC_Tops_a.label>
+  <HAR_ZC_Tops_b.description>锢魂魔爱用的服装。由于来自极寒的星球，因此服装的设计较为保守，露出较少。</HAR_ZC_Tops_b.description>
+  <HAR_ZC_Tops_b.label>看守者连衣裙B</HAR_ZC_Tops_b.label>
+  <HAR_ZC_Tops_c.description>锢魂魔爱用的服装。由于来自极寒的星球，因此服装的设计较为保守，露出较少。</HAR_ZC_Tops_c.description>
+  <HAR_ZC_Tops_c.label>看守者连衣裙C</HAR_ZC_Tops_c.label>
+  <HAR_ZC_Tops_d.label>地狱盔甲</HAR_ZC_Tops_d.label>
+  <HAR_ZC_Tops_d.description>锢魂魔担任看守时所穿着的外套。深夜，从她的盔甲中传出的金属声，成为困于梦中的罪人们的噩梦，让他们深感恐惧。</HAR_ZC_Tops_d.description>
+  <HAR_ZC_Tops_e.label>混沌连衣裙</HAR_ZC_Tops_e.label>
+  <HAR_ZC_Tops_e.description>对喜爱暗色服装的锢魂魔而言，这件白色外套显得格外特别。\n这是她的盟友混沌灵送给她的礼物。\n据说她会在重要仪式时穿上这件外套。</HAR_ZC_Tops_e.description>
+  <HAR_ZC_Heads_a.description>锢魂魔爱用的帽子。\n其设计风格严谨庄重，彰显了她们作为秩序阵营存在的立场。</HAR_ZC_Heads_a.description>
+  <HAR_ZC_Heads_a.label>看守者帽子</HAR_ZC_Heads_a.label>
+  <HAR_ZC_Heads_b.description>锢魂魔爱用的围巾。\n在寒冷地区是不可或缺的物品，对原本就耐寒的她们而言，则被当作时尚配件来使用。</HAR_ZC_Heads_b.description>
+  <HAR_ZC_Heads_b.label>看守者围巾</HAR_ZC_Heads_b.label>
+  <HAR_ZC_Heads_c.description>锢魂魔爱用的箍冠。\n对于统治极寒星球的她们而言，这正是与其地位相称的冠冕。</HAR_ZC_Heads_c.description>
+  <HAR_ZC_Heads_c.label>看守者箍冠</HAR_ZC_Heads_c.label>
+  <HAR_ZC_Heads_d.description>锢魂魔担任看守时所穿着的头盔。\n来自无法看清面容之人的刑罚，更加深了罪人的恐惧，因此效果显着。</HAR_ZC_Heads_d.description>
+  <HAR_ZC_Heads_d.label>地狱头盔</HAR_ZC_Heads_d.label>
+  <HAR_ZC_Heads_e.description>对喜爱暗色服装的锢魂魔而言，这件白色外套显得格外特别。\n这是她的盟友混沌灵送给她的礼物。\n据说她会在重要仪式时穿上这件外套。</HAR_ZC_Heads_e.description>
+  <HAR_ZC_Heads_e.label>混沌面具</HAR_ZC_Heads_e.label>
+  <HAR_ZC_Shell_a.description>锢魂魔爱用的外套。\n具有强大的耐热结构，使她能够在寒冷的星球上进行活动。</HAR_ZC_Shell_a.description>
+  <HAR_ZC_Shell_a.label>看守者斗篷A</HAR_ZC_Shell_a.label>
+  <HAR_ZC_Shell_b.description>锢魂魔爱用的外套。\n具有强大的耐热结构，使她能够在寒冷的星球上进行活动。</HAR_ZC_Shell_b.description>
+  <HAR_ZC_Shell_b.label>看守者斗篷B</HAR_ZC_Shell_b.label>
+  <HAR_ZC_Shell_c.description>锢魂魔爱用的外套。\n具有强大的耐热结构，使她能够在寒冷的星球上进行活动。</HAR_ZC_Shell_c.description>
+  <HAR_ZC_Shell_c.label>看守者斗篷C</HAR_ZC_Shell_c.label>
+  <HAR_ZC_Shell_d.description>锢魂魔爱用的外套。\n具有强大的耐热结构，使她能够在寒冷的星球上进行活动。</HAR_ZC_Shell_d.description>
+  <HAR_ZC_Shell_d.label>看守者外套</HAR_ZC_Shell_d.label>
+  <HAR_ZC_Shell_e.description>锢魂魔担任看守时所穿着的外套。\n她对罪人所施行的刑罚，让这件外套常常被血染红，这已成为日常。</HAR_ZC_Shell_e.description>
+  <HAR_ZC_Shell_e.label>地狱斗篷</HAR_ZC_Shell_e.label>
+  <HAR_ZC_Shell_f.description>对喜爱暗色服装的锢魂魔而言，这件白色外套显得格外特别。\n这是她的盟友混沌灵送给她的礼物。\n据说她会在重要仪式时穿上这件外套。</HAR_ZC_Shell_f.description>
+  <HAR_ZC_Shell_f.label>混沌斗篷</HAR_ZC_Shell_f.label>
+  <HAR_ZC_Bullet_a.label>冰冷之炎</HAR_ZC_Bullet_a.label>
+  <HAR_ZC_Food_a.label>员工餐的松饼</HAR_ZC_Food_a.label>
+  <HAR_ZC_Food_a.description>在监狱星球梅拉芙非常普及的松饼。\n由于极寒的环境中牲畜无法正常生存，\n因此当地必须开发出独特的料理方式。\n\n这款松饼的材料为米与水，并使用虫族果冻作为调味。\n\n这是看守的锢魂魔与囚犯们常食用的点心。\n原本是为了收容在梅拉芙、因发生单翼变色的异常现象而遭监察处置的伪神族们，\n当时身体因严寒而逐渐虚弱，为了让她们露出一点笑容，锢魂魔拼命研发出来的小点心。\n如今这种料理方式也传到了迦南，作为甜点深受欢迎。</HAR_ZC_Food_a.description>
+  <HAR_ZC_Food_b.label>地狱浓汤</HAR_ZC_Food_b.label>
+  <HAR_ZC_Food_b.description>在监狱星球梅拉芙制作的炖汤。\n使用大量蔬菜与畜产物制成的奢华料理。\n\n食用后，能让全身产生热感，增强对酷热与严寒的抵抗力。\n因此，常被拿来招待对极寒环境不适应的访客。\n\n据说，这道料理最早源于某次神子来视察时，因过于寒冷而差点冻死，\n当时锢魂魔临机应变所煮出的炖汤。\n之后经历无数次改良，每次所用食材也都不同，因此味道也随时代而变化多端。</HAR_ZC_Food_b.description>
+  <HAR_ZC_BMOT_Building_Incubator.label>地之佛拉斯</HAR_ZC_BMOT_Building_Incubator.label>
+  <HAR_ZC_BMOT_Building_Incubator.description>制造锢魂魔相关物品所需的设备。在梅拉夫也设置有许多同类装置，主要用于生成罗迪西安。
+
+
+这套设备由人工种族的神子——伪神族·杜娜米丝亲手设计。技术极为先进，但运行需要消耗大量资源。</HAR_ZC_BMOT_Building_Incubator.description>
+  <HAR_ZC_Item_a.label>碎裂的罗迪西昂</HAR_ZC_Item_a.label>
+  <HAR_ZC_Item_a.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的罗迪西昂会增加。\n\n碎裂的罗迪西昂可以稍微强化苍褪的太阳。</HAR_ZC_Item_a.description>
+  <HAR_ZC_Item_b.label>缺失的罗迪西昂</HAR_ZC_Item_b.label>
+  <HAR_ZC_Item_b.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的罗迪西昂会增加。碎裂的罗迪西昂可以强化苍褪的太阳。</HAR_ZC_Item_b.description>
+  <HAR_ZC_Item_c.label>完整的罗迪西昂</HAR_ZC_Item_c.label>
+  <HAR_ZC_Item_c.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的罗迪西昂会增加。完整的罗迪西昂可以强化苍褪的太阳。</HAR_ZC_Item_c.description>
+</LanguageData>

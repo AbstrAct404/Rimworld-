@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Aya_CI_AlreadyHasSkill>{PAWN_nameDef}已经习得了「{ITEM}」的技术。</Aya_CI_AlreadyHasSkill>
+  <Aya_CI_Btn_Close>关闭</Aya_CI_Btn_Close>
+  <Aya_CI_Btn_Option1>使地图上所有敌对者陷入倒地状态【消耗交涉点数：-60】</Aya_CI_Btn_Option1>
+  <Aya_CI_Btn_Option2>赋予地图上所有殖民者6天的环境耐性【消耗交涉点数：-30】</Aya_CI_Btn_Option2>
+  <Aya_CI_Btn_Option3>获得1张特殊制造许可证【消耗交涉点数：-5】</Aya_CI_Btn_Option3>
+  <Aya_CI_Btn_Option4>获得5张特殊制造许可证【消耗交涉点数：-25】</Aya_CI_Btn_Option4>
+  <Aya_CI_Desc_Interact>造访工坊。</Aya_CI_Desc_Interact>
+  <Aya_CI_First_ContactDesc>奇异工坊的内部，有一位举止温和的少年。\n\n「嗯，空间连接实验成功了……不过看来似乎连接到了边境星球呢。\n你们是在这片土地上生活的人吗？打扰了，真是抱歉。\n\n我是一个周游世界各地的旅人。就像这次一样，不断地传送移动、继续旅行。\n如果你们正为力量不足而苦恼，或许我能帮上忙。\n我可以用素材制作强化身体的道具。\n如果素材开始有多余的，请务必来找我说声。\n什么？别想太多，没有什么特别的理由。就当作是退隐老人打发时间的消遣就好了。」</Aya_CI_First_ContactDesc>
+  <Aya_CI_First_ContactTitle>年幼的工匠</Aya_CI_First_ContactTitle>
+  <Aya_CI_Label_Interact>前往工坊</Aya_CI_Label_Interact>
+  <Aya_CI_SkillGained>{PAWN_nameDef}习得了「{ITEM}」！</Aya_CI_SkillGained>
+  <Aya_CI_Window_Text>年幼的工匠：\n\n少年以温柔的笑容迎接了你。\n\n「嗨，有什么事吗？素材或道具的制造，随时都能为你服装务喔。」\n\n\n\n目前的交涉点数：{0}</Aya_CI_Window_Text>
+  <Aya_PC_Summon_Cooldown>该技能处于冷却状态。</Aya_PC_Summon_Cooldown>
+  <BOSS_RQ_EX_Skill_End_a>『克里提亚斯之星运行完毕，再次启动所需本源含量尚可运行2次』</BOSS_RQ_EX_Skill_End_a>
+  <BOSS_RQ_EX_Skill_End_b>『克里提亚斯之星运行完毕，再次启动所需本源含量尚可运行1次』</BOSS_RQ_EX_Skill_End_b>
+  <BOSS_RQ_EX_Skill_End_c>『克里提亚斯之星运行完毕，再次启动所需本源已经枯竭。距离下次填充完毕还需……』</BOSS_RQ_EX_Skill_End_c>
+  <BOSS_RQ_EX_Skill_a>『检测到机体损伤率在战斗中增加，启动紧急预案，将克里提亚斯之星纳入运行序列』</BOSS_RQ_EX_Skill_a>
+  <BOSS_RQ_EX_Skill_b>『伊迪亚感应器全机能激活，空间分析开始，对即将抹杀的空间区域进行指定』</BOSS_RQ_EX_Skill_b>
+  <BOSS_RQ_EX_Skill_c>『创世反应炉限制解除，开始将目标区域进行空间压缩至临界点』</BOSS_RQ_EX_Skill_c>
+  <BOSS_RQ_EX_Skill_d>『倒计时…１０…９…８…』</BOSS_RQ_EX_Skill_d>
+  <BOSS_RQ_EX_Skill_e>『克里提亚斯之星——解放』</BOSS_RQ_EX_Skill_e>
+  <BOSS_RQ_End>在渡星的心脏被切开的那一刹那，满溢而出的光芒将周围的一切包裹于其中。
+这光辉正是对你们已竟之事的传颂，在这片炫目的光中，你们目不转睛地直视着它，直至最后一刻。
+
+
+在远渡星海之鸟传承给雏鸟的心脏中，囚禁着至今为止所有被吞噬者的灵魂。
+如今，这些彷徨的灵魂终于得以解脱，仿佛被天国的引力所吸引一般，消逝于悠远的苍穹。
+暴露出来的心脏如今已经完全失去了运作机能，消失殆尽重归尘土。
+这意味着远渡星海之鸟如今已经彻底失去了复苏的能力，再也没有人会被灵魂遭到啄食的梦魇所笼罩。
+
+
+解脱的灵魂感谢不尽，作为回礼，它们将这项壮举通过心灵波动，传达到了无数星球上。
+那些原本就心灵敏感度颇高的人工种族，完整地收到了这一讯息。
+远渡星海之鸟的末裔曾经存在于此，而她的陨落则宣告着与她之间纠缠的因缘被画上了休止符。
+得知了真相的她们将会把此事流传至千秋万代、
+并将你们视为终结了灾难的英雄，永远传颂下去。
+
+
+
+接下来，这个故事将会继续下去，还是就此画上句点，那就只有你们自己知道了</BOSS_RQ_End>
+  <HAR_LL_M_Idea>『诶？想获得力量吗？当然可以哦！化为我的翅膀，去随心所欲地玩吧。』</HAR_LL_M_Idea>
+  <HAR_LL_M_Idea_b>『是打败了那些孩子的人吗，请允许我献上我的赞美与祝福，今后我也会为你们应援哦！』</HAR_LL_M_Idea_b>
+  <HAR_LL_M_Idea_c>『虽然那孩子还没有完全成熟，但能打败她真是太棒了呢！这是给努力的你准备的奖励哦！』</HAR_LL_M_Idea_c>
+  <HAR_OT_Abyss_AcceptContract>缔结契约</HAR_OT_Abyss_AcceptContract>
+  <HAR_OT_Abyss_IdeaDesc>「嗨，终于见面了。以影身之姿失礼了。\n　现在我可以将力量赐予你所引领而来的这个人。\n　不过，你心里应该也隐约感觉到了吧？\n　我是一个危险的存在。\n\n　你有两个选择。\n　缔结契约，赐予此人力量，使其成为魔人。\n　或者拒绝，从这颗星球上消除一个威胁，使此人成为英雄。\n\n　选你喜欢的吧。我会尊重你的意志。」</HAR_OT_Abyss_IdeaDesc>
+  <HAR_OT_Abyss_MapDissolved>虚空消散，彻底湮灭。</HAR_OT_Abyss_MapDissolved>
+  <HAR_OT_Abyss_RejectContract>拒绝契约</HAR_OT_Abyss_RejectContract>
+  <HAR_OT_EndingA_Text>「与我缔结契约的人，你是第二个了。愿我们长久相伴。」\n话音刚落，庞大的力量便毫不留情地蹂躏了那具身躯。虚空瞬间侵蚀肉体，从内部将人性一点一点抹去。那人以一种冷漠的意识凝视着自己逐渐改变的模样，仿佛在看着一个陌生人，而后静静地阖上了双眼。\n\n再次睁开眼时，已无法保证自己仍是一个人。即便如此，落下这段故事的帷幕，还为时过早。\n\n只要留在这颗星球上，舞台上的演员便永无谢幕之日。</HAR_OT_EndingA_Text>
+  <HAR_OT_EndingB_Text>「那我就从这颗星球上抽身了。后会有期。」\n虚空之主的话语回响的同时，眷属们纷纷消散，其身影飞逝至虚空之中。伽蓝洞之骸无声地崩塌，通往虚空的道路永远封闭。\n\n撼动星球的灾厄已被驱散。然而，这段故事的帷幕并未就此落下。终结之中，永远孕育着新的开始。\n\n在星球引力的引领下，将那确实的成就感交付给了内心深处。</HAR_OT_EndingB_Text>
+  <HAR_OT_Interfere>干涉</HAR_OT_Interfere>
+  <HAR_OT_TouchIdea>接触</HAR_OT_TouchIdea>
+  <HAR_OT_XSE_Contract>接触</HAR_OT_XSE_Contract>
+  <HAR_OT_XSE_ContractDesc>那声音开始清晰地回响在你脑海之中。\n「哎呀，抱着试试看的心态呼唤了一下，还真有用。你能听见我的声音吗？」\n那声音虽然友善，却蕴含着深沉的虚无，令你深感不安。</HAR_OT_XSE_ContractDesc>
+  <HAR_OT_XSE_ContractTitle>虚空之声</HAR_OT_XSE_ContractTitle>
+  <HAR_OT_XSE_CountProgress_Desc_a>伽蓝洞之骸中传来愉快的声音……\n\n「开局看来相当顺利呢。\n　这颗星球上不愁找不到杀戮的对象，所以一边培育殖民地，一边继续推进吧。\n　就算不去主动寻找目标，你越是壮大，在周围眼中就越显得魅力十足，不是吗？」</HAR_OT_XSE_CountProgress_Desc_a>
+  <HAR_OT_XSE_CountProgress_Desc_b>伽蓝洞之骸中传来愉快的声音……\n\n「差不多到了对杀死敌人不再感到抵抗的时候了吧？\n　在这片土地上，道德不过是累赘。像那些女孩们……像奥特姆那样，随心所欲地杀戮与掠夺，我想那样会更有趣。\n　……嗯？我与奥特姆之间的关系？\n　呵呵，这个就让它作为秘密吧。」</HAR_OT_XSE_CountProgress_Desc_b>
+  <HAR_OT_XSE_CountProgress_Desc_c>伽蓝洞之骸中传来愉快的声音……\n\n「说不定你还真有杀戮的天赋呢？呵呵，当然这是夸奖。\n　无论是侵略还是防卫，杀得越多，其价值就越高。\n　假如就这样持续杀戮，夺取了1000条生命，那个人便是真正的英雄。\n　而我认为，你正是应当获得如此赞誉之人。」</HAR_OT_XSE_CountProgress_Desc_c>
+  <HAR_OT_XSE_CountProgress_Desc_d>伽蓝洞之骸中传来愉快的声音……\n\n「多亏了你献上的尸体，能量开始流经这具朽坏的躯壳了。\n　看着这副身躯，那段被那个孩子率领的军势打得落花流水的记忆，似乎快要浮现了。\n　要是没有小露娜，现在会变成什么样子呢……\n　……啊，这是我自己的事，不用放在心上。」</HAR_OT_XSE_CountProgress_Desc_d>
+  <HAR_OT_XSE_CountProgress_Title_a>虚空棺盖（20%）</HAR_OT_XSE_CountProgress_Title_a>
+  <HAR_OT_XSE_CountProgress_Title_b>虚空棺盖（40%）</HAR_OT_XSE_CountProgress_Title_b>
+  <HAR_OT_XSE_CountProgress_Title_c>虚空棺盖（60%）</HAR_OT_XSE_CountProgress_Title_c>
+  <HAR_OT_XSE_CountProgress_Title_d>虚空棺盖（80%）</HAR_OT_XSE_CountProgress_Title_d>
+  <HAR_OT_XSE_EndingDesc>伽蓝洞之骸中传来愉快的声音……\n\n「非常期待你今后的表现。\n　你将成就何事、杀死谁、留下谁，实在令人期待不已。」</HAR_OT_XSE_EndingDesc>
+  <HAR_OT_XSE_EndingDesc_a>与潜伏于虚空之中者的契约已然缔结。\n而见证了这份契约的人，似乎获得了堪称禁忌的不死之力。\n立定新的目标，试试这股力量吧！</HAR_OT_XSE_EndingDesc_a>
+  <HAR_OT_XSE_EndingDesc_b>顺应你的意志，那虚空的威胁已离开了这颗星球。\n与此同时，伽蓝洞之骸消灭，由奥特姆率领的混沌也似乎停止了积极的破坏活动。\n消息透过风声传开，许多派系得知此事后，都非常高兴！</HAR_OT_XSE_EndingDesc_b>
+  <HAR_OT_XSE_EndingTitle_a>虚空之契约</HAR_OT_XSE_EndingTitle_a>
+  <HAR_OT_XSE_EndingTitle_b>鸟归去</HAR_OT_XSE_EndingTitle_b>
+  <HAR_OT_XSE_Hold>离开</HAR_OT_XSE_Hold>
+  <HAR_OT_XSE_InAbyssDesc>现在可以将先行进入的人召回，重新选择与我接触的人选。</HAR_OT_XSE_InAbyssDesc>
+  <HAR_OT_XSE_InitialDesc>一具朽坏的机械静静伫立在你眼前。\n然而，从那理应空无一物的内部，隐约传来细微的声音。\n本能告诉你不应涉入其中，但与此同时，好奇心又悄悄撩拨着你的心。\n\n接触还是放置，一切由你决定。</HAR_OT_XSE_InitialDesc>
+  <HAR_OT_XSE_IntoAbyss>坠入虚空</HAR_OT_XSE_IntoAbyss>
+  <HAR_OT_XSE_Msg_RitualFinished>距启动完成</HAR_OT_XSE_Msg_RitualFinished>
+  <HAR_OT_XSE_PawnReturned>{0} 从虚空归来。</HAR_OT_XSE_PawnReturned>
+  <HAR_OT_XSE_PointMaxDesc>献上了大量尸体的骸壳开始发出嘎吱的声响。\n「呵呵，看来它很高兴呢。这样的话启动应该没问题了。可以请你过来这边吗？」\n从那愉快的语气来看，似乎还有一番波折等在前头。</HAR_OT_XSE_PointMaxDesc>
+  <HAR_OT_XSE_PointMaxTitle>嘎吱作响的骸壳</HAR_OT_XSE_PointMaxTitle>
+  <HAR_OT_XSE_ReadyRitual>伽蓝洞之骸中传来愉快的声音……\n\n「嗯，有这些应该就够了。\n　开辟一条能与我接触之路的准备已经完成了。\n　不过，准备期间宇宙的法则会从中阻挠你。\n　时间嘛……30天，应该会是一场漫长的战斗。\n\n　是否开始，就交给你来决定吧。」</HAR_OT_XSE_ReadyRitual>
+  <HAR_OT_XSE_ReturnFromAbyss>从虚空召回</HAR_OT_XSE_ReturnFromAbyss>
+  <HAR_OT_XSE_RitualActiveDesc>骸壳发出微弱的嘎吱声。启动似乎尚未完成。</HAR_OT_XSE_RitualActiveDesc>
+  <HAR_OT_XSE_RitualEndDesc>骸壳发出怪异的声响，开始蠕动起来。通往虚空的道路似乎已经开辟完成。</HAR_OT_XSE_RitualEndDesc>
+  <HAR_OT_XSE_RitualEndTitle>通往虚空之路</HAR_OT_XSE_RitualEndTitle>
+  <HAR_OT_XSE_RitualFinishedDesc>伽蓝洞之骸中传来愉快的声音……\n\n「辛苦了。也多亏了你的努力，道路终于开通了。\n　只有一人能够向我靠近。\n　我在等着你。」</HAR_OT_XSE_RitualFinishedDesc>
+  <HAR_OT_XSE_RitualRemaining>距启动完成</HAR_OT_XSE_RitualRemaining>
+  <HAR_OT_XSE_StartRitual>启动机械</HAR_OT_XSE_StartRitual>
+  <HAR_OT_XSE_Status>伽蓝洞之骸中传来愉快的声音……\n\n「看来你正在这片边境之地为难着呢。\n　如果你正为力量所苦，不妨试着将尸体塞进这具朽坏的机械里。\n　只要凑齐足够的数量，或许我就能助你一臂之力。\n　尸体的数量嘛……就这样吧，大概1000具左右？」\n\n\n\n目前已献上的尸体数量：{0}</HAR_OT_XSE_Status>
+  <HAR_OT_XSE_Title>伽蓝洞之骸</HAR_OT_XSE_Title>
+  <LeftCoolDownTime>距离冷却完毕时间：</LeftCoolDownTime>
+  <LetterHAR_CO_Id_ChaouraPasses>具有强大的夜战适应能力的混沌灵加入了你的殖民地。\n她偏好于昼夜颠倒的生活因此敬请留意。</LetterHAR_CO_Id_ChaouraPasses>
+  <LetterLabelHAR_CO_Id_ChaouraPasses>深渊迫近</LetterLabelHAR_CO_Id_ChaouraPasses>
+  <LetterLabelLittlunaPasses>年幼的“决战种”</LetterLabelLittlunaPasses>
+  <LetterLabel_BOSS_RQ_Incident_Monster_z>女王种的遗孤</LetterLabel_BOSS_RQ_Incident_Monster_z>
+  <LetterLittlunaPasses>一名拥有不稳定而强大召唤能力的伪神族加入了你的殖民地。
+她似乎因长途跋涉而十分虚弱，不久后便会因体力不支倒下，但几天内应该可以恢复。</LetterLittlunaPasses>
+  <Letter_BOSS_RQ_Incident_Monster_z>一种生物和机械混合的生命体出现在了你的殖民地附近，你可以试着驯服装这种处于无垢状态且易于被调教的生物。生命体会在你的殖民地附近停留一段时间后离开。</Letter_BOSS_RQ_Incident_Monster_z>
+  <Letter_BOSS_RQ_PartsDrop>由于卫星轨道上不知名的宙族之间的冲突，某种未知的碎片在其影响下坠毁至殖民地附近。</Letter_BOSS_RQ_PartsDrop>
+  <Letter_HAR_ZC_Zoichor_a>垄罩着昏暗氛围的人工种族，锢魂魔加入了你的殖民地。\n她并未透露加入的理由，但似乎不必担心背叛之类的问题。\n\n目前，她的力量被封印，通过进行研究，应该能够找到恢复力量的契机。</Letter_HAR_ZC_Zoichor_a>
+  <Letter_Label_HAR_ZC_Zoichor_a>古老的约定</Letter_Label_HAR_ZC_Zoichor_a>
+  <Message_CannotUseEquipment>{0}无法使用该装备，已将其丢下。</Message_CannotUseEquipment>
+  <Outerm.DisableNpcSkillF>禁止 NPC 使用提丰纳斯【待核译名】</Outerm.DisableNpcSkillF>
+  <Outerm.DisableNpcSkillF_Desc>启用后，NPC 奥特姆将不再使用提丰纳斯（跳跃能力）。</Outerm.DisableNpcSkillF_Desc>
+  <Outerm.DisableNpcSkillG>禁止 NPC 使用埃莫拉吉亚【待核译名】</Outerm.DisableNpcSkillG>
+  <Outerm.DisableNpcSkillG_Desc>启用后，NPC 奥特姆将不再使用埃莫拉吉亚（扇形冲击波能力）。</Outerm.DisableNpcSkillG_Desc>
+  <Outerm.DisableNpcSkillH>禁止 NPC 使用提西福涅【待核译名】</Outerm.DisableNpcSkillH>
+  <Outerm.DisableNpcSkillH_Desc>启用后，NPC 奥特姆将不再使用提西福涅（反射能力）。</Outerm.DisableNpcSkillH_Desc>
+  <Outerm.DisableNpcSkillI>禁止 NPC 使用哈帕克提科【待核译名】</Outerm.DisableNpcSkillI>
+  <Outerm.DisableNpcSkillI_Desc>启用后，NPC 奥特姆将不再使用哈帕克提科（吞食尸体能力）。</Outerm.DisableNpcSkillI_Desc>
+  <Outerm.DisableNpcSkillJ>禁止 NPC 使用凯吕福斯【待核译名】</Outerm.DisableNpcSkillJ>
+  <Outerm.DisableNpcSkillJ_Desc>启用后，NPC 奥特姆将不再使用凯吕福斯（觉醒能力）。</Outerm.DisableNpcSkillJ_Desc>
+  <Outerm.SpawnLevelBoost>生成奥特姆时人工种族等级的额外加值（不会超过上限）：{0}</Outerm.SpawnLevelBoost>
+  <Outerm.SpawnLevelLimit>生成奥特姆时人工种族等级的上限：{0}</Outerm.SpawnLevelLimit>
+  <Silkiera_Keyed_MailOrderPreparing>目前正在准备邮购。请稍等。</Silkiera_Keyed_MailOrderPreparing>
+  <Silkiera_Keyed_MailOrderPreparingError>该商家无效。</Silkiera_Keyed_MailOrderPreparingError>
+  <StillCoolDownTime>尚未冷却完毕</StillCoolDownTime>
+</LanguageData>

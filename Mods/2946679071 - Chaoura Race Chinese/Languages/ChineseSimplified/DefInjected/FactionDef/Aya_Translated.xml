@@ -5,8 +5,8 @@
   <Chaoura_P_Faction.description>混沌灵们聚集在一起、愉快生活的居住地</Chaoura_P_Faction.description>
   <Chaoura_Faction_NPC.description>以暗杀为生的混沌灵派系，巧妙地隐藏了据点，无法在地图上找到。\n主要承包针对急速发展的派系和巨型殖民地的袭击委托。</Chaoura_Faction_NPC.description>
   <Chaoura_Faction_NPC.pawnSingular>混沌灵</Chaoura_Faction_NPC.pawnSingular>
-  <Chaoura_Faction_NPC_b.label>埃菲耶阿谢尔</Chaoura_Faction_NPC_b.label>
-  <Chaoura_Faction_NPC_b.description>信奉着冥天慮这一宗教的混沌灵派系…应该。</Chaoura_Faction_NPC_b.description>
+  <Chaoura_Faction_NPC_b.label>艾芙耶谢尔</Chaoura_Faction_NPC_b.label>
+  <Chaoura_Faction_NPC_b.description>信奉着冥天虑这一宗教的混沌灵派系…应该。</Chaoura_Faction_NPC_b.description>
   <Chaoura_Faction_NPC_b.pawnSingular>阿瓦露其安</Chaoura_Faction_NPC_b.pawnSingular>
-  <Chaoura_Faction_NPC_b.fixedName>埃菲耶阿谢尔</Chaoura_Faction_NPC_b.fixedName>
+  <Chaoura_Faction_NPC_b.fixedName>艾芙耶谢尔</Chaoura_Faction_NPC_b.fixedName>
 </LanguageData>

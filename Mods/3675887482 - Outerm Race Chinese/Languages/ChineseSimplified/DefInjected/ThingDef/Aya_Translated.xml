@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_OT_Monster_Race_a.label>美伯拉</HAR_OT_Monster_Race_a.label>
+  <HAR_OT_Monster_Race_a.description>奥特姆的眷属。战斗力不高，但机动性相当出色。更大的问题在于它们会无差别地胡闹，甚至会把召唤它们的奥特姆视为攻击对象。</HAR_OT_Monster_Race_a.description>
+  <HAR_OT_Weapon_Gun_a.label>推罗火枪</HAR_OT_Weapon_Gun_a.label>
+  <HAR_OT_Weapon_Gun_a.description>奥特姆所使用的突击步枪。\n其特点是拥有极高的贯穿能力，以及含有毒素的子弹。\n在任何距离下均能保持稳定的命中率。\n最大的特征是操控灵活，能够以短暂的间隔持续发动攻击。</HAR_OT_Weapon_Gun_a.description>
+  <HAR_OT_Bullet_AssaultRifle_a.label>推罗火枪(子弹)</HAR_OT_Bullet_AssaultRifle_a.label>
+  <HAR_OT_Weapon_Gun_b.label>推罗火炮</HAR_OT_Weapon_Gun_b.label>
+  <HAR_OT_Weapon_Gun_b.description>奥特姆所使用的超远距离狙击步枪。\n其特点是拥有极高的贯穿能力，以及含有毒素的子弹。\n擅长从远处狙击目标，\n但不擅长应对近距离的敌人。</HAR_OT_Weapon_Gun_b.description>
+  <HAR_OT_Bullet_AssaultRifle_b.label>推罗火炮(子弹)</HAR_OT_Bullet_AssaultRifle_b.label>
+  <HAR_OT_BaseMeleeWeapon_a.description>奥特姆使用的神秘武器，仿佛活物般鲜明地搏动着。据说每杀死一个敌人，刀锋便会变得更加锐利。
+
+这把武器恶名昭彰，许多持有者最终都走上了大肆杀戮的歧途。
+
+
+
+
+杀吧，服从你的欲望。堆起尸骸，还要更加残酷。
+吾主渴求■■。以鲜烈血色，为那倦怠褪色的故事重新着彩。
+无底虚空正注视着你——无论何时，永远、永远。</HAR_OT_BaseMeleeWeapon_a.description>
+  <HAR_OT_Weapon_a.label>幻影短剑</HAR_OT_Weapon_a.label>
+  <HAR_OT_Weapon_b.label>幻影战斧</HAR_OT_Weapon_b.label>
+  <HAR_OT_Weapon_c.label>幻影战镰</HAR_OT_Weapon_c.label>
+  <HAR_OT_Weapon_GrenadeFrag.label>朱红爆弹</HAR_OT_Weapon_GrenadeFrag.label>
+  <HAR_OT_Weapon_GrenadeFrag.description>奥特姆所使用的毒气手榴弹。\n或许是因为含有奥特姆的血液，她们极少被这种毒气所污染。\n此外具有轻度腐蚀性与爆炸力，对拥有开关机制的建筑物（如门等）有特效。</HAR_OT_Weapon_GrenadeFrag.description>
+  <HAR_OT_Proj_GrenadeFrag.label>朱红爆弹</HAR_OT_Proj_GrenadeFrag.label>
+  <HAR_OT_Gas_ToxicCustom.label>朱红之毒</HAR_OT_Gas_ToxicCustom.label>
+  <HAR_OT_Weapon_Idea.label>阿塔纳西亚【待核译名】</HAR_OT_Weapon_Idea.label>
+  <HAR_OT_Weapon_Idea.description>由“虚空■■■”赐予的邪异长枪。它蕴含虚空之力，每次挥动都能攻击周围 5 格内的所有敌人；杀死的生物越多，其锋利程度便越会无止境地增长。
+
+构成它的物质与“远渡星海之鸟·克里提亚斯”的外壳极其相似。它如同活物般散发热量并不断蠕动。
+
+据说其中吸纳了亿万灵魂，侧耳倾听时还能听见受苦灵魂的呻吟。
+
+
+
+
+
+这是曾经的我的一部分，请随意使用吧。</HAR_OT_Weapon_Idea.description>
+  <HAR_OT_Apparel_O_a.description>奥特姆们喜欢穿着的内衣。不用期待其防御力。</HAR_OT_Apparel_O_a.description>
+  <HAR_OT_Apparel_O_a.label>极恶内衣A(奥特姆)</HAR_OT_Apparel_O_a.label>
+  <HAR_OT_Apparel_O_b.description>奥特姆们喜欢穿着的内衣。不用期待其防御力。</HAR_OT_Apparel_O_b.description>
+  <HAR_OT_Apparel_O_b.label>极恶内衣B(奥特姆)</HAR_OT_Apparel_O_b.label>
+  <HAR_OT_Apparel_O_c.description>奥特姆们喜欢穿着的内衣。不用期待其防御力。</HAR_OT_Apparel_O_c.description>
+  <HAR_OT_Apparel_O_c.label>极恶内衣C(奥特姆)</HAR_OT_Apparel_O_c.label>
+  <HAR_OT_Apparel_H_a.description>奥特姆们喜欢穿着的头部装备。</HAR_OT_Apparel_H_a.description>
+  <HAR_OT_Apparel_H_a.label>极恶帽子(奥特姆)</HAR_OT_Apparel_H_a.label>
+  <HAR_OT_Apparel_H_b.description>奥特姆们喜欢穿着的头部装备。</HAR_OT_Apparel_H_b.description>
+  <HAR_OT_Apparel_H_b.label>极恶面具(奥特姆)</HAR_OT_Apparel_H_b.label>
+  <HAR_OT_Apparel_H_c.description>奥特姆们喜欢穿着的头部装备。</HAR_OT_Apparel_H_c.description>
+  <HAR_OT_Apparel_H_c.label>极恶围巾(奥特姆)</HAR_OT_Apparel_H_c.label>
+  <HAR_OT_Apparel_H_d.description>奥特姆们喜欢穿着的头部装备。</HAR_OT_Apparel_H_d.description>
+  <HAR_OT_Apparel_H_d.label>极恶耳机(奥特姆)</HAR_OT_Apparel_H_d.label>
+  <HAR_OT_Apparel_H_e.description>奥特姆们喜欢穿着的头部装备。</HAR_OT_Apparel_H_e.description>
+  <HAR_OT_Apparel_H_e.label>极恶装备(奥特姆)</HAR_OT_Apparel_H_e.label>
+  <HAR_OT_Apparel_H_z.description>奥特姆专用的头盔。透过内建的自动校正功能，得以实现精密的动作。</HAR_OT_Apparel_H_z.description>
+  <HAR_OT_Apparel_H_z.label>腐灭头盔(奥特姆)</HAR_OT_Apparel_H_z.label>
+  <HAR_OT_Apparel_S_a.description>奥特姆们喜欢穿着的外套。为了能承受攻击，具有相应的耐久性。</HAR_OT_Apparel_S_a.description>
+  <HAR_OT_Apparel_S_a.label>极恶外套A(奥特姆)</HAR_OT_Apparel_S_a.label>
+  <HAR_OT_Apparel_S_b.description>奥特姆们喜欢穿着的外套。为了能承受攻击，具有相应的耐久性。</HAR_OT_Apparel_S_b.description>
+  <HAR_OT_Apparel_S_b.label>极恶外套B(奥特姆)</HAR_OT_Apparel_S_b.label>
+  <HAR_OT_Apparel_S_c.description>奥特姆们喜欢穿着的外套。为了能承受攻击，具有相应的耐久性。</HAR_OT_Apparel_S_c.description>
+  <HAR_OT_Apparel_S_c.label>极恶外套C(奥特姆)</HAR_OT_Apparel_S_c.label>
+  <HAR_OT_Apparel_S_d.description>奥特姆们喜欢穿着的外套。为了能承受攻击，具有相应的耐久性。</HAR_OT_Apparel_S_d.description>
+  <HAR_OT_Apparel_S_d.label>极恶外套D(奥特姆)</HAR_OT_Apparel_S_d.label>
+  <HAR_OT_Apparel_S_e.description>奥特姆们喜欢穿着的外套。为了能承受攻击，具有相应的耐久性。</HAR_OT_Apparel_S_e.description>
+  <HAR_OT_Apparel_S_e.label>极恶外套E(奥特姆)</HAR_OT_Apparel_S_e.label>
+  <HAR_OT_Apparel_T_a.description>奥特姆们偏好穿着的上衣，因其独特的美感而散发出一种颓废气息。</HAR_OT_Apparel_T_a.description>
+  <HAR_OT_Apparel_T_a.label>极恶装束A(奥特姆)</HAR_OT_Apparel_T_a.label>
+  <HAR_OT_Apparel_T_b.description>奥特姆们偏好穿着的上衣，因其独特的美感而散发出一种颓废气息。</HAR_OT_Apparel_T_b.description>
+  <HAR_OT_Apparel_T_b.label>极恶装束B(奥特姆)</HAR_OT_Apparel_T_b.label>
+  <HAR_OT_Apparel_T_c.description>奥特姆们偏好穿着的上衣，因其独特的美感而散发出一种颓废气息。</HAR_OT_Apparel_T_c.description>
+  <HAR_OT_Apparel_T_c.label>极恶装束C(奥特姆)</HAR_OT_Apparel_T_c.label>
+  <HAR_OT_Apparel_T_d.description>奥特姆们偏好穿着的上衣，因其独特的美感而散发出一种颓废气息。</HAR_OT_Apparel_T_d.description>
+  <HAR_OT_Apparel_T_d.label>极恶装束D(奥特姆)</HAR_OT_Apparel_T_d.label>
+  <HAR_OT_Apparel_T_e.description>奥特姆们偏好穿着的上衣，因其独特的美感而散发出一种颓废气息。</HAR_OT_Apparel_T_e.description>
+  <HAR_OT_Apparel_T_e.label>极恶装束E(奥特姆)</HAR_OT_Apparel_T_e.label>
+  <HAR_OT_Apparel_T_Suit_a.description>奥特姆们偏好穿着的上衣。即便奥特姆普遍喜欢煽情的服装，但到了干部级别，似乎也会注意自己的仪容。</HAR_OT_Apparel_T_Suit_a.description>
+  <HAR_OT_Apparel_T_Suit_a.label>极恶西装(奥特姆)</HAR_OT_Apparel_T_Suit_a.label>
+  <HAR_OT_Apparel_T_Armor_a.label>腐灭盔甲(奥特姆)</HAR_OT_Apparel_T_Armor_a.label>
+  <HAR_OT_Apparel_T_Armor_a.description>奥特姆专用的盔甲。透过内建的自动校正功能，得以实现精密的动作。</HAR_OT_Apparel_T_Armor_a.description>
+  <HAR_OT_Thing_Art_z.label>灾厄空洞</HAR_OT_Thing_Art_z.label>
+  <HAR_OT_Thing_Art_z.description>造物主为了对抗据说存在于外宇宙的超存在而试图打造的决战兵器。\n正式名称『对上位者决战自律兵器克里提亚斯』。曾被渴求、却理应已遭封印的存在。\n……以此为蓝本所制作的雕像。\n\n拥有超过12,000公里全长外壳，是迦南引以为傲的最大规模巨型构造物。\n管理庞大数量机能、承担心脏之役的「渡鸟的■■■」。\n依据状况给予精确指示、承担大脑之役的「驭鸟者逻各斯」。\n唯有这两个机械生命体核心同时运作，方能正常启动。\n\n这是为了与可能存在于外宇宙的超存在交战而打造的兵器，\n同时也具备在紧要关头脱离星球、将人民运往下一片新天地的方舟功能。\n然而，因其力量过于强大，加之顾虑被恶用的危险性，制造计划遭到中止。\n用于驱动的机械生命体核心也从未被制造，设计图则保管于「洗礼」之中。\n\n然而，在迦南创世纪后期，部分宙族盯上了这具克里提亚斯，发动了大规模袭击。\n在承受重大打击的同时，他们夺取了「洗礼」，创造出生体核心并启动了克里提亚斯。\n但是，保管于「洗礼」中的设计图仅有「渡鸟的■■■」一份，\n在欠缺一翼的状态下强行启动导致失控，将宙族们尽数灭绝，为迦南带来了黑暗时代。\n\n而在漫长战斗的终结之际，咎灵撕裂了「渡鸟的■■■」的装甲，将其击毙。\n\n时至今日，其骸壳被运回迦南的宙域，作为警示留存至今。\n仅有殖民地功能得以复原，原因不明，但据说伪神族们很喜欢住在其中。\n\n\n\n\n\n就此，迦南创世期的黑暗时代宣告终结。\n而那其中的内容物独自游走一事，始终无人知晓。</HAR_OT_Thing_Art_z.description>
+  <HAR_OT_Thing_XSE_a.label>伽蓝洞之骸</HAR_OT_Thing_XSE_a.label>
+  <HAR_OT_Thing_XSE_a.description>突然出现在殖民地附近的巨大构造物。\n乍看之下像是一台巨大的机械，却毫无启动的迹象。\n令人费解的是，其内部已空无一物，连光线都无法穿透。\n\n而从那虚空般的空间彼端，能感受到某道视线。\n\n\n\n\n曾在宇宙中散播灾厄的存在「克里提亚斯」的统括管理单元「渡鸟的■■■」。\n被人工种族之一的咎灵一击彻底摧毁，原本的功能几乎荡然无存。\n大战终结之际，悄然消失无踪的不祥骸壳。\n\n若是了解过去的人工种族，见到此物必会即刻将其摧毁。\n然而，受宇宙所施加的认知阻碍影响，无法正确感知其存在。\n这诡异的现象，是对已沦为异物的■■■所产生的排斥反应吗……</HAR_OT_Thing_XSE_a.description>
+  <HAR_OT_Drag_a.label>天使该隐</HAR_OT_Drag_a.label>
+  <HAR_OT_Drag_a.description>混沌在地下社会中散布的毒品。\n经过特殊加工，将酒精成分完全浓缩而成。\n摄取后能获得长时间持续的幸福感。\n\n在其他毒品都有危险成瘾性的情况下，\n天使该隐与酒精中毒相比，危险性相对较低。\n由于制造成本低廉，因此在地下社会中爆发性地流行，成为混沌确立地位的重要因素。</HAR_OT_Drag_a.description>
+  <HAR_OT_Thing_Container_a.label>货物货柜</HAR_OT_Thing_Container_a.label>
+  <HAR_OT_Thing_Container_a.description>地下社会辛迪加「混沌」的货物货柜。\n摧毁后即可回收其中的物品。</HAR_OT_Thing_Container_a.description>
+  <HAR_OT_Thing_Shuttle_a.label>破损的大型穿梭艇</HAR_OT_Thing_Shuttle_a.label>
+  <HAR_OT_Thing_Shuttle_a.description>遭混沌袭击后紧急迫降的穿梭艇。摧毁后可回收一些素材。</HAR_OT_Thing_Shuttle_a.description>
+  <HAR_OT_Thing_Idea_a.label>圣像</HAR_OT_Thing_Idea_a.label>
+  <HAR_OT_Thing_Idea_a.description>来自更高次元的■■■所投下的影，超存在「圣像」。\n\n■■■因成为了扭曲的存在而遭宇宙所拒绝。\n作为替代，将这道影以化身的形式显现于世。\n\n尽管如此，即便是这副姿态也无法随心所欲地干涉宇宙，仅能在历史的背后悄悄拨弄而已。\n况且，本体不过是想品味那生机盎然的生命燃尽辉煌的瞬间，并不渴求全能之力。\n\n\n\n从原型投影而来的似姿。据说其轮廓与人工种族之祖的超存在「创世纪」相似。</HAR_OT_Thing_Idea_a.description>
+  <HAR_OT_Material_a.label>恩赐</HAR_OT_Material_a.label>
+  <HAR_OT_Material_a.description>混沌所持有的稀有金属。\n散发着令所有人为之倾倒的美丽光泽。\n\n作为加工素材亦是顶级之选，用于武具之上将发挥绝大的威力。\n但其真正的价值，或许更能在家具等艺术品上得到体现。\n\n各派系都在探查迪斯提基亚的取得管道，至今仍不得而知。\n也有一说，低声流传着这是她们所信仰的神明赐予之物的无稽之谈。</HAR_OT_Material_a.description>
+</LanguageData>

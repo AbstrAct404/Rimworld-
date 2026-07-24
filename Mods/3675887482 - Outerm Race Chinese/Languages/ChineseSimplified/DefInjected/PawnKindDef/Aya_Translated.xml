@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_OT_Monster_PawnKind_a.label>美伯拉</HAR_OT_Monster_PawnKind_a.label>
+  <HAR_OT_Monster_PawnKind_a.labelMale>美伯拉</HAR_OT_Monster_PawnKind_a.labelMale>
+  <HAR_OT_Monster_PawnKind_a.labelFemale>美伯拉</HAR_OT_Monster_PawnKind_a.labelFemale>
+  <HAR_Outerm_Player.label>奥特姆殖民者</HAR_Outerm_Player.label>
+  <HAR_Outerm_KindBase_NPC.label>奥特姆</HAR_Outerm_KindBase_NPC.label>
+  <HAR_Outerm_NPC_Leader.label>混沌干部</HAR_Outerm_NPC_Leader.label>
+  <HAR_Outerm_NPC_Resident.label>混沌成员</HAR_Outerm_NPC_Resident.label>
+</LanguageData>
