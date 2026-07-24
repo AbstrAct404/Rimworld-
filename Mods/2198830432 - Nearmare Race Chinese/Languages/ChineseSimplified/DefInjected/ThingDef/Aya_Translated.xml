@@ -1,17 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_NM_A_Belt_a.description>属于魅魔教会的魅魔专属的特殊盾牌，被编入的系统使用着造物主的遗产。\n这个机械再现了魅魔拥有的精神能力的一部分，具有自动感知敌人攻击并防御的功能。\n拥有极其坚固的防御性能的同时，却也有者大幅减少使用者灵活性的缺点。</HAR_NM_A_Belt_a.description>
-  <HAR_NM_A_Belt_a.label>辉光之盾（魅魔）</HAR_NM_A_Belt_a.label>
+  <HAR_NM_TES_a.label>茨鲁埃萨</HAR_NM_TES_a.label>
+  <HAR_NM_TES_a.description>人工种族的造物主曾经创造的生命体。\n搬运能力很强，在卡兰德星经常被珍视。\n因为是漂浮着移动的，所以移动速度与看起来巨大的身体并不匹配，速度很快。\n可能是因为在搬运能力上进行了特化，攻击能力相当低。</HAR_NM_TES_a.description>
+  <NM_M_NightStalker_Base.label>夜行者</NM_M_NightStalker_Base.label>
+  <NM_M_NightStalker_Base.description>魅魔的后裔，杀伤力不如座狼，但动作极其敏捷，难以逃脱。 \n爪子和獠牙含有剧毒，所以被瞄准的人必须小心，即使击退它们，剧毒也会伤害他们。</NM_M_NightStalker_Base.description>
+  <NM_M_NightStalker.label>夜潜猎手（1级）</NM_M_NightStalker.label>
+  <NM_M_NightStalker_b.label>夜潜猎手（2级）</NM_M_NightStalker_b.label>
+  <NM_M_NightStalker_c.label>夜潜猎手（3级）</NM_M_NightStalker_c.label>
+  <NM_M_NightStalker_d.label>夜潜猎手（4级）</NM_M_NightStalker_d.label>
+  <NM_M_NightStalker_e.label>夜潜猎手（5级）</NM_M_NightStalker_e.label>
+  <NM_M_NightGaunts_Base.label>夜魇</NM_M_NightGaunts_Base.label>
+  <NM_M_NightGaunts_Base.description>作为魅魔的后裔，它的触手具有引起温度快速变化的结构和特性，被它蜇过的人要么被剥夺热量，要么被注入足够的热量来点燃。</NM_M_NightGaunts_Base.description>
+  <NM_M_NightGaunts.label>噩梦骇兽（1级）</NM_M_NightGaunts.label>
+  <NM_M_NightGaunts_b.label>噩梦骇兽（2级）</NM_M_NightGaunts_b.label>
+  <NM_M_NightGaunts_c.label>噩梦骇兽（3级）</NM_M_NightGaunts_c.label>
+  <NM_M_NightGaunts_d.label>噩梦骇兽（4级）</NM_M_NightGaunts_d.label>
+  <NM_M_NightGaunts_e.label>噩梦骇兽（5级）</NM_M_NightGaunts_e.label>
+  <NM_M_Nightmare_Base.label>恶梦</NM_M_Nightmare_Base.label>
+  <NM_M_Nightmare_Base.description>魅魔召唤的眷属，拥有惊人的坚韧与庞大身躯，能以沉重一击压制敌人。</NM_M_Nightmare_Base.description>
+  <NM_M_Nearmaere.label>永夜巨兽（1级）</NM_M_Nearmaere.label>
+  <NM_M_Nightmare.label>永夜巨兽（1级）</NM_M_Nightmare.label>
+  <NM_M_Nightmare_b.label>永夜巨兽（2级）</NM_M_Nightmare_b.label>
+  <NM_M_Nightmare_c.label>永夜巨兽（3级）</NM_M_Nightmare_c.label>
+  <NM_M_Nightmare_d.label>永夜巨兽（4级）</NM_M_Nightmare_d.label>
+  <NM_M_Nightmare_e.label>永夜巨兽（5级）</NM_M_Nightmare_e.label>
+  <HAR_NM_M_KUT_Base.description>它是魅魔的后裔，是魅魔对其创造者信仰的体现。 \n\n与普通魅魔召唤的随从相比，攻击性稍差，但耐久度极佳，可以维持三天的存在。 \n而且，或许是因为对机械生命体怀有仇恨，所以它的攻击也具有使机器短路的能力。</HAR_NM_M_KUT_Base.description>
+  <HAR_NM_M_KZU_Base.description>被超越人类认知的存在“拯救”后，这具躯体已经失去肉身与灵魂，再也无法恢复原状。 \n它只会茫然地重复残留在躯体中的条件反射。 \n然而，杀死或伤害它们已经变得极其困难，也许是因为它们不再被归类为生物。 \n\n一天后，它便无法继续维持这具无魂躯体，最终自行崩解。</HAR_NM_M_KZU_Base.description>
+  <HAR_NM_M_XXX.description>魅魔·魔女系从宇宙深渊召来的超存在。其真名会令没有资质者在记忆时产生致命认知错位并引发精神崩溃，因此被隐去。
+
+据说祂与伪神族召唤的“空海大人”属于同族，性情同样温和。进入其感知范围者会因原理不明的干涉立即停止行动，最终化为肉块般的怪物。魅魔·魔女系似乎能够与祂交流，因此不受这种异常影响。
+
+魅魔·魔女系通常不会向召唤物传递敌我识别，干涉会无差别波及双方；同样能够与超存在交流的伪神族与库莉菈王族则可以承受这种影响。她们仅把这种足以酿成大灾难的召唤视为“收拾玩具”，把超存在当成方便的杀戮兵器。女巫过去如此堆起尸山，今后也会继续随心所欲。</HAR_NM_M_XXX.description>
+  <HAR_NM_Weapon_Gun_a.label>卡兰德星步枪</HAR_NM_Weapon_Gun_a.label>
+  <HAR_NM_Weapon_Gun_a.description>人工种族起源的故乡卡兰德星所使用的步枪。\n有极高的穿透性和稳定的输出火力。\n缺陷是它的制作难度和成本。\n\n卡兰德星步枪的连射、射程都极其出色，无论在哪个距离都有很高的命中精度。\n附带着刺剑，紧急情况下也可以拔出进行近战。</HAR_NM_Weapon_Gun_a.description>
+  <HAR_NM_Weapon_Gun_b.label>卡兰德星霰弹枪</HAR_NM_Weapon_Gun_b.label>
+  <HAR_NM_Weapon_Gun_b.description>人工种族起源的故乡卡兰德星所使用的霰弹枪。\n有极高的穿透性和稳定的输出火力。\n缺陷是它的制作难度和成本。\n\n虽然射程很短，但其威力甚至能够轻易粉碎重型机械族的坚实防护</HAR_NM_Weapon_Gun_b.description>
+  <HAR_NM_Weapon_Sword_a.label>卡兰德星剑</HAR_NM_Weapon_Sword_a.label>
+  <HAR_NM_Weapon_Sword_a.description>人工种族起源的故乡卡兰德星所使用的剑。\n有极高的穿透性和轻便的操作性能。\n比起攻击更重视重心的维持，具有提高接近目标敌人所需要的能力的功能。</HAR_NM_Weapon_Sword_a.description>
+  <Geist_Knife.label>缚刃「盖斯特」</Geist_Knife.label>
+  <Geist_Knife.description>一种放大魅魔幻觉能力的投掷武器，被投掷的刀子刺伤的敌人不仅会减慢运动速度，并且还会导致精神混乱。</Geist_Knife.description>
+  <Geist_Knife_Projectile.label>缚刃「盖斯特」</Geist_Knife_Projectile.label>
+  <Larva_SKnife.label>凭剑「拉尔夫」</Larva_SKnife.label>
+  <Larva_SKnife.description>一种放大魅魔幻觉能力的射击武器，由缚刃「盖斯特」强化改造而来的高性能射击武器，使用诅咒的剑刃飞向目标，其精确度足以命中远距离对手。</Larva_SKnife.description>
+  <Larva_SKnife_Projectile.label>凭剑「拉尔夫」</Larva_SKnife_Projectile.label>
+  <Rugeiyu_Pila.label>魔枪「勒盖耶」</Rugeiyu_Pila.label>
+  <Rugeiyu_Pila.description>一种放大魅魔幻觉能力的投掷武器。直接威力较低，却能造成强烈幻觉，并分裂为五道投影连续攻击目标。</Rugeiyu_Pila.description>
+  <Rugeiyu_Pilum_Thrown.label>魔枪「勒盖耶」</Rugeiyu_Pilum_Thrown.label>
+  <Nearmaere_WildHunt.label>梦杖「荒猎」</Nearmaere_WildHunt.label>
+  <Nearmaere_WildHunt.description>通过极大加强魅魔的幻觉能力的而生产的装备，拥有超远距离的超大范围的攻击用于对抗军队级别的敌人,被攻击到的人会无法控制自己的无差别狂暴,但本身威力非常低,而且还需要进行非常长的准备发射时间，因此，很难对付高速的成堆敌人。</Nearmaere_WildHunt.description>
+  <Nearmaere_WildHunt_B.label>梦杖「荒猎」</Nearmaere_WildHunt_B.label>
+  <Gun_AssaultRifle_NM.label>魑枪「郄浍堕狱」</Gun_AssaultRifle_NM.label>
+  <Gun_AssaultRifle_NM.description>这是由继承了造物主知识的魅魔们和继承技术的亚人工业合作制作而成的高科技武器。在微小的纳米机器上再现了魅魔的独特能力,将负载能力的纳米机器装载弹从远距离上高速射击。虽然子弹同时拥有高速高贯穿高破坏性的极强性能,但由于后坐力极其严重,命中率也非常低下。</Gun_AssaultRifle_NM.description>
+  <Bullet_AssaultRifle_NM.label>魑枪「郄浍堕狱」</Bullet_AssaultRifle_NM.label>
   <HAR_NM_A_EyeCover_a.description>属于魅魔教会的魅魔专属的身上的光环，象征着造物主的“知识”、“技术”、“精神”三种品质。\n具有强化大脑的能力，尤其是在射击方面的能力有很大提高。\n代价是容易导致精神崩溃，并且因为大脑处理的事情很多导致脚步也变得更慢了。</HAR_NM_A_EyeCover_a.description>
   <HAR_NM_A_EyeCover_a.label>圣洁光环（魅魔）</HAR_NM_A_EyeCover_a.label>
-  <HAR_NM_A_a.label>心灵装甲（魅魔）</HAR_NM_A_a.label>
-  <HAR_NM_A_a.description>魅魔专用的装甲，比魅魔的巫咒套装性能更高的装备。据说原是造物主还健在时代使用的。</HAR_NM_A_a.description>
-  <HAR_NM_A_b.label>修女服装A款（魅魔）</HAR_NM_A_b.label>
-  <HAR_NM_A_b.description>属于魅魔教会的魅魔专属的服装，乍一看像是修女服装，实际上是强化套装，耐久性比一般的装甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_A_b.description>
-  <HAR_NM_A_c.label>修女服装B款（魅魔）</HAR_NM_A_c.label>
-  <HAR_NM_A_c.description>属于魅魔教会的魅魔专属的服装，乍一看像是修女服装，实际上是强化套装，耐久性比一般的装甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_A_c.description>
-  <HAR_NM_A_d.label>修女服装C款（魅魔）</HAR_NM_A_d.label>
-  <HAR_NM_A_d.description>属于魅魔教会的魅魔专属的服装，乍一看像是修女服装，实际上是强化套装，耐久性比一般的装甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_A_d.description>
   <HAR_NM_Os_P.description>魅魔们很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_P.description>
   <HAR_NM_Os_P.label>内衣A款（魅魔）</HAR_NM_Os_P.label>
   <HAR_NM_Os_Pb.description>魅魔们很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_Pb.description>
@@ -24,8 +66,18 @@
   <HAR_NM_Os_Pe.label>内衣E款（魅魔）</HAR_NM_Os_Pe.label>
   <HAR_NM_Os_Pf.description>魅魔·魔女系很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_Pf.description>
   <HAR_NM_Os_Pf.label>内衣·魔女款式（魅魔）</HAR_NM_Os_Pf.label>
-  <HAR_NM_Os_Pg.description>人工种族起源的故乡卡兰德星开发的最新锐的装备。\n在「边缘星球保护机构-信念-」被作为制式战斗装备使用着.</HAR_NM_Os_Pg.description>
+  <HAR_NM_Os_Pg.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_Os_Pg.description>
   <HAR_NM_Os_Pg.label>内衣·ETHOS款式（魅魔）</HAR_NM_Os_Pg.label>
+  <HAR_NM_A_Belt_a.description>属于魅魔教会的魅魔专属的特殊盾牌，被编入的系统使用着造物主的遗产。\n这个机械再现了魅魔拥有的精神能力的一部分，具有自动感知敌人攻击并防御的功能。\n拥有极其坚固的防御性能的同时，却也有者大幅减少使用者灵活性的缺点。</HAR_NM_A_Belt_a.description>
+  <HAR_NM_A_Belt_a.label>辉光之盾（魅魔）</HAR_NM_A_Belt_a.label>
+  <HAR_NM_A_a.label>心灵装甲（魅魔）</HAR_NM_A_a.label>
+  <HAR_NM_A_a.description>魅魔专用的装甲，比魅魔的巫咒套装性能更高的装备。据说原是造物主还健在时代使用的。</HAR_NM_A_a.description>
+  <HAR_NM_A_b.label>修女服装A款（魅魔）</HAR_NM_A_b.label>
+  <HAR_NM_A_b.description>属于魅魔教会的魅魔专属的服装，乍一看像是修女服装，实际上是强化套装，耐久性比一般的装甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_A_b.description>
+  <HAR_NM_A_c.label>修女服装B款（魅魔）</HAR_NM_A_c.label>
+  <HAR_NM_A_c.description>属于魅魔教会的魅魔专属的服装，乍一看像是修女服装，实际上是强化套装，耐久性比一般的装甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_A_c.description>
+  <HAR_NM_A_d.label>修女服装C款（魅魔）</HAR_NM_A_d.label>
+  <HAR_NM_A_d.description>属于魅魔教会的魅魔专属的服装，乍一看像是修女服装，实际上是强化套装，耐久性比一般的装甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_A_d.description>
   <HAR_NM_HArmor.description>魅魔的战斗用头部装备，由于特殊的防护膜拥有不属于外表的防御力。</HAR_NM_HArmor.description>
   <HAR_NM_HArmor.label>轻型头盔（魅魔）</HAR_NM_HArmor.label>
   <HAR_NM_MCt.description>魅魔成为女仆后而穿戴的女仆发箍，不知为何工作效率会提高。</HAR_NM_MCt.description>
@@ -48,7 +100,7 @@
   <HAR_NM_AH_h.label>魔女之帽（魅魔）</HAR_NM_AH_h.label>
   <HAR_NM_AH_x.description>魅魔·神秘系的专用帽子。为了能经受长途旅行从而做得经久耐用。</HAR_NM_AH_x.description>
   <HAR_NM_AH_x.label>旅者之帽（魅魔）</HAR_NM_AH_x.label>
-  <HAR_NM_AH_r.description>人工种族起源的故乡卡兰德星开发的最新锐的装备。\n在「边缘星球保护机构-信念-」被作为制式战斗装备使用着.</HAR_NM_AH_r.description>
+  <HAR_NM_AH_r.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_AH_r.description>
   <HAR_NM_AH_r.label>ETHOS头饰型增幅器（魅魔）</HAR_NM_AH_r.label>
   <HAR_NM_Sh_K.description>柔弱的魅魔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_K.description>
   <HAR_NM_Sh_K.label>披衣（魅魔）</HAR_NM_Sh_K.label>
@@ -70,7 +122,7 @@
   <HAR_NM_Sh_Cry.label>魔女水晶（魅魔）</HAR_NM_Sh_Cry.label>
   <HAR_NM_Sh_x.description>魅魔·神秘系的专用外套。为了能经受长途旅行从而做得经久耐用。</HAR_NM_Sh_x.description>
   <HAR_NM_Sh_x.label>旅者外套（魅魔）</HAR_NM_Sh_x.label>
-  <HAR_NM_Sh_r.description>人工种族起源的故乡卡兰德星开发的最新锐的装备。\n在「边缘星球保护机构-信念-」被作为制式战斗装备使用着.</HAR_NM_Sh_r.description>
+  <HAR_NM_Sh_r.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_Sh_r.description>
   <HAR_NM_Sh_r.label>ETHOS外附型增幅器（魅魔）</HAR_NM_Sh_r.label>
   <HAR_NM_Tshirt.description>魅魔专用的T恤衫，和人类穿的一样，性能方面也没有太大的差别，所以有点不放心。</HAR_NM_Tshirt.description>
   <HAR_NM_Tshirt.label>T恤衫（魅魔）</HAR_NM_Tshirt.label>
@@ -106,39 +158,8 @@
   <HAR_NM_Wear_y.label>魔女之衣（魅魔）</HAR_NM_Wear_y.label>
   <HAR_NM_Wear_x.description>魅魔·神秘系的专用服装。为了能经受长途旅行从而做得经久耐用。</HAR_NM_Wear_x.description>
   <HAR_NM_Wear_x.label>旅者之衣（魅魔）</HAR_NM_Wear_x.label>
-  <HAR_NM_Wear_r.description>人工种族起源的故乡卡兰德星开发的最新锐的装备。\n在「边缘星球保护机构-信念-」被作为制式战斗装备使用着.</HAR_NM_Wear_r.description>
+  <HAR_NM_Wear_r.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_Wear_r.description>
   <HAR_NM_Wear_r.label>ETHOS之衣（魅魔）</HAR_NM_Wear_r.label>
-  <NM_M_NightStalker_Base.label>夜行者</NM_M_NightStalker_Base.label>
-  <NM_M_NightStalker_Base.description>魅魔的后裔，杀伤力不如座狼，但动作极其敏捷，难以逃脱。 \n爪子和獠牙含有剧毒，所以被瞄准的人必须小心，即使击退它们，剧毒也会伤害他们。</NM_M_NightStalker_Base.description>
-  <NM_M_NightStalker.label>夜潜猎手（1级）</NM_M_NightStalker.label>
-  <NM_M_NightStalker_b.label>夜潜猎手（2级）</NM_M_NightStalker_b.label>
-  <NM_M_NightStalker_c.label>夜潜猎手（3级）</NM_M_NightStalker_c.label>
-  <NM_M_NightStalker_d.label>夜潜猎手（4级）</NM_M_NightStalker_d.label>
-  <NM_M_NightStalker_e.label>夜潜猎手（5级）</NM_M_NightStalker_e.label>
-  <NM_M_NightGaunts_Base.label>夜魇</NM_M_NightGaunts_Base.label>
-  <NM_M_NightGaunts_Base.description>作为魅魔的后裔，它的触手具有引起温度快速变化的结构和特性，被它蜇过的人要么被剥夺热量，要么被注入足够的热量来点燃。</NM_M_NightGaunts_Base.description>
-  <NM_M_NightGaunts.label>噩梦骇兽（1级）</NM_M_NightGaunts.label>
-  <NM_M_NightGaunts_b.label>噩梦骇兽（2级）</NM_M_NightGaunts_b.label>
-  <NM_M_NightGaunts_c.label>噩梦骇兽（3级）</NM_M_NightGaunts_c.label>
-  <NM_M_NightGaunts_d.label>噩梦骇兽（4级）</NM_M_NightGaunts_d.label>
-  <NM_M_NightGaunts_e.label>噩梦骇兽（5级）</NM_M_NightGaunts_e.label>
-  <NM_M_Nightmare_Base.label>恶梦</NM_M_Nightmare_Base.label>
-  <NM_M_Nightmare_Base.description>魅魔召唤的眷属，拥有惊人的坚韧与庞大身躯，能以沉重一击压制敌人。</NM_M_Nightmare_Base.description>
-  <NM_M_Nearmaere.label>永夜巨兽（1级）</NM_M_Nearmaere.label>
-  <NM_M_Nightmare.label>永夜巨兽（1级）</NM_M_Nightmare.label>
-  <NM_M_Nightmare_b.label>永夜巨兽（2级）</NM_M_Nightmare_b.label>
-  <NM_M_Nightmare_c.label>永夜巨兽（3级）</NM_M_Nightmare_c.label>
-  <NM_M_Nightmare_d.label>永夜巨兽（4级）</NM_M_Nightmare_d.label>
-  <NM_M_Nightmare_e.label>永夜巨兽（5级）</NM_M_Nightmare_e.label>
-  <HAR_NM_M_KUT_Base.description>它是魅魔的后裔，是魅魔对其创造者信仰的体现。 \n\n与普通魅魔召唤的随从相比，攻击性稍差，但耐久度极佳，可以维持三天的存在。 \n而且，或许是因为对机械生命体怀有仇恨，所以它的攻击也具有使机器短路的能力。</HAR_NM_M_KUT_Base.description>
-  <HAR_NM_TES_a.label>茨鲁埃萨</HAR_NM_TES_a.label>
-  <HAR_NM_TES_a.description>人工种族的造物主曾经创造的生命体。\n搬运能力很强，在卡兰德星经常被珍视。\n因为是漂浮着移动的，所以移动速度与看起来巨大的身体并不匹配，速度很快。\n可能是因为在搬运能力上进行了特化，攻击能力相当低。</HAR_NM_TES_a.description>
-  <HAR_NM_M_KZU_Base.description>被超越人类认知的存在“拯救”后，这具躯体已经失去肉身与灵魂，再也无法恢复原状。 \n它只会茫然地重复残留在躯体中的条件反射。 \n然而，杀死或伤害它们已经变得极其困难，也许是因为它们不再被归类为生物。 \n\n一天后，它便无法继续维持这具无魂躯体，最终自行崩解。</HAR_NM_M_KZU_Base.description>
-  <HAR_NM_M_XXX.description>魅魔·魔女系从宇宙深渊召来的超存在。其真名会令没有资质者在记忆时产生致命认知错位并引发精神崩溃，因此被隐去。
-
-据说祂与伪神族召唤的“空海大人”属于同族，性情同样温和。进入其感知范围者会因原理不明的干涉立即停止行动，最终化为肉块般的怪物。魅魔·魔女系似乎能够与祂交流，因此不受这种异常影响。
-
-魅魔·魔女系通常不会向召唤物传递敌我识别，干涉会无差别波及双方；同样能够与超存在交流的伪神族与库莉菈王族则可以承受这种影响。她们仅把这种足以酿成大灾难的召唤视为“收拾玩具”，把超存在当成方便的杀戮兵器。女巫过去如此堆起尸山，今后也会继续随心所欲。</HAR_NM_M_XXX.description>
   <HAR_NM_Archotech_a.label>魔女之棺</HAR_NM_Archotech_a.label>
   <HAR_NM_Archotech_a.description>封印了被人工种族们称为“棺之君主”的魔女之棺。\n被认为是罪不可赦的大罪人，据说能自行使用独特的法术。\n如果解开封印的话可以解放她并且让她加入殖民地。\n\n作为魔女，她会对殖民地的人际关系产生很大的影响。</HAR_NM_Archotech_a.description>
   <HAR_NM_Archotech_b.description>可以向ETHOS邀请派遣入驻人员的通信机。\n使用之后，一名ETHOS改良系魅魔作为伙伴加入殖民地。</HAR_NM_Archotech_b.description>
@@ -152,25 +173,4 @@
   <HAR_NM_VanometricPowerCell.description>人工种族神子伪神族·杜娜米丝开发的发电机。它利用持续膨胀的宇宙引力发电，无需燃料。对殖民地运营十分有用，但市场价值很高，需要留意。</HAR_NM_VanometricPowerCell.description>
   <HAR_NM_Filth_FireFoam_a.label>极寒力场（扩散）</HAR_NM_Filth_FireFoam_a.label>
   <HAR_NM_Filth_FireFoam_a.description>产生超低温区域的力场。\n破坏中央的核心或半天后自然消失。</HAR_NM_Filth_FireFoam_a.description>
-  <Geist_Knife.label>缚刃「盖斯特」</Geist_Knife.label>
-  <Geist_Knife.description>一种放大魅魔幻觉能力的投掷武器，被投掷的刀子刺伤的敌人不仅会减慢运动速度，并且还会导致精神混乱。</Geist_Knife.description>
-  <Geist_Knife_Projectile.label>缚刃「盖斯特」</Geist_Knife_Projectile.label>
-  <Larva_SKnife.label>凭剑「拉尔夫」</Larva_SKnife.label>
-  <Larva_SKnife.description>一种放大魅魔幻觉能力的射击武器，由缚刃「盖斯特」强化改造而来的高性能射击武器，使用诅咒的剑刃飞向目标，其精确度足以命中远距离对手。</Larva_SKnife.description>
-  <Larva_SKnife_Projectile.label>凭剑「拉尔夫」</Larva_SKnife_Projectile.label>
-  <Rugeiyu_Pila.label>魔枪「勒盖耶」</Rugeiyu_Pila.label>
-  <Rugeiyu_Pila.description>一种放大魅魔幻觉能力的投掷武器。直接威力较低，却能造成强烈幻觉，并分裂为五道投影连续攻击目标。</Rugeiyu_Pila.description>
-  <Rugeiyu_Pilum_Thrown.label>魔枪「勒盖耶」</Rugeiyu_Pilum_Thrown.label>
-  <Nearmaere_WildHunt.label>梦杖「荒猎」</Nearmaere_WildHunt.label>
-  <Nearmaere_WildHunt.description>通过极大加强魅魔的幻觉能力的而生产的装备，拥有超远距离的超大范围的攻击用于对抗军队级别的敌人,被攻击到的人会无法控制自己的无差别狂暴,但本身威力非常低,而且还需要进行非常长的准备发射时间，因此，很难对付高速的成堆敌人。</Nearmaere_WildHunt.description>
-  <Nearmaere_WildHunt_B.label>梦杖「荒猎」</Nearmaere_WildHunt_B.label>
-  <Gun_AssaultRifle_NM.label>魑枪「郄浍堕狱」</Gun_AssaultRifle_NM.label>
-  <Gun_AssaultRifle_NM.description>这是由继承了造物主知识的魅魔们和继承技术的亚人工业合作制作而成的高科技武器。在微小的纳米机器上再现了魅魔的独特能力,将负载能力的纳米机器装载弹从远距离上高速射击。虽然子弹同时拥有高速高贯穿高破坏性的极强性能,但由于后坐力极其严重,命中率也非常低下。</Gun_AssaultRifle_NM.description>
-  <Bullet_AssaultRifle_NM.label>魑枪「郄浍堕狱」</Bullet_AssaultRifle_NM.label>
-  <HAR_NM_Weapon_Gun_a.label>卡兰德星步枪</HAR_NM_Weapon_Gun_a.label>
-  <HAR_NM_Weapon_Gun_a.description>人工种族起源的故乡卡兰德星所使用的步枪。\n有极高的穿透性和稳定的输出火力。\n缺陷是它的制作难度和成本。\n\n卡兰德星步枪的连射、射程都极其出色，无论在哪个距离都有很高的命中精度。\n附带着刺剑，紧急情况下也可以拔出进行近战。</HAR_NM_Weapon_Gun_a.description>
-  <HAR_NM_Weapon_Gun_b.label>卡兰德星霰弹枪</HAR_NM_Weapon_Gun_b.label>
-  <HAR_NM_Weapon_Gun_b.description>人工种族起源的故乡卡兰德星所使用的霰弹枪。\n有极高的穿透性和稳定的输出火力。\n缺陷是它的制作难度和成本。\n\n虽然射程很短，但其威力甚至能够轻易粉碎重型机械族的坚实防护</HAR_NM_Weapon_Gun_b.description>
-  <HAR_NM_Weapon_Sword_a.label>卡兰德星剑</HAR_NM_Weapon_Sword_a.label>
-  <HAR_NM_Weapon_Sword_a.description>人工种族起源的故乡卡兰德星所使用的剑。\n有极高的穿透性和轻便的操作性能。\n比起攻击更重视重心的维持，具有提高接近目标敌人所需要的能力的功能。</HAR_NM_Weapon_Sword_a.description>
 </LanguageData>

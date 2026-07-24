@@ -220,6 +220,39 @@ WORKSHOP_DESCRIPTION_REPLACEMENTS = {
 # A deliberately obfuscated source label cannot be translated reliably by an
 # automatic service; use the established race name and a readable designation.
 KEY_OVERRIDES = {
+    # Faction proper names. These are key-specific because several source
+    # strings are also used as pawn-kind labels or ordinary lore terms.
+    "Nearmaere_Faction_NPC.fixedName": "魅魔氏族",
+    "Nearmaere_Faction_NPC_b.label": "魅魔战团",
+    "Nearmaere_Faction_NPC_b.fixedName": "魅魔战团",
+    "Nearmaere_Faction_NPC_c.label": "真理教会",
+    "Nearmaere_Faction_NPC_c.fixedName": "真理教会",
+    "Nearmaere_Faction_NPC_e.label": "边境行星保全机构-ETHOS-",
+    "Nearmaere_Faction_NPC_e.fixedName": "边境行星保全机构-ETHOS-",
+    "Xenoorca_Faction_NPC.label": "逆戟鲸旅团",
+    "Xenoorca_Faction_NPC.fixedName": "逆戟鲸旅团",
+    "Xenoorca_Faction_NPC_b.label": "虎鲸佣兵团",
+    "Xenoorca_Faction_NPC_b.fixedName": "虎鲸佣兵团",
+    "Silkiera_Faction_NPC.label": "亚人工业",
+    "Silkiera_Faction_NPC.fixedName": "亚人工业",
+    "Neclose_Faction_NPC.label": "牧菌战团",
+    "Neclose_Faction_NPC.fixedName": "牧菌战团",
+    "Neclose_Faction_NPC_b.label": "昏暗之物",
+    "Neclose_Faction_NPC_b.fixedName": "昏暗之物",
+    "Littluna_Faction_NPC.label": "伪神族同盟",
+    "Littluna_Faction_NPC.fixedName": "伪神族同盟",
+    "Saclean_Faction_NPC.label": "丝织同盟",
+    "Saclean_Faction_NPC.fixedName": "丝织同盟",
+    "Nexaga_Faction_NPC.label": "混血种同盟",
+    "Nexaga_Faction_NPC.fixedName": "混血种同盟",
+    "Qualeela_Faction_NPC_c.label": "恩特雷凯亚王国",
+    "Qualeela_Faction_NPC_c.fixedName": "恩特雷凯亚王国",
+    "Chaoura_Faction_NPC.label": "死影会",
+    "Chaoura_Faction_NPC.fixedName": "死影会",
+    "Chaoura_Faction_NPC_b.label": "自有永有教团",
+    "Chaoura_Faction_NPC_b.fixedName": "自有永有教团",
+    "Outerm_Faction.label": "混沌辛迪加",
+    "Outerm_Faction.fixedName": "混沌辛迪加",
     # Canaan Intellect: the reference pack still leaves this newly expanded
     # description in Japanese.
     "Aya_CI_Permit_a.description": "“真棒！太厉害了！做得很好！这个印章就奖励给你啦！”\\n——神子\n\n向少年消耗交涉点数后获得的神秘许可证。委托其制造特殊道具时必须出示。\n\n造物主曾因“毫无节制地大量制造特殊道具并不妥当”而受到神子劝诫，于是制作了这种许可证。据说在古迦南，生产由神子管理，人们凭此证向造物主领取道具。印章图案采用了造物主的爱女——伪神族·杜娜米丝的形象。",
@@ -228,6 +261,10 @@ KEY_OVERRIDES = {
     "BOSS_EF_B_M_race_Base.description": "随陨石一同降临的神秘生命体。它体型与质量惊人，几乎无法以物理手段摧毁。\\n行动本身虽然迟缓，但其超大质量所爆发的攻击足以媲美陨石撞击，贸然接近绝非明智之举。\\n\\n这种生物已经近似于兵器，但似乎无法适应这颗星球的环境，活动时间极短；不足一天便会自行崩解消失。若无力将其破坏，也可设法拖延并阻止它接近殖民地，等待其自行消亡。\\n\\n大型个体各自拥有不同的特殊能力，可能对殖民者造成严重负面影响，请务必留意。",
     # Nexaga is a proper race name; 混血种 remains its setting category.
     "HAR_Nexaga_KindBase_NPC.label": "涅克萨迦居民",
+    # The shared Japanese source is also used for pawn kinds. A faction name
+    # needs an explicit collective suffix in natural Chinese.
+    "Littluna_Faction_NPC_b.label": "狂乱少女众",
+    "Littluna_Faction_NPC_b.fixedName": "狂乱少女众",
     # Outerm additions introduced after the reference language pack was made.
     "HAR_OT_BaseMeleeWeapon_a.description": "奥特姆使用的神秘武器，仿佛活物般鲜明地搏动着。据说每杀死一个敌人，刀锋便会变得更加锐利。\n\n这把武器恶名昭彰，许多持有者最终都走上了大肆杀戮的歧途。\n\n\n\n\n杀吧，服从你的欲望。堆起尸骸，还要更加残酷。\n吾主渴求■■。以鲜烈血色，为那倦怠褪色的故事重新着彩。\n无底虚空正注视着你——无论何时，永远、永远。",
     "HAR_OT_Weapon_Idea.label": "噬魂邪枪",
@@ -437,7 +474,7 @@ def reviewed_game_translation(mod_id: str, key: str, original: str) -> str:
     # older per-package review caches. Otherwise rebuilding a downloaded
     # source mod can silently resurrect superseded terminology.
     if key in KEY_OVERRIDES:
-        return CANONICAL_SOURCE_TRANSLATIONS.get(original, KEY_OVERRIDES[key])
+        return KEY_OVERRIDES[key]
     sources = (
         MANUAL_REVIEW_OVERRIDES,
         REVIEWED_GAME_TRANSLATIONS,

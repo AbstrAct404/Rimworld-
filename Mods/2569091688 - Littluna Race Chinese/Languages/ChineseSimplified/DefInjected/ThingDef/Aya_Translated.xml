@@ -1,44 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Aya_Race_Ap_C_T_a.description>人工种族儿童穿着的衬衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_a.description>
-  <Aya_Race_Ap_C_T_a.label>儿童衬衫</Aya_Race_Ap_C_T_a.label>
-  <Aya_Race_Ap_C_T_b.description>人工种族儿童穿着的罩衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_b.description>
-  <Aya_Race_Ap_C_T_b.label>儿童罩衫</Aya_Race_Ap_C_T_b.label>
-  <Aya_Race_Ap_C_T_c.description>人工种族儿童使用的裹身布。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_c.description>
-  <Aya_Race_Ap_C_T_d.description>人工种族儿童穿着的学生服。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_d.description>
-  <Aya_Race_Ap_C_T_d.label>儿童款式学生服装</Aya_Race_Ap_C_T_d.label>
-  <HAR_LL_A_a.label>禁断之铠</HAR_LL_A_a.label>
-  <HAR_LL_A_a.description>伪神族专用的铠甲。为身体脆弱的伪神族们定制的战斗用铠甲，但实际上从未被动用过。</HAR_LL_A_a.description>
-  <HAR_LL_O_a.description>伪神族们爱穿的内衣。</HAR_LL_O_a.description>
-  <HAR_LL_O_a.label>内衣A（伪神族）</HAR_LL_O_a.label>
-  <HAR_LL_H_a.description>伪神族专用的头部装备。</HAR_LL_H_a.description>
-  <HAR_LL_H_a.label>小小发箍</HAR_LL_H_a.label>
-  <HAR_LL_H_b.description>伪神族专用的头部装备。</HAR_LL_H_b.description>
-  <HAR_LL_H_b.label>小小缎带</HAR_LL_H_b.label>
-  <HAR_LL_H_c.description>伪神族专用的头部装备。</HAR_LL_H_c.description>
-  <HAR_LL_H_c.label>小小皇冠</HAR_LL_H_c.label>
-  <HAR_LL_H_e.description>伪神族专用的头部装备。</HAR_LL_H_e.description>
-  <HAR_LL_H_e.label>小小围巾</HAR_LL_H_e.label>
-  <HAR_LL_H_f.description>伪神族专用的头盔。为身体脆弱的伪神族们定制的战斗用头盔，但实际上从未被动用过。</HAR_LL_H_f.description>
-  <HAR_LL_H_f.label>禁断头盔</HAR_LL_H_f.label>
-  <HAR_LL_S_a.description>伪神族专用的装备。</HAR_LL_S_a.description>
-  <HAR_LL_S_a.label>小小外套</HAR_LL_S_a.label>
-  <HAR_LL_S_b.description>伪神族专用的装备。</HAR_LL_S_b.description>
-  <HAR_LL_S_b.label>小小斗篷</HAR_LL_S_b.label>
-  <HAR_LL_S_c.description>伪神族专用的装备。</HAR_LL_S_c.description>
-  <HAR_LL_S_c.label>小小披风</HAR_LL_S_c.label>
-  <HAR_LL_S_e.description>伪神族专用的装备。</HAR_LL_S_e.description>
-  <HAR_LL_S_e.label>小小长袍</HAR_LL_S_e.label>
-  <HAR_LL_T_a.description>伪神族专用的装备。</HAR_LL_T_a.description>
-  <HAR_LL_T_a.label>小小汗衫</HAR_LL_T_a.label>
-  <HAR_LL_T_b.description>伪神族专用的装备。</HAR_LL_T_b.description>
-  <HAR_LL_T_b.label>小小衬衫</HAR_LL_T_b.label>
-  <HAR_LL_T_c.description>伪神族专用的装备。</HAR_LL_T_c.description>
-  <HAR_LL_T_c.label>小小披巾</HAR_LL_T_c.label>
-  <HAR_LL_T_e.description>伪神族专用的装备。</HAR_LL_T_e.description>
-  <HAR_LL_T_e.label>小小夹克</HAR_LL_T_e.label>
-  <HAR_LL_M_a.label>空天之海</HAR_LL_M_a.label>
-  <HAR_LL_M_a.description>伪神族从宇宙深处召唤的超然存在，“空天之海”这个名字也是伪神族们加上的，无人知晓其真实名字。\n拥有超群的智慧和与外表不符的温和性格，但是无法和常人交流；恰好和伪神族们的交流波长相同，对她们非常友好。\n\n以“为了让敌对势力相互理解而传授智慧”这一理由进行着无差别的心灵传输，但是被教化的人们不知为何开始发狂而互相残杀，结果将周边变成了地狱绘图。\n由于过于危险，就连创造者也只把伪神族们当作是“定胜负的存在”而进行掌控，一般的战斗中禁止派出。\n\n\n除了当事人外，没人知道为什么空天之海会回应伪神族的召唤——伪神族对此事也避而不谈。\n也许是以避而不谈来保护自己的伙伴免受“过量智慧”的影响。</HAR_LL_M_a.description>
   <HAR_LL_M_z.label>伪神族·琉刻</HAR_LL_M_z.label>
   <HAR_LL_M_z.description>从伪神族·边缘乐土身上所分离出来的类似人形的物体。
 尽管脚步很慢，体力也很差，但只要边缘乐土尚存就会无穷无尽的涌现出来。
@@ -49,10 +10,8 @@
   <HAR_LL_M_LC.description>从巨大生命体上分离而出的迷之眷属。
 是能够放出速度与杀伤能力都异常强悍的斩击的危险生物，
 其最大的特异之处是在于不击杀本体就会无限产生的再生能力。</HAR_LL_M_LC.description>
-  <HAR_LL_EX_Bullet_b.label>灰暗之血</HAR_LL_EX_Bullet_b.label>
-  <HAR_LL_EX_Bullet_c.label>银色之羽</HAR_LL_EX_Bullet_c.label>
-  <HAR_LL_EX_Bullet_d.label>神子的哭泣</HAR_LL_EX_Bullet_d.label>
-  <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>
+  <HAR_LL_M_a.label>空天之海</HAR_LL_M_a.label>
+  <HAR_LL_M_a.description>伪神族从宇宙深处召唤的超然存在，“空天之海”这个名字也是伪神族们加上的，无人知晓其真实名字。\n拥有超群的智慧和与外表不符的温和性格，但是无法和常人交流；恰好和伪神族们的交流波长相同，对她们非常友好。\n\n以“为了让敌对势力相互理解而传授智慧”这一理由进行着无差别的心灵传输，但是被教化的人们不知为何开始发狂而互相残杀，结果将周边变成了地狱绘图。\n由于过于危险，就连创造者也只把伪神族们当作是“定胜负的存在”而进行掌控，一般的战斗中禁止派出。\n\n\n除了当事人外，没人知道为什么空天之海会回应伪神族的召唤——伪神族对此事也避而不谈。\n也许是以避而不谈来保护自己的伙伴免受“过量智慧”的影响。</HAR_LL_M_a.description>
   <HAR_LL_Hive_Critias.label>伪神族蜂巢·克里蒂亚斯</HAR_LL_Hive_Critias.label>
   <HAR_LL_Hive_Critias.description>通过潘多拉深渊召唤而出的迷之生命体。
 其外壳类似于人工种族认知中被称为超存在的物体，极其牢固。
@@ -95,6 +54,7 @@
 
 
 是要吃掉她，还是被她吃掉呢？这一切都取决于你哦。</HAR_LL_Hive_Elysium.description>
+  <HAR_LL_Filth_FireFoam_a.label>忏悔</HAR_LL_Filth_FireFoam_a.label>
   <HAR_LL_Item_a.label>灵液之石</HAR_LL_Item_a.label>
   <HAR_LL_Item_a.description>从伪神族·伊迪亚之奴处取得的赤红如血的物质。
 将它用作武器的材料，能够产生极强的杀伤力。
@@ -163,5 +123,45 @@
 
 曾用来接受从宇宙的外侧被赐予的能量的银色十字架、
 如今已化为了无底的虚空手中的玩具。</HAR_LL_Archotech_f.description>
-  <HAR_LL_Filth_FireFoam_a.label>忏悔</HAR_LL_Filth_FireFoam_a.label>
+  <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>
+  <Aya_Race_Ap_C_T_a.description>人工种族儿童穿着的衬衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_a.description>
+  <Aya_Race_Ap_C_T_a.label>儿童衬衫</Aya_Race_Ap_C_T_a.label>
+  <Aya_Race_Ap_C_T_b.description>人工种族儿童穿着的罩衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_b.description>
+  <Aya_Race_Ap_C_T_b.label>儿童罩衫</Aya_Race_Ap_C_T_b.label>
+  <Aya_Race_Ap_C_T_c.description>人工种族儿童使用的裹身布。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_c.description>
+  <Aya_Race_Ap_C_T_d.description>人工种族儿童穿着的学生服。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_d.description>
+  <Aya_Race_Ap_C_T_d.label>儿童款式学生服装</Aya_Race_Ap_C_T_d.label>
+  <HAR_LL_O_a.description>伪神族们爱穿的内衣。</HAR_LL_O_a.description>
+  <HAR_LL_O_a.label>内衣A（伪神族）</HAR_LL_O_a.label>
+  <HAR_LL_A_a.label>禁断之铠</HAR_LL_A_a.label>
+  <HAR_LL_A_a.description>伪神族专用的铠甲。为身体脆弱的伪神族们定制的战斗用铠甲，但实际上从未被动用过。</HAR_LL_A_a.description>
+  <HAR_LL_H_a.description>伪神族专用的头部装备。</HAR_LL_H_a.description>
+  <HAR_LL_H_a.label>小小发箍</HAR_LL_H_a.label>
+  <HAR_LL_H_b.description>伪神族专用的头部装备。</HAR_LL_H_b.description>
+  <HAR_LL_H_b.label>小小缎带</HAR_LL_H_b.label>
+  <HAR_LL_H_c.description>伪神族专用的头部装备。</HAR_LL_H_c.description>
+  <HAR_LL_H_c.label>小小皇冠</HAR_LL_H_c.label>
+  <HAR_LL_H_e.description>伪神族专用的头部装备。</HAR_LL_H_e.description>
+  <HAR_LL_H_e.label>小小围巾</HAR_LL_H_e.label>
+  <HAR_LL_H_f.description>伪神族专用的头盔。为身体脆弱的伪神族们定制的战斗用头盔，但实际上从未被动用过。</HAR_LL_H_f.description>
+  <HAR_LL_H_f.label>禁断头盔</HAR_LL_H_f.label>
+  <HAR_LL_S_a.description>伪神族专用的装备。</HAR_LL_S_a.description>
+  <HAR_LL_S_a.label>小小外套</HAR_LL_S_a.label>
+  <HAR_LL_S_b.description>伪神族专用的装备。</HAR_LL_S_b.description>
+  <HAR_LL_S_b.label>小小斗篷</HAR_LL_S_b.label>
+  <HAR_LL_S_c.description>伪神族专用的装备。</HAR_LL_S_c.description>
+  <HAR_LL_S_c.label>小小披风</HAR_LL_S_c.label>
+  <HAR_LL_S_e.description>伪神族专用的装备。</HAR_LL_S_e.description>
+  <HAR_LL_S_e.label>小小长袍</HAR_LL_S_e.label>
+  <HAR_LL_T_a.description>伪神族专用的装备。</HAR_LL_T_a.description>
+  <HAR_LL_T_a.label>小小汗衫</HAR_LL_T_a.label>
+  <HAR_LL_T_b.description>伪神族专用的装备。</HAR_LL_T_b.description>
+  <HAR_LL_T_b.label>小小衬衫</HAR_LL_T_b.label>
+  <HAR_LL_T_c.description>伪神族专用的装备。</HAR_LL_T_c.description>
+  <HAR_LL_T_c.label>小小披巾</HAR_LL_T_c.label>
+  <HAR_LL_T_e.description>伪神族专用的装备。</HAR_LL_T_e.description>
+  <HAR_LL_T_e.label>小小夹克</HAR_LL_T_e.label>
+  <HAR_LL_EX_Bullet_b.label>灰暗之血</HAR_LL_EX_Bullet_b.label>
+  <HAR_LL_EX_Bullet_c.label>银色之羽</HAR_LL_EX_Bullet_c.label>
+  <HAR_LL_EX_Bullet_d.label>神子的哭泣</HAR_LL_EX_Bullet_d.label>
 </LanguageData>

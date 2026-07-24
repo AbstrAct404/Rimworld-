@@ -5,7 +5,7 @@
   <Hediff_Larva.label>精神瘫痪</Hediff_Larva.label>
   <Hediff_Larva.description>由于魅魔的精神干扰，身体状况陷入了无法正常行动的状态。</Hediff_Larva.description>
   <Hediff_Rugeiyu.label>精神怠倦</Hediff_Rugeiyu.label>
-  <Hediff_Rugeiyu.description>由于魅魔的精神干扰，虽然时间很短，但由于困倦引起思考、身体能力显著下降，程度继续加深的话就会昏厥。</Hediff_Rugeiyu.description>
+  <Hediff_Rugeiyu.description>由于魅魔的精神干扰，虽然时间很短，但由于困倦引起思考、身体能力显着下降，程度继续加深的话就会昏厥。</Hediff_Rugeiyu.description>
   <Hediff_Genocide.label>精神狂暴</Hediff_Genocide.label>
   <Hediff_Genocide.description>由于魅魔的精神干涉，被无差别地狂暴化了。</Hediff_Genocide.description>
   <HAR_NM_Hediff_a.label>即死预兆</HAR_NM_Hediff_a.label>
@@ -25,7 +25,7 @@
   <HAR_NM_Skill_Hediff_e.label>深渊之咒</HAR_NM_Skill_Hediff_e.label>
   <HAR_NM_Skill_Hediff_e.description>受到魅魔·魔女系的身体脆弱的干涉。\n即使穿着最坚固的铠甲，防御也会降低到致命的程度。</HAR_NM_Skill_Hediff_e.description>
   <Nearmaere_Artificial.label>人工种族</Nearmaere_Artificial.label>
-  <Nearmaere_Artificial.description>魅魔是针对精神干涉特化的人工种族，对精神影响有很强的抗性；相对地，她们对疾病、病毒等威胁的抵抗力和免疫力较低。\n\n她们还可以召唤眷属协助战斗。眷属的强度和召唤数量取决于魅魔等级；魅魔等级约每年提升 1 级（等级上限为 5）。</Nearmaere_Artificial.description>
+  <Nearmaere_Artificial.description>魅魔是针对精神干涉特化的人工种族，对精神影响有很强的抗性；相对地，她们对疾病、病毒等威胁的抵抗力和免疫力较低。\n\n另外，她们有自己的眷属，可以召唤出来让其与敌人战斗，其强度、召唤数根据她们各自的人工种族等级而定，约一年提升1级 (等级上限为5)。</Nearmaere_Artificial.description>
   <Nearmaere_Artificial_b.label>人工种族（魔女系）</Nearmaere_Artificial_b.label>
   <Nearmaere_Artificial_b.description>魅魔·魔女系是魅魔的完成形态，拥有在人类社会上位的手腕和技巧。\n长期以来人工种族特有的免疫问题克服的同时，心灵能力也得到了增强。</Nearmaere_Artificial_b.description>
   <Nearmaere_Artificial_d.label>人工种族（神秘系）</Nearmaere_Artificial_d.label>

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "status": "applied",
+  "reviewedAt": "2026-07-24",
+  "principles": [
+    "派系名称优先表现组织性质，避免仅以种族名加“派系”收尾。",
+    "有可靠词义的名称优先意译；设定专名含义不明确时保留音译。",
+    "同一名称用作单位称谓时不强行追加“同盟”“战团”等组织后缀。"
+  ],
+  "factions": [
+    {"modId": "2198830432", "defName": "Nearmaere_Faction_NPC", "original": "夜魔の一派", "previous": "魅魔一族", "translation": "魅魔氏族", "decision": "changed"},
+    {"modId": "2198830432", "defName": "Nearmaere_Faction_NPC_b", "original": "レイスワンズ", "previous": "魅魔派系（战族）", "translation": "魅魔战团", "decision": "changed"},
+    {"modId": "2198830432", "defName": "Nearmaere_Faction_NPC_c", "original": "アレテイア教会", "previous": "魅魔教会", "translation": "真理教会", "decision": "changed", "note": "アレテイア源自“真理”。"},
+    {"modId": "2198830432", "defName": "Nearmaere_Faction_NPC_e", "original": "辺境惑星保全機構-ETHOS-", "previous": "边缘星球保护机构-信念-", "translation": "边境行星保全机构-ETHOS-", "decision": "changed", "note": "ETHOS是机构代号，保留原文。"},
+    {"modId": "2216916011", "defName": "Xenoorca_Faction_NPC_b", "original": "オルカ傭兵団", "previous": "虎鲸佣兵团", "translation": "虎鲸佣兵团", "decision": "kept"},
+    {"modId": "2216916011", "defName": "Xenoorca_Faction_NPC", "original": "オルキヌス旅団", "previous": "奥尔基努斯旅团", "translation": "逆戟鲸旅团", "decision": "changed", "note": "Orcinus为虎鲸属名，采用可辨识的意译。"},
+    {"modId": "2227425882", "defName": "Idhale_Faction_NPC_b", "original": "ラキアネフェシュ", "previous": "苍穹之魂", "translation": "苍穹之魂", "decision": "kept"},
+    {"modId": "2233666290", "defName": "Silkiera_Faction_NPC", "original": "亜人工業", "previous": "亚人兽娘派系", "translation": "亚人工业", "decision": "changed"},
+    {"modId": "2394460334", "defName": "Neclose_Faction_NPC", "original": "ディスパテル", "previous": "牧菌妖姬派系", "translation": "牧菌战团", "decision": "changed"},
+    {"modId": "2394460334", "defName": "Neclose_Faction_NPC_b", "original": "昏きものども", "previous": "昏暗之物", "translation": "昏暗之物", "decision": "kept"},
+    {"modId": "2569091688", "defName": "Littluna_Faction_NPC", "original": "リトルーナの派閥", "previous": "伪神族派系", "translation": "伪神族同盟", "decision": "changed"},
+    {"modId": "2569091688", "defName": "Littluna_Faction_NPC_b", "original": "狂乱の童女", "previous": "狂乱童女", "translation": "狂乱少女众", "decision": "changed", "note": "单位称谓为“狂乱少女”，派系名追加集合后缀。"},
+    {"modId": "2608237489", "defName": "Solark_Faction_NPC", "original": "アドライグイベル", "previous": "阿德莱·吉贝尔", "translation": "阿德莱·吉贝尔", "decision": "kept", "note": "含义无法可靠确认，保留音译。"},
+    {"modId": "2676302514", "defName": "Saclean_Faction_NPC", "original": "シルクライン", "previous": "丝线", "translation": "丝织同盟", "decision": "changed"},
+    {"modId": "2706009136", "defName": "Nexaga_Faction_NPC", "original": "Nexaga_Faction", "previous": "混血种派系", "translation": "混血种同盟", "decision": "changed"},
+    {"modId": "2763078885", "defName": "Qualeela_Faction_NPC_c", "original": "エンテレケイア", "previous": "恩特雷凯亚", "translation": "恩特雷凯亚王国", "decision": "changed", "note": "保留设定专名，并补充其国家性质。"},
+    {"modId": "2946679071", "defName": "Chaoura_Faction_NPC", "original": "死伽屋", "previous": "混沌灵暗杀派系", "translation": "死影会", "decision": "changed"},
+    {"modId": "2946679071", "defName": "Chaoura_Faction_NPC_b", "original": "エフイェアシェル", "previous": "艾芙耶谢尔", "translation": "自有永有教团", "decision": "changed", "note": "按Ehyeh Asher Ehyeh的语义并结合宗教派系性质命名。"},
+    {"modId": "3675887482", "defName": "Outerm_Faction", "original": "ハオス", "previous": "混沌", "translation": "混沌辛迪加", "decision": "changed", "note": "简介明确其为地下社会辛迪加组织。"}
+  ]
+}

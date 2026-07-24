@@ -12,26 +12,26 @@
     {
       "modId": "2198830432",
       "factionDef": "Nearmaere_Faction_NPC",
-      "factionTranslation": "魅魔一族",
+        "factionTranslation": "魅魔氏族",
       "proposedSettlementNames": ["静夜庭", "暮影乡", "梦栖地", "月隐城", "幽夜堡"]
     },
     {
       "modId": "2198830432",
       "factionDef": "Nearmaere_Faction_NPC_b",
-      "factionTranslation": "魅魔战族",
+        "factionTranslation": "魅魔战团",
       "proposedSettlementNames": ["战魂堡", "断梦营", "绯月砦", "猎魂驻地", "战夜之乡"]
     },
     {
       "modId": "2198830432",
       "factionDef": "Nearmaere_Faction_NPC_c",
-      "factionTranslation": "魅魔教会",
+        "factionTranslation": "真理教会",
       "proposedSettlementNames": ["真理圣堂", "启示庭", "圣知院", "守誓堂", "白夜教区"]
     },
     {
       "modId": "2198830432",
       "factionDef": "Nearmaere_Faction_NPC_e",
-      "factionTranslation": "边缘星球保护机构－信念－",
-      "proposedSettlementNames": ["信念观察站", "边陲监测站", "守望前哨", "星球保全站", "信念基地"]
+      "factionTranslation": "边境行星保全机构-ETHOS-",
+      "proposedSettlementNames": ["ETHOS观察站", "边陲监测站", "守望前哨", "星球保全站", "ETHOS基地"]
     },
     {
       "modId": "2216916011",
@@ -42,7 +42,7 @@
     {
       "modId": "2216916011",
       "factionDef": "Xenoorca_Faction_NPC",
-      "factionTranslation": "奥尔基努斯旅团",
+        "factionTranslation": "逆戟鲸旅团",
       "proposedSettlementNames": ["奥尔基努斯要塞", "鲸牙堡", "深潮兵营", "掠潮港", "黑潮据点"]
     },
     {
@@ -72,13 +72,13 @@
     {
       "modId": "2569091688",
       "factionDef": "Littluna_Faction_NPC",
-      "factionTranslation": "伪神族派系",
+        "factionTranslation": "伪神族同盟",
       "proposedSettlementNames": ["伪神族隐乡", "星渊祭坛", "召唤者居所", "幼神庭", "深空祈愿地"]
     },
     {
       "modId": "2569091688",
       "factionDef": "Littluna_Faction_NPC_b",
-      "factionTranslation": "狂乱童女",
+      "factionTranslation": "狂乱少女众",
       "proposedSettlementNames": ["狂乱祭坛", "灾厄钟庭", "癫狂之乡", "末日召唤场", "深渊童庭"]
     },
     {
@@ -90,37 +90,37 @@
     {
       "modId": "2676302514",
       "factionDef": "Saclean_Faction_NPC",
-      "factionTranslation": "丝线",
+        "factionTranslation": "丝织同盟",
       "proposedSettlementNames": ["丝线工坊", "飞蛾织乡", "月茧村", "丝巢", "灯下聚落"]
     },
     {
       "modId": "2706009136",
       "factionDef": "Nexaga_Faction_NPC",
-      "factionTranslation": "混血种派系",
+        "factionTranslation": "混血种同盟",
       "proposedSettlementNames": ["混血种聚落", "交融乡", "共生村", "混血营地", "合流镇"]
     },
     {
       "modId": "2763078885",
       "factionDef": "Qualeela_Faction_NPC_c",
-      "factionTranslation": "恩特雷凯亚",
+        "factionTranslation": "恩特雷凯亚王国",
       "proposedSettlementNames": ["王权都城", "凯特尔王庭", "统御城", "王召要塞", "恩特雷凯亚行宫"]
     },
     {
       "modId": "2946679071",
       "factionDef": "Chaoura_Faction_NPC",
-      "factionTranslation": "混沌灵暗杀派系",
+        "factionTranslation": "死影会",
       "proposedSettlementNames": ["影杀据点", "无光藏身处", "深渊密营", "断影之乡", "暗杀者巢穴"]
     },
     {
       "modId": "2946679071",
       "factionDef": "Chaoura_Faction_NPC_b",
-      "factionTranslation": "艾芙耶谢尔",
+        "factionTranslation": "自有永有教团",
       "proposedSettlementNames": ["冥天虑圣所", "白垩之庭", "天渊居所", "阿瓦露其安据点", "集合精神节点"]
     },
     {
       "modId": "3675887482",
       "factionDef": "Outerm_Faction",
-      "factionTranslation": "混沌",
+        "factionTranslation": "混沌辛迪加",
       "proposedSettlementNames": ["混沌巢穴", "地下欢愉场", "血宴营地", "灾厄据点", "无序之城"]
     }
   ]

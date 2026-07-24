@@ -55,7 +55,7 @@
   <Aya_Race_Ap_NC_C_T_a.description>人工种族的儿童们穿的暗夜装，性能有所降低。</Aya_Race_Ap_NC_C_T_a.description>
   <Aya_Race_Ap_NC_C_T_a.label>儿童款式暗夜装</Aya_Race_Ap_NC_C_T_a.label>
   <Aya_Race_Ap_XO_C_T_a.description>人工种族的儿童们穿的服装，性能有所降低。</Aya_Race_Ap_XO_C_T_a.description>
-  <Aya_Race_Ap_XO_C_T_a.label>儿童异度服</Aya_Race_Ap_XO_C_T_a.label>
+  <Aya_Race_Ap_XO_C_T_a.label>儿童异度服装</Aya_Race_Ap_XO_C_T_a.label>
   <BMOT_Building_Incubator.description>过去人工种族的造物主所制造的培养器。\n能够通过读取专用的数据来创造出相应的生物。</BMOT_Building_Incubator.description>
   <BMOT_Building_Incubator.label>神之形</BMOT_Building_Incubator.label>
   <BMOT_Building_MailOrderTerminal_Animal.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Animal.description>
@@ -931,7 +931,7 @@
   <HAR_NM_AH_g.label>修女头巾（魅魔）</HAR_NM_AH_g.label>
   <HAR_NM_AH_h.description>让人联想起魅魔·魔女系的帽子，不知道为什么要做成这样的形状。</HAR_NM_AH_h.description>
   <HAR_NM_AH_h.label>魔女之帽（魅魔）</HAR_NM_AH_h.label>
-  <HAR_NM_AH_r.description>人工种族起源的故乡卡兰德星开发的最新锐的装备。\n在「边缘星球保护机构-信念-」被作为制式战斗装备使用着.</HAR_NM_AH_r.description>
+  <HAR_NM_AH_r.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_AH_r.description>
   <HAR_NM_AH_r.label>ETHOS头饰型增幅器（魅魔）</HAR_NM_AH_r.label>
   <HAR_NM_AH_x.description>魅魔·神秘系的专用帽子。为了能经受长途旅行从而做得经久耐用。</HAR_NM_AH_x.description>
   <HAR_NM_AH_x.label>旅者之帽（魅魔）</HAR_NM_AH_x.label>
@@ -1006,7 +1006,7 @@
   <HAR_NM_Os_Pe.label>内衣E款（魅魔）</HAR_NM_Os_Pe.label>
   <HAR_NM_Os_Pf.description>魅魔·魔女系很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_Pf.description>
   <HAR_NM_Os_Pf.label>内衣·魔女款式（魅魔）</HAR_NM_Os_Pf.label>
-  <HAR_NM_Os_Pg.description>人工种族起源的故乡卡兰德星开发的最新锐的装备。\n在「边缘星球保护机构-信念-」被作为制式战斗装备使用着.</HAR_NM_Os_Pg.description>
+  <HAR_NM_Os_Pg.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_Os_Pg.description>
   <HAR_NM_Os_Pg.label>内衣·ETHOS款式（魅魔）</HAR_NM_Os_Pg.label>
   <HAR_NM_Proj_GrenadeFrag.label>召唤的手雷</HAR_NM_Proj_GrenadeFrag.label>
   <HAR_NM_RiderS.description>尽量去掉多余装饰的服装，防御力和温度耐受性都很低，但也因此很方便身体活动。据说原本是摩托车手赛车时穿的服装。</HAR_NM_RiderS.description>
@@ -1033,7 +1033,7 @@
   <HAR_NM_Sh_Ke.label>外套（魅魔）</HAR_NM_Sh_Ke.label>
   <HAR_NM_Sh_SKo.description>柔弱的魅魔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_SKo.description>
   <HAR_NM_Sh_SKo.label>短披风（魅魔）</HAR_NM_Sh_SKo.label>
-  <HAR_NM_Sh_r.description>人工种族起源的故乡卡兰德星开发的最新锐的装备。\n在「边缘星球保护机构-信念-」被作为制式战斗装备使用着.</HAR_NM_Sh_r.description>
+  <HAR_NM_Sh_r.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_Sh_r.description>
   <HAR_NM_Sh_r.label>ETHOS外附型增幅器（魅魔）</HAR_NM_Sh_r.label>
   <HAR_NM_Sh_x.description>魅魔·神秘系的专用外套。为了能经受长途旅行从而做得经久耐用。</HAR_NM_Sh_x.description>
   <HAR_NM_Sh_x.label>旅者外套（魅魔）</HAR_NM_Sh_x.label>
@@ -1055,7 +1055,7 @@
   <HAR_NM_Weapon_Gun_b.label>卡兰德星霰弹枪</HAR_NM_Weapon_Gun_b.label>
   <HAR_NM_Weapon_Sword_a.description>人工种族起源的故乡卡兰德星所使用的剑。\n有极高的穿透性和轻便的操作性能。\n比起攻击更重视重心的维持，具有提高接近目标敌人所需要的能力的功能。</HAR_NM_Weapon_Sword_a.description>
   <HAR_NM_Weapon_Sword_a.label>卡兰德星剑</HAR_NM_Weapon_Sword_a.label>
-  <HAR_NM_Wear_r.description>人工种族起源的故乡卡兰德星开发的最新锐的装备。\n在「边缘星球保护机构-信念-」被作为制式战斗装备使用着.</HAR_NM_Wear_r.description>
+  <HAR_NM_Wear_r.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_Wear_r.description>
   <HAR_NM_Wear_r.label>ETHOS之衣（魅魔）</HAR_NM_Wear_r.label>
   <HAR_NM_Wear_x.description>魅魔·神秘系的专用服装。为了能经受长途旅行从而做得经久耐用。</HAR_NM_Wear_x.description>
   <HAR_NM_Wear_x.label>旅者之衣（魅魔）</HAR_NM_Wear_x.label>
@@ -1345,7 +1345,7 @@
   <HAR_SL_Tops_b.label>飞蛾服装B</HAR_SL_Tops_b.label>
   <HAR_SL_Tops_c.description>飞蛾姬专用的轻便服装，因为无法战斗，所以耐久很低，不要对它的防御性能抱有期待。</HAR_SL_Tops_c.description>
   <HAR_SL_Tops_c.label>飞蛾服装C</HAR_SL_Tops_c.label>
-  <HAR_SL_Wool.description>『告诉因敏感肌而烦恼的你一个好消息\n　飞蛾姬的天然纤维能为你带来更舒适的生活♪』\n\n亚人工业制造的闪闪发光的高级纤维，由飞蛾姬定期产出，有着坚韧且不易燃的特性。\n因为与人体皮肤的构造相近，所以不会损伤皮肤；同时还有抗菌作用，用在沙发之类的家具上时会显著提升舒适度。\n而缺点的话，因为处理加工其需要高度的技术，所以会花费你大量的时间。</HAR_SL_Wool.description>
+  <HAR_SL_Wool.description>『告诉因敏感肌而烦恼的你一个好消息\n　飞蛾姬的天然纤维能为你带来更舒适的生活♪』\n\n亚人工业制造的闪闪发光的高级纤维，由飞蛾姬定期产出，有着坚韧且不易燃的特性。\n因为与人体皮肤的构造相近，所以不会损伤皮肤；同时还有抗菌作用，用在沙发之类的家具上时会显着提升舒适度。\n而缺点的话，因为处理加工其需要高度的技术，所以会花费你大量的时间。</HAR_SL_Wool.description>
   <HAR_SL_Wool.label>单纤维长丝</HAR_SL_Wool.label>
   <HAR_XO_AH_a.description>人鱼姬的皇冠头饰，身为战斗狂的她们也会想要保持美丽的姿态。</HAR_XO_AH_a.description>
   <HAR_XO_AH_a.label>皇冠头饰（人鱼姬）</HAR_XO_AH_a.label>

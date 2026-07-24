@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_SK_Recipe_Refinery_a.label>从岩石中提炼化学燃料</HAR_SK_Recipe_Refinery_a.label>
+  <HAR_SK_Recipe_Refinery_a.description>将岩石液化，从中提炼化学燃料。</HAR_SK_Recipe_Refinery_a.description>
   <HAR_SK_Cook_a.label>制作亚人便当(四人份)</HAR_SK_Cook_a.label>
   <HAR_SK_Cook_a.description>烹调肉、蔬菜和米来制作四人份的便当。</HAR_SK_Cook_a.description>
   <HAR_SK_Cook_a.jobString>制作亚人便当(四人份)</HAR_SK_Cook_a.jobString>
@@ -44,6 +46,4 @@
   <HAR_SK_Recipe_exchange_k.label>交换：小人族券</HAR_SK_Recipe_exchange_k.label>
   <HAR_SK_Recipe_exchange_k.description>使用2500个猫咪印章交换小人族券。</HAR_SK_Recipe_exchange_k.description>
   <HAR_SK_Recipe_exchange_n.description>使用50个猫咪印章交换暗黑超凡碎片。</HAR_SK_Recipe_exchange_n.description>
-  <HAR_SK_Recipe_Refinery_a.label>从岩石中提炼化学燃料</HAR_SK_Recipe_Refinery_a.label>
-  <HAR_SK_Recipe_Refinery_a.description>将岩石液化，从中提炼化学燃料。</HAR_SK_Recipe_Refinery_a.description>
 </LanguageData>

@@ -396,7 +396,7 @@
   <Hediff_Genocide.label>精神狂暴</Hediff_Genocide.label>
   <Hediff_Larva.description>由于魅魔的精神干扰，身体状况陷入了无法正常行动的状态。</Hediff_Larva.description>
   <Hediff_Larva.label>精神瘫痪</Hediff_Larva.label>
-  <Hediff_Rugeiyu.description>由于魅魔的精神干扰，虽然时间很短，但由于困倦引起思考、身体能力显著下降，程度继续加深的话就会昏厥。</Hediff_Rugeiyu.description>
+  <Hediff_Rugeiyu.description>由于魅魔的精神干扰，虽然时间很短，但由于困倦引起思考、身体能力显着下降，程度继续加深的话就会昏厥。</Hediff_Rugeiyu.description>
   <Hediff_Rugeiyu.label>精神怠倦</Hediff_Rugeiyu.label>
   <Idearn_Artificial.description>伊迪安是生物与机械的混合体，拥有优秀的演算能力。\n随着时间的推移，她的处理速度会得到优化和加速，每一个动作都会更加精确。\n大约每年提升 1 级（等级上限为 5）。</Idearn_Artificial.description>
   <Idearn_Artificial.label>新生种族</Idearn_Artificial.label>
@@ -419,7 +419,7 @@
   <Littluna_Artificial_b.label>人工上位种族</Littluna_Artificial_b.label>
   <Littluna_Artificial_c.description>伪神族·杜娜米丝虽然拥有比原种更为强大的能力，但她们的身体更为脆弱。\n因此通过高度发达的技术对其进行支援是必不可少的。</Littluna_Artificial_c.description>
   <Littluna_Artificial_c.label>人工上位种族</Littluna_Artificial_c.label>
-  <Nearmaere_Artificial.description>魅魔是针对精神干涉特化的人工种族，对精神影响有很强的抗性；相对地，她们对疾病、病毒等威胁的抵抗力和免疫力较低。\n\n她们还可以召唤眷属协助战斗。眷属的强度和召唤数量取决于魅魔等级；魅魔等级约每年提升 1 级（等级上限为 5）。</Nearmaere_Artificial.description>
+  <Nearmaere_Artificial.description>魅魔是针对精神干涉特化的人工种族，对精神影响有很强的抗性；相对地，她们对疾病、病毒等威胁的抵抗力和免疫力较低。\n\n另外，她们有自己的眷属，可以召唤出来让其与敌人战斗，其强度、召唤数根据她们各自的人工种族等级而定，约一年提升1级 (等级上限为5)。</Nearmaere_Artificial.description>
   <Nearmaere_Artificial.label>人工种族</Nearmaere_Artificial.label>
   <Nearmaere_Artificial_b.description>魅魔·魔女系是魅魔的完成形态，拥有在人类社会上位的手腕和技巧。\n长期以来人工种族特有的免疫问题克服的同时，心灵能力也得到了增强。</Nearmaere_Artificial_b.description>
   <Nearmaere_Artificial_b.label>人工种族（魔女系）</Nearmaere_Artificial_b.label>
@@ -463,7 +463,7 @@
   <Nexaga_Artificial_j.label>混血种</Nexaga_Artificial_j.label>
   <Outerm_Artificial.description>奥特姆是一种起源不明的人工种族。\n和其他人工种族相同，会随着时间经过而增强力量。\n\n目前尚未解明是透过什么机制增强的，\n有一种说法认为是受到更高次元力量的作用。\n\n大约1年提升1级(上限为10级)。</Outerm_Artificial.description>
   <Outerm_Artificial.label>人工种族(奥特姆)</Outerm_Artificial.label>
-  <Qualeela_Artificial.description>库莉菈是负责统率其他人工种族的人工种族，拥有与这一职责相称的强大精神力。\n\n她们还可以召唤眷属协助战斗。眷属的强度和召唤数量取决于库莉菈等级；库莉菈等级约每两年提升 1 级（等级上限为 5）。</Qualeela_Artificial.description>
+  <Qualeela_Artificial.description>库莉菈是负责统率其他人工种族的人工种族，拥有与这一职责相称的强大精神力。\n\n另外，她们有着自己的眷属，可以召唤出来让其与敌人战斗，其强度、召唤数根据她们各自的库莉菈等级而定，约两年提升1级 (等级上限为5)。</Qualeela_Artificial.description>
   <Qualeela_Artificial.label>人工上位种族</Qualeela_Artificial.label>
   <Saclean_Artificial.description>飞蛾姬是经过改良的人工种族，擅长各类基础劳动。她们双手灵巧、视力敏锐，即使相隔很远也能看清物体细节。\n能力取决于飞蛾姬等级，约每年提升 1 级（等级上限为 5）。</Saclean_Artificial.description>
   <Saclean_Artificial.label>人工种族</Saclean_Artificial.label>

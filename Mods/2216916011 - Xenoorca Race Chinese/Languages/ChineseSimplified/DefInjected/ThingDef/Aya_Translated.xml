@@ -1,7 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <Gun_AssaultRifle_XO.label>OC 式突击步枪</Gun_AssaultRifle_XO.label>
+  <Gun_AssaultRifle_XO.description>经由人鱼姬们魔改的军用步枪（虎鲸定制），射程和威力得到提升，代价则是变得更难操控。</Gun_AssaultRifle_XO.description>
+  <Gun_SniperRifle_XO.label>OC 式狙击步枪</Gun_SniperRifle_XO.label>
+  <Gun_SniperRifle_XO.description>经由人鱼姬们魔改的狙击步枪（虎鲸定制），射程和威力得到提升，代价则是变得更难操控。</Gun_SniperRifle_XO.description>
+  <Gun_ChargeRifle_XO.label>OC 式冲锋枪</Gun_ChargeRifle_XO.label>
+  <Gun_ChargeRifle_XO.description>经由人鱼姬们魔改的冲锋枪（虎鲸定制），射程和威力得到提升，代价则是变得更难操控。</Gun_ChargeRifle_XO.description>
+  <Gun_PumpShotgun_XO.label>OC 式霰弹枪</Gun_PumpShotgun_XO.label>
+  <Gun_PumpShotgun_XO.description>经由人鱼姬们魔改的霰弹枪（虎鲸定制），射程和威力得到提升，代价则是变得更难操控。</Gun_PumpShotgun_XO.description>
+  <Weapon_GrenadeFrag_XO.label>OC 式手榴弹</Weapon_GrenadeFrag_XO.label>
+  <Weapon_GrenadeFrag_XO.description>经由人鱼姬们魔改的手榴弹（虎鲸定制），虽然缩小了爆炸范围并提高了操作难度，但现在可以从更远处的地方投掷它了。</Weapon_GrenadeFrag_XO.description>
+  <MeleeWeapon_Trident_XO.label>虎鲸三叉戟</MeleeWeapon_Trident_XO.label>
+  <MeleeWeapon_Trident_XO.description>人鱼姬们喜欢用的三叉戟，也能用于狩猎和捕鱼。普通人难以挥舞这种巨大的兵器，但其杀伤力毋庸置疑。</MeleeWeapon_Trident_XO.description>
+  <HAR_XO_Weapon_a.label>深渊之噬</HAR_XO_Weapon_a.label>
+  <HAR_XO_Weapon_a.description>创造者为担任近卫的人鱼姬·渊丛主打造的主战骑枪。\n据说是与大地之剑·统御之枪所齐名的武器。\n由于是专门为人鱼姬·渊丛主所制造的武器，因此只能由她们所使用。\n\n\n那是在黄金时代立下了无数辉煌战果的骑士们的大枪。\n然而，骑士们在前去杀死神子的前日，将其埋葬于宇宙之中。\n如今所行乃是鲜血染红的道路，唯有此枪不可伴于身侧。</HAR_XO_Weapon_a.description>
   <Aya_Race_Ap_XO_C_T_a.description>人工种族的儿童们穿的服装，性能有所降低。</Aya_Race_Ap_XO_C_T_a.description>
-  <Aya_Race_Ap_XO_C_T_a.label>儿童异度服</Aya_Race_Ap_XO_C_T_a.label>
+  <Aya_Race_Ap_XO_C_T_a.label>儿童异度服装</Aya_Race_Ap_XO_C_T_a.label>
   <HAR_XO_AM_a.label>奥尔基努斯装甲</HAR_XO_AM_a.label>
   <HAR_XO_AM_a.description>奥尔基努斯旅团的团员配备的装甲，能够有效抵御攻击，但是牺牲了速度，且难以应付高温。曾经是在创造者的麾下担任战斗人员时穿的战斗服装。</HAR_XO_AM_a.description>
   <HAR_XO_AM_b.label>虎鲸甲</HAR_XO_AM_b.label>
@@ -50,18 +64,4 @@
   <HAR_XO_AT_f.label>旗袍（人鱼姬）</HAR_XO_AT_f.label>
   <HAR_XO_AT_x.description>人鱼姬·渊丛主专用的特殊结构服装。\n为保证在水中的活动能力，装饰被极力简化到了最低程度。</HAR_XO_AT_x.description>
   <HAR_XO_AT_x.label>深渊之翼</HAR_XO_AT_x.label>
-  <Gun_AssaultRifle_XO.label>OC 式突击步枪</Gun_AssaultRifle_XO.label>
-  <Gun_AssaultRifle_XO.description>经由人鱼姬们魔改的军用步枪（虎鲸定制），射程和威力得到提升，代价则是变得更难操控。</Gun_AssaultRifle_XO.description>
-  <Gun_SniperRifle_XO.label>OC 式狙击步枪</Gun_SniperRifle_XO.label>
-  <Gun_SniperRifle_XO.description>经由人鱼姬们魔改的狙击步枪（虎鲸定制），射程和威力得到提升，代价则是变得更难操控。</Gun_SniperRifle_XO.description>
-  <Gun_ChargeRifle_XO.label>OC 式冲锋枪</Gun_ChargeRifle_XO.label>
-  <Gun_ChargeRifle_XO.description>经由人鱼姬们魔改的冲锋枪（虎鲸定制），射程和威力得到提升，代价则是变得更难操控。</Gun_ChargeRifle_XO.description>
-  <Gun_PumpShotgun_XO.label>OC 式霰弹枪</Gun_PumpShotgun_XO.label>
-  <Gun_PumpShotgun_XO.description>经由人鱼姬们魔改的霰弹枪（虎鲸定制），射程和威力得到提升，代价则是变得更难操控。</Gun_PumpShotgun_XO.description>
-  <Weapon_GrenadeFrag_XO.label>OC 式手榴弹</Weapon_GrenadeFrag_XO.label>
-  <Weapon_GrenadeFrag_XO.description>经由人鱼姬们魔改的手榴弹（虎鲸定制），虽然缩小了爆炸范围并提高了操作难度，但现在可以从更远处的地方投掷它了。</Weapon_GrenadeFrag_XO.description>
-  <MeleeWeapon_Trident_XO.label>虎鲸三叉戟</MeleeWeapon_Trident_XO.label>
-  <MeleeWeapon_Trident_XO.description>人鱼姬们喜欢用的三叉戟，也能用于狩猎和捕鱼。普通人难以挥舞这种巨大的兵器，但其杀伤力毋庸置疑。</MeleeWeapon_Trident_XO.description>
-  <HAR_XO_Weapon_a.label>深渊之噬</HAR_XO_Weapon_a.label>
-  <HAR_XO_Weapon_a.description>创造者为担任近卫的人鱼姬·渊丛主打造的主战骑枪。\n据说是与大地之剑·统御之枪所齐名的武器。\n由于是专门为人鱼姬·渊丛主所制造的武器，因此只能由她们所使用。\n\n\n那是在黄金时代立下了无数辉煌战果的骑士们的大枪。\n然而，骑士们在前去杀死神子的前日，将其埋葬于宇宙之中。\n如今所行乃是鲜血染红的道路，唯有此枪不可伴于身侧。</HAR_XO_Weapon_a.description>
 </LanguageData>

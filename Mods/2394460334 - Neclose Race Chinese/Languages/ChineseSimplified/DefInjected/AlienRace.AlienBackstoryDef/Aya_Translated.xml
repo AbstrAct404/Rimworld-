@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_NC_Backstory_b_C1.title>异端的生命</HAR_NC_Backstory_b_C1.title>
-  <HAR_NC_Backstory_b_C1.description>[PAWN_nameDef]是背离了人工种族的存在。关于她的详细情况一概不明，就连她为什么会存在都无人知晓。</HAR_NC_Backstory_b_C1.description>
-  <HAR_NC_Backstory_b_A1.title>外来者</HAR_NC_Backstory_b_A1.title>
-  <HAR_NC_Backstory_b_A1.titleShort>外来者</HAR_NC_Backstory_b_A1.titleShort>
-  <HAR_NC_Backstory_b_A1.description>[PAWN_nameDef]是拥有着来自宇宙之外力量的异端异形人工种族。通过使用这种力量，能够轻易使生物陷入狂乱。</HAR_NC_Backstory_b_A1.description>
   <HAR_NC_Backstory_C1.title>隔离设施成长者</HAR_NC_Backstory_C1.title>
   <HAR_NC_Backstory_C1.description>[PAWN_nameDef]出生于一座与外界隔离的宙族设施，并在那里度过童年。期间[PAWN_pronoun]从未遭遇危险，平安长大。</HAR_NC_Backstory_C1.description>
   <HAR_NC_Backstory_C2.title>权贵养子</HAR_NC_Backstory_C2.title>
@@ -47,4 +42,9 @@
   <HAR_NC_Backstory_A12.title>白衣夜魔</HAR_NC_Backstory_A12.title>
   <HAR_NC_Backstory_A12.titleShort>护士</HAR_NC_Backstory_A12.titleShort>
   <HAR_NC_Backstory_A12.description>[PAWN_nameDef]是位医术高明的护士，但[PAWN_pronoun]偶尔也会犯一些可爱的小错误。</HAR_NC_Backstory_A12.description>
+  <HAR_NC_Backstory_b_C1.title>异端的生命</HAR_NC_Backstory_b_C1.title>
+  <HAR_NC_Backstory_b_C1.description>[PAWN_nameDef]是背离了人工种族的存在。关于她的详细情况一概不明，就连她为什么会存在都无人知晓。</HAR_NC_Backstory_b_C1.description>
+  <HAR_NC_Backstory_b_A1.title>外来者</HAR_NC_Backstory_b_A1.title>
+  <HAR_NC_Backstory_b_A1.titleShort>外来者</HAR_NC_Backstory_b_A1.titleShort>
+  <HAR_NC_Backstory_b_A1.description>[PAWN_nameDef]是拥有着来自宇宙之外力量的异端异形人工种族。通过使用这种力量，能够轻易使生物陷入狂乱。</HAR_NC_Backstory_b_A1.description>
 </LanguageData>

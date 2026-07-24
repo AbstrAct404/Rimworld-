@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_NM_Skill_Damage_b_b.label>古老医术</HAR_NM_Skill_Damage_b_b.label>
+  <HAR_NM_Skill_Damage_b_c.label>阿尔克忒拉灵药</HAR_NM_Skill_Damage_b_c.label>
+  <HAR_NM_Skill_Damage_b_d.label>艾提涅魔药</HAR_NM_Skill_Damage_b_d.label>
+  <HAR_NM_Skill_Damage_b_e.label>杜娜米丝秘药</HAR_NM_Skill_Damage_b_e.label>
+  <HAR_NM_Skill_Damage_b_z.label>■■■的死药</HAR_NM_Skill_Damage_b_z.label>
   <Damage_Rugeiyu.label>梦魇</Damage_Rugeiyu.label>
   <Damage_Geist.label>鬼切</Damage_Geist.label>
   <Damage_Larva.label>虫噬</Damage_Larva.label>
@@ -11,9 +16,4 @@
   <HAR_NM_Skill_Damage_c.label>颓废之咒</HAR_NM_Skill_Damage_c.label>
   <HAR_NM_Skill_Damage_d.label>极寒之域</HAR_NM_Skill_Damage_d.label>
   <HAR_NM_Skill_Damage_e.label>深渊之咒</HAR_NM_Skill_Damage_e.label>
-  <HAR_NM_Skill_Damage_b_b.label>古老医术</HAR_NM_Skill_Damage_b_b.label>
-  <HAR_NM_Skill_Damage_b_c.label>阿尔克忒拉灵药</HAR_NM_Skill_Damage_b_c.label>
-  <HAR_NM_Skill_Damage_b_d.label>艾提涅魔药</HAR_NM_Skill_Damage_b_d.label>
-  <HAR_NM_Skill_Damage_b_e.label>杜娜米丝秘药</HAR_NM_Skill_Damage_b_e.label>
-  <HAR_NM_Skill_Damage_b_z.label>■■■的死药</HAR_NM_Skill_Damage_b_z.label>
 </LanguageData>

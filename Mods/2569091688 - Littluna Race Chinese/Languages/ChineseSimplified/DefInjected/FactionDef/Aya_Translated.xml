@@ -3,12 +3,12 @@
   <Littluna_P_Faction.label>伪神族的隐居地</Littluna_P_Faction.label>
   <Littluna_P_Faction.pawnSingular>伪神族</Littluna_P_Faction.pawnSingular>
   <Littluna_P_Faction.description>伪神族们安稳生活的聚居地。</Littluna_P_Faction.description>
-  <Littluna_Faction_NPC.label>伪神族派系</Littluna_Faction_NPC.label>
+  <Littluna_Faction_NPC.label>伪神族同盟</Littluna_Faction_NPC.label>
   <Littluna_Faction_NPC.description>以伪神族为主、掺杂着其他种族的稀有派系。</Littluna_Faction_NPC.description>
   <Littluna_Faction_NPC.pawnSingular>伪神族</Littluna_Faction_NPC.pawnSingular>
-  <Littluna_Faction_NPC.fixedName>伪神族的派系</Littluna_Faction_NPC.fixedName>
-  <Littluna_Faction_NPC_b.label>狂乱童女</Littluna_Faction_NPC_b.label>
+  <Littluna_Faction_NPC.fixedName>伪神族同盟</Littluna_Faction_NPC.fixedName>
+  <Littluna_Faction_NPC_b.label>狂乱少女众</Littluna_Faction_NPC_b.label>
   <Littluna_Faction_NPC_b.description>看似脆弱的敌对伪神族派系。不 要 靠 近 她 们</Littluna_Faction_NPC_b.description>
   <Littluna_Faction_NPC_b.pawnSingular>伪神族</Littluna_Faction_NPC_b.pawnSingular>
-  <Littluna_Faction_NPC_b.fixedName>狂乱童女</Littluna_Faction_NPC_b.fixedName>
+  <Littluna_Faction_NPC_b.fixedName>狂乱少女众</Littluna_Faction_NPC_b.fixedName>
 </LanguageData>

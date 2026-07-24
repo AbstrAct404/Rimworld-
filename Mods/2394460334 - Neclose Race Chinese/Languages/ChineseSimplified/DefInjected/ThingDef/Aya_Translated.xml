@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_NC_M_a_race_Base.label>戈尔诺伊德</HAR_NC_M_a_race_Base.label>
+  <HAR_NC_M_a_race_Base.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_a_race_Base.description>
+  <HAR_NC_M_b_race_Base.label>戈尔种</HAR_NC_M_b_race_Base.label>
+  <HAR_NC_M_b_race_Base.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_b_race_Base.description>
+  <HAR_NC_M_c_race_Base.label>戈尔肉块</HAR_NC_M_c_race_Base.label>
+  <HAR_NC_M_c_race_Base.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_c_race_Base.description>
+  <HAR_NC_M_y_race_Base.label>弗拉斯塔里</HAR_NC_M_y_race_Base.label>
+  <HAR_NC_M_y_race_Base.description>牧菌妖姬·无人（界外之血）的眷属，由生物尸体重新构成。它理应没有生命活动，目前仍不清楚究竟如何行动。
+
+体型小、力量弱，却行动迅速并会成群出现。</HAR_NC_M_y_race_Base.description>
+  <HAR_NC_M_z_race_Base.label>克莱尔斯</HAR_NC_M_z_race_Base.label>
+  <HAR_NC_M_z_race_Base.description>牧菌妖姬·无人（界外之血）的眷属，由生物尸体重新构成。它理应没有生命活动，目前仍不清楚究竟如何行动。
+
+极其耐打，通常攻击很难将其杀死。</HAR_NC_M_z_race_Base.description>
+  <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>
   <Aya_Race_Ap_NC_C_T_a.description>人工种族的儿童们穿的暗夜装，性能有所降低。</Aya_Race_Ap_NC_C_T_a.description>
   <Aya_Race_Ap_NC_C_T_a.label>儿童款式暗夜装</Aya_Race_Ap_NC_C_T_a.label>
   <HAR_NC_Armor_a.label>血月装甲（耐久型）</HAR_NC_Armor_a.label>
@@ -36,19 +51,6 @@
   <HAR_NC_Tops_c.label>暗夜装C（牧菌妖姬）</HAR_NC_Tops_c.label>
   <HAR_NC_Tops_z.description>牧菌妖姬·无人（界外之血）专用的服装。\n以她们的身体技能，就算是和内衣无异的服装也足以保障她们的生存。</HAR_NC_Tops_z.description>
   <HAR_NC_Tops_z.label>异端服装</HAR_NC_Tops_z.label>
-  <HAR_NC_Item_a.label>血色蜂蜜酒</HAR_NC_Item_a.label>
-  <HAR_NC_Item_a.description>加入了粘稠的赤色蜂蜜的蜂蜜酒。
-是某位职人一时兴起做出的奇怪物品。
-据说使用后会发生不详的事情。
-
-
-据说这是信仰某个邪神的狂信者，为了与自己的神灵交流而创造出的信物。
-但面对难以理解之物，狂信者被残忍地杀害了。
-但凡它的持有者尚存一丝理智的话，就绝对不会将它开启。
-
-
-
-『为什么我会做出这个呢。自从与那个东西相遇之后，我真的还是我自己吗。有没有人能够来帮帮我，帮我停下这无尽的低语。我的梦已经只剩下了噩梦』</HAR_NC_Item_a.description>
   <HAR_NC_Material_a.label>令人厌恶的肉块</HAR_NC_Material_a.label>
   <HAR_NC_Material_a.description>从牧菌妖姬·无人（界外之血）那里回收而来的肉块。
 就算已经过了一段时间，它仍在散发热量。
@@ -62,19 +64,17 @@
 
 来自与人工种族的起源不同的异宇宙的超存在的胎儿。
 是她们无比接近、又无比遥远的同胞。</HAR_NC_Spawn_a.description>
-  <HAR_NC_M_a_race_Base.label>戈尔诺伊德</HAR_NC_M_a_race_Base.label>
-  <HAR_NC_M_a_race_Base.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_a_race_Base.description>
-  <HAR_NC_M_b_race_Base.label>戈尔种</HAR_NC_M_b_race_Base.label>
-  <HAR_NC_M_b_race_Base.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_b_race_Base.description>
-  <HAR_NC_M_c_race_Base.label>戈尔肉块</HAR_NC_M_c_race_Base.label>
-  <HAR_NC_M_c_race_Base.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_c_race_Base.description>
-  <HAR_NC_M_y_race_Base.label>弗拉斯塔里</HAR_NC_M_y_race_Base.label>
-  <HAR_NC_M_y_race_Base.description>牧菌妖姬·无人（界外之血）的眷属，由生物尸体重新构成。它理应没有生命活动，目前仍不清楚究竟如何行动。
+  <HAR_NC_Item_a.label>血色蜂蜜酒</HAR_NC_Item_a.label>
+  <HAR_NC_Item_a.description>加入了粘稠的赤色蜂蜜的蜂蜜酒。
+是某位职人一时兴起做出的奇怪物品。
+据说使用后会发生不详的事情。
 
-体型小、力量弱，却行动迅速并会成群出现。</HAR_NC_M_y_race_Base.description>
-  <HAR_NC_M_z_race_Base.label>克莱尔斯</HAR_NC_M_z_race_Base.label>
-  <HAR_NC_M_z_race_Base.description>牧菌妖姬·无人（界外之血）的眷属，由生物尸体重新构成。它理应没有生命活动，目前仍不清楚究竟如何行动。
 
-极其耐打，通常攻击很难将其杀死。</HAR_NC_M_z_race_Base.description>
-  <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>
+据说这是信仰某个邪神的狂信者，为了与自己的神灵交流而创造出的信物。
+但面对难以理解之物，狂信者被残忍地杀害了。
+但凡它的持有者尚存一丝理智的话，就绝对不会将它开启。
+
+
+
+『为什么我会做出这个呢。自从与那个东西相遇之后，我真的还是我自己吗。有没有人能够来帮帮我，帮我停下这无尽的低语。我的梦已经只剩下了噩梦』</HAR_NC_Item_a.description>
 </LanguageData>

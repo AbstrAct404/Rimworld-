@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_SK_PsychiteTeaHigh.description>通过饮用亚人工业茶，获得成瘾品与意志坚定的效果。</HAR_SK_PsychiteTeaHigh.description>
   <HAR_SK_Hediff_a.description>喝了营养饮品，对身体很好。</HAR_SK_Hediff_a.description>
   <HAR_SK_Hediff_b.description>吃了美味的食物，心情很好。</HAR_SK_Hediff_b.description>
   <HAR_SK_Hediff_c.label>九尾的诅咒</HAR_SK_Hediff_c.label>
@@ -10,5 +11,4 @@
   <Silkiera_Artificial.description>亚人兽娘是注重通用性的人工种族。作为人工生命，她们对疾病的抵抗力和免疫力不如常人；但受植入体内的野生动物基因影响，这些弱点会随成长逐渐改善。能力取决于人工种族等级，约每年提升 1 级（等级上限为 5）。</Silkiera_Artificial.description>
   <Silkiera_Artificial_b.label>人工上位种族</Silkiera_Artificial_b.label>
   <Silkiera_Artificial_b.description>经过品种改良后，亚人兽娘·改良种拥有比普通亚人兽娘更优秀的身体素质。\n曾是弱点的免疫力也得到了增强，应该能有更稳定的活动。</Silkiera_Artificial_b.description>
-  <HAR_SK_PsychiteTeaHigh.description>通过饮用亚人工业茶，获得成瘾品与意志坚定的效果。</HAR_SK_PsychiteTeaHigh.description>
 </LanguageData>
