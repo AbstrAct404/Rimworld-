@@ -96,6 +96,21 @@ def main() -> None:
             "entriesRead": entry_count,
         })
 
+    included_lines = []
+    for item in package_info:
+        original_id = str(item["originalWorkshopId"])
+        standalone_id = build.PUBLISHED_FILE_IDS.get(original_id)
+        display_name = str(item["folder"]).removeprefix(
+            f"{original_id} - "
+        ).removesuffix(" Chinese")
+        if standalone_id and standalone_id != "0":
+            included_lines.append(
+                f"・{display_name}\n"
+                f"https://steamcommunity.com/sharedfiles/filedetails/?id={standalone_id}"
+            )
+        else:
+            included_lines.append(f"・{display_name}（尚未发布独立汉化）")
+
     written = 0
     for (section, subtype), values in sorted(buckets.items()):
         root = ET.Element("LanguageData")
@@ -128,6 +143,9 @@ def main() -> None:
         "可只安装自己使用的原模组，无需安装整合包支持的全部种族。"
         "请将本汉化置于所有 Aya 原模组之后加载；不要与对应的独立汉化包同时启用。\n\n"
         f"当前收录 {len(packages)} 个原模组，共合并 {written} 条游戏文本。\n\n"
+        "【收录的独立汉化及链接】\n"
+        + "\n".join(included_lines)
+        + "\n\n"
         "——\n兼容版本：RimWorld 1.6\n"
         "本模组仅含翻译文件，不包含任何原模组资源。"
     )
@@ -159,10 +177,7 @@ def main() -> None:
         description,
         "",
         "## 收录内容",
-        *[
-            f"- `{item['originalWorkshopId']}`：{item['folder']}"
-            for item in package_info
-        ],
+        *included_lines,
         "",
         "## 使用说明",
         "- 只需安装实际使用的 Aya 原模组。",
