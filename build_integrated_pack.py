@@ -22,12 +22,56 @@ INTEGRATED_FOLDER = "0000000000 - Aya Integrated Chinese"
 PACKAGE_ID = "abstract404.aya.integrated.zh"
 PUBLISHED_FILE_ID = "3770548798"
 
+ORIGINAL_WORKSHOP_TITLES = {
+    "2946679071": "[Aya]Chaoura Race",
+    "3505571618": "[Aya]Aya Premise Core",
+    "3153539856": "[Aya]Eveliet Race",
+    "2954714860": "[Aya]Idea Storyteller",
+    "2871413100": "[Aya]Idearn Race",
+    "2227425882": "[Aya]Idhale Race",
+    "2569091688": "[Aya]Littluna Race",
+    "2198830432": "[Aya]Nearmare Race",
+    "2394460334": "[Aya]Neclose Race",
+    "2763078885": "[Aya]Qualeela Race",
+    "2504657401": "[Aya]Requeen Boss",
+    "2676302514": "[Aya]Saclean Race",
+    "2233666290": "[Aya]Silkiera Race",
+    "2608237489": "[Aya]Solark Race",
+    "2216916011": "[Aya]Xenoorca Race",
+    "3750626266": "[Aya]Canaan Intellect",
+    "3489429571": "[Aya]Chaoura UB",
+    "2729712799": "[Aya]Enforcer Boss",
+    "2706009136": "[Aya]Nexaga Race",
+    "3675887482": "[Aya]Outerm Race",
+    "3477749439": "[Aya]Zoichor Race",
+}
 
-def read_about(package: Path) -> tuple[str, str]:
+DISPLAY_GROUPS = [
+    ("核心与叙事", ["3505571618", "2954714860", "3750626266"]),
+    (
+        "人工种族",
+        [
+            "2946679071", "3153539856", "2871413100", "2227425882",
+            "2569091688", "2198830432", "2394460334", "2706009136",
+            "3675887482", "2763078885", "2676302514", "2233666290",
+            "2608237489", "2216916011", "3477749439",
+        ],
+    ),
+    ("高难度与首领", ["2504657401", "2729712799", "3489429571"]),
+]
+
+
+def read_about(package: Path) -> tuple[str, str, str]:
     root = ET.parse(package / "About" / "About.xml").getroot()
     original_id = package.name.split(" ", 1)[0]
     dependency = build.text(root.find("./modDependencies/li/packageId"))
-    return original_id, dependency
+    title = build.text(root.find("name"))
+    return original_id, dependency, title
+
+
+def markdown_label(value: object) -> str:
+    """Escape brackets in Workshop titles used as Markdown link labels."""
+    return str(value).replace("[", r"\[").replace("]", r"\]")
 
 
 def main() -> None:
@@ -55,7 +99,7 @@ def main() -> None:
     conflicts: list[dict[str, str]] = []
 
     for package in packages:
-        original_id, dependency = read_about(package)
+        original_id, dependency, translation_title = read_about(package)
         if dependency and dependency not in load_after:
             load_after.append(dependency)
         entry_count = 0
@@ -92,24 +136,86 @@ def main() -> None:
                 bucket[child.tag] = (value, original_id)
         package_info.append({
             "originalWorkshopId": original_id,
+            "originalTitle": ORIGINAL_WORKSHOP_TITLES.get(original_id, dependency),
+            "translationWorkshopId": build.PUBLISHED_FILE_IDS.get(original_id, "0"),
+            "translationTitle": translation_title,
             "folder": package.name,
             "entriesRead": entry_count,
         })
 
-    included_lines = []
-    for item in package_info:
-        original_id = str(item["originalWorkshopId"])
-        standalone_id = build.PUBLISHED_FILE_IDS.get(original_id)
-        display_name = str(item["folder"]).removeprefix(
-            f"{original_id} - "
-        ).removesuffix(" Chinese")
-        if standalone_id and standalone_id != "0":
-            included_lines.append(
-                f"・{display_name}\n"
-                f"https://steamcommunity.com/sharedfiles/filedetails/?id={standalone_id}"
-            )
-        else:
-            included_lines.append(f"・{display_name}（尚未发布独立汉化）")
+    package_by_id = {
+        str(item["originalWorkshopId"]): item for item in package_info
+    }
+
+    def workshop_directory() -> str:
+        sections = []
+        sequence = 1
+        for group_name, ids in DISPLAY_GROUPS:
+            lines = [f"[h2]{group_name}[/h2]"]
+            for original_id in ids:
+                item = package_by_id[original_id]
+                translation_id = str(item["translationWorkshopId"])
+                translation_url = (
+                    "https://steamcommunity.com/sharedfiles/filedetails/"
+                    f"?id={translation_id}"
+                )
+                original_url = (
+                    "https://steamcommunity.com/sharedfiles/filedetails/"
+                    f"?id={original_id}"
+                )
+                lines.extend([
+                    (
+                        f"[b]{sequence:02d}｜[url={translation_url}]"
+                        f"{item['translationTitle']}[/url][/b]"
+                    ),
+                    (
+                        f"原模组：[url={original_url}]"
+                        f"{item['originalTitle']}[/url]"
+                    ),
+                    "",
+                ])
+                sequence += 1
+            sections.append("\n".join(lines).rstrip())
+        return "\n\n".join(sections)
+
+    def plain_directory() -> str:
+        sections = []
+        sequence = 1
+        for group_name, ids in DISPLAY_GROUPS:
+            lines = [f"【{group_name}】"]
+            for original_id in ids:
+                item = package_by_id[original_id]
+                lines.extend([
+                    f"{sequence:02d}｜{item['translationTitle']}",
+                    f"    原模组：{item['originalTitle']}",
+                ])
+                sequence += 1
+            sections.append("\n".join(lines))
+        return "\n\n".join(sections)
+
+    def markdown_directory() -> str:
+        sections = []
+        sequence = 1
+        for group_name, ids in DISPLAY_GROUPS:
+            lines = [f"### {group_name}"]
+            for original_id in ids:
+                item = package_by_id[original_id]
+                translation_id = str(item["translationWorkshopId"])
+                lines.extend([
+                    (
+                        f"{sequence}. **[{markdown_label(item['translationTitle'])}]"
+                        "(https://steamcommunity.com/sharedfiles/filedetails/"
+                        f"?id={translation_id})**"
+                    ),
+                    (
+                        f"   - 原模组：[{markdown_label(item['originalTitle'])}]"
+                        "(https://steamcommunity.com/sharedfiles/filedetails/"
+                        f"?id={original_id})"
+                    ),
+                ])
+                sequence += 1
+            sections.append("\n".join(lines))
+        return "\n\n".join(sections)
 
     written = 0
     for (section, subtype), values in sorted(buckets.items()):
@@ -143,11 +249,24 @@ def main() -> None:
         "可只安装自己使用的原模组，无需安装整合包支持的全部种族。"
         "请将本汉化置于所有 Aya 原模组之后加载；不要与对应的独立汉化包同时启用。\n\n"
         f"当前收录 {len(packages)} 个原模组，共合并 {written} 条游戏文本。\n\n"
-        "【收录的独立汉化及链接】\n"
-        + "\n".join(included_lines)
+        "【收录内容】\n"
+        + plain_directory()
         + "\n\n"
         "——\n兼容版本：RimWorld 1.6\n"
         "本模组仅含翻译文件，不包含任何原模组资源。"
+    )
+    workshop_description = (
+        "[h1]Aya 人工种族简体中文整合汉化包[/h1]\n"
+        f"[b]收录：{len(packages)} 个原模组｜合并：{written} 条游戏文本[/b]\n\n"
+        "[h2]使用说明[/h2]\n"
+        "[list]\n"
+        "[*]只需安装实际使用的 Aya 原模组。\n"
+        "[*]将本整合汉化置于所有 Aya 原模组之后加载。\n"
+        "[*]不要与下列独立汉化包同时启用。\n"
+        "[/list]\n\n"
+        + workshop_directory()
+        + "\n\n[h2]兼容信息[/h2]\n"
+        "RimWorld 1.6｜本模组仅含翻译文件，不包含任何原模组资源。"
     )
     for tag, value in [
         ("name", "[Aya] 人工种族简体中文整合汉化包 v1.6"),
@@ -174,15 +293,20 @@ def main() -> None:
     readme = "\n".join([
         "# [Aya] 人工种族简体中文整合汉化包 v1.6",
         "",
-        description,
-        "",
-        "## 收录内容",
-        *included_lines,
+        f"> 当前收录 **{len(packages)}** 个原模组，共合并 **{written}** 条游戏文本。",
         "",
         "## 使用说明",
         "- 只需安装实际使用的 Aya 原模组。",
         "- 将本整合汉化放在全部 Aya 原模组之后。",
         "- 不要与对应的独立汉化包同时启用。",
+        "",
+        "## 收录内容与链接",
+        "",
+        markdown_directory(),
+        "",
+        "## 兼容信息",
+        "- RimWorld 1.6",
+        "- 本模组仅含翻译文件，不包含任何原模组资源。",
         "",
     ])
     (output / "README.md").write_text(readme, encoding="utf-8")
@@ -225,8 +349,8 @@ def main() -> None:
                 f'\t"contentfolder"\t\t"{build.vdf_quote(build.vdf_path(output))}"',
                 f'\t"previewfile"\t\t"{build.vdf_quote(build.vdf_path(output / "About" / "Preview.png"))}"',
                 f'\t"title"\t\t"{build.vdf_quote(title)}"',
-                f'\t"description"\t\t"{build.vdf_quote(description)}"',
-                '\t"changenote"\t\t"首次发布：收录 Aya 系列简体中文整合汉化。"',
+                f'\t"description"\t\t"{build.vdf_quote(workshop_description)}"',
+                '\t"changenote"\t\t"优化收录目录：补全独立汉化与原模组名称、链接，并按内容分类展示。"',
                 "}", "",
             ])
             (

@@ -1,104 +1,62 @@
 # [Aya] 人工种族简体中文整合汉化包 v1.6
 
-Aya 人工种族系列简体中文整合汉化包。
-
-可只安装自己使用的原模组，无需安装整合包支持的全部种族。请将本汉化置于所有 Aya 原模组之后加载；不要与对应的独立汉化包同时启用。
-
-当前收录 21 个原模组，共合并 3020 条游戏文本。
-
-【收录的独立汉化及链接】
-・Nearmare Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769646709
-・Xenoorca Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769645281
-・Idhale Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769645740
-・Silkiera Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769650937
-・Neclose Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769646881
-・Requeen Boss
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769649735
-・Littluna Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769646243
-・Solark Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769651652
-・Saclean Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769650099
-・Nexaga Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3770548562
-・Enforcer Boss
-https://steamcommunity.com/sharedfiles/filedetails/?id=3770548499
-・Qualeela Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769649414
-・Idearn Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769645094
-・Chaoura Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769644534
-・Idea Storyteller
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769644933
-・Eveliet Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769644777
-・Zoichor Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3770548688
-・Chaoura UB
-https://steamcommunity.com/sharedfiles/filedetails/?id=3770548439
-・Aya Premise Core
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769644292
-・Outerm Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3770548625
-・Canaan Intellect
-https://steamcommunity.com/sharedfiles/filedetails/?id=3770548028
-
-——
-兼容版本：RimWorld 1.6
-本模组仅含翻译文件，不包含任何原模组资源。
-
-## 收录内容
-・Nearmare Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769646709
-・Xenoorca Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769645281
-・Idhale Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769645740
-・Silkiera Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769650937
-・Neclose Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769646881
-・Requeen Boss
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769649735
-・Littluna Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769646243
-・Solark Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769651652
-・Saclean Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769650099
-・Nexaga Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3770548562
-・Enforcer Boss
-https://steamcommunity.com/sharedfiles/filedetails/?id=3770548499
-・Qualeela Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769649414
-・Idearn Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769645094
-・Chaoura Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769644534
-・Idea Storyteller
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769644933
-・Eveliet Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769644777
-・Zoichor Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3770548688
-・Chaoura UB
-https://steamcommunity.com/sharedfiles/filedetails/?id=3770548439
-・Aya Premise Core
-https://steamcommunity.com/sharedfiles/filedetails/?id=3769644292
-・Outerm Race
-https://steamcommunity.com/sharedfiles/filedetails/?id=3770548625
-・Canaan Intellect
-https://steamcommunity.com/sharedfiles/filedetails/?id=3770548028
+> 当前收录 **21** 个原模组，共合并 **3020** 条游戏文本。
 
 ## 使用说明
 - 只需安装实际使用的 Aya 原模组。
 - 将本整合汉化放在全部 Aya 原模组之后。
 - 不要与对应的独立汉化包同时启用。
+
+## 收录内容与链接
+
+### 核心与叙事
+1. **[\[Aya\] Aya Premise Core_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3769644292)**
+   - 原模组：[\[Aya\]Aya Premise Core](https://steamcommunity.com/sharedfiles/filedetails/?id=3505571618)
+2. **[\[Aya\] Idea Storyteller_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3769644933)**
+   - 原模组：[\[Aya\]Idea Storyteller](https://steamcommunity.com/sharedfiles/filedetails/?id=2954714860)
+3. **[\[Aya\] Canaan Intellect_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3770548028)**
+   - 原模组：[\[Aya\]Canaan Intellect](https://steamcommunity.com/sharedfiles/filedetails/?id=3750626266)
+
+### 人工种族
+4. **[\[Aya\] Chaoura Race_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3769644534)**
+   - 原模组：[\[Aya\]Chaoura Race](https://steamcommunity.com/sharedfiles/filedetails/?id=2946679071)
+5. **[\[Aya\] Eveliet Race_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3769644777)**
+   - 原模组：[\[Aya\]Eveliet Race](https://steamcommunity.com/sharedfiles/filedetails/?id=3153539856)
+6. **[\[Aya\] Idearn Race_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3769645094)**
+   - 原模组：[\[Aya\]Idearn Race](https://steamcommunity.com/sharedfiles/filedetails/?id=2871413100)
+7. **[\[Aya\] Idhale Race_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3769645740)**
+   - 原模组：[\[Aya\]Idhale Race](https://steamcommunity.com/sharedfiles/filedetails/?id=2227425882)
+8. **[\[Aya\] Littluna Race_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3769646243)**
+   - 原模组：[\[Aya\]Littluna Race](https://steamcommunity.com/sharedfiles/filedetails/?id=2569091688)
+9. **[\[Aya\] Nearmare Race_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3769646709)**
+   - 原模组：[\[Aya\]Nearmare Race](https://steamcommunity.com/sharedfiles/filedetails/?id=2198830432)
+10. **[\[Aya\] Neclose Race_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3769646881)**
+   - 原模组：[\[Aya\]Neclose Race](https://steamcommunity.com/sharedfiles/filedetails/?id=2394460334)
+11. **[\[Aya\] Nexaga Race_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3770548562)**
+   - 原模组：[\[Aya\]Nexaga Race](https://steamcommunity.com/sharedfiles/filedetails/?id=2706009136)
+12. **[\[Aya\] Outerm Race_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3770548625)**
+   - 原模组：[\[Aya\]Outerm Race](https://steamcommunity.com/sharedfiles/filedetails/?id=3675887482)
+13. **[\[Aya\] Qualeela Race_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3769649414)**
+   - 原模组：[\[Aya\]Qualeela Race](https://steamcommunity.com/sharedfiles/filedetails/?id=2763078885)
+14. **[\[Aya\] Saclean Race_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3769650099)**
+   - 原模组：[\[Aya\]Saclean Race](https://steamcommunity.com/sharedfiles/filedetails/?id=2676302514)
+15. **[\[Aya\] Silkiera Race_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3769650937)**
+   - 原模组：[\[Aya\]Silkiera Race](https://steamcommunity.com/sharedfiles/filedetails/?id=2233666290)
+16. **[\[Aya\] Solark Race_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3769651652)**
+   - 原模组：[\[Aya\]Solark Race](https://steamcommunity.com/sharedfiles/filedetails/?id=2608237489)
+17. **[\[Aya\] Xenoorca Race_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3769645281)**
+   - 原模组：[\[Aya\]Xenoorca Race](https://steamcommunity.com/sharedfiles/filedetails/?id=2216916011)
+18. **[\[Aya\] Zoichor Race_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3770548688)**
+   - 原模组：[\[Aya\]Zoichor Race](https://steamcommunity.com/sharedfiles/filedetails/?id=3477749439)
+
+### 高难度与首领
+19. **[\[Aya\] Requeen Boss_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3769649735)**
+   - 原模组：[\[Aya\]Requeen Boss](https://steamcommunity.com/sharedfiles/filedetails/?id=2504657401)
+20. **[\[Aya\] Enforcer Boss_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3770548499)**
+   - 原模组：[\[Aya\]Enforcer Boss](https://steamcommunity.com/sharedfiles/filedetails/?id=2729712799)
+21. **[\[Aya\] Chaoura UB_zh 人工种族汉化 v1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3770548439)**
+   - 原模组：[\[Aya\]Chaoura UB](https://steamcommunity.com/sharedfiles/filedetails/?id=3489429571)
+
+## 兼容信息
+- RimWorld 1.6
+- 本模组仅含翻译文件，不包含任何原模组资源。
