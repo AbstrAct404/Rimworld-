@@ -20,6 +20,7 @@ from pathlib import Path
 from workshop_descriptions_zh import WORKSHOP_DESCRIPTION_OVERRIDES
 
 WORKSHOP = Path(r"D:\SteamLibrary\steamapps\workshop\content\294100")
+STEAM_INTEGRATED_BASELINE = Path(__file__).with_name("steam_integrated_baseline")
 
 MODS = [
     ("2946679071", "Chaoura Race"), ("3505571618", "Aya Premise Core"),
@@ -441,24 +442,34 @@ def local_translate(value: str) -> str:
 
 
 def normalize_display_names(value: str) -> str:
-    def replace_term(current: str, source: str, target: str) -> str:
-        # ASCII names need word-like guards so "Solark" is not replaced inside
-        # an identifier. Chinese/Japanese aliases should be replaced directly:
-        # RimWorld descriptions store line breaks as the literal characters
-        # "\\n", whose trailing ASCII "n" otherwise blocks a valid match.
+    # Perform terminology normalization in one regex pass.  Repeated str.replace
+    # calls can re-match text produced by an earlier replacement (for example,
+    # replacing 龙姬 inside the already canonical 索拉克（龙姬）), causing the
+    # name to grow recursively every time the builder runs.
+    replacements: dict[str, str] = {}
+    for mapping in (
+        DISPLAY_NAME_REPLACEMENTS,
+        WORKSHOP_RACE_DISPLAY_REPLACEMENTS,
+        TERMINOLOGY["proper_names"],
+        TERMINOLOGY["game_terms"],
+    ):
+        replacements.update(mapping)
+    alternatives = []
+    lookup: dict[str, str] = {}
+    for index, source in enumerate(sorted(replacements, key=len, reverse=True)):
+        group = f"term_{index}"
         if re.search(r"[A-Za-z]", source):
-            pattern = rf"(?<![A-Za-z]){re.escape(source)}(?![A-Za-z])"
-            return re.sub(pattern, target, current, flags=re.I)
-        return current.replace(source, target)
-
-    for source, target in DISPLAY_NAME_REPLACEMENTS.items():
-        value = replace_term(value, source, target)
-    for source, target in WORKSHOP_RACE_DISPLAY_REPLACEMENTS.items():
-        value = replace_term(value, source, target)
-    for source, target in TERMINOLOGY["proper_names"].items():
-        value = replace_term(value, source, target)
-    for source, target in TERMINOLOGY["game_terms"].items():
-        value = replace_term(value, source, target)
+            expression = rf"(?<![A-Za-z]){re.escape(source)}(?![A-Za-z])"
+        else:
+            expression = re.escape(source)
+        alternatives.append(f"(?P<{group}>{expression})")
+        lookup[group] = replacements[source]
+    if alternatives:
+        pattern = re.compile("|".join(alternatives), flags=re.I)
+        value = pattern.sub(
+            lambda match: lookup[match.lastgroup or ""],
+            value,
+        )
     return "\n".join(line.rstrip() for line in value.splitlines()).strip()
 
 
@@ -556,6 +567,128 @@ def xml_write(path: Path, root: ET.Element) -> None:
     ET.ElementTree(root).write(path, encoding="utf-8", xml_declaration=True)
 
 
+def consolidate_runtime_patches(
+    package: Path,
+    output_name: str,
+) -> dict[str, int]:
+    """Merge runtime localization patches without dropping any fallback.
+
+    Some source mods bypass DefInjected at runtime or restore labels when an
+    editor refreshes a Def, so even apparently redundant direct patches must
+    remain.  When a patch and DefInjected target the same label/description,
+    normalize the patch value to the DefInjected value so both fallback paths
+    display exactly the same translation.
+    """
+    patches_dir = package / "Patches"
+    files = sorted(patches_dir.glob("*.xml"))
+    if not files:
+        return {
+            "sourceFiles": 0,
+            "outputFiles": 0,
+            "topLevelOperations": 0,
+            "modificationTargets": 0,
+            "normalizedStandardOverrides": 0,
+        }
+
+    language_values: dict[str, str] = {}
+    language_root = package / "Languages" / "ChineseSimplified"
+    for file in language_root.rglob("*.xml"):
+        try:
+            root = ET.parse(file).getroot()
+        except ET.ParseError:
+            continue
+        for node in root:
+            if node.text:
+                language_values[node.tag] = node.text
+
+    merged = ET.Element("Patch")
+    seen_targets: dict[str, str] = {}
+    normalized_standard = 0
+    kept_operations = 0
+
+    def modification_targets(operation: ET.Element) -> list[str]:
+        targets = []
+        for node in operation.iter():
+            if node.get("Class") not in {
+                "PatchOperationReplace",
+                "PatchOperationAdd",
+                "PatchOperationRemove",
+            }:
+                continue
+            xpath = text(node.find("xpath"))
+            if xpath:
+                targets.append(xpath)
+        return targets
+
+    def standard_translation_key(xpath: str) -> str | None:
+        match = re.fullmatch(
+            r'Defs/[^[]+\[defName="([^"]+)"\](?:/.*)?/'
+            r'(label|description)(?:\[\d+\])?',
+            xpath,
+        )
+        if not match:
+            return None
+        return f"{match.group(1)}.{match.group(2)}"
+
+    def normalize_modifier_value(node: ET.Element) -> int:
+        if node.get("Class") not in {
+            "PatchOperationReplace",
+            "PatchOperationAdd",
+        }:
+            return 0
+        xpath = text(node.find("xpath"))
+        key = standard_translation_key(xpath)
+        if key is None or key not in language_values:
+            return 0
+        field = key.rsplit(".", 1)[1]
+        value_node = node.find("value")
+        translated_node = value_node.find(field) if value_node is not None else None
+        if translated_node is None or translated_node.text == language_values[key]:
+            return 0
+        translated_node.text = language_values[key]
+        return 1
+
+    for file in files:
+        root = ET.parse(file).getroot()
+        for operation in root:
+            normalized_standard += sum(
+                normalize_modifier_value(node) for node in operation.iter()
+            )
+            targets = modification_targets(operation)
+            if not targets:
+                continue
+            for target in targets:
+                previous = seen_targets.get(target)
+                if previous:
+                    raise RuntimeError(
+                        "Overlapping runtime localization patches: "
+                        f"{target} appears in both {previous} and {file.name}"
+                    )
+                seen_targets[target] = file.name
+            merged.append(operation)
+            kept_operations += 1
+
+    destination = patches_dir / output_name
+    for file in files:
+        if file != destination:
+            file.unlink()
+    if kept_operations:
+        xml_write(destination, merged)
+        output_files = 1
+    else:
+        destination.unlink(missing_ok=True)
+        output_files = 0
+        if patches_dir.is_dir() and not any(patches_dir.iterdir()):
+            patches_dir.rmdir()
+    return {
+        "sourceFiles": len(files),
+        "outputFiles": output_files,
+        "topLevelOperations": kept_operations,
+        "modificationTargets": len(seen_targets),
+        "normalizedStandardOverrides": normalized_standard,
+    }
+
+
 def add_workshop_dependency(
     about: ET.Element,
     package_id_value: str,
@@ -628,7 +761,7 @@ def write_steam_vdfs(destination: Path, vdf_dir: Path) -> None:
             f'\t"previewfile"\t\t"{vdf_quote(vdf_path(package / "About" / "Preview.png"))}"',
             f'\t"title"\t\t"{vdf_quote(title)}"',
             f'\t"description"\t\t"{vdf_quote(description)}"',
-            '\t"changenote"\t\t"更新：完善简体中文翻译，适配 RimWorld 1.6。"',
+            '\t"changenote"\t\t"补全了健康状态、基因分类与装备效果显示文本。"',
             '}', '',
         ])
         (vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}.vdf").write_text(content, encoding="utf-8")
@@ -645,7 +778,7 @@ def write_steam_vdfs(destination: Path, vdf_dir: Path) -> None:
             f'\t"previewfile"\t\t"{vdf_quote(vdf_path(package / "About" / "Preview.png"))}"',
             f'\t"title"\t\t"{vdf_quote(title)}"',
             f'\t"description"\t\t"{vdf_quote(description)}"',
-            '\t"changenote"\t\t"更新：同步简体中文标题与简介。"',
+            '\t"changenote"\t\t"补全了健康状态、基因分类与装备效果显示文本。"',
             '}', '',
         ])
         (vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}-schinese.vdf").write_text(
@@ -810,6 +943,19 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
                 )
             except ET.ParseError:
                 continue
+    # The published integrated pack contains runtime patches for custom comp
+    # labels and descriptions that DefInjected cannot reliably reach.  Copy
+    # the matching per-mod patches into standalone packages as well, so using
+    # Character Editor or refreshing a Def does not expose the source label.
+    baseline_patches = STEAM_INTEGRATED_BASELINE / "Patches"
+    for patch in baseline_patches.glob(f"{mod_id}_*.xml"):
+        destination = out / "Patches" / patch.name
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(patch, destination)
+    consolidate_runtime_patches(
+        out,
+        f"{mod_id}_Aya_Localization.xml",
+    )
     return {"id": mod_id, "name": fallback_name, "status": "built", "entries": written, "path": str(out)}
 
 

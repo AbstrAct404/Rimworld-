@@ -11,6 +11,7 @@ from build_translations import write_readme
 
 
 ROOT = Path(__file__).parent
+STEAM_BASELINE = ROOT / "steam_integrated_baseline"
 
 BASE_NAMES = {
     "Saclean": "飞蛾姬",
@@ -480,7 +481,20 @@ def override_language_keys() -> None:
     # relic, and fixed-name translations.  Apply them to the checked-in
     # packages as well, then let the canonical race/special-form names below
     # take precedence where both maps contain the same key.
-    game_overrides = {**BUILD_KEY_OVERRIDES, **KEY_OVERRIDES}
+    steam_overrides: dict[str, str] = {}
+    steam_language_root = STEAM_BASELINE / "Languages" / "ChineseSimplified"
+    if steam_language_root.is_dir():
+        for baseline_file in steam_language_root.rglob("*.xml"):
+            for node in ET.parse(baseline_file).getroot():
+                if node.text:
+                    steam_overrides[node.tag] = node.text
+    # Steam is intentionally last: for overlapping keys, the currently
+    # published integrated package is authoritative.
+    game_overrides = {
+        **BUILD_KEY_OVERRIDES,
+        **KEY_OVERRIDES,
+        **steam_overrides,
+    }
     for path in (ROOT / "Mods").rglob("Languages/ChineseSimplified/**/*.xml"):
         if "0000000000 - Aya Integrated Chinese" in path.parts:
             continue

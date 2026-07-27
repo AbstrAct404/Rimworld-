@@ -16,7 +16,7 @@
 极其耐打，通常攻击很难将其杀死。</HAR_NC_M_z_race_Base.description>
   <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>
   <Aya_Race_Ap_NC_C_T_a.description>人工种族的儿童们穿的暗夜装，性能有所降低。</Aya_Race_Ap_NC_C_T_a.description>
-  <Aya_Race_Ap_NC_C_T_a.label>儿童款式暗夜装</Aya_Race_Ap_NC_C_T_a.label>
+  <Aya_Race_Ap_NC_C_T_a.label>儿童暗夜装</Aya_Race_Ap_NC_C_T_a.label>
   <HAR_NC_Armor_a.label>血月装甲（耐久型）</HAR_NC_Armor_a.label>
   <HAR_NC_Armor_a.description>牧菌妖姬的专用装甲，性能侧重于接近对方并使其感染露娜病菌。原本是作为创造者麾下的战斗人员时穿着的战斗装甲。</HAR_NC_Armor_a.description>
   <HAR_NC_Armor_b.label>血月装甲（突袭型）</HAR_NC_Armor_b.label>
@@ -50,7 +50,7 @@
   <HAR_NC_Tops_c.description>牧菌妖姬的装束，能够让她们灵活自如的行动。看起来有点像泳装。</HAR_NC_Tops_c.description>
   <HAR_NC_Tops_c.label>暗夜装C（牧菌妖姬）</HAR_NC_Tops_c.label>
   <HAR_NC_Tops_z.description>牧菌妖姬·无人（界外之血）专用的服装。\n以她们的身体技能，就算是和内衣无异的服装也足以保障她们的生存。</HAR_NC_Tops_z.description>
-  <HAR_NC_Tops_z.label>异端服装</HAR_NC_Tops_z.label>
+  <HAR_NC_Tops_z.label>异端礼装</HAR_NC_Tops_z.label>
   <HAR_NC_Material_a.label>令人厌恶的肉块</HAR_NC_Material_a.label>
   <HAR_NC_Material_a.description>从牧菌妖姬·无人（界外之血）那里回收而来的肉块。
 就算已经过了一段时间，它仍在散发热量。

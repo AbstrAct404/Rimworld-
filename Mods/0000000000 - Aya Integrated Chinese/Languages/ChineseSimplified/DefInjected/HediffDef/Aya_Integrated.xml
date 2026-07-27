@@ -39,6 +39,7 @@
 
 
 当然要吃干净啦，若是对精心准备的晚餐置之不理的话，岂不是很失礼吗？</BOSS_RQ_Hediff_Gone_Error_a.description>
+  <BOSS_RQ_Hediff_Gone_Error_a.label>心魂捕食</BOSS_RQ_Hediff_Gone_Error_a.label>
   <BOSS_RQ_Hediff_Z_a.description>雏鸟深红色的婉转轻啼。\n在治愈前会持续受到伤害。\n数小时后会自行消散。</BOSS_RQ_Hediff_Z_a.description>
   <BOSS_RQ_Hediff_Z_a.label>雏鸟轻啼</BOSS_RQ_Hediff_Z_a.label>
   <BOSS_RQ_Hediff_Z_b.description>雏鸟的充满稚嫩感的振翅。\n被影响的对象将强制进入倒地状态，无人救援、持续倒地2小时的话会当场死亡。\n半天后会自行解除。\n这一能力会在持续进行近战攻击后发动。\n可以进行持续的远程射击来抑制此能力的发动。</BOSS_RQ_Hediff_Z_b.description>
@@ -55,6 +56,7 @@
   <BOSS_RQ_Hediff_Z_h.description>雏鸟对藏于暗处之人的察觉。\n受到这种影响的人会瞬间进入崩溃状态。\n这种状态无法靠对象自行解除（精神崩溃将会持续下去）。\n\n\n啊呀，好好地去直视她不就好了吗，真可惜呢</BOSS_RQ_Hediff_Z_h.description>
   <BOSS_RQ_Hediff_Z_h.label>窥视虚空</BOSS_RQ_Hediff_Z_h.label>
   <BOSS_RQ_Hediff_b.description>对象的思维能力在精神干扰下受到严重影响，运动能力大幅度下降。</BOSS_RQ_Hediff_b.description>
+  <BOSS_RQ_Hediff_b.label>精神污染</BOSS_RQ_Hediff_b.label>
   <BOSS_RQ_Scratch.description>超振动刀刃</BOSS_RQ_Scratch.description>
   <BOSS_RQ_Scratch.label>超振动刀刃</BOSS_RQ_Scratch.label>
   <BOSS_RQ_Scratch.labelNoun>超振动刀刃</BOSS_RQ_Scratch.labelNoun>
@@ -70,7 +72,9 @@
 其强度并不会随着时间的流逝而有所增加。</Eveliet_Artificial.description>
   <Eveliet_Artificial.label>试作人工种族</Eveliet_Artificial.label>
   <HAR_CO_Hediff_a.description>混沌灵的宇宙之影辅助器官，处于完全黑暗时能使肉体活性化，提高身体能力，并使射击无效化。作为代价，当日光强烈时该器官会变为非活性状态，混沌灵的动作将变迟钝。</HAR_CO_Hediff_a.description>
+  <HAR_CO_Hediff_a.label>永夜循环器（活性）</HAR_CO_Hediff_a.label>
   <HAR_CO_Hediff_b.description>混沌灵的宇宙之影辅助器官，处于完全黑暗时能使肉体活性化，提高身体能力，并使射击无效化。作为代价，当日光强烈时该器官会变为非活性状态，混沌灵的动作将变迟钝。</HAR_CO_Hediff_b.description>
+  <HAR_CO_Hediff_b.label>永夜循环器（非活性）</HAR_CO_Hediff_b.label>
   <HAR_CO_Hediff_c.description>当对混沌灵做出具有敌意的物理行为时产生的现象。\n深渊腐败并发“晦冥肿胀”，会逐渐降低身体机能。晦冥肿胀只发生在生物体上，所以对机械生命不起作用。\n\n只要停止对混沌灵的敌意行为，深渊腐败很快便会消散。</HAR_CO_Hediff_c.description>
   <HAR_CO_Hediff_c.label>深渊腐败</HAR_CO_Hediff_c.label>
   <HAR_CO_Hediff_d.description>由深渊腐败并发的黑色肿胀，稍微降低身体能力。\n晦冥肿胀会发生在所有的身体部位和脏器中，蔓延至全身后会使行动变得极为困难。\n症状在半天内就能痊愈。</HAR_CO_Hediff_d.description>
@@ -148,6 +152,7 @@
 这种状态在半天之后就会解除。</HAR_EL_Hediff_d.description>
   <HAR_EL_Hediff_d.label>黑暗之宴</HAR_EL_Hediff_d.label>
   <HAR_IA_Gunshot.description>天国之倾造成的空间压缩超过洛希极限所造成的伤害。</HAR_IA_Gunshot.description>
+  <HAR_IA_Gunshot.label>空迹</HAR_IA_Gunshot.label>
   <HAR_IA_Skill_Hediff_a.description>伊迪安·梅涅克赛努 A型散布的纳米机械，能够削弱敌对目标的战斗能力。效果最多持续半天；只要目标仍位于梅涅克赛努 A型的作用范围内，效果便会持续存在。</HAR_IA_Skill_Hediff_a.description>
   <HAR_IA_Skill_Hediff_a.label>感官离线</HAR_IA_Skill_Hediff_a.label>
   <HAR_IA_Skill_Hediff_b.description>伊迪安·泰阿泰德 A型散布的纳米机械，可增强受影响者的身体能力。效果最多持续半天。</HAR_IA_Skill_Hediff_b.description>
@@ -175,41 +180,41 @@
 这是一道能够治愈与磨炼万物，连死亡都能超越的荣耀之光。
 随着这股力量的不断解放，她们会逐渐获得超越凡人的力量，但在100％完全解放的情况下，她们便会失去复活的能力。
 
-创造主已经踏足了一切可至之处。
+造物主已经踏足了一切可至之处。
 因此，他们才会恐惧自己的技术终将成为宇宙之癌，并为了阻止那个未来而留下了抑制之力。
-那个潜在的敌人究竟是谁，想必只有创造主本人知晓吧。</HAR_IH_Hediff_EX_a.description>
+那个潜在的敌人究竟是谁，想必只有造物主本人知晓吧。</HAR_IH_Hediff_EX_a.description>
   <HAR_IH_Hediff_EX_a.label>万军神临</HAR_IH_Hediff_EX_a.label>
   <HAR_IH_Hediff_EX_b.description>幽灵姬·罪孽灵被创造者所赋予的超凡力量。
 这是一道能够治愈与磨炼万物，连死亡都能超越的荣耀之光。
 随着这股力量的不断解放，她们会逐渐获得超越凡人的力量，但在100％完全解放的情况下，她们便会失去复活的能力。
 
-创造主已经踏足了一切可至之处。
+造物主已经踏足了一切可至之处。
 因此，他们才会恐惧自己的技术终将成为宇宙之癌，并为了阻止那个未来而留下了抑制之力。
-那个潜在的敌人究竟是谁，想必只有创造主本人知晓吧。</HAR_IH_Hediff_EX_b.description>
+那个潜在的敌人究竟是谁，想必只有造物主本人知晓吧。</HAR_IH_Hediff_EX_b.description>
   <HAR_IH_Hediff_EX_b.label>万军神临</HAR_IH_Hediff_EX_b.label>
   <HAR_IH_Hediff_EX_c.description>幽灵姬·罪孽灵被创造者所赋予的超凡力量。
 这是一道能够治愈与磨炼万物，连死亡都能超越的荣耀之光。
 随着这股力量的不断解放，她们会逐渐获得超越凡人的力量，但在100％完全解放的情况下，她们便会失去复活的能力。
 
-创造主已经踏足了一切可至之处。
+造物主已经踏足了一切可至之处。
 因此，他们才会恐惧自己的技术终将成为宇宙之癌，并为了阻止那个未来而留下了抑制之力。
-那个潜在的敌人究竟是谁，想必只有创造主本人知晓吧。</HAR_IH_Hediff_EX_c.description>
+那个潜在的敌人究竟是谁，想必只有造物主本人知晓吧。</HAR_IH_Hediff_EX_c.description>
   <HAR_IH_Hediff_EX_c.label>万军神临</HAR_IH_Hediff_EX_c.label>
   <HAR_IH_Hediff_EX_d.description>幽灵姬·罪孽灵被创造者所赋予的超凡力量。
 这是一道能够治愈与磨炼万物，连死亡都能超越的荣耀之光。
 随着这股力量的不断解放，她们会逐渐获得超越凡人的力量，但在100％完全解放的情况下，她们便会失去复活的能力。
 
-创造主已经踏足了一切可至之处。
+造物主已经踏足了一切可至之处。
 因此，他们才会恐惧自己的技术终将成为宇宙之癌，并为了阻止那个未来而留下了抑制之力。
-那个潜在的敌人究竟是谁，想必只有创造主本人知晓吧。</HAR_IH_Hediff_EX_d.description>
+那个潜在的敌人究竟是谁，想必只有造物主本人知晓吧。</HAR_IH_Hediff_EX_d.description>
   <HAR_IH_Hediff_EX_d.label>万军神临</HAR_IH_Hediff_EX_d.label>
   <HAR_IH_Hediff_EX_e.description>幽灵姬·罪孽灵被创造者所赋予的超凡力量。
 这是一道能够治愈与磨炼万物，连死亡都能超越的荣耀之光。
 随着这股力量的不断解放，她们会逐渐获得超越凡人的力量，但在100％完全解放的情况下，她们便会失去复活的能力。
 
-创造主已经踏足了一切可至之处。
+造物主已经踏足了一切可至之处。
 因此，他们才会恐惧自己的技术终将成为宇宙之癌，并为了阻止那个未来而留下了抑制之力。
-那个潜在的敌人究竟是谁，想必只有创造主本人知晓吧。</HAR_IH_Hediff_EX_e.description>
+那个潜在的敌人究竟是谁，想必只有造物主本人知晓吧。</HAR_IH_Hediff_EX_e.description>
   <HAR_IH_Hediff_EX_e.label>万军神临</HAR_IH_Hediff_EX_e.label>
   <HAR_IH_Hediff_Flag.label>苍白契约</HAR_IH_Hediff_Flag.label>
   <HAR_IH_Hediff_ZZZ.description>幽灵姬·罪孽灵在释放万军之主在此时产生的波动。\n受到影响的人会失去行动能力，只能匍匐在地。\n该状态会在 1 天后解除。</HAR_IH_Hediff_ZZZ.description>
@@ -217,12 +222,15 @@
   <HAR_LL_Hediff_a.description>漫长旅途耗尽了她们的体力，看上去马上就要晕倒在地的样子。</HAR_LL_Hediff_a.description>
   <HAR_LL_Hediff_a.label>长途跋涉的疲惫</HAR_LL_Hediff_a.label>
   <HAR_LL_Hediff_b.description>伪神族经常从被她们尊称为“空天之海”的存在那里获取智慧。\n但即使是与空天之海相性最好的伪神族，也需要大量的时间才能理解这些获取的知识，因此这些知识无法运用在紧急事件的处理上。\n随着时间的流逝逐渐加深理解，伪神族的精神力得到提升（最大为等级5）。</HAR_LL_Hediff_b.description>
+  <HAR_LL_Hediff_b.label>启蒙</HAR_LL_Hediff_b.label>
   <HAR_LL_Hediff_c.description>理解了空天之海的心灵传输后的状态，言行举止变得疯狂，出于某种原因试图伤害他人，非常危险。\n别去听她们的疯言疯语，快点进行处理。\n\n\n\n\n接受从昏暗的大海处传来的启示，我终于认知到了我们明明理解但却一直避而不谈的真相【接收中】这个世界之所以像梦那般暧昧且无序，是因为我们是高维度生命梦中投下的影子，一切都不过是梦中的游乐场而已！【接收中】无止尽的烦恼、无休止的痛苦都不过是这个游乐场的娱乐措施而已！【接收中】既然如此，我等就应当接受这一真相，履行「游乐」的职责，随后舍弃这具血肉之躯，变回真正的模样 ！【接收中】这一伟大的真相不能被隐藏，我等必须以深邃的慈爱和宽容让更多人知晓！【接收中】来吧，让我们舍弃这腐烂发臭的虚假躯体，剥去皮，剜下肉，释放灵魂，崇高的仪式现在才正要开始！\n\n\n没有不安，也没有恐怖，有的只是脱离苦海的解放感，指引我等的声音至今仍在幽暗的深渊中回荡……【接收中】</HAR_LL_Hediff_c.description>
+  <HAR_LL_Hediff_c.label>教化</HAR_LL_Hediff_c.label>
   <HAR_LL_Hediff_d.description>在伪神族的精神干扰下，精神状态变得稳定，意识提升，同时还提升了工作速度和对精神崩溃的耐性。\n\n\n施展这股力量的时候，经常能看到伪神族们挥舞着小手、嘴里念叨着“不胜感激”的样子。</HAR_LL_Hediff_d.description>
   <HAR_LL_Hediff_d.label>精神守护</HAR_LL_Hediff_d.label>
   <HAR_LL_Hediff_e.description>伪神族·伊迪亚之奴被某个存在所控制的姿态。\n她会不分青红皂白地使周围的人昏死过去因此需要特别留意。\n\n童女是很久以前就被屠戮的神子『伪神族·杜娜米丝』的后裔。\n然而，现在的她已将那份光辉丢失殆尽，仅剩一只吞噬生命的怪物。\n她那如同旧日的大敌的拥抱，即使是王族也无力承受。\n\n唯一的例外，即是当初杀死了神子的骑士。</HAR_LL_Hediff_e.description>
   <HAR_LL_Hediff_e.label>星辰的神子</HAR_LL_Hediff_e.label>
   <HAR_LL_Hediff_f.description>被异形化的伪神族拥于怀中的状态。\n如同失去生气一般倒地不起、动弹不得。\n在此过程中还会定期受到伤害。\n该状态会在一天后解除。\n\n如果有一只鸟在这里的话，她现在应该正津津有味地啄食着吧。</HAR_LL_Hediff_f.description>
+  <HAR_LL_Hediff_f.label>心魂暴露</HAR_LL_Hediff_f.label>
   <HAR_LL_Hediff_g.description>伪神族·边缘乐土的领域。\n进入此领域的单位会失去再生能力，同时身体机能与射击能力会得到大幅度的提升。\n效果将会持续数个小时。</HAR_LL_Hediff_g.description>
   <HAR_LL_Hediff_g.label>边境的净土</HAR_LL_Hediff_g.label>
   <HAR_LL_Hediff_h.description>荣光花冠所赐予的加护。\n能够使使用者大幅强化各项能力，同时获得自我再生的能力，成就超凡之人。\n但是其进行强化的原理，至今仍是不得而知。\n\n\n\n\n\n以后也要好好努力哦，我会全力为你应援的！</HAR_LL_Hediff_h.description>
@@ -230,13 +238,16 @@
   <HAR_LL_Hediff_i.description>思想十字所赐予的加护。\n能够使使用者大幅强化各项能力。\n但是其进行强化的原理，至今仍是不得而知。\n\n\n\n\n\n干得漂亮，你还会变强到什么地步呢，我很期待哦！</HAR_LL_Hediff_i.description>
   <HAR_LL_Hediff_i.label>伊迪亚之侍</HAR_LL_Hediff_i.label>
   <HAR_LL_Hediff_j.description>被迷之生命体发出的闪光照耀的状态。\n如同失去生气一般倒地不起、动弹不得。\n在此过程中还会定期受到伤害。\n该状态会在一天后解除。\n\n如果有一只鸟在这里的话，她现在应该正津津有味地啄食着吧。</HAR_LL_Hediff_j.description>
+  <HAR_LL_Hediff_j.label>心魂升华</HAR_LL_Hediff_j.label>
   <HAR_LL_Hediff_k.description>听到神子哭泣之声的状态。听到的人会因不明原因进入狂暴状态。</HAR_LL_Hediff_k.description>
   <HAR_LL_Hediff_k.label>神子的哭泣</HAR_LL_Hediff_k.label>
   <HAR_LL_Hediff_m.description>神子伪神族·杜娜米丝所赐予的加护。\n受到此加护的人会化为超人打败一切敌人。\n\n这一效果将会持续半天。\n\n\n据说在迦南星遭到大规模袭击的时候，受到了这一加护的骑士在战场上大为活跃、世间无双。</HAR_LL_Hediff_m.description>
+  <HAR_LL_Hediff_m.label>神子骑士</HAR_LL_Hediff_m.label>
   <HAR_NC_Hediff_Flag.label>伟大的来访</HAR_NC_Hediff_Flag.label>
   <HAR_NC_Hediff_a.description>共生在牧菌妖姬体内、对精神念波有感应的细菌。\n这类细菌只能生存在特殊的环境中，而牧菌妖姬的体内环境正好满足这一条件；为了保护牧菌妖姬，细菌促进了她们很多的良性进化。平时都处于假死状态，即使他人感染了也不会产生不良影响，会在 1 天内自行消亡——可一旦接收到牧菌妖姬的攻击指令的话，就会立刻开始强腐蚀性的增殖，并释放出能使人狂躁的精神念波。\n\n刚感染时只会感到手脚麻痹，但到了末期，连脑神经都会受到影响，感染者将精神崩溃，变得极为狂暴。由于这种现象不属于物理层面的干扰，所以对机械族等机械生物同样起作用。</HAR_NC_Hediff_a.description>
   <HAR_NC_Hediff_a.label>露娜病菌</HAR_NC_Hediff_a.label>
   <HAR_NC_Hediff_b.description>露娜病菌分泌的腐蚀性毒素，可以逐渐侵蚀血肉、从厚重的装甲内部击溃对手。\n这种毒只会对和感染者基因相同的细胞起作用，因此即使有人吃了含有这种毒素的尸体，也不会引起食物中毒。</HAR_NC_Hediff_b.description>
+  <HAR_NC_Hediff_b.label>腐蚀性细菌毒</HAR_NC_Hediff_b.label>
   <HAR_NC_Invisibility.description>通过某种力量进入的不可视状态。\n30分钟以内，不会被敌人瞄准。</HAR_NC_Invisibility.description>
   <HAR_NC_Invisibility.label>界外之物</HAR_NC_Invisibility.label>
   <HAR_NC_Invisibility_b.description>通过某种力量进入的不可视状态。\n一段时间内，不会被敌人瞄准。</HAR_NC_Invisibility_b.description>
@@ -247,18 +258,21 @@
 液体原药主要从人类尸体上提取。
 
 最多可以补充至300单位上限。</HAR_NM_Hediff_Drag_a.description>
+  <HAR_NM_Hediff_Drag_a.label>液态药材</HAR_NM_Hediff_Drag_a.label>
   <HAR_NM_Hediff_Drag_b.description>魅魔·神秘系从机械族尸体上采集的原药。
 这种原药是把从机械族尸体上提取的东西制成固体保存着。
 
 固体原药主要从机械族尸体上提取。
 
 最多可以补充至300单位上限。</HAR_NM_Hediff_Drag_b.description>
+  <HAR_NM_Hediff_Drag_b.label>固态药材</HAR_NM_Hediff_Drag_b.label>
   <HAR_NM_Hediff_Drag_c.description>魅魔·神秘系从动物尸体上采集的原药。
 这种原药把从动物尸体上采集的东西制成粉末保存着。
 
 粉末原药主要从动物尸体上提取。
 
 最多可以补充至300单位上限。</HAR_NM_Hediff_Drag_c.description>
+  <HAR_NM_Hediff_Drag_c.label>粉末药材</HAR_NM_Hediff_Drag_c.label>
   <HAR_NM_Hediff_Energy_a.description>改良系魅魔的特殊器官。
 具有消耗能量生成精密机械的功能。
 
@@ -269,6 +283,7 @@
 能量消耗增加，容易饥饿。
 
 副作用持续24小时。</HAR_NM_Hediff_Energy_b.description>
+  <HAR_NM_Hediff_Energy_b.label>充能副作用</HAR_NM_Hediff_Energy_b.label>
   <HAR_NM_Hediff_Potency_a.description>这种灵药由魅魔·魔女系成员阿克忒拉调制。\n药效持续 8 小时，随后 4 小时出现副作用。\n\n效果期间，身体能力提升，攻击力增强。\n当出现副作用时，运动功能会下降至 50%。\n\n\n\n“说实话，我不信任阿拉迪娅，所以不想过分依赖这种药。她们表面平静，心里却不知在盘算什么。”</HAR_NM_Hediff_Potency_a.description>
   <HAR_NM_Hediff_Potency_a.label>阿尔克忒拉灵药</HAR_NM_Hediff_Potency_a.label>
   <HAR_NM_Hediff_Potency_b.description>这种魔药由亚人兽娘·维克森玛丽斯成员艾提涅调制。\n药效持续 8 小时，随后 4 小时出现副作用。\n\n药效生效时，身体能力与防御力都会提升；副作用发作时，身体则会变得脆弱。\n\n\n\n药效本身十分实用。\n但不知道到底是堆了多少太空部落的尸体才炼制出这种药剂的……</HAR_NM_Hediff_Potency_b.description>
@@ -299,6 +314,7 @@
 看来那边才是真正的我。不过没关系，我已经太累了。
 
 创造者啊，创造者。请不要把我逐出乐园。</HAR_NM_XXX_Hediff.description>
+  <HAR_NM_XXX_Hediff.label>救度</HAR_NM_XXX_Hediff.label>
   <HAR_OT_Hediff_Bed_a.description>奥特姆陷入肉欲后的状态。肉体得到激活，身体能力暂时提升。
 
 奥特姆在遗传层面有着强烈性欲，一两次远远无法满足。她们如吞食猎物的肉食兽般贪婪，只会不断追求欢愉。
@@ -341,12 +357,17 @@
   <HAR_QL_Hediff_e.description>被库莉菈们所持有的神器所刻下的圣痕。刻下的圣痕超过一定数量的话，那个人就会即刻升天。据说是真理教会所保有的扬升纳米机械被复现之前的源头。</HAR_QL_Hediff_e.description>
   <HAR_QL_Hediff_e.label>扬升圣痕</HAR_QL_Hediff_e.label>
   <HAR_SK_Hediff_a.description>喝了营养饮品，对身体很好。</HAR_SK_Hediff_a.description>
+  <HAR_SK_Hediff_a.label>免疫增强</HAR_SK_Hediff_a.label>
   <HAR_SK_Hediff_b.description>吃了美味的食物，心情很好。</HAR_SK_Hediff_b.description>
+  <HAR_SK_Hediff_b.label>健康增强</HAR_SK_Hediff_b.label>
   <HAR_SK_Hediff_c.description>亚人兽娘·狐媚的可怕诅咒，会使对象的精神变得不稳定，并造成无法愈合的伤口。\n数小时后消失。</HAR_SK_Hediff_c.description>
   <HAR_SK_Hediff_c.label>九尾的诅咒</HAR_SK_Hediff_c.label>
   <HAR_SK_PsychiteTeaHigh.description>通过饮用亚人工业茶，获得成瘾品与意志坚定的效果。</HAR_SK_PsychiteTeaHigh.description>
+  <HAR_SK_PsychiteTeaHigh.label>工业茶</HAR_SK_PsychiteTeaHigh.label>
   <HAR_SK_Skill_Hediff_b.description>使对象处于被亚人兽娘·狐媚精神侵入的状态，变得举止怪异，某些情况下可能会引发精神崩溃。\n数小时后消失。</HAR_SK_Skill_Hediff_b.description>
+  <HAR_SK_Skill_Hediff_b.label>狐灵附身</HAR_SK_Skill_Hediff_b.label>
   <HAR_SK_Skill_Hediff_c.description>亚人兽娘·狐媚所召唤的蛊虫。\n在妖术的加持下比通常个体更为强韧，但超过某一界限后，肉体会因反作用而达到极限并死亡。</HAR_SK_Skill_Hediff_c.description>
+  <HAR_SK_Skill_Hediff_c.label>蛊毒</HAR_SK_Skill_Hediff_c.label>
   <HAR_XO_Hediff_a.description>人鱼姬·渊丛主幽暗的陷阱。
 在被射击击中时，将目标的感知能力拖入深海。
 
@@ -372,6 +393,7 @@
   <HAR_ZC_Food_Hediff_a.description>食用了地狱浓汤后的状态。\n全身充满热气，对酷暑与严寒的耐性显着提升。\n\n此状态会持续一天。\n\n\n「啊啊啊啊啊啊，好冷好冷好冷啊～！纠罪酱快煮浓汤啦～！再这样下去我就要变成冰雕啦！」\n\n神子来访的那一天，总是比平时热闹。\n而照料她的锢魂魔们，脸上似乎带着一丝喜悦。\n\n那是一段再也无法重现的景色。</HAR_ZC_Food_Hediff_a.description>
   <HAR_ZC_Food_Hediff_a.label>地狱之热</HAR_ZC_Food_Hediff_a.label>
   <HAR_ZC_Hediff_EX.description>被阿拉斯托耳斩中的状态。\n只要是仍怀有良知之人，就无法逃离自己所犯下的罪孽。\n\n\n王族们为了立下的誓言使命，侵略边境星球，肆意施行破坏。\n然而，即便有所理由，杀戮仍是杀戮，这是纵使倾尽一生也无法赎清的大罪。\n因此，他们留下后代，完成使命的世代则拖着沉重的脚步前往梅拉芙。\n在那里，坦承自己的罪行，由锢魂魔以刀刃斩首，完成最终的清算。\n遗体与首级最终会被埋入冰冷的冻土深处，永不再苏醒。\n\n唯有锢魂魔，知晓王族们那痛苦的忏悔。</HAR_ZC_Hediff_EX.description>
+  <HAR_ZC_Hediff_EX.label>刑戮宣告</HAR_ZC_Hediff_EX.label>
   <HAR_ZC_Hediff_EX_Penalty.description>非锢魂魔者装备阿拉斯托耳时所产生的惩罚。\n\n此惩罚会持续数年之久。\n\n阿拉斯托尔会自行挑选持有者。\n唯有地狱之存在被允许挥舞此剑，其他者将遭受审判。\n与天堂不同，地狱之中亦有严密的法则存在。</HAR_ZC_Hediff_EX_Penalty.description>
   <HAR_ZC_Hediff_EX_Penalty.label>汝，并非法狱之人</HAR_ZC_Hediff_EX_Penalty.label>
   <HAR_ZC_Hediff_a.description>锢魂魔所背负的，是一颗散发着苍白光芒的黑色太阳。\n其本质是拥有巨大质量却极低重量的存在。\n其释放的火焰，虽为炎，却能将炙烧之物冻结。\n无视宇宙的物理法则，拥有极端的特异性。\n\n最初处于『封印』状态，需通过使用苍阳果来逐步解放力量。\n使用达到一定数量后，其阶段会逐步提升，总共分为六阶段：\n『封印』『灯火』『燐火』『天火』『净火』『劫火』\n\n\n其原型是混沌灵从地狱带回的冰冷火焰。\n而神子则使用从造物主处继承的技术，将这火焰升华成了太阳的形式。\n\n\n在太阳之中，穿越洞口后，迎面而来的是一片深不可测的深渊。\n其中究竟有什么？又有什么正在沉眠？\n只有锢魂魔与其盟友知晓其中的真相。</HAR_ZC_Hediff_a.description>
@@ -449,7 +471,7 @@
   <Nexaga_Artificial_f.description>通过母亲或隔代遗传继承了人工种族伪神族血统的力量。
   \n\n与因为是被创造出来而身体不稳定的人工种族不同，混血种天生就可以发挥出强大的能力。</Nexaga_Artificial_f.description>
   <Nexaga_Artificial_f.label>混血种</Nexaga_Artificial_f.label>
-  <Nexaga_Artificial_g.description>通过母亲或隔代遗传继承了人工种族索拉克（龙姬）（索拉克（龙姬）（龙姬））（索拉克（龙姬）（索拉克（龙姬）（龙姬））（索拉克（龙姬）（龙姬）））（索拉克（龙姬）（索拉克（龙姬）（龙姬））（索拉克（龙姬）（龙姬）））血统的力量。
+  <Nexaga_Artificial_g.description>通过母亲或隔代遗传继承了人工种族索拉克（龙姬）血统的力量。
   \n\n与因为是被创造出来而身体不稳定的人工种族不同，混血种天生就可以发挥出强大的能力。</Nexaga_Artificial_g.description>
   <Nexaga_Artificial_g.label>混血种</Nexaga_Artificial_g.label>
   <Nexaga_Artificial_h.description>通过母亲或隔代遗传继承了人工种族飞蛾姬血统的力量。
@@ -478,6 +500,7 @@
 她的力量会随岁月逐渐接近完成，身体也会愈发强大。赫雷勒夫的力量由等级决定，约每年提升 1 级，最高为 5 级。</Solark_Artificial_b.description>
   <Solark_Artificial_b.label>上位人工种族</Solark_Artificial_b.label>
   <Solark_Hediff_a.description>索拉克·赫雷勒夫正在释放龙躯。龙体状态会在半天后解除。</Solark_Hediff_a.description>
+  <Solark_Hediff_a.label>龙躯解放</Solark_Hediff_a.label>
   <Xenoorca_Artificial.description>人鱼姬是一个人工种族，由于战斗特化的原因，肉体得到了强化；但是作为人工生物的她们对疾病等的耐性和免疫力都很低。另外，其强度由她们各自的人鱼姬等级决定，大约每年提升 1 级（等级上限为 10）。</Xenoorca_Artificial.description>
   <Xenoorca_Artificial.label>人工种族</Xenoorca_Artificial.label>
   <Xenoorca_Artificial_b.description>人鱼姬·渊丛主具有足以抵挡集中火力的强韧生命力。其强度由她的人鱼姬等级决定，大约每年提升 1 级（等级上限为 5）。</Xenoorca_Artificial_b.description>

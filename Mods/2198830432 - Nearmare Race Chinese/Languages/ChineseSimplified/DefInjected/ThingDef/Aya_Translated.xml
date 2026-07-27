@@ -3,28 +3,28 @@
   <HAR_NM_TES_a.label>茨鲁埃萨</HAR_NM_TES_a.label>
   <HAR_NM_TES_a.description>人工种族的造物主曾经创造的生命体。\n搬运能力很强，在卡兰德星经常被珍视。\n因为是漂浮着移动的，所以移动速度与看起来巨大的身体并不匹配，速度很快。\n可能是因为在搬运能力上进行了特化，攻击能力相当低。</HAR_NM_TES_a.description>
   <NM_M_NightStalker_Base.label>夜行者</NM_M_NightStalker_Base.label>
-  <NM_M_NightStalker_Base.description>魅魔的后裔，杀伤力不如座狼，但动作极其敏捷，难以逃脱。 \n爪子和獠牙含有剧毒，所以被瞄准的人必须小心，即使击退它们，剧毒也会伤害他们。</NM_M_NightStalker_Base.description>
+  <NM_M_NightStalker_Base.description>魅魔召唤的迅捷眷属。虽然单次杀伤力不及座狼，但行动极快，猎物很难逃脱。它的利爪与獠牙带有剧毒；即使将其击退，遭到攻击者仍需及时处理毒素。</NM_M_NightStalker_Base.description>
   <NM_M_NightStalker.label>夜潜猎手（1级）</NM_M_NightStalker.label>
   <NM_M_NightStalker_b.label>夜潜猎手（2级）</NM_M_NightStalker_b.label>
   <NM_M_NightStalker_c.label>夜潜猎手（3级）</NM_M_NightStalker_c.label>
   <NM_M_NightStalker_d.label>夜潜猎手（4级）</NM_M_NightStalker_d.label>
   <NM_M_NightStalker_e.label>夜潜猎手（5级）</NM_M_NightStalker_e.label>
   <NM_M_NightGaunts_Base.label>夜魇</NM_M_NightGaunts_Base.label>
-  <NM_M_NightGaunts_Base.description>作为魅魔的后裔，它的触手具有引起温度快速变化的结构和特性，被它蜇过的人要么被剥夺热量，要么被注入足够的热量来点燃。</NM_M_NightGaunts_Base.description>
+  <NM_M_NightGaunts_Base.description>魅魔召唤的眷属。它的触手能够令接触部位的温度骤然变化：目标可能被瞬间夺走热量，也可能被灌入足以引燃身体的高热。</NM_M_NightGaunts_Base.description>
   <NM_M_NightGaunts.label>噩梦骇兽（1级）</NM_M_NightGaunts.label>
   <NM_M_NightGaunts_b.label>噩梦骇兽（2级）</NM_M_NightGaunts_b.label>
   <NM_M_NightGaunts_c.label>噩梦骇兽（3级）</NM_M_NightGaunts_c.label>
   <NM_M_NightGaunts_d.label>噩梦骇兽（4级）</NM_M_NightGaunts_d.label>
   <NM_M_NightGaunts_e.label>噩梦骇兽（5级）</NM_M_NightGaunts_e.label>
   <NM_M_Nightmare_Base.label>恶梦</NM_M_Nightmare_Base.label>
-  <NM_M_Nightmare_Base.description>魅魔召唤的眷属，拥有惊人的坚韧与庞大身躯，能以沉重一击压制敌人。</NM_M_Nightmare_Base.description>
+  <NM_M_Nightmare_Base.description>魅魔召唤的重型眷属。它拥有惊人的坚韧与庞大身躯，能以沉重冲击压制敌人，使其难以还手。</NM_M_Nightmare_Base.description>
   <NM_M_Nearmaere.label>永夜巨兽（1级）</NM_M_Nearmaere.label>
   <NM_M_Nightmare.label>永夜巨兽（1级）</NM_M_Nightmare.label>
   <NM_M_Nightmare_b.label>永夜巨兽（2级）</NM_M_Nightmare_b.label>
   <NM_M_Nightmare_c.label>永夜巨兽（3级）</NM_M_Nightmare_c.label>
   <NM_M_Nightmare_d.label>永夜巨兽（4级）</NM_M_Nightmare_d.label>
   <NM_M_Nightmare_e.label>永夜巨兽（5级）</NM_M_Nightmare_e.label>
-  <HAR_NM_M_KUT_Base.description>它是魅魔的后裔，是魅魔对其创造者信仰的体现。 \n\n与普通魅魔召唤的随从相比，攻击性稍差，但耐久度极佳，可以维持三天的存在。 \n而且，或许是因为对机械生命体怀有仇恨，所以它的攻击也具有使机器短路的能力。</HAR_NM_M_KUT_Base.description>
+  <HAR_NM_M_KUT_Base.description>魅魔将对创造者的信仰具现化后形成的眷属。与普通魅魔召唤物相比，它的攻击性较低，但续航能力出色，可以维持三天。由于其中也寄宿着对机械生命体的憎恨，它的攻击还会令机械装置短路。</HAR_NM_M_KUT_Base.description>
   <HAR_NM_M_KZU_Base.description>被超越人类认知的存在“拯救”后，这具躯体已经失去肉身与灵魂，再也无法恢复原状。 \n它只会茫然地重复残留在躯体中的条件反射。 \n然而，杀死或伤害它们已经变得极其困难，也许是因为它们不再被归类为生物。 \n\n一天后，它便无法继续维持这具无魂躯体，最终自行崩解。</HAR_NM_M_KZU_Base.description>
   <HAR_NM_M_XXX.description>魅魔·魔女系从宇宙深渊召来的超存在。其真名会令没有资质者在记忆时产生致命认知错位并引发精神崩溃，因此被隐去。
 
@@ -65,18 +65,18 @@
   <HAR_NM_Os_Pe.description>魅魔们很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_Pe.description>
   <HAR_NM_Os_Pe.label>内衣E款（魅魔）</HAR_NM_Os_Pe.label>
   <HAR_NM_Os_Pf.description>魅魔·魔女系很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_Pf.description>
-  <HAR_NM_Os_Pf.label>内衣·魔女款式（魅魔）</HAR_NM_Os_Pf.label>
-  <HAR_NM_Os_Pg.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_Os_Pg.description>
-  <HAR_NM_Os_Pg.label>内衣·ETHOS款式（魅魔）</HAR_NM_Os_Pg.label>
+  <HAR_NM_Os_Pf.label>魔女内衣（魅魔）</HAR_NM_Os_Pf.label>
+  <HAR_NM_Os_Pg.description>人工种族故乡卡兰德星开发的最新锐装备，被边境行星保全机构 ETHOS 采用为制式战斗装备。</HAR_NM_Os_Pg.description>
+  <HAR_NM_Os_Pg.label>ETHOS 内衣（魅魔）</HAR_NM_Os_Pg.label>
   <HAR_NM_A_Belt_a.description>属于魅魔教会的魅魔专属的特殊盾牌，被编入的系统使用着造物主的遗产。\n这个机械再现了魅魔拥有的精神能力的一部分，具有自动感知敌人攻击并防御的功能。\n拥有极其坚固的防御性能的同时，却也有者大幅减少使用者灵活性的缺点。</HAR_NM_A_Belt_a.description>
   <HAR_NM_A_Belt_a.label>辉光之盾（魅魔）</HAR_NM_A_Belt_a.label>
   <HAR_NM_A_a.label>心灵装甲（魅魔）</HAR_NM_A_a.label>
   <HAR_NM_A_a.description>魅魔专用的装甲，比魅魔的巫咒套装性能更高的装备。据说原是造物主还健在时代使用的。</HAR_NM_A_a.description>
-  <HAR_NM_A_b.label>修女服装A款（魅魔）</HAR_NM_A_b.label>
+  <HAR_NM_A_b.label>修女礼装 A（魅魔）</HAR_NM_A_b.label>
   <HAR_NM_A_b.description>属于魅魔教会的魅魔专属的服装，乍一看像是修女服装，实际上是强化套装，耐久性比一般的装甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_A_b.description>
-  <HAR_NM_A_c.label>修女服装B款（魅魔）</HAR_NM_A_c.label>
+  <HAR_NM_A_c.label>修女礼装 B（魅魔）</HAR_NM_A_c.label>
   <HAR_NM_A_c.description>属于魅魔教会的魅魔专属的服装，乍一看像是修女服装，实际上是强化套装，耐久性比一般的装甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_A_c.description>
-  <HAR_NM_A_d.label>修女服装C款（魅魔）</HAR_NM_A_d.label>
+  <HAR_NM_A_d.label>修女礼装 C（魅魔）</HAR_NM_A_d.label>
   <HAR_NM_A_d.description>属于魅魔教会的魅魔专属的服装，乍一看像是修女服装，实际上是强化套装，耐久性比一般的装甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_A_d.description>
   <HAR_NM_HArmor.description>魅魔的战斗用头部装备，由于特殊的防护膜拥有不属于外表的防御力。</HAR_NM_HArmor.description>
   <HAR_NM_HArmor.label>轻型头盔（魅魔）</HAR_NM_HArmor.label>
@@ -100,8 +100,8 @@
   <HAR_NM_AH_h.label>魔女之帽（魅魔）</HAR_NM_AH_h.label>
   <HAR_NM_AH_x.description>魅魔·神秘系的专用帽子。为了能经受长途旅行从而做得经久耐用。</HAR_NM_AH_x.description>
   <HAR_NM_AH_x.label>旅者之帽（魅魔）</HAR_NM_AH_x.label>
-  <HAR_NM_AH_r.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_AH_r.description>
-  <HAR_NM_AH_r.label>ETHOS头饰型增幅器（魅魔）</HAR_NM_AH_r.label>
+  <HAR_NM_AH_r.description>人工种族故乡卡兰德星开发的最新锐装备，被边境行星保全机构 ETHOS 采用为制式战斗装备。</HAR_NM_AH_r.description>
+  <HAR_NM_AH_r.label>ETHOS 头部增幅器（魅魔）</HAR_NM_AH_r.label>
   <HAR_NM_Sh_K.description>柔弱的魅魔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_K.description>
   <HAR_NM_Sh_K.label>披衣（魅魔）</HAR_NM_Sh_K.label>
   <HAR_NM_Sh_Kb.description>柔弱的魅魔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_Kb.description>
@@ -113,7 +113,7 @@
   <HAR_NM_Sh_Ke.description>柔弱的魅魔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_Ke.description>
   <HAR_NM_Sh_Ke.label>外套（魅魔）</HAR_NM_Sh_Ke.label>
   <HAR_NM_Sh_Ho.description>柔弱的魅魔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_Ho.description>
-  <HAR_NM_Sh_Ho.label>羽织服装（魅魔）</HAR_NM_Sh_Ho.label>
+  <HAR_NM_Sh_Ho.label>羽织（魅魔）</HAR_NM_Sh_Ho.label>
   <HAR_NM_Sh_SKo.description>柔弱的魅魔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_SKo.description>
   <HAR_NM_Sh_SKo.label>短披风（魅魔）</HAR_NM_Sh_SKo.label>
   <HAR_NM_Sh_BKo.description>以魅魔独特的能量作为能源而具有强力的伤害减轻效果的屏障发生装置，战斗非常有用，但是缺点是非常容易坏掉且温度耐性完全没有。</HAR_NM_Sh_BKo.description>
@@ -122,28 +122,28 @@
   <HAR_NM_Sh_Cry.label>魔女水晶（魅魔）</HAR_NM_Sh_Cry.label>
   <HAR_NM_Sh_x.description>魅魔·神秘系的专用外套。为了能经受长途旅行从而做得经久耐用。</HAR_NM_Sh_x.description>
   <HAR_NM_Sh_x.label>旅者外套（魅魔）</HAR_NM_Sh_x.label>
-  <HAR_NM_Sh_r.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_Sh_r.description>
-  <HAR_NM_Sh_r.label>ETHOS外附型增幅器（魅魔）</HAR_NM_Sh_r.label>
+  <HAR_NM_Sh_r.description>人工种族故乡卡兰德星开发的最新锐装备，被边境行星保全机构 ETHOS 采用为制式战斗装备。</HAR_NM_Sh_r.description>
+  <HAR_NM_Sh_r.label>ETHOS 外置增幅器（魅魔）</HAR_NM_Sh_r.label>
   <HAR_NM_Tshirt.description>魅魔专用的T恤衫，和人类穿的一样，性能方面也没有太大的差别，所以有点不放心。</HAR_NM_Tshirt.description>
   <HAR_NM_Tshirt.label>T恤衫（魅魔）</HAR_NM_Tshirt.label>
   <HAR_NM_Sc_Uniform.description>在文明水平较高的星球上活动时，魅魔所穿的学生服装，加上她们的外貌，在学院里很受欢迎。因为有了学生气，学习速度也提高了。</HAR_NM_Sc_Uniform.description>
-  <HAR_NM_Sc_Uniform.label>学生服装（魅魔）</HAR_NM_Sc_Uniform.label>
+  <HAR_NM_Sc_Uniform.label>学生制服（魅魔）</HAR_NM_Sc_Uniform.label>
   <HAR_NM_SShirts.description>魅魔专用的带袖衬衫，比人类穿着的同等带袖衬衫性能更高。</HAR_NM_SShirts.description>
   <HAR_NM_SShirts.label>带袖衬衫（魅魔）</HAR_NM_SShirts.label>
   <HAR_NM_BDress.description>魅魔的贵族身上穿着的暴露度高的深邃的黑色礼服装，因为是贵族用，所以性能方面没有被考虑。</HAR_NM_BDress.description>
-  <HAR_NM_BDress.label>黑夜晚礼服装（魅魔）</HAR_NM_BDress.label>
+  <HAR_NM_BDress.label>黑夜晚礼服（魅魔）</HAR_NM_BDress.label>
   <HAR_NM_WDress.description>魅魔的贵族身上穿着的暴露度高的圣洁的纯白礼服装，因为是贵族用，所以性能方面没有被考虑。</HAR_NM_WDress.description>
-  <HAR_NM_WDress.label>白夜晚礼服装（魅魔）</HAR_NM_WDress.label>
+  <HAR_NM_WDress.label>白夜晚礼服（魅魔）</HAR_NM_WDress.label>
   <HAR_NM_China.description>某个神秘的派系为魅魔定制的专用的传统的服装，服装最大限度的遮盖了所有敏感部位，却又有着极大的魅力，且因为用料少而轻便，移动速度得到提升了。</HAR_NM_China.description>
   <HAR_NM_China.label>旗袍（魅魔）</HAR_NM_China.label>
   <HAR_NM_Maid.description>魅魔作为曾经统治者随从时所配置的通用女仆服装，因为是女仆的缘故工作效率也比平时提高。</HAR_NM_Maid.description>
-  <HAR_NM_Maid.label>通用女仆服装（魅魔）</HAR_NM_Maid.label>
+  <HAR_NM_Maid.label>通用女仆装（魅魔）</HAR_NM_Maid.label>
   <HAR_NM_DLArmor.description>魅魔的战斗用服装，外表上看起来暴露度相当高，而且装甲好像很低，但是可以产生一层薄薄的保护屏障保护穿戴者，防御力比看上去高多了。</HAR_NM_DLArmor.description>
-  <HAR_NM_DLArmor.label>轻型战斗服装（魅魔）</HAR_NM_DLArmor.label>
+  <HAR_NM_DLArmor.label>轻型战斗服（魅魔）</HAR_NM_DLArmor.label>
   <HAR_NM_KArmor.description>曾经研究魅魔的一派为她们制作的专用装备，防御力比战斗服装弱但取而代之的是以各感觉被强化，能够更敏捷的行动。</HAR_NM_KArmor.description>
   <HAR_NM_KArmor.label>咒令装（魅魔）</HAR_NM_KArmor.label>
   <HAR_NM_Kimono.description>某个派系为魅魔定制的专用的传统的服装，动作会变得迟钝但是拥有独特的气质，可以期待外交能力的提高。</HAR_NM_Kimono.description>
-  <HAR_NM_Kimono.label>和服装（魅魔）</HAR_NM_Kimono.label>
+  <HAR_NM_Kimono.label>和服（魅魔）</HAR_NM_Kimono.label>
   <HAR_NM_Miko.description>某个派系为魅魔定制的专用的传统的服装，虽然活动不便，但对温度变化的抵抗力强，给人一种干净的印象，因此可以期待社交能力的提高。</HAR_NM_Miko.description>
   <HAR_NM_Miko.label>巫女服（人鱼姬）</HAR_NM_Miko.label>
   <HAR_NM_Itimai.description>就只是把大片的布料缠在身上，称之为服装未免也太原始了。</HAR_NM_Itimai.description>
@@ -151,18 +151,18 @@
   <HAR_NM_Blouse.description>在意外表的魅魔故意使自己看起来可爱而使用的衬衫，性价比很好的同时又很百搭，因此各种场合都很适用。</HAR_NM_Blouse.description>
   <HAR_NM_Blouse.label>衬衫（魅魔）</HAR_NM_Blouse.label>
   <HAR_NM_RiderS.description>尽量去掉多余装饰的服装，防御力和温度耐受性都很低，但也因此很方便身体活动。据说原本是摩托车手赛车时穿的服装。</HAR_NM_RiderS.description>
-  <HAR_NM_RiderS.label>赛车服装（魅魔）</HAR_NM_RiderS.label>
+  <HAR_NM_RiderS.label>赛车服（魅魔）</HAR_NM_RiderS.label>
   <HAR_NM_NurseS.description>从事医疗工作的女性所穿的服装，似乎能唤醒内心深处博爱的精神。战斗相关的能力减弱，但是医疗相关的能力提高。</HAR_NM_NurseS.description>
-  <HAR_NM_NurseS.label>护士服装（魅魔）</HAR_NM_NurseS.label>
+  <HAR_NM_NurseS.label>护士服（魅魔）</HAR_NM_NurseS.label>
   <HAR_NM_Wear_y.description>魅魔·魔女系专用的服装，乍一看好像非常薄感觉跟没穿一样，但是拥有比外观夸张得多的耐久和防御力。</HAR_NM_Wear_y.description>
-  <HAR_NM_Wear_y.label>魔女之衣（魅魔）</HAR_NM_Wear_y.label>
+  <HAR_NM_Wear_y.label>魔女礼装（魅魔）</HAR_NM_Wear_y.label>
   <HAR_NM_Wear_x.description>魅魔·神秘系的专用服装。为了能经受长途旅行从而做得经久耐用。</HAR_NM_Wear_x.description>
-  <HAR_NM_Wear_x.label>旅者之衣（魅魔）</HAR_NM_Wear_x.label>
-  <HAR_NM_Wear_r.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_Wear_r.description>
-  <HAR_NM_Wear_r.label>ETHOS之衣（魅魔）</HAR_NM_Wear_r.label>
+  <HAR_NM_Wear_x.label>旅者礼装（魅魔）</HAR_NM_Wear_x.label>
+  <HAR_NM_Wear_r.description>人工种族故乡卡兰德星开发的最新锐装备，被边境行星保全机构 ETHOS 采用为制式战斗装备。</HAR_NM_Wear_r.description>
+  <HAR_NM_Wear_r.label>ETHOS 制服（魅魔）</HAR_NM_Wear_r.label>
   <HAR_NM_Archotech_a.label>魔女之棺</HAR_NM_Archotech_a.label>
   <HAR_NM_Archotech_a.description>封印了被人工种族们称为“棺之君主”的魔女之棺。\n被认为是罪不可赦的大罪人，据说能自行使用独特的法术。\n如果解开封印的话可以解放她并且让她加入殖民地。\n\n作为魔女，她会对殖民地的人际关系产生很大的影响。</HAR_NM_Archotech_a.description>
-  <HAR_NM_Archotech_b.description>可以向ETHOS邀请派遣入驻人员的通信机。\n使用之后，一名ETHOS改良系魅魔作为伙伴加入殖民地。</HAR_NM_Archotech_b.description>
+  <HAR_NM_Archotech_b.description>用于向 ETHOS 请求派遣驻地人员的通信装置。使用后，一名隶属 ETHOS 的魅魔·改良系成员会加入殖民地。</HAR_NM_Archotech_b.description>
   <HAR_NM_Proj_GrenadeFrag.label>召唤的手雷</HAR_NM_Proj_GrenadeFrag.label>
   <HAR_NM_BroadshieldProjector.label>召唤的护盾</HAR_NM_BroadshieldProjector.label>
   <HAR_NM_BroadshieldProjector.description>仅对单纯子弹有效的小范围的低角护盾。与以往的护盾背包相比，范围很小，且具有3倍的展开时间。\n缺陷是防护范围小，所以无法防御爆炸伤害。</HAR_NM_BroadshieldProjector.description>

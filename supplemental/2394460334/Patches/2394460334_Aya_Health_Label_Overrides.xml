@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="HAR_NC_Hediff_b"]/label</xpath>
+    <value><label>腐蚀性细菌毒</label></value>
+  </Operation>
+</Patch>

@@ -1,5 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <AyaScenarioStartChaoura>你在休眠舱中被警报和船体撕裂声惊醒。飞船解体前，你勉强登上逃生舱。
+
+短暂漂流后，你降落在这颗未知的边缘世界。
+
+残骸散落在身边。现在，作为一名混沌灵，你必须在这片土地上开辟自己的生存之路。</AyaScenarioStartChaoura>
+  <AyaScenarioStartNearmare>你在休眠舱中被警报和船体撕裂声惊醒。飞船解体前，你勉强登上逃生舱。
+
+短暂漂流后，你降落在这颗未知的边缘世界。
+
+残骸散落在身边。现在，作为一名魅魔，你必须在这片土地上开辟自己的生存之路。</AyaScenarioStartNearmare>
+  <AyaScenarioStartNeclose>你在休眠舱中被警报和船体撕裂声惊醒。飞船解体前，你勉强登上逃生舱。
+
+短暂漂流后，你降落在这颗未知的边缘世界。
+
+残骸散落在身边。现在，作为一名牧菌妖姬，你必须在这片土地上开辟自己的生存之路。</AyaScenarioStartNeclose>
+  <AyaScenarioStartSilkiera>你在休眠舱中被警报和船体撕裂声惊醒。飞船解体前，你勉强登上逃生舱。
+
+短暂漂流后，你降落在这颗未知的边缘世界。
+
+残骸散落在身边。现在，作为一名亚人兽娘，你必须在这片土地上开辟自己的生存之路。</AyaScenarioStartSilkiera>
+  <AyaScenarioStartXenoorca>你在休眠舱中被警报和船体撕裂声惊醒。飞船解体前，你勉强登上逃生舱。
+
+短暂漂流后，你降落在这颗未知的边缘世界。
+
+残骸散落在身边。现在，作为一名人鱼姬，你必须在这片土地上开辟自己的生存之路。</AyaScenarioStartXenoorca>
   <Aya_CI_AlreadyHasSkill>{PAWN_nameDef}已经习得了「{ITEM}」的技术。</Aya_CI_AlreadyHasSkill>
   <Aya_CI_Btn_Close>关闭</Aya_CI_Btn_Close>
   <Aya_CI_Btn_Option1>使地图上所有敌对者陷入倒地状态【消耗交涉点数：-60】</Aya_CI_Btn_Option1>

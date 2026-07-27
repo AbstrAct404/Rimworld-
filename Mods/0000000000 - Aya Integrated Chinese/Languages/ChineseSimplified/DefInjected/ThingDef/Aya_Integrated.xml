@@ -25,7 +25,7 @@
   <Aya_CI_Permit_a.label>特异制造许可证</Aya_CI_Permit_a.label>
   <Aya_CI_Skill_Gain_a.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［混沌跃迁］\n传送至指定格子。\n潜伏于深渊的混沌灵之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_a.description>
   <Aya_CI_Skill_Gain_a.label>始原之淀：混沌跃迁</Aya_CI_Skill_Gain_a.label>
-  <Aya_CI_Skill_Gain_b.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［反物质新星］\n在指定格子引发反物质爆炸。\n破坏万物的索拉克（龙姬）（索拉克（龙姬）（龙姬））（索拉克（龙姬）（索拉克（龙姬）（龙姬））（索拉克（龙姬）（龙姬）））（索拉克（龙姬）（索拉克（龙姬）（龙姬））（索拉克（龙姬）（龙姬）））之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_b.description>
+  <Aya_CI_Skill_Gain_b.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［反物质新星］\n在指定格子引发反物质爆炸。\n破坏万物的索拉克（龙姬）之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_b.description>
   <Aya_CI_Skill_Gain_b.label>始原之淀：反物质新星</Aya_CI_Skill_Gain_b.label>
   <Aya_CI_Skill_Gain_c.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［烈焰爆炎］\n在指定格子引发火焰爆炸。\n掌管锻造的亚人兽娘之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_c.description>
   <Aya_CI_Skill_Gain_c.label>始原之淀：烈焰爆炎</Aya_CI_Skill_Gain_c.label>
@@ -53,9 +53,9 @@
   <Aya_Race_Ap_C_T_d.description>人工种族儿童穿着的学生服。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_d.description>
   <Aya_Race_Ap_C_T_d.label>儿童学生服</Aya_Race_Ap_C_T_d.label>
   <Aya_Race_Ap_NC_C_T_a.description>人工种族的儿童们穿的暗夜装，性能有所降低。</Aya_Race_Ap_NC_C_T_a.description>
-  <Aya_Race_Ap_NC_C_T_a.label>儿童款式暗夜装</Aya_Race_Ap_NC_C_T_a.label>
+  <Aya_Race_Ap_NC_C_T_a.label>儿童暗夜装</Aya_Race_Ap_NC_C_T_a.label>
   <Aya_Race_Ap_XO_C_T_a.description>人工种族的儿童们穿的服装，性能有所降低。</Aya_Race_Ap_XO_C_T_a.description>
-  <Aya_Race_Ap_XO_C_T_a.label>儿童异度服装</Aya_Race_Ap_XO_C_T_a.label>
+  <Aya_Race_Ap_XO_C_T_a.label>儿童异度礼装</Aya_Race_Ap_XO_C_T_a.label>
   <BMOT_Building_Incubator.description>过去人工种族的造物主所制造的培养器。\n能够通过读取专用的数据来创造出相应的生物。</BMOT_Building_Incubator.description>
   <BMOT_Building_Incubator.label>神之形</BMOT_Building_Incubator.label>
   <BMOT_Building_MailOrderTerminal_Animal.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Animal.description>
@@ -65,7 +65,9 @@
   <BMOT_Building_MailOrderTerminal_Material.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Material.description>
   <BMOT_Building_MailOrderTerminal_Slave.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Slave.description>
   <BMOT_Building_Recycle_a.description>『还在为堆满殖民地的武器和护甲感到头疼？\n这一问题就由我等亚人工业来解决！』\n\n亚人工业开设的回收店，可以快速回收不需要的武器和护甲。\n另外，你还能得到作为谢礼的“猫咪印章”，能够兑换超豪华的奖品哦~</BMOT_Building_Recycle_a.description>
+  <BMOT_Building_Recycle_a.label>亚人工业回收店</BMOT_Building_Recycle_a.label>
   <BMOT_Building_Refinery_a.description>『那边那位刚刚入手了心仪飞船的客人！\n还在为缺乏燃料所困扰吗？\n这一烦恼就由我等来解决！』\n\n亚人工业的炼油机。能够将岩石液化，与空气与电力进行反应，从中提炼出化合燃料。\n\n据说其原型是人工种族的神子在闲暇之余制造的机器。</BMOT_Building_Refinery_a.description>
+  <BMOT_Building_Refinery_a.label>亚人工业炼油机</BMOT_Building_Refinery_a.label>
   <BOSS_EF_B_M_race_Base.description>随陨石一同降临的神秘生命体。它体型与质量惊人，几乎无法以物理手段摧毁。\n行动本身虽然迟缓，但其超大质量所爆发的攻击足以媲美陨石撞击，贸然接近绝非明智之举。\n\n这种生物已经近似于兵器，但似乎无法适应这颗星球的环境，活动时间极短；不足一天便会自行崩解消失。若无力将其破坏，也可设法拖延并阻止它接近殖民地，等待其自行消亡。\n\n大型个体各自拥有不同的特殊能力，可能对殖民者造成严重负面影响，请务必留意。</BOSS_EF_B_M_race_Base.description>
   <BOSS_EF_B_M_race_a.description>与陨石一同到来的神秘生命体，拥有巨大的体型和质量，非常难从物理层面上破坏。
     \n虽然移动速度很慢，但是由于它们能操纵那巨大的质量引发宛如彗星撞击般恐怖且强力的攻击，所以还是不要和它们近身作战为好。
@@ -119,8 +121,11 @@
   <BOSS_RQ_Bullet_a.label>雏鸟凝望</BOSS_RQ_Bullet_a.label>
   <BOSS_RQ_Bullet_b.label>雏鸟泣血</BOSS_RQ_Bullet_b.label>
   <BOSS_RQ_Drop_Base.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_Base.description>
+  <BOSS_RQ_Drop_a.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_a.description>
   <BOSS_RQ_Drop_a.label>女王种的部件</BOSS_RQ_Drop_a.label>
+  <BOSS_RQ_Drop_b.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_b.description>
   <BOSS_RQ_Drop_b.label>女王种的部件</BOSS_RQ_Drop_b.label>
+  <BOSS_RQ_Drop_c.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_c.description>
   <BOSS_RQ_Drop_c.label>女王种的部件</BOSS_RQ_Drop_c.label>
   <BOSS_RQ_Gun_TurretSniper.label>审判</BOSS_RQ_Gun_TurretSniper.label>
   <BOSS_RQ_Gun_TurretSniper_b.label>圣约</BOSS_RQ_Gun_TurretSniper_b.label>
@@ -182,6 +187,18 @@
   <Bullet_Gun_AssaultRifle_SK.label>炽热之枪</Bullet_Gun_AssaultRifle_SK.label>
   <Bullet_IncendiaryLauncher_SK.label>熔岩发射器</Bullet_IncendiaryLauncher_SK.label>
   <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>
+  <Corpse_HAR_NC_M_a_race_NPC.description>戈尔诺伊德的尸体。</Corpse_HAR_NC_M_a_race_NPC.description>
+  <Corpse_HAR_NC_M_a_race_NPC.label>戈尔诺伊德尸体</Corpse_HAR_NC_M_a_race_NPC.label>
+  <Corpse_HAR_NC_M_a_race_Summon.description>戈尔诺伊德的尸体。</Corpse_HAR_NC_M_a_race_Summon.description>
+  <Corpse_HAR_NC_M_a_race_Summon.label>戈尔诺伊德尸体</Corpse_HAR_NC_M_a_race_Summon.label>
+  <Corpse_HAR_NC_M_b_race_NPC.description>戈尔种的尸体。</Corpse_HAR_NC_M_b_race_NPC.description>
+  <Corpse_HAR_NC_M_b_race_NPC.label>戈尔种尸体</Corpse_HAR_NC_M_b_race_NPC.label>
+  <Corpse_HAR_NC_M_b_race_Summon.description>戈尔种的尸体。</Corpse_HAR_NC_M_b_race_Summon.description>
+  <Corpse_HAR_NC_M_b_race_Summon.label>戈尔种尸体</Corpse_HAR_NC_M_b_race_Summon.label>
+  <Corpse_HAR_NC_M_c_race_NPC.description>戈尔肉块的尸体。</Corpse_HAR_NC_M_c_race_NPC.description>
+  <Corpse_HAR_NC_M_c_race_NPC.label>戈尔肉块尸体</Corpse_HAR_NC_M_c_race_NPC.label>
+  <Corpse_HAR_NC_M_c_race_Summon.description>戈尔肉块的尸体。</Corpse_HAR_NC_M_c_race_Summon.description>
+  <Corpse_HAR_NC_M_c_race_Summon.label>戈尔肉块尸体</Corpse_HAR_NC_M_c_race_Summon.label>
   <Geist_Knife.description>一种放大魅魔幻觉能力的投掷武器，被投掷的刀子刺伤的敌人不仅会减慢运动速度，并且还会导致精神混乱。</Geist_Knife.description>
   <Geist_Knife.label>缚刃「盖斯特」</Geist_Knife.label>
   <Geist_Knife_Projectile.label>缚刃「盖斯特」</Geist_Knife_Projectile.label>
@@ -244,10 +261,10 @@
 
 　她还是一如既往的不见踪影，不过说不定在什么时候还是能够见上一面就是了。
 　不过…到那时候，我们就是敌人了吧。」</HAR_CO_UB_Archotech_a.description>
-  <HAR_CO_UB_Archotech_a.label>预言之书</HAR_CO_UB_Archotech_a.label>
+  <HAR_CO_UB_Archotech_a.label>异象之书</HAR_CO_UB_Archotech_a.label>
   <HAR_CO_UB_Archotech_b.description>蕴含着生命的神圣结晶。
 使用之后，能够让那个存在作为同伴加入。</HAR_CO_UB_Archotech_b.description>
-  <HAR_CO_UB_Archotech_b.label>契约之灵</HAR_CO_UB_Archotech_b.label>
+  <HAR_CO_UB_Archotech_b.label>盟约之灵</HAR_CO_UB_Archotech_b.label>
   <HAR_CO_UB_Bullet_a.label>空之剑</HAR_CO_UB_Bullet_a.label>
   <HAR_CO_UB_Bullet_b.label>灾厄彗星</HAR_CO_UB_Bullet_b.label>
   <HAR_CO_UB_Bullet_c.label>灾厄彗星</HAR_CO_UB_Bullet_c.label>
@@ -546,16 +563,13 @@
 
 每天可以收集25个木材。</HAR_EL_Monster_d.description>
   <HAR_EL_Monster_d.label>索尔</HAR_EL_Monster_d.label>
-  <HAR_EL_Monster_e.description>在人工种族的故乡迦南星人气很高的布娃娃。
-被亚人工业当做广告，以『迦南浮莲子』的名义进行了系列化。
-最早是伊娃莉特为了尚且年幼，对夜晚感到害怕的妹妹们制造的小小朋友。
-她所创造的迦南浮莲子由于是疑似生命的原因，所以不需要吃东西，速度也很快。
-但是由于丝毫没有战斗能力所以千万不要让她进入战场。\n\n\n\n
-『幽灵少女优娃』
-胆子很小，喜欢一个人独处的女孩子。
-心地善良，会在寂静的夜间进行打扫或巡视。
+  <HAR_EL_Monster_e.description>在人工种族的故乡迦南星广受欢迎的布偶，由亚人工业以“迦南伙伴”之名推出系列商品。最初，它是伊娃莉特为害怕夜晚的年幼妹妹们制作的小小伙伴。这些近似生命体的布偶无需进食，行动也很敏捷，但完全没有战斗能力，千万不要让它们踏入战场。
 
-每天可以生产3块巧克力。</HAR_EL_Monster_e.description>
+『幽灵少女悠』
+胆子很小，喜欢独处的女孩。
+她心地善良，会在寂静的夜里负责打扫和巡逻。
+
+每天可以生产 3 块巧克力。</HAR_EL_Monster_e.description>
   <HAR_EL_Monster_e.label>悠</HAR_EL_Monster_e.label>
   <HAR_EL_Monster_f.description>在人工种族的故乡迦南星人气很高的布娃娃。
 被亚人工业当做广告，以『迦南浮莲子』的名义进行了系列化。
@@ -587,13 +601,13 @@
 这是与她一同引导了自己的妹妹们，为迦南带来了光明的神圣之剑。
 如今，此剑正与伊娃莉特的圣体一同，沉眠于教会之底。</HAR_EL_Weapon_a.description>
   <HAR_EL_Weapon_a.label>绝罚之恨</HAR_EL_Weapon_a.label>
-  <HAR_IA_AH_a.description>伊迪安专用的铠甲，不确定是否在造物主时代已经被投入运用。不过由于她们本身就足够坚韧，因此没有装备的必要。</HAR_IA_AH_a.description>
+  <HAR_IA_AH_a.description>伊迪安专用头盔。无法确定它是否曾在造物主时代投入使用；伊迪安本身已经十分坚韧，因此通常没有穿戴它的必要。</HAR_IA_AH_a.description>
   <HAR_IA_AH_a.label>艾提翁头盔 A</HAR_IA_AH_a.label>
-  <HAR_IA_AH_b.description>伊迪安专用的迷之装备，普通的伊迪安无法装备。</HAR_IA_AH_b.description>
+  <HAR_IA_AH_b.description>伊迪安专用的神秘头盔，普通伊迪安无法穿戴。</HAR_IA_AH_b.description>
   <HAR_IA_AH_b.label>艾提翁头盔 B</HAR_IA_AH_b.label>
-  <HAR_IA_Armor_a.description>伊迪安专用的铠甲，不确定是否在造物主时代已经被投入运用。不过由于她们本身就足够坚韧，因此没有装备的必要。</HAR_IA_Armor_a.description>
+  <HAR_IA_Armor_a.description>伊迪安专用护甲。无法确定它是否曾在造物主时代投入使用；伊迪安本身已经十分坚韧，因此通常没有穿戴它的必要。</HAR_IA_Armor_a.description>
   <HAR_IA_Armor_a.label>艾提翁护甲</HAR_IA_Armor_a.label>
-  <HAR_IA_Armor_b.description>伊迪安专用的迷之装备，普通的伊迪安无法装备。</HAR_IA_Armor_b.description>
+  <HAR_IA_Armor_b.description>伊迪安专用的神秘礼装，普通伊迪安无法穿戴。</HAR_IA_Armor_b.description>
   <HAR_IA_Armor_b.label>奥尔芬礼装</HAR_IA_Armor_b.label>
   <HAR_IA_Filth_FireFoam_a.description>伊迪安·泰阿泰德 B型散布的纳米机械充斥着这片领域。进入其中的敌对目标会受伤并大量出血。
 摧毁中央核心，或等待半天后，领域便会自然消失。</HAR_IA_Filth_FireFoam_a.description>
@@ -606,7 +620,7 @@
   <HAR_IA_Item_a.description>机械生命体体内夹杂着的神秘物体。\n似乎拥有作为储存介质的功能，其中已经记录了某些制造数据的样子。</HAR_IA_Item_a.description>
   <HAR_IA_Item_a.label>法则数据胞</HAR_IA_Item_a.label>
   <HAR_IA_Item_b.description>将法则数据胞重新组装后制成的零件。\n是制造机械生命体伊迪安必须的材料。</HAR_IA_Item_b.description>
-  <HAR_IA_Item_b.label>技术遗物</HAR_IA_Item_b.label>
+  <HAR_IA_Item_b.label>工艺遗物</HAR_IA_Item_b.label>
   <HAR_IA_Item_c.description>制造机械生命体伊迪安必须的高性能传感器。\n用于提供五感与能量检测的能力。</HAR_IA_Item_c.description>
   <HAR_IA_Item_c.label>伊迪安传感器</HAR_IA_Item_c.label>
   <HAR_IA_Item_d.description>制造机械生命体伊迪安必须的高性能反应器。\n搭载了这一装置的个体能够完整地发挥出彼岸的能力。</HAR_IA_Item_d.description>
@@ -655,12 +669,12 @@
   <HAR_IA_M_Race_Base.label>自然拟态</HAR_IA_M_Race_Base.label>
   <HAR_IA_M_Race_a.label>自然拟态</HAR_IA_M_Race_a.label>
   <HAR_IA_Things_Mysterion.description>通过研究再现出的创造伊迪安的机器。传说中曾在被造物主失去后引发了灾厄。</HAR_IA_Things_Mysterion.description>
-  <HAR_IA_Things_Mysterion.label>圣礼秘仪</HAR_IA_Things_Mysterion.label>
-  <HAR_IA_tops_a.description>伊迪安专用的装备，对基础性能极高的她们而言服装的重要性并不高，因此只保留了最低限度的穿着。</HAR_IA_tops_a.description>
+  <HAR_IA_Things_Mysterion.label>秘仪机</HAR_IA_Things_Mysterion.label>
+  <HAR_IA_tops_a.description>伊迪安专用礼装。由于她们的基础性能极高，服装并非必需品，因此设计仅保留最低限度的覆盖。</HAR_IA_tops_a.description>
   <HAR_IA_tops_a.label>梅卡涅礼装 A</HAR_IA_tops_a.label>
-  <HAR_IA_tops_b.description>伊迪安专用的装备，对基础性能极高的她们而言服装的重要性并不高，因此只保留了最低限度的穿着。</HAR_IA_tops_b.description>
+  <HAR_IA_tops_b.description>伊迪安专用礼装。由于她们的基础性能极高，服装并非必需品，因此设计仅保留最低限度的覆盖。</HAR_IA_tops_b.description>
   <HAR_IA_tops_b.label>梅卡涅礼装 B</HAR_IA_tops_b.label>
-  <HAR_IA_tops_c.description>伊迪安专用的装备，对基础性能极高的她们而言服装的重要性并不高，因此只保留了最低限度的穿着。</HAR_IA_tops_c.description>
+  <HAR_IA_tops_c.description>伊迪安专用礼装。由于她们的基础性能极高，服装并非必需品，因此设计仅保留最低限度的覆盖。</HAR_IA_tops_c.description>
   <HAR_IA_tops_c.label>梅卡涅礼装 C</HAR_IA_tops_c.label>
   <HAR_IH_AO_a.description>幽灵姬穿的内衣，比原来魅魔族的内衣更露骨。</HAR_IH_AO_a.description>
   <HAR_IH_AO_a.label>内衣A款（幽灵姬）</HAR_IH_AO_a.label>
@@ -886,10 +900,40 @@
   <HAR_NC_Item_a.label>血色蜂蜜酒</HAR_NC_Item_a.label>
   <HAR_NC_M_a_race_Base.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_a_race_Base.description>
   <HAR_NC_M_a_race_Base.label>戈尔诺伊德</HAR_NC_M_a_race_Base.label>
+  <HAR_NC_M_a_race_NPC.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_a_race_NPC.description>
+  <HAR_NC_M_a_race_NPC.label>戈尔诺伊德</HAR_NC_M_a_race_NPC.label>
+  <HAR_NC_M_a_race_NPC.tools.0.label>左爪</HAR_NC_M_a_race_NPC.tools.0.label>
+  <HAR_NC_M_a_race_NPC.tools.1.label>右爪</HAR_NC_M_a_race_NPC.tools.1.label>
+  <HAR_NC_M_a_race_NPC.tools.2.label>利齿</HAR_NC_M_a_race_NPC.tools.2.label>
+  <HAR_NC_M_a_race_Summon.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_a_race_Summon.description>
+  <HAR_NC_M_a_race_Summon.label>戈尔诺伊德</HAR_NC_M_a_race_Summon.label>
+  <HAR_NC_M_a_race_Summon.tools.0.label>左爪</HAR_NC_M_a_race_Summon.tools.0.label>
+  <HAR_NC_M_a_race_Summon.tools.1.label>右爪</HAR_NC_M_a_race_Summon.tools.1.label>
+  <HAR_NC_M_a_race_Summon.tools.2.label>利齿</HAR_NC_M_a_race_Summon.tools.2.label>
   <HAR_NC_M_b_race_Base.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_b_race_Base.description>
   <HAR_NC_M_b_race_Base.label>戈尔种</HAR_NC_M_b_race_Base.label>
+  <HAR_NC_M_b_race_NPC.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_b_race_NPC.description>
+  <HAR_NC_M_b_race_NPC.label>戈尔种</HAR_NC_M_b_race_NPC.label>
+  <HAR_NC_M_b_race_NPC.tools.0.label>左爪</HAR_NC_M_b_race_NPC.tools.0.label>
+  <HAR_NC_M_b_race_NPC.tools.1.label>右爪</HAR_NC_M_b_race_NPC.tools.1.label>
+  <HAR_NC_M_b_race_NPC.tools.2.label>利齿</HAR_NC_M_b_race_NPC.tools.2.label>
+  <HAR_NC_M_b_race_Summon.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_b_race_Summon.description>
+  <HAR_NC_M_b_race_Summon.label>戈尔种</HAR_NC_M_b_race_Summon.label>
+  <HAR_NC_M_b_race_Summon.tools.0.label>左爪</HAR_NC_M_b_race_Summon.tools.0.label>
+  <HAR_NC_M_b_race_Summon.tools.1.label>右爪</HAR_NC_M_b_race_Summon.tools.1.label>
+  <HAR_NC_M_b_race_Summon.tools.2.label>利齿</HAR_NC_M_b_race_Summon.tools.2.label>
   <HAR_NC_M_c_race_Base.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_c_race_Base.description>
   <HAR_NC_M_c_race_Base.label>戈尔肉块</HAR_NC_M_c_race_Base.label>
+  <HAR_NC_M_c_race_NPC.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_c_race_NPC.description>
+  <HAR_NC_M_c_race_NPC.label>戈尔肉块</HAR_NC_M_c_race_NPC.label>
+  <HAR_NC_M_c_race_NPC.tools.0.label>左爪</HAR_NC_M_c_race_NPC.tools.0.label>
+  <HAR_NC_M_c_race_NPC.tools.1.label>右爪</HAR_NC_M_c_race_NPC.tools.1.label>
+  <HAR_NC_M_c_race_NPC.tools.2.label>利齿</HAR_NC_M_c_race_NPC.tools.2.label>
+  <HAR_NC_M_c_race_Summon.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_c_race_Summon.description>
+  <HAR_NC_M_c_race_Summon.label>戈尔肉块</HAR_NC_M_c_race_Summon.label>
+  <HAR_NC_M_c_race_Summon.tools.0.label>左爪</HAR_NC_M_c_race_Summon.tools.0.label>
+  <HAR_NC_M_c_race_Summon.tools.1.label>右爪</HAR_NC_M_c_race_Summon.tools.1.label>
+  <HAR_NC_M_c_race_Summon.tools.2.label>利齿</HAR_NC_M_c_race_Summon.tools.2.label>
   <HAR_NC_M_y_race_Base.description>牧菌妖姬·无人（界外之血）的眷属，由生物尸体重新构成。它理应没有生命活动，目前仍不清楚究竟如何行动。
 
 体型小、力量弱，却行动迅速并会成群出现。</HAR_NC_M_y_race_Base.description>
@@ -924,15 +968,15 @@
   <HAR_NC_Tops_c.description>牧菌妖姬的装束，能够让她们灵活自如的行动。看起来有点像泳装。</HAR_NC_Tops_c.description>
   <HAR_NC_Tops_c.label>暗夜装C（牧菌妖姬）</HAR_NC_Tops_c.label>
   <HAR_NC_Tops_z.description>牧菌妖姬·无人（界外之血）专用的服装。\n以她们的身体技能，就算是和内衣无异的服装也足以保障她们的生存。</HAR_NC_Tops_z.description>
-  <HAR_NC_Tops_z.label>异端服装</HAR_NC_Tops_z.label>
+  <HAR_NC_Tops_z.label>异端礼装</HAR_NC_Tops_z.label>
   <HAR_NM_AH_f.description>魅魔专用的头部盔甲，比魅魔的巫咒套装性能更高的装备。据说原是造物主还健在时代使用的。</HAR_NM_AH_f.description>
   <HAR_NM_AH_f.label>心灵头盔（魅魔）</HAR_NM_AH_f.label>
   <HAR_NM_AH_g.description>属于魅魔教会的魅魔专属的服装，乍一看像是修女头巾，实际上是强化套装，耐久性比一般的护甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_AH_g.description>
   <HAR_NM_AH_g.label>修女头巾（魅魔）</HAR_NM_AH_g.label>
   <HAR_NM_AH_h.description>让人联想起魅魔·魔女系的帽子，不知道为什么要做成这样的形状。</HAR_NM_AH_h.description>
   <HAR_NM_AH_h.label>魔女之帽（魅魔）</HAR_NM_AH_h.label>
-  <HAR_NM_AH_r.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_AH_r.description>
-  <HAR_NM_AH_r.label>ETHOS头饰型增幅器（魅魔）</HAR_NM_AH_r.label>
+  <HAR_NM_AH_r.description>人工种族故乡卡兰德星开发的最新锐装备，被边境行星保全机构 ETHOS 采用为制式战斗装备。</HAR_NM_AH_r.description>
+  <HAR_NM_AH_r.label>ETHOS 头部增幅器（魅魔）</HAR_NM_AH_r.label>
   <HAR_NM_AH_x.description>魅魔·神秘系的专用帽子。为了能经受长途旅行从而做得经久耐用。</HAR_NM_AH_x.description>
   <HAR_NM_AH_x.label>旅者之帽（魅魔）</HAR_NM_AH_x.label>
   <HAR_NM_A_Belt_a.description>属于魅魔教会的魅魔专属的特殊盾牌，被编入的系统使用着造物主的遗产。\n这个机械再现了魅魔拥有的精神能力的一部分，具有自动感知敌人攻击并防御的功能。\n拥有极其坚固的防御性能的同时，却也有者大幅减少使用者灵活性的缺点。</HAR_NM_A_Belt_a.description>
@@ -942,16 +986,16 @@
   <HAR_NM_A_a.description>魅魔专用的装甲，比魅魔的巫咒套装性能更高的装备。据说原是造物主还健在时代使用的。</HAR_NM_A_a.description>
   <HAR_NM_A_a.label>心灵装甲（魅魔）</HAR_NM_A_a.label>
   <HAR_NM_A_b.description>属于魅魔教会的魅魔专属的服装，乍一看像是修女服装，实际上是强化套装，耐久性比一般的装甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_A_b.description>
-  <HAR_NM_A_b.label>修女服装A款（魅魔）</HAR_NM_A_b.label>
+  <HAR_NM_A_b.label>修女礼装 A（魅魔）</HAR_NM_A_b.label>
   <HAR_NM_A_c.description>属于魅魔教会的魅魔专属的服装，乍一看像是修女服装，实际上是强化套装，耐久性比一般的装甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_A_c.description>
-  <HAR_NM_A_c.label>修女服装B款（魅魔）</HAR_NM_A_c.label>
+  <HAR_NM_A_c.label>修女礼装 B（魅魔）</HAR_NM_A_c.label>
   <HAR_NM_A_d.description>属于魅魔教会的魅魔专属的服装，乍一看像是修女服装，实际上是强化套装，耐久性比一般的装甲差，但是由于精神力作用，肌肉力量强化且移动速度提高。</HAR_NM_A_d.description>
-  <HAR_NM_A_d.label>修女服装C款（魅魔）</HAR_NM_A_d.label>
+  <HAR_NM_A_d.label>修女礼装 C（魅魔）</HAR_NM_A_d.label>
   <HAR_NM_Archotech_a.description>封印了被人工种族们称为“棺之君主”的魔女之棺。\n被认为是罪不可赦的大罪人，据说能自行使用独特的法术。\n如果解开封印的话可以解放她并且让她加入殖民地。\n\n作为魔女，她会对殖民地的人际关系产生很大的影响。</HAR_NM_Archotech_a.description>
   <HAR_NM_Archotech_a.label>魔女之棺</HAR_NM_Archotech_a.label>
-  <HAR_NM_Archotech_b.description>可以向ETHOS邀请派遣入驻人员的通信机。\n使用之后，一名ETHOS改良系魅魔作为伙伴加入殖民地。</HAR_NM_Archotech_b.description>
+  <HAR_NM_Archotech_b.description>用于向 ETHOS 请求派遣驻地人员的通信装置。使用后，一名隶属 ETHOS 的魅魔·改良系成员会加入殖民地。</HAR_NM_Archotech_b.description>
   <HAR_NM_BDress.description>魅魔的贵族身上穿着的暴露度高的深邃的黑色礼服装，因为是贵族用，所以性能方面没有被考虑。</HAR_NM_BDress.description>
-  <HAR_NM_BDress.label>黑夜晚礼服装（魅魔）</HAR_NM_BDress.label>
+  <HAR_NM_BDress.label>黑夜晚礼服（魅魔）</HAR_NM_BDress.label>
   <HAR_NM_Blouse.description>在意外表的魅魔故意使自己看起来可爱而使用的衬衫，性价比很好的同时又很百搭，因此各种场合都很适用。</HAR_NM_Blouse.description>
   <HAR_NM_Blouse.label>衬衫（魅魔）</HAR_NM_Blouse.label>
   <HAR_NM_BroadshieldProjector.description>仅对单纯子弹有效的小范围的低角护盾。与以往的护盾背包相比，范围很小，且具有3倍的展开时间。\n缺陷是防护范围小，所以无法防御爆炸伤害。</HAR_NM_BroadshieldProjector.description>
@@ -962,7 +1006,7 @@
   <HAR_NM_Cts.description>佩戴起来没有那么张扬的低调头饰。</HAR_NM_Cts.description>
   <HAR_NM_Cts.label>发箍（魅魔）</HAR_NM_Cts.label>
   <HAR_NM_DLArmor.description>魅魔的战斗用服装，外表上看起来暴露度相当高，而且装甲好像很低，但是可以产生一层薄薄的保护屏障保护穿戴者，防御力比看上去高多了。</HAR_NM_DLArmor.description>
-  <HAR_NM_DLArmor.label>轻型战斗服装（魅魔）</HAR_NM_DLArmor.label>
+  <HAR_NM_DLArmor.label>轻型战斗服（魅魔）</HAR_NM_DLArmor.label>
   <HAR_NM_Filth_FireFoam_a.description>产生超低温区域的力场。\n破坏中央的核心或半天后自然消失。</HAR_NM_Filth_FireFoam_a.description>
   <HAR_NM_Filth_FireFoam_a.label>极寒力场（扩散）</HAR_NM_Filth_FireFoam_a.label>
   <HAR_NM_HArmor.description>魅魔的战斗用头部装备，由于特殊的防护膜拥有不属于外表的防御力。</HAR_NM_HArmor.description>
@@ -974,14 +1018,14 @@
   <HAR_NM_KArmor.description>曾经研究魅魔的一派为她们制作的专用装备，防御力比战斗服装弱但取而代之的是以各感觉被强化，能够更敏捷的行动。</HAR_NM_KArmor.description>
   <HAR_NM_KArmor.label>咒令装（魅魔）</HAR_NM_KArmor.label>
   <HAR_NM_Kimono.description>某个派系为魅魔定制的专用的传统的服装，动作会变得迟钝但是拥有独特的气质，可以期待外交能力的提高。</HAR_NM_Kimono.description>
-  <HAR_NM_Kimono.label>和服装（魅魔）</HAR_NM_Kimono.label>
+  <HAR_NM_Kimono.label>和服（魅魔）</HAR_NM_Kimono.label>
   <HAR_NM_MCt.description>魅魔成为女仆后而穿戴的女仆发箍，不知为何工作效率会提高。</HAR_NM_MCt.description>
   <HAR_NM_MCt.label>女仆发箍（魅魔）</HAR_NM_MCt.label>
   <HAR_NM_MHK.description>色彩丰富的魅魔头饰。</HAR_NM_MHK.description>
   <HAR_NM_MHK.label>花饰（魅魔）</HAR_NM_MHK.label>
   <HAR_NM_MRbn.description>增加可爱感的蝴蝶结丝带，强调自己很可爱时使用。</HAR_NM_MRbn.description>
   <HAR_NM_MRbn.label>丝带（魅魔）</HAR_NM_MRbn.label>
-  <HAR_NM_M_KUT_Base.description>它是魅魔的后裔，是魅魔对其创造者信仰的体现。 \n\n与普通魅魔召唤的随从相比，攻击性稍差，但耐久度极佳，可以维持三天的存在。 \n而且，或许是因为对机械生命体怀有仇恨，所以它的攻击也具有使机器短路的能力。</HAR_NM_M_KUT_Base.description>
+  <HAR_NM_M_KUT_Base.description>魅魔将对创造者的信仰具现化后形成的眷属。与普通魅魔召唤物相比，它的攻击性较低，但续航能力出色，可以维持三天。由于其中也寄宿着对机械生命体的憎恨，它的攻击还会令机械装置短路。</HAR_NM_M_KUT_Base.description>
   <HAR_NM_M_KZU_Base.description>被超越人类认知的存在“拯救”后，这具躯体已经失去肉身与灵魂，再也无法恢复原状。 \n它只会茫然地重复残留在躯体中的条件反射。 \n然而，杀死或伤害它们已经变得极其困难，也许是因为它们不再被归类为生物。 \n\n一天后，它便无法继续维持这具无魂躯体，最终自行崩解。</HAR_NM_M_KZU_Base.description>
   <HAR_NM_M_XXX.description>魅魔·魔女系从宇宙深渊召来的超存在。其真名会令没有资质者在记忆时产生致命认知错位并引发精神崩溃，因此被隐去。
 
@@ -989,11 +1033,11 @@
 
 魅魔·魔女系通常不会向召唤物传递敌我识别，干涉会无差别波及双方；同样能够与超存在交流的伪神族与库莉菈王族则可以承受这种影响。她们仅把这种足以酿成大灾难的召唤视为“收拾玩具”，把超存在当成方便的杀戮兵器。女巫过去如此堆起尸山，今后也会继续随心所欲。</HAR_NM_M_XXX.description>
   <HAR_NM_Maid.description>魅魔作为曾经统治者随从时所配置的通用女仆服装，因为是女仆的缘故工作效率也比平时提高。</HAR_NM_Maid.description>
-  <HAR_NM_Maid.label>通用女仆服装（魅魔）</HAR_NM_Maid.label>
+  <HAR_NM_Maid.label>通用女仆装（魅魔）</HAR_NM_Maid.label>
   <HAR_NM_Miko.description>某个派系为魅魔定制的专用的传统的服装，虽然活动不便，但对温度变化的抵抗力强，给人一种干净的印象，因此可以期待社交能力的提高。</HAR_NM_Miko.description>
   <HAR_NM_Miko.label>巫女服（人鱼姬）</HAR_NM_Miko.label>
   <HAR_NM_NurseS.description>从事医疗工作的女性所穿的服装，似乎能唤醒内心深处博爱的精神。战斗相关的能力减弱，但是医疗相关的能力提高。</HAR_NM_NurseS.description>
-  <HAR_NM_NurseS.label>护士服装（魅魔）</HAR_NM_NurseS.label>
+  <HAR_NM_NurseS.label>护士服（魅魔）</HAR_NM_NurseS.label>
   <HAR_NM_Os_P.description>魅魔们很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_P.description>
   <HAR_NM_Os_P.label>内衣A款（魅魔）</HAR_NM_Os_P.label>
   <HAR_NM_Os_Pb.description>魅魔们很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_Pb.description>
@@ -1005,22 +1049,22 @@
   <HAR_NM_Os_Pe.description>魅魔们很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_Pe.description>
   <HAR_NM_Os_Pe.label>内衣E款（魅魔）</HAR_NM_Os_Pe.label>
   <HAR_NM_Os_Pf.description>魅魔·魔女系很喜欢穿的内衣，特点是布料遮盖面积少，颜色也很艳丽.</HAR_NM_Os_Pf.description>
-  <HAR_NM_Os_Pf.label>内衣·魔女款式（魅魔）</HAR_NM_Os_Pf.label>
-  <HAR_NM_Os_Pg.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_Os_Pg.description>
-  <HAR_NM_Os_Pg.label>内衣·ETHOS款式（魅魔）</HAR_NM_Os_Pg.label>
+  <HAR_NM_Os_Pf.label>魔女内衣（魅魔）</HAR_NM_Os_Pf.label>
+  <HAR_NM_Os_Pg.description>人工种族故乡卡兰德星开发的最新锐装备，被边境行星保全机构 ETHOS 采用为制式战斗装备。</HAR_NM_Os_Pg.description>
+  <HAR_NM_Os_Pg.label>ETHOS 内衣（魅魔）</HAR_NM_Os_Pg.label>
   <HAR_NM_Proj_GrenadeFrag.label>召唤的手雷</HAR_NM_Proj_GrenadeFrag.label>
   <HAR_NM_RiderS.description>尽量去掉多余装饰的服装，防御力和温度耐受性都很低，但也因此很方便身体活动。据说原本是摩托车手赛车时穿的服装。</HAR_NM_RiderS.description>
-  <HAR_NM_RiderS.label>赛车服装（魅魔）</HAR_NM_RiderS.label>
+  <HAR_NM_RiderS.label>赛车服（魅魔）</HAR_NM_RiderS.label>
   <HAR_NM_SShirts.description>魅魔专用的带袖衬衫，比人类穿着的同等带袖衬衫性能更高。</HAR_NM_SShirts.description>
   <HAR_NM_SShirts.label>带袖衬衫（魅魔）</HAR_NM_SShirts.label>
   <HAR_NM_Sc_Uniform.description>在文明水平较高的星球上活动时，魅魔所穿的学生服装，加上她们的外貌，在学院里很受欢迎。因为有了学生气，学习速度也提高了。</HAR_NM_Sc_Uniform.description>
-  <HAR_NM_Sc_Uniform.label>学生服装（魅魔）</HAR_NM_Sc_Uniform.label>
+  <HAR_NM_Sc_Uniform.label>学生制服（魅魔）</HAR_NM_Sc_Uniform.label>
   <HAR_NM_Sh_BKo.description>以魅魔独特的能量作为能源而具有强力的伤害减轻效果的屏障发生装置，战斗非常有用，但是缺点是非常容易坏掉且温度耐性完全没有。</HAR_NM_Sh_BKo.description>
   <HAR_NM_Sh_BKo.label>外套屏障（魅魔）</HAR_NM_Sh_BKo.label>
   <HAR_NM_Sh_Cry.description>魅魔·魔女系爱用的谜之水晶。流淌环绕着有像是水一样的神秘液体，可以用来抵挡敌对者的攻击。</HAR_NM_Sh_Cry.description>
   <HAR_NM_Sh_Cry.label>魔女水晶（魅魔）</HAR_NM_Sh_Cry.label>
   <HAR_NM_Sh_Ho.description>柔弱的魅魔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_Ho.description>
-  <HAR_NM_Sh_Ho.label>羽织服装（魅魔）</HAR_NM_Sh_Ho.label>
+  <HAR_NM_Sh_Ho.label>羽织（魅魔）</HAR_NM_Sh_Ho.label>
   <HAR_NM_Sh_K.description>柔弱的魅魔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_K.description>
   <HAR_NM_Sh_K.label>披衣（魅魔）</HAR_NM_Sh_K.label>
   <HAR_NM_Sh_Kb.description>柔弱的魅魔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_Kb.description>
@@ -1033,8 +1077,8 @@
   <HAR_NM_Sh_Ke.label>外套（魅魔）</HAR_NM_Sh_Ke.label>
   <HAR_NM_Sh_SKo.description>柔弱的魅魔们披着防刃防弹。虽然服装本身强度相当大，但因为穿戴者太弱，所以没有什么实感。</HAR_NM_Sh_SKo.description>
   <HAR_NM_Sh_SKo.label>短披风（魅魔）</HAR_NM_Sh_SKo.label>
-  <HAR_NM_Sh_r.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_Sh_r.description>
-  <HAR_NM_Sh_r.label>ETHOS外附型增幅器（魅魔）</HAR_NM_Sh_r.label>
+  <HAR_NM_Sh_r.description>人工种族故乡卡兰德星开发的最新锐装备，被边境行星保全机构 ETHOS 采用为制式战斗装备。</HAR_NM_Sh_r.description>
+  <HAR_NM_Sh_r.label>ETHOS 外置增幅器（魅魔）</HAR_NM_Sh_r.label>
   <HAR_NM_Sh_x.description>魅魔·神秘系的专用外套。为了能经受长途旅行从而做得经久耐用。</HAR_NM_Sh_x.description>
   <HAR_NM_Sh_x.label>旅者外套（魅魔）</HAR_NM_Sh_x.label>
   <HAR_NM_TES_a.description>人工种族的造物主曾经创造的生命体。\n搬运能力很强，在卡兰德星经常被珍视。\n因为是漂浮着移动的，所以移动速度与看起来巨大的身体并不匹配，速度很快。\n可能是因为在搬运能力上进行了特化，攻击能力相当低。</HAR_NM_TES_a.description>
@@ -1048,19 +1092,19 @@
   <HAR_NM_VanometricPowerCell.description>人工种族神子伪神族·杜娜米丝开发的发电机。它利用持续膨胀的宇宙引力发电，无需燃料。对殖民地运营十分有用，但市场价值很高，需要留意。</HAR_NM_VanometricPowerCell.description>
   <HAR_NM_VanometricPowerCell.label>伪神族发电机</HAR_NM_VanometricPowerCell.label>
   <HAR_NM_WDress.description>魅魔的贵族身上穿着的暴露度高的圣洁的纯白礼服装，因为是贵族用，所以性能方面没有被考虑。</HAR_NM_WDress.description>
-  <HAR_NM_WDress.label>白夜晚礼服装（魅魔）</HAR_NM_WDress.label>
+  <HAR_NM_WDress.label>白夜晚礼服（魅魔）</HAR_NM_WDress.label>
   <HAR_NM_Weapon_Gun_a.description>人工种族起源的故乡卡兰德星所使用的步枪。\n有极高的穿透性和稳定的输出火力。\n缺陷是它的制作难度和成本。\n\n卡兰德星步枪的连射、射程都极其出色，无论在哪个距离都有很高的命中精度。\n附带着刺剑，紧急情况下也可以拔出进行近战。</HAR_NM_Weapon_Gun_a.description>
   <HAR_NM_Weapon_Gun_a.label>卡兰德星步枪</HAR_NM_Weapon_Gun_a.label>
   <HAR_NM_Weapon_Gun_b.description>人工种族起源的故乡卡兰德星所使用的霰弹枪。\n有极高的穿透性和稳定的输出火力。\n缺陷是它的制作难度和成本。\n\n虽然射程很短，但其威力甚至能够轻易粉碎重型机械族的坚实防护</HAR_NM_Weapon_Gun_b.description>
   <HAR_NM_Weapon_Gun_b.label>卡兰德星霰弹枪</HAR_NM_Weapon_Gun_b.label>
   <HAR_NM_Weapon_Sword_a.description>人工种族起源的故乡卡兰德星所使用的剑。\n有极高的穿透性和轻便的操作性能。\n比起攻击更重视重心的维持，具有提高接近目标敌人所需要的能力的功能。</HAR_NM_Weapon_Sword_a.description>
   <HAR_NM_Weapon_Sword_a.label>卡兰德星剑</HAR_NM_Weapon_Sword_a.label>
-  <HAR_NM_Wear_r.description>人工种族起源的故乡卡兰德星开发的最新锐装备。\n由「边境行星保全机构-ETHOS-」作为制式战斗装备使用。</HAR_NM_Wear_r.description>
-  <HAR_NM_Wear_r.label>ETHOS之衣（魅魔）</HAR_NM_Wear_r.label>
+  <HAR_NM_Wear_r.description>人工种族故乡卡兰德星开发的最新锐装备，被边境行星保全机构 ETHOS 采用为制式战斗装备。</HAR_NM_Wear_r.description>
+  <HAR_NM_Wear_r.label>ETHOS 制服（魅魔）</HAR_NM_Wear_r.label>
   <HAR_NM_Wear_x.description>魅魔·神秘系的专用服装。为了能经受长途旅行从而做得经久耐用。</HAR_NM_Wear_x.description>
-  <HAR_NM_Wear_x.label>旅者之衣（魅魔）</HAR_NM_Wear_x.label>
+  <HAR_NM_Wear_x.label>旅者礼装（魅魔）</HAR_NM_Wear_x.label>
   <HAR_NM_Wear_y.description>魅魔·魔女系专用的服装，乍一看好像非常薄感觉跟没穿一样，但是拥有比外观夸张得多的耐久和防御力。</HAR_NM_Wear_y.description>
-  <HAR_NM_Wear_y.label>魔女之衣（魅魔）</HAR_NM_Wear_y.label>
+  <HAR_NM_Wear_y.label>魔女礼装（魅魔）</HAR_NM_Wear_y.label>
   <HAR_OT_Apparel_H_a.description>奥特姆们喜欢穿着的头部装备。</HAR_OT_Apparel_H_a.description>
   <HAR_OT_Apparel_H_a.label>极恶帽子(奥特姆)</HAR_OT_Apparel_H_a.label>
   <HAR_OT_Apparel_H_b.description>奥特姆们喜欢穿着的头部装备。</HAR_OT_Apparel_H_b.description>
@@ -1166,15 +1210,45 @@
 
 受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_Base.description>
   <HAR_QL_M_Race_Base.label>密特拉玛阿哈</HAR_QL_M_Race_Base.label>
+  <HAR_QL_M_Race_NPC_a.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
+
+受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_a.description>
   <HAR_QL_M_Race_NPC_a.label>宝冠天使（夜魔）</HAR_QL_M_Race_NPC_a.label>
+  <HAR_QL_M_Race_NPC_b.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
+
+受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_b.description>
   <HAR_QL_M_Race_NPC_b.label>宝冠天使（人鱼）</HAR_QL_M_Race_NPC_b.label>
+  <HAR_QL_M_Race_NPC_c.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
+
+受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_c.description>
   <HAR_QL_M_Race_NPC_c.label>宝冠天使（亚人）</HAR_QL_M_Race_NPC_c.label>
+  <HAR_QL_M_Race_NPC_d.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
+
+受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_d.description>
   <HAR_QL_M_Race_NPC_d.label>宝冠天使（异形）</HAR_QL_M_Race_NPC_d.label>
+  <HAR_QL_M_Race_NPC_e.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
+
+受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_e.description>
   <HAR_QL_M_Race_NPC_e.label>宝冠天使（龙人）</HAR_QL_M_Race_NPC_e.label>
+  <HAR_QL_M_Race_a.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
+
+受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_a.description>
   <HAR_QL_M_Race_a.label>宝冠天使（夜魔）</HAR_QL_M_Race_a.label>
+  <HAR_QL_M_Race_b.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
+
+受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_b.description>
   <HAR_QL_M_Race_b.label>宝冠天使（人鱼）</HAR_QL_M_Race_b.label>
+  <HAR_QL_M_Race_c.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
+
+受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_c.description>
   <HAR_QL_M_Race_c.label>宝冠天使（亚人）</HAR_QL_M_Race_c.label>
+  <HAR_QL_M_Race_d.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
+
+受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_d.description>
   <HAR_QL_M_Race_d.label>宝冠天使（异形）</HAR_QL_M_Race_d.label>
+  <HAR_QL_M_Race_e.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
+
+受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_e.description>
   <HAR_QL_M_Race_e.label>宝冠天使（龙人）</HAR_QL_M_Race_e.label>
   <HAR_QL_O_a.description>库莉菈们所穿着的套装，尽管面料很薄，但其性能至高足以使穿着者在极地自由活动。</HAR_QL_O_a.description>
   <HAR_QL_O_a.label>言语礼装 A</HAR_QL_O_a.label>
@@ -1252,7 +1326,7 @@
   <HAR_SK_AT_b.description>亚人兽娘工作时穿的装束，因为还内置了工作用小道具，所以普通工作速度会略有提升。</HAR_SK_AT_b.description>
   <HAR_SK_AT_b.label>工作装束（亚人兽娘）</HAR_SK_AT_b.label>
   <HAR_SK_AT_c.description>亚人兽娘们穿的居家服装，舍去了繁琐的装饰，使行动更为方便。</HAR_SK_AT_c.description>
-  <HAR_SK_AT_c.label>居家服装（亚人兽娘）</HAR_SK_AT_c.label>
+  <HAR_SK_AT_c.label>居家服（亚人兽娘）</HAR_SK_AT_c.label>
   <HAR_SK_AT_d.description>亚人兽娘们穿的小镇女性装束，虽然朴素但也平添几分可爱。</HAR_SK_AT_d.description>
   <HAR_SK_AT_d.label>小镇女性装束（亚人兽娘）</HAR_SK_AT_d.label>
   <HAR_SK_AT_e.description>亚人兽娘们穿的侍者装束，露出度适中且强调功能性的服装。</HAR_SK_AT_e.description>
@@ -1340,11 +1414,11 @@
   <HAR_SL_Shell_c.description>飞蛾姬的专用斗篷，为了不降低毛发的质量而穿戴。</HAR_SL_Shell_c.description>
   <HAR_SL_Shell_c.label>飞蛾外套</HAR_SL_Shell_c.label>
   <HAR_SL_Tops_a.description>飞蛾姬专用的轻便服装，因为无法战斗，所以耐久很低，不要对它的防御性能抱有期待。</HAR_SL_Tops_a.description>
-  <HAR_SL_Tops_a.label>飞蛾服装A</HAR_SL_Tops_a.label>
+  <HAR_SL_Tops_a.label>飞蛾姬礼装 A</HAR_SL_Tops_a.label>
   <HAR_SL_Tops_b.description>飞蛾姬专用的轻便服装，因为无法战斗，所以耐久很低，不要对它的防御性能抱有期待。</HAR_SL_Tops_b.description>
-  <HAR_SL_Tops_b.label>飞蛾服装B</HAR_SL_Tops_b.label>
+  <HAR_SL_Tops_b.label>飞蛾姬礼装 B</HAR_SL_Tops_b.label>
   <HAR_SL_Tops_c.description>飞蛾姬专用的轻便服装，因为无法战斗，所以耐久很低，不要对它的防御性能抱有期待。</HAR_SL_Tops_c.description>
-  <HAR_SL_Tops_c.label>飞蛾服装C</HAR_SL_Tops_c.label>
+  <HAR_SL_Tops_c.label>飞蛾姬礼装 C</HAR_SL_Tops_c.label>
   <HAR_SL_Wool.description>『告诉因敏感肌而烦恼的你一个好消息\n　飞蛾姬的天然纤维能为你带来更舒适的生活♪』\n\n亚人工业制造的闪闪发光的高级纤维，由飞蛾姬定期产出，有着坚韧且不易燃的特性。\n因为与人体皮肤的构造相近，所以不会损伤皮肤；同时还有抗菌作用，用在沙发之类的家具上时会显着提升舒适度。\n而缺点的话，因为处理加工其需要高度的技术，所以会花费你大量的时间。</HAR_SL_Wool.description>
   <HAR_SL_Wool.label>单纤维长丝</HAR_SL_Wool.label>
   <HAR_XO_AH_a.description>人鱼姬的皇冠头饰，身为战斗狂的她们也会想要保持美丽的姿态。</HAR_XO_AH_a.description>
@@ -1382,11 +1456,11 @@
   <HAR_XO_AS_c.description>为了快速换弹而集中放置弹药的腰带，毫无防御性，但能缩短射击间隔、提升射击精度。</HAR_XO_AS_c.description>
   <HAR_XO_AS_c.label>弹药带（人鱼姬）</HAR_XO_AS_c.label>
   <HAR_XO_AT_a.description>人鱼姬穿的特殊构造的服装，能从中看出设计者为了不让人鱼姬们闷热而付出的良苦用心。</HAR_XO_AT_a.description>
-  <HAR_XO_AT_a.label>异度服装A（人鱼姬）</HAR_XO_AT_a.label>
+  <HAR_XO_AT_a.label>异度礼装 A（人鱼姬）</HAR_XO_AT_a.label>
   <HAR_XO_AT_b.description>人鱼姬穿的特殊构造的服装，能从中看出设计者为了不让人鱼姬们闷热而付出的良苦用心。</HAR_XO_AT_b.description>
-  <HAR_XO_AT_b.label>异度服装B（人鱼姬）</HAR_XO_AT_b.label>
+  <HAR_XO_AT_b.label>异度礼装 B（人鱼姬）</HAR_XO_AT_b.label>
   <HAR_XO_AT_c.description>人鱼姬穿的特殊构造的服装，能从中看出设计者为了不让人鱼姬们闷热而付出的良苦用心。</HAR_XO_AT_c.description>
-  <HAR_XO_AT_c.label>异度服装C（人鱼姬）</HAR_XO_AT_c.label>
+  <HAR_XO_AT_c.label>异度礼装 C（人鱼姬）</HAR_XO_AT_c.label>
   <HAR_XO_AT_d.description>人鱼姬穿的女仆装，正儿八经的有在工作，所以稍微恶作剧一下会很可爱。</HAR_XO_AT_d.description>
   <HAR_XO_AT_d.label>女仆装（人鱼姬）</HAR_XO_AT_d.label>
   <HAR_XO_AT_e.description>为人鱼姬定制的一种传统服装。虽然有些难以移动，但因为其寒暑皆可穿、干净清爽的印象，能有效提高社交力。</HAR_XO_AT_e.description>
@@ -1454,25 +1528,37 @@
   <Larva_SKnife.description>一种放大魅魔幻觉能力的射击武器，由缚刃「盖斯特」强化改造而来的高性能射击武器，使用诅咒的剑刃飞向目标，其精确度足以命中远距离对手。</Larva_SKnife.description>
   <Larva_SKnife.label>凭剑「拉尔夫」</Larva_SKnife.label>
   <Larva_SKnife_Projectile.label>凭剑「拉尔夫」</Larva_SKnife_Projectile.label>
+  <Meat_HAR_NC_M_a_race_NPC.description>从戈尔诺伊德身上取得的肉。</Meat_HAR_NC_M_a_race_NPC.description>
+  <Meat_HAR_NC_M_a_race_NPC.label>戈尔诺伊德肉</Meat_HAR_NC_M_a_race_NPC.label>
+  <Meat_HAR_NC_M_a_race_Summon.description>从戈尔诺伊德身上取得的肉。</Meat_HAR_NC_M_a_race_Summon.description>
+  <Meat_HAR_NC_M_a_race_Summon.label>戈尔诺伊德肉</Meat_HAR_NC_M_a_race_Summon.label>
+  <Meat_HAR_NC_M_b_race_NPC.description>从戈尔种身上取得的肉。</Meat_HAR_NC_M_b_race_NPC.description>
+  <Meat_HAR_NC_M_b_race_NPC.label>戈尔种肉</Meat_HAR_NC_M_b_race_NPC.label>
+  <Meat_HAR_NC_M_b_race_Summon.description>从戈尔种身上取得的肉。</Meat_HAR_NC_M_b_race_Summon.description>
+  <Meat_HAR_NC_M_b_race_Summon.label>戈尔种肉</Meat_HAR_NC_M_b_race_Summon.label>
+  <Meat_HAR_NC_M_c_race_NPC.description>从戈尔肉块身上取得的肉。</Meat_HAR_NC_M_c_race_NPC.description>
+  <Meat_HAR_NC_M_c_race_NPC.label>戈尔肉块</Meat_HAR_NC_M_c_race_NPC.label>
+  <Meat_HAR_NC_M_c_race_Summon.description>从戈尔肉块身上取得的肉。</Meat_HAR_NC_M_c_race_Summon.description>
+  <Meat_HAR_NC_M_c_race_Summon.label>戈尔肉块</Meat_HAR_NC_M_c_race_Summon.label>
   <MeleeWeapon_Trident_XO.description>人鱼姬们喜欢用的三叉戟，也能用于狩猎和捕鱼。普通人难以挥舞这种巨大的兵器，但其杀伤力毋庸置疑。</MeleeWeapon_Trident_XO.description>
   <MeleeWeapon_Trident_XO.label>虎鲸三叉戟</MeleeWeapon_Trident_XO.label>
   <NM_M_Nearmaere.label>永夜巨兽（1级）</NM_M_Nearmaere.label>
   <NM_M_NightGaunts.label>噩梦骇兽（1级）</NM_M_NightGaunts.label>
-  <NM_M_NightGaunts_Base.description>作为魅魔的后裔，它的触手具有引起温度快速变化的结构和特性，被它蜇过的人要么被剥夺热量，要么被注入足够的热量来点燃。</NM_M_NightGaunts_Base.description>
+  <NM_M_NightGaunts_Base.description>魅魔召唤的眷属。它的触手能够令接触部位的温度骤然变化：目标可能被瞬间夺走热量，也可能被灌入足以引燃身体的高热。</NM_M_NightGaunts_Base.description>
   <NM_M_NightGaunts_Base.label>夜魇</NM_M_NightGaunts_Base.label>
   <NM_M_NightGaunts_b.label>噩梦骇兽（2级）</NM_M_NightGaunts_b.label>
   <NM_M_NightGaunts_c.label>噩梦骇兽（3级）</NM_M_NightGaunts_c.label>
   <NM_M_NightGaunts_d.label>噩梦骇兽（4级）</NM_M_NightGaunts_d.label>
   <NM_M_NightGaunts_e.label>噩梦骇兽（5级）</NM_M_NightGaunts_e.label>
   <NM_M_NightStalker.label>夜潜猎手（1级）</NM_M_NightStalker.label>
-  <NM_M_NightStalker_Base.description>魅魔的后裔，杀伤力不如座狼，但动作极其敏捷，难以逃脱。 \n爪子和獠牙含有剧毒，所以被瞄准的人必须小心，即使击退它们，剧毒也会伤害他们。</NM_M_NightStalker_Base.description>
+  <NM_M_NightStalker_Base.description>魅魔召唤的迅捷眷属。虽然单次杀伤力不及座狼，但行动极快，猎物很难逃脱。它的利爪与獠牙带有剧毒；即使将其击退，遭到攻击者仍需及时处理毒素。</NM_M_NightStalker_Base.description>
   <NM_M_NightStalker_Base.label>夜行者</NM_M_NightStalker_Base.label>
   <NM_M_NightStalker_b.label>夜潜猎手（2级）</NM_M_NightStalker_b.label>
   <NM_M_NightStalker_c.label>夜潜猎手（3级）</NM_M_NightStalker_c.label>
   <NM_M_NightStalker_d.label>夜潜猎手（4级）</NM_M_NightStalker_d.label>
   <NM_M_NightStalker_e.label>夜潜猎手（5级）</NM_M_NightStalker_e.label>
   <NM_M_Nightmare.label>永夜巨兽（1级）</NM_M_Nightmare.label>
-  <NM_M_Nightmare_Base.description>魅魔召唤的眷属，拥有惊人的坚韧与庞大身躯，能以沉重一击压制敌人。</NM_M_Nightmare_Base.description>
+  <NM_M_Nightmare_Base.description>魅魔召唤的重型眷属。它拥有惊人的坚韧与庞大身躯，能以沉重冲击压制敌人，使其难以还手。</NM_M_Nightmare_Base.description>
   <NM_M_Nightmare_Base.label>恶梦</NM_M_Nightmare_Base.label>
   <NM_M_Nightmare_b.label>永夜巨兽（2级）</NM_M_Nightmare_b.label>
   <NM_M_Nightmare_c.label>永夜巨兽（3级）</NM_M_Nightmare_c.label>

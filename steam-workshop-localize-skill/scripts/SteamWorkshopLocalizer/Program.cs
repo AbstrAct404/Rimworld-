@@ -85,7 +85,7 @@ try
 
         SteamAPICall_t apiCall = SteamUGC.SubmitItemUpdate(
             handle,
-            "更新：同步简体中文标题与简介。"
+            "补全了健康状态、基因分类与装备效果显示文本。"
         );
 
         bool finished = false;
