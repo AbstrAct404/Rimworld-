@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Chaoura_Scenario.description>混沌灵的剧本</Chaoura_Scenario.description>
+  <Chaoura_Scenario.label>混沌灵剧本</Chaoura_Scenario.label>
+  <Nearmaere_Scenario.description>魅魔的专属剧本</Nearmaere_Scenario.description>
+  <Nearmaere_Scenario.label>魅魔的夜曲</Nearmaere_Scenario.label>
+  <Neclose_Scenario.description>牧菌妖姬的剧本</Neclose_Scenario.description>
+  <Neclose_Scenario.label>牧菌妖姬剧本</Neclose_Scenario.label>
+  <Silkiera_Scenario.description>亚人兽娘的剧本</Silkiera_Scenario.description>
+  <Silkiera_Scenario.label>亚人兽娘剧本</Silkiera_Scenario.label>
+  <Xenoorca_Scenario.description>人鱼姬的剧本</Xenoorca_Scenario.description>
+  <Xenoorca_Scenario.label>人鱼姬剧本</Xenoorca_Scenario.label>
+</LanguageData>

@@ -85,7 +85,7 @@ try
 
         SteamAPICall_t apiCall = SteamUGC.SubmitItemUpdate(
             handle,
-            "更新：同步简体中文标题与简介。"
+            "补全了部分缺失文本并修复了部分名称显示。"
         );
 
         bool finished = false;

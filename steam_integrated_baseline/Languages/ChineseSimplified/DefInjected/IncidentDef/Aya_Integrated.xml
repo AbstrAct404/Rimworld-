@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Aya_CI_Incident_a.label>造物之一</Aya_CI_Incident_a.label>
+  <Aya_CI_Incident_a.letterLabel>造物之一</Aya_CI_Incident_a.letterLabel>
+  <Aya_CI_Incident_a.letterText>因空间异常，一座神秘的工坊出现在殖民地附近。\n虽然气氛森严，但似乎并无危险性。</Aya_CI_Incident_a.letterText>
+  <BOSS_EF_Incident_Enforcer.label>来自天界的执行者</BOSS_EF_Incident_Enforcer.label>
+  <BOSS_EF_Incident_Enforcer.letterLabel>执行者</BOSS_EF_Incident_Enforcer.letterLabel>
+  <BOSS_EF_Incident_Enforcer.letterText>一颗载有危险生命体的陨石砸落在了殖民地附近。
+    \n潜藏在陨石中的生命很快就会对四周进行探查。
+    \n\n它们非常坚固，有着恐怖到极致的物理攻击能力，但幸运的是，它们的移动速度很慢，你可以有充足的远距离射击时间。
+    \n它们无法适应这颗星球的环境，1天后就会自我崩解。
+    \n崩解后的陨石中似乎会掉落一些非常贵重的石材。</BOSS_EF_Incident_Enforcer.letterText>
+  <BOSS_RQ_Incident_Drop.label>轨道卫星之战</BOSS_RQ_Incident_Drop.label>
+  <BOSS_RQ_Incident_Drop.letterLabel>轨道卫星之战</BOSS_RQ_Incident_Drop.letterLabel>
+  <BOSS_RQ_Incident_Monster_z.label>女王种的遗孤</BOSS_RQ_Incident_Monster_z.label>
+  <BOSS_RQ_Incident_Monster_z.letterLabel>女王种的遗孤</BOSS_RQ_Incident_Monster_z.letterLabel>
+  <BOSS_RQ_Incident_Remnant.label>女王种的残骸</BOSS_RQ_Incident_Remnant.label>
+  <BOSS_RQ_Incident_Remnant.letterLabel>女王种的残骸</BOSS_RQ_Incident_Remnant.letterLabel>
+  <BOSS_RQ_Incident_Remnant.letterText>伴随着少量部下的机械生命体坠落到了殖民地附近。\n似乎已经死亡，作为机械生命体的机能已经完全停止。此外，残骸中侦测到反物质信号，谨慎拆除的话或许能获得反物质弹。</BOSS_RQ_Incident_Remnant.letterText>
+  <BOSS_RQ_Incident_Requeen.label>女王种</BOSS_RQ_Incident_Requeen.label>
+  <BOSS_RQ_Incident_Requeen.letterLabel>女王种</BOSS_RQ_Incident_Requeen.letterLabel>
+  <BOSS_RQ_Incident_Requeen.letterText>孕育着巨型生命的机械生命体坠落到了殖民地附近。\n基于防御本能，机械生命体会定期生产大量的随从。\n在生产随从时会从周遭的草木中汲取能量，因此放任不管的话，殖民地终将变成一片荒漠。\n\n母体和生产的随从都配备有极其牢固的装甲，但是它们难以抵御反物质攻击——或许你可以活用这一弱点来击溃它们。</BOSS_RQ_Incident_Requeen.letterText>
+  <BOSS_RQ_Incident_Requeen_G.label>远渡星海之鸟</BOSS_RQ_Incident_Requeen_G.label>
+  <BOSS_RQ_Incident_Requeen_G.letterLabel>远渡星海之鸟</BOSS_RQ_Incident_Requeen_G.letterLabel>
+  <BOSS_RQ_Incident_Requeen_Gone_Error.label>远渡星海之鸟</BOSS_RQ_Incident_Requeen_Gone_Error.label>
+  <BOSS_RQ_Incident_Requeen_Gone_Error.letterLabel>远渡星海之鸟</BOSS_RQ_Incident_Requeen_Gone_Error.letterLabel>
+  <BOSS_RQ_Incident_Requeen_Gone_Error.letterText>把我呼唤到此地的你，也真是个有趣的家伙呢。</BOSS_RQ_Incident_Requeen_Gone_Error.letterText>
+  <BOSS_RQ_Incident_Requeen_Z.label>雏鸟</BOSS_RQ_Incident_Requeen_Z.label>
+  <BOSS_RQ_Incident_Requeen_Z.letterLabel>雏鸟</BOSS_RQ_Incident_Requeen_Z.letterLabel>
+  <BOSS_RQ_Incident_Requeen_Z.letterText>远渡星海的雏鸟坠落在了你的殖民地附近。\n似乎会追击对其发动攻击的目标。\n雏鸟有着非常高的耐久，你必须做好打持久战的准备。\n半年后它就会离开这颗星球。</BOSS_RQ_Incident_Requeen_Z.letterText>
+  <BOSS_RQ_Incident_Requeen_b.label>女王种（要塞）</BOSS_RQ_Incident_Requeen_b.label>
+  <BOSS_RQ_Incident_Requeen_b.letterLabel>女王种（要塞）</BOSS_RQ_Incident_Requeen_b.letterLabel>
+  <BOSS_RQ_Incident_Requeen_b.letterText>孕育着巨型生命的机械生命体坠落到了殖民地附近。\n基于防御本能，机械生命体会定期生产大量的随从。\n随后在自身周遭布置炮塔来巩固防御。\n\n母体和生产的随从都配备有极其牢固的装甲，但是它们难以抵御反物质攻击——或许你可以活用这一弱点来击溃它们。</BOSS_RQ_Incident_Requeen_b.letterText>
+  <BOSS_RQ_Incident_Viceroy.letterText>有少数护卫跟随的单位坠落到了殖民地附近。\n在其中或许能回收些珍奇的物品。</BOSS_RQ_Incident_Viceroy.letterText>
+  <HAR_CO_Incident_a.label>深渊迫近</HAR_CO_Incident_a.label>
+  <HAR_CO_Incident_a.letterLabel>深渊迫近</HAR_CO_Incident_a.letterLabel>
+  <HAR_CO_UB_Incident_a.label>白垩的殉教者</HAR_CO_UB_Incident_a.label>
+  <HAR_CO_UB_Incident_a.letterLabel>殉教者</HAR_CO_UB_Incident_a.letterLabel>
+  <HAR_CO_UB_Incident_a.letterText>未知的白色混沌灵出现在了殖民地中。\n她拥有着远超已知人工种族的力量。\n请调动最高的战力对其进行讨伐。</HAR_CO_UB_Incident_a.letterText>
+  <HAR_LL_Id_a.label>年幼的“决战种”</HAR_LL_Id_a.label>
+  <HAR_LL_Id_a.letterLabel>年幼的“决战种”</HAR_LL_Id_a.letterLabel>
+  <HAR_LL_Id_a.letterText>一名拥有不稳定而强大召唤能力的伪神族加入了你的殖民地。
+她似乎因长途跋涉而十分虚弱，不久后便会因体力不支倒下，但几天内应该可以恢复。</HAR_LL_Id_a.letterText>
+  <HAR_LL_Incident_ShipPartCrash.letterText>巨大的生命体那令人畏惧的姿态降临在了殖民地。\n她将不断生成眷属，并尝试将殖民地化为废墟。</HAR_LL_Incident_ShipPartCrash.letterText>
+  <HAR_LL_Incident_ShipPartCrash_b.label>不为人知的灾厄</HAR_LL_Incident_ShipPartCrash_b.label>
+  <HAR_LL_Incident_ShipPartCrash_b.letterLabel>不为人知的灾厄</HAR_LL_Incident_ShipPartCrash_b.letterLabel>
+  <HAR_LL_Incident_ShipPartCrash_b.letterText>■■降临在了殖民地。\n■■将不断生成眷属，并尝试将殖民地化为废墟。</HAR_LL_Incident_ShipPartCrash_b.letterText>
+  <HAR_NC_Incident_a.label>外来者</HAR_NC_Incident_a.label>
+  <HAR_NC_Incident_a.letterLabel>外来者</HAR_NC_Incident_a.letterLabel>
+  <HAR_NC_Incident_a.letterText>被血色蜂蜜酒所吸引而来的异形发起了袭击。\n由于她们拥有着令人费解的力量，因此在接触时需要极其小心。</HAR_NC_Incident_a.letterText>
+  <HAR_NM_Incident_a.label>夜月之下的神秘魅魔</HAR_NM_Incident_a.label>
+  <HAR_NM_Incident_a.letterLabel>夜月之下的神秘魅魔</HAR_NM_Incident_a.letterLabel>
+  <HAR_NM_Incident_a.letterText>在这个危机的情况下，自称是神秘系的魅魔声称她将会帮助殖民地。
+和她一起解决这个情况吧。
+
+
+你还有活下去的勇气吗？</HAR_NM_Incident_a.letterText>
+  <HAR_OT_Incident_a.label>货柜坠落</HAR_OT_Incident_a.label>
+  <HAR_OT_Incident_a.letterLabel>货物货柜的坠落</HAR_OT_Incident_a.letterLabel>
+  <HAR_OT_Incident_a.letterText>因卫星轨道上的战斗，混沌的货物货柜从天而降。\n\n摧毁即可回收其中的内容物。</HAR_OT_Incident_a.letterText>
+  <HAR_OT_Incident_b.label>混沌的狩猎</HAR_OT_Incident_b.label>
+  <HAR_OT_Incident_b.letterLabel>混沌的狩猎</HAR_OT_Incident_b.letterLabel>
+  <HAR_OT_Incident_b.letterText>{0}与{1}在附近开始了战斗。\n似乎会优先攻击敌对派系。\n只要不靠近，一旦分出胜负便会撤退。</HAR_OT_Incident_b.letterText>
+  <HAR_OT_Incident_c.label>走私者过境</HAR_OT_Incident_c.label>
+  <HAR_OT_Incident_c.letterLabel>走私者过境</HAR_OT_Incident_c.letterLabel>
+  <HAR_OT_Incident_c.letterText>运送贵重物品的混沌成员正试图通过殖民地附近。是就此放行，还是出手劫夺，全凭你的决断。</HAR_OT_Incident_c.letterText>
+  <HAR_OT_Incident_d.label>穿梭艇坠落</HAR_OT_Incident_d.label>
+  <HAR_OT_Incident_d.letterLabel>穿梭艇坠落</HAR_OT_Incident_d.letterLabel>
+  <HAR_OT_Incident_d.letterText>遭混沌袭击的穿梭艇似乎紧急迫降在殖民地附近。\n虽与殖民地无直接关联，但也可以选择援救受害者。</HAR_OT_Incident_d.letterText>
+  <HAR_OT_Incident_e.label>伽蓝洞之骸</HAR_OT_Incident_e.label>
+  <HAR_OT_Incident_e.letterLabel>伽蓝洞之骸</HAR_OT_Incident_e.letterLabel>
+  <HAR_OT_Incident_e.letterText>殖民地附近出现了神秘的构造体。\n看似无害，却散发着异样的氛围。</HAR_OT_Incident_e.letterText>
+  <HAR_SK_Incident_ShipPartCrash.letterText>亚人工业在殖民地开设店铺啦！\n似乎带着宣传和慈善的意味，向世界各地配送兽娘罐头。商店会摆出一些兽娘罐头，停留一段时间后就会前往下一个目的地。</HAR_SK_Incident_ShipPartCrash.letterText>
+  <HAR_ZC_Incident_a.label>古老的约定</HAR_ZC_Incident_a.label>
+  <HAR_ZC_Incident_a.letterLabel>古老的约定</HAR_ZC_Incident_a.letterLabel>
+  <HAR_ZC_Incident_a.letterText>一名笼罩着阴郁气息的人工种族——锢魂魔加入了你的殖民地。\n她不愿说明加入的原因，不过似乎无需担心她会背叛。\n\n她目前的力量正处于封印状态；推进相关研究，或许能够找到帮助她取回力量的契机。</HAR_ZC_Incident_a.letterText>
+</LanguageData>

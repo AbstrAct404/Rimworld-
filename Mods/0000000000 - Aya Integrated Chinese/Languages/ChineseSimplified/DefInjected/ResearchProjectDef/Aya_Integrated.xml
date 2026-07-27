@@ -96,8 +96,11 @@
   <HAR_IA_Project_Third.description>研究生产伊迪安的机械装置。</HAR_IA_Project_Third.description>
   <HAR_IA_Project_Third.label>梅涅克赛努计划</HAR_IA_Project_Third.label>
   <HAR_NM_R_Weapon_A.description>研究把魅魔的幻觉能力用于制作适合对大部分生物使用的武器的技术。</HAR_NM_R_Weapon_A.description>
+  <HAR_NM_R_Weapon_A.label>幻觉兵器研究·一</HAR_NM_R_Weapon_A.label>
   <HAR_NM_R_Weapon_B.description>研究把魅魔的幻觉能力用于制造适合大范围使用的武器的技术。</HAR_NM_R_Weapon_B.description>
+  <HAR_NM_R_Weapon_B.label>幻觉兵器研究·二</HAR_NM_R_Weapon_B.label>
   <HAR_NM_R_Weapon_C.description>研究把魅魔的幻觉能力用于制造对付军团级别的武器的技术。</HAR_NM_R_Weapon_C.description>
+  <HAR_NM_R_Weapon_C.label>幻觉兵器研究·三</HAR_NM_R_Weapon_C.label>
   <HAR_OT_Research_Drag_A.description>研究混沌制造的药物。</HAR_OT_Research_Drag_A.description>
   <HAR_OT_Research_Drag_A.label>混沌的麻药</HAR_OT_Research_Drag_A.label>
   <HAR_OT_Research_Weapon_A.description>研究混沌制造的武器。</HAR_OT_Research_Weapon_A.description>
@@ -113,7 +116,9 @@
   <HAR_SK_I_M_Research_Medicine_A.description>学习亚人工业的医疗品配方。</HAR_SK_I_M_Research_Medicine_A.description>
   <HAR_SK_I_M_Research_Medicine_A.label>亚人工业的医疗技术A</HAR_SK_I_M_Research_Medicine_A.label>
   <HAR_SK_I_M_Research_Recycle_A.description>学习在殖民地建造亚人工业回收店的技术。</HAR_SK_I_M_Research_Recycle_A.description>
+  <HAR_SK_I_M_Research_Recycle_A.label>亚人工业回收店</HAR_SK_I_M_Research_Recycle_A.label>
   <HAR_SK_I_M_Research_Refinery_A.description>学习在殖民地建造亚人工业炼油机的技术。</HAR_SK_I_M_Research_Refinery_A.description>
+  <HAR_SK_I_M_Research_Refinery_A.label>亚人工业炼油机</HAR_SK_I_M_Research_Refinery_A.label>
   <HAR_SK_I_M_Research_Shop_A.description>学习在殖民地建造亚人工业商店的技术。</HAR_SK_I_M_Research_Shop_A.description>
   <HAR_SK_I_M_Research_Shop_A.label>亚人工业商店(食品店)</HAR_SK_I_M_Research_Shop_A.label>
   <HAR_SK_I_M_Research_Shop_B.description>学习在殖民地建造亚人工业商店的技术。</HAR_SK_I_M_Research_Shop_B.description>

@@ -70,7 +70,9 @@
 其强度并不会随着时间的流逝而有所增加。</Eveliet_Artificial.description>
   <Eveliet_Artificial.label>试作人工种族</Eveliet_Artificial.label>
   <HAR_CO_Hediff_a.description>混沌灵的宇宙之影辅助器官，处于完全黑暗时能使肉体活性化，提高身体能力，并使射击无效化。作为代价，当日光强烈时该器官会变为非活性状态，混沌灵的动作将变迟钝。</HAR_CO_Hediff_a.description>
+  <HAR_CO_Hediff_a.label>永夜循环器（活性）</HAR_CO_Hediff_a.label>
   <HAR_CO_Hediff_b.description>混沌灵的宇宙之影辅助器官，处于完全黑暗时能使肉体活性化，提高身体能力，并使射击无效化。作为代价，当日光强烈时该器官会变为非活性状态，混沌灵的动作将变迟钝。</HAR_CO_Hediff_b.description>
+  <HAR_CO_Hediff_b.label>永夜循环器（非活性）</HAR_CO_Hediff_b.label>
   <HAR_CO_Hediff_c.description>当对混沌灵做出具有敌意的物理行为时产生的现象。\n深渊腐败并发“晦冥肿胀”，会逐渐降低身体机能。晦冥肿胀只发生在生物体上，所以对机械生命不起作用。\n\n只要停止对混沌灵的敌意行为，深渊腐败很快便会消散。</HAR_CO_Hediff_c.description>
   <HAR_CO_Hediff_c.label>深渊腐败</HAR_CO_Hediff_c.label>
   <HAR_CO_Hediff_d.description>由深渊腐败并发的黑色肿胀，稍微降低身体能力。\n晦冥肿胀会发生在所有的身体部位和脏器中，蔓延至全身后会使行动变得极为困难。\n症状在半天内就能痊愈。</HAR_CO_Hediff_d.description>
@@ -175,41 +177,41 @@
 这是一道能够治愈与磨炼万物，连死亡都能超越的荣耀之光。
 随着这股力量的不断解放，她们会逐渐获得超越凡人的力量，但在100％完全解放的情况下，她们便会失去复活的能力。
 
-创造主已经踏足了一切可至之处。
+造物主已经踏足了一切可至之处。
 因此，他们才会恐惧自己的技术终将成为宇宙之癌，并为了阻止那个未来而留下了抑制之力。
-那个潜在的敌人究竟是谁，想必只有创造主本人知晓吧。</HAR_IH_Hediff_EX_a.description>
+那个潜在的敌人究竟是谁，想必只有造物主本人知晓吧。</HAR_IH_Hediff_EX_a.description>
   <HAR_IH_Hediff_EX_a.label>万军神临</HAR_IH_Hediff_EX_a.label>
   <HAR_IH_Hediff_EX_b.description>幽灵姬·罪孽灵被创造者所赋予的超凡力量。
 这是一道能够治愈与磨炼万物，连死亡都能超越的荣耀之光。
 随着这股力量的不断解放，她们会逐渐获得超越凡人的力量，但在100％完全解放的情况下，她们便会失去复活的能力。
 
-创造主已经踏足了一切可至之处。
+造物主已经踏足了一切可至之处。
 因此，他们才会恐惧自己的技术终将成为宇宙之癌，并为了阻止那个未来而留下了抑制之力。
-那个潜在的敌人究竟是谁，想必只有创造主本人知晓吧。</HAR_IH_Hediff_EX_b.description>
+那个潜在的敌人究竟是谁，想必只有造物主本人知晓吧。</HAR_IH_Hediff_EX_b.description>
   <HAR_IH_Hediff_EX_b.label>万军神临</HAR_IH_Hediff_EX_b.label>
   <HAR_IH_Hediff_EX_c.description>幽灵姬·罪孽灵被创造者所赋予的超凡力量。
 这是一道能够治愈与磨炼万物，连死亡都能超越的荣耀之光。
 随着这股力量的不断解放，她们会逐渐获得超越凡人的力量，但在100％完全解放的情况下，她们便会失去复活的能力。
 
-创造主已经踏足了一切可至之处。
+造物主已经踏足了一切可至之处。
 因此，他们才会恐惧自己的技术终将成为宇宙之癌，并为了阻止那个未来而留下了抑制之力。
-那个潜在的敌人究竟是谁，想必只有创造主本人知晓吧。</HAR_IH_Hediff_EX_c.description>
+那个潜在的敌人究竟是谁，想必只有造物主本人知晓吧。</HAR_IH_Hediff_EX_c.description>
   <HAR_IH_Hediff_EX_c.label>万军神临</HAR_IH_Hediff_EX_c.label>
   <HAR_IH_Hediff_EX_d.description>幽灵姬·罪孽灵被创造者所赋予的超凡力量。
 这是一道能够治愈与磨炼万物，连死亡都能超越的荣耀之光。
 随着这股力量的不断解放，她们会逐渐获得超越凡人的力量，但在100％完全解放的情况下，她们便会失去复活的能力。
 
-创造主已经踏足了一切可至之处。
+造物主已经踏足了一切可至之处。
 因此，他们才会恐惧自己的技术终将成为宇宙之癌，并为了阻止那个未来而留下了抑制之力。
-那个潜在的敌人究竟是谁，想必只有创造主本人知晓吧。</HAR_IH_Hediff_EX_d.description>
+那个潜在的敌人究竟是谁，想必只有造物主本人知晓吧。</HAR_IH_Hediff_EX_d.description>
   <HAR_IH_Hediff_EX_d.label>万军神临</HAR_IH_Hediff_EX_d.label>
   <HAR_IH_Hediff_EX_e.description>幽灵姬·罪孽灵被创造者所赋予的超凡力量。
 这是一道能够治愈与磨炼万物，连死亡都能超越的荣耀之光。
 随着这股力量的不断解放，她们会逐渐获得超越凡人的力量，但在100％完全解放的情况下，她们便会失去复活的能力。
 
-创造主已经踏足了一切可至之处。
+造物主已经踏足了一切可至之处。
 因此，他们才会恐惧自己的技术终将成为宇宙之癌，并为了阻止那个未来而留下了抑制之力。
-那个潜在的敌人究竟是谁，想必只有创造主本人知晓吧。</HAR_IH_Hediff_EX_e.description>
+那个潜在的敌人究竟是谁，想必只有造物主本人知晓吧。</HAR_IH_Hediff_EX_e.description>
   <HAR_IH_Hediff_EX_e.label>万军神临</HAR_IH_Hediff_EX_e.label>
   <HAR_IH_Hediff_Flag.label>苍白契约</HAR_IH_Hediff_Flag.label>
   <HAR_IH_Hediff_ZZZ.description>幽灵姬·罪孽灵在释放万军之主在此时产生的波动。\n受到影响的人会失去行动能力，只能匍匐在地。\n该状态会在 1 天后解除。</HAR_IH_Hediff_ZZZ.description>
@@ -449,7 +451,7 @@
   <Nexaga_Artificial_f.description>通过母亲或隔代遗传继承了人工种族伪神族血统的力量。
   \n\n与因为是被创造出来而身体不稳定的人工种族不同，混血种天生就可以发挥出强大的能力。</Nexaga_Artificial_f.description>
   <Nexaga_Artificial_f.label>混血种</Nexaga_Artificial_f.label>
-  <Nexaga_Artificial_g.description>通过母亲或隔代遗传继承了人工种族索拉克（龙姬）（索拉克（龙姬）（龙姬））（索拉克（龙姬）（索拉克（龙姬）（龙姬））（索拉克（龙姬）（龙姬）））（索拉克（龙姬）（索拉克（龙姬）（龙姬））（索拉克（龙姬）（龙姬）））血统的力量。
+  <Nexaga_Artificial_g.description>通过母亲或隔代遗传继承了人工种族索拉克（龙姬）血统的力量。
   \n\n与因为是被创造出来而身体不稳定的人工种族不同，混血种天生就可以发挥出强大的能力。</Nexaga_Artificial_g.description>
   <Nexaga_Artificial_g.label>混血种</Nexaga_Artificial_g.label>
   <Nexaga_Artificial_h.description>通过母亲或隔代遗传继承了人工种族飞蛾姬血统的力量。

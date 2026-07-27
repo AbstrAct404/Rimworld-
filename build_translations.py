@@ -441,24 +441,34 @@ def local_translate(value: str) -> str:
 
 
 def normalize_display_names(value: str) -> str:
-    def replace_term(current: str, source: str, target: str) -> str:
-        # ASCII names need word-like guards so "Solark" is not replaced inside
-        # an identifier. Chinese/Japanese aliases should be replaced directly:
-        # RimWorld descriptions store line breaks as the literal characters
-        # "\\n", whose trailing ASCII "n" otherwise blocks a valid match.
+    # Perform terminology normalization in one regex pass.  Repeated str.replace
+    # calls can re-match text produced by an earlier replacement (for example,
+    # replacing 龙姬 inside the already canonical 索拉克（龙姬）), causing the
+    # name to grow recursively every time the builder runs.
+    replacements: dict[str, str] = {}
+    for mapping in (
+        DISPLAY_NAME_REPLACEMENTS,
+        WORKSHOP_RACE_DISPLAY_REPLACEMENTS,
+        TERMINOLOGY["proper_names"],
+        TERMINOLOGY["game_terms"],
+    ):
+        replacements.update(mapping)
+    alternatives = []
+    lookup: dict[str, str] = {}
+    for index, source in enumerate(sorted(replacements, key=len, reverse=True)):
+        group = f"term_{index}"
         if re.search(r"[A-Za-z]", source):
-            pattern = rf"(?<![A-Za-z]){re.escape(source)}(?![A-Za-z])"
-            return re.sub(pattern, target, current, flags=re.I)
-        return current.replace(source, target)
-
-    for source, target in DISPLAY_NAME_REPLACEMENTS.items():
-        value = replace_term(value, source, target)
-    for source, target in WORKSHOP_RACE_DISPLAY_REPLACEMENTS.items():
-        value = replace_term(value, source, target)
-    for source, target in TERMINOLOGY["proper_names"].items():
-        value = replace_term(value, source, target)
-    for source, target in TERMINOLOGY["game_terms"].items():
-        value = replace_term(value, source, target)
+            expression = rf"(?<![A-Za-z]){re.escape(source)}(?![A-Za-z])"
+        else:
+            expression = re.escape(source)
+        alternatives.append(f"(?P<{group}>{expression})")
+        lookup[group] = replacements[source]
+    if alternatives:
+        pattern = re.compile("|".join(alternatives), flags=re.I)
+        value = pattern.sub(
+            lambda match: lookup[match.lastgroup or ""],
+            value,
+        )
     return "\n".join(line.rstrip() for line in value.splitlines()).strip()
 
 
@@ -628,7 +638,7 @@ def write_steam_vdfs(destination: Path, vdf_dir: Path) -> None:
             f'\t"previewfile"\t\t"{vdf_quote(vdf_path(package / "About" / "Preview.png"))}"',
             f'\t"title"\t\t"{vdf_quote(title)}"',
             f'\t"description"\t\t"{vdf_quote(description)}"',
-            '\t"changenote"\t\t"更新：完善简体中文翻译，适配 RimWorld 1.6。"',
+            '\t"changenote"\t\t"补全了部分缺失文本并修复了部分名称显示。"',
             '}', '',
         ])
         (vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}.vdf").write_text(content, encoding="utf-8")
@@ -645,7 +655,7 @@ def write_steam_vdfs(destination: Path, vdf_dir: Path) -> None:
             f'\t"previewfile"\t\t"{vdf_quote(vdf_path(package / "About" / "Preview.png"))}"',
             f'\t"title"\t\t"{vdf_quote(title)}"',
             f'\t"description"\t\t"{vdf_quote(description)}"',
-            '\t"changenote"\t\t"更新：同步简体中文标题与简介。"',
+            '\t"changenote"\t\t"补全了部分缺失文本并修复了部分名称显示。"',
             '}', '',
         ])
         (vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}-schinese.vdf").write_text(

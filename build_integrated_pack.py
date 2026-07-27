@@ -21,6 +21,7 @@ import build_translations as build
 INTEGRATED_FOLDER = "0000000000 - Aya Integrated Chinese"
 PACKAGE_ID = "abstract404.aya.integrated.zh"
 PUBLISHED_FILE_ID = "3770548798"
+STEAM_BASELINE = Path(__file__).with_name("steam_integrated_baseline")
 
 ORIGINAL_WORKSHOP_TITLES = {
     "2946679071": "[Aya]Chaoura Race",
@@ -143,6 +144,43 @@ def main() -> None:
             "entriesRead": entry_count,
         })
 
+    # The published Workshop package is the authority for every overlapping
+    # key.  Keep locally newer standalone-only keys, but overlay the downloaded
+    # Workshop snapshot last so an integrated rebuild cannot silently revert
+    # translations that have already shipped on Steam.
+    steam_entries_read = 0
+    steam_language_root = STEAM_BASELINE / "Languages" / "ChineseSimplified"
+    if not steam_language_root.is_dir():
+        raise FileNotFoundError(
+            f"Missing integrated Steam baseline: {steam_language_root}"
+        )
+    for file in sorted(steam_language_root.rglob("*.xml")):
+        relative = file.relative_to(steam_language_root)
+        if len(relative.parts) < 2:
+            continue
+        section, subtype = relative.parts[0], relative.parts[1]
+        if section not in {"DefInjected", "Keyed"}:
+            continue
+        if section == "Keyed":
+            subtype = "Keyed"
+        root = ET.parse(file).getroot()
+        bucket = buckets[(section, subtype)]
+        for child in root:
+            value = build.text(child)
+            if not value:
+                continue
+            steam_entries_read += 1
+            previous = bucket.get(child.tag)
+            if previous and previous[0] != value:
+                conflicts.append({
+                    "key": child.tag,
+                    "keptValue": value,
+                    "keptFrom": f"steam:{PUBLISHED_FILE_ID}",
+                    "ignoredValue": previous[0],
+                    "ignoredFrom": previous[1],
+                })
+            bucket[child.tag] = (value, f"steam:{PUBLISHED_FILE_ID}")
+
     package_by_id = {
         str(item["originalWorkshopId"]): item for item in package_info
     }
@@ -243,6 +281,10 @@ def main() -> None:
         destination.parent.mkdir(parents=True, exist_ok=True)
         build.xml_write(destination, root)
 
+    steam_patches = STEAM_BASELINE / "Patches"
+    if steam_patches.is_dir():
+        shutil.copytree(steam_patches, output / "Patches")
+
     about = ET.Element("ModMetaData")
     description = (
         "Aya 人工种族系列简体中文整合汉化包。\n\n"
@@ -313,6 +355,8 @@ def main() -> None:
     report = {
         "packageId": PACKAGE_ID,
         "includedPackages": package_info,
+        "steamBaselineWorkshopId": PUBLISHED_FILE_ID,
+        "steamBaselineEntriesRead": steam_entries_read,
         "uniqueEntriesWritten": written,
         "conflictCount": len(conflicts),
         "conflicts": conflicts,
@@ -350,7 +394,7 @@ def main() -> None:
                 f'\t"previewfile"\t\t"{build.vdf_quote(build.vdf_path(output / "About" / "Preview.png"))}"',
                 f'\t"title"\t\t"{build.vdf_quote(title)}"',
                 f'\t"description"\t\t"{build.vdf_quote(workshop_description)}"',
-                '\t"changenote"\t\t"优化收录目录：补全独立汉化与原模组名称、链接，并按内容分类展示。"',
+                '\t"changenote"\t\t"补全了部分技能、派系及继承定义文本，并修复了部分名称异常显示。"',
                 "}", "",
             ])
             (
@@ -361,6 +405,7 @@ def main() -> None:
         "output": str(output),
         "packages": len(packages),
         "entries": written,
+        "steamBaselineEntries": steam_entries_read,
         "conflicts": len(conflicts),
     }, ensure_ascii=False, indent=2))
 

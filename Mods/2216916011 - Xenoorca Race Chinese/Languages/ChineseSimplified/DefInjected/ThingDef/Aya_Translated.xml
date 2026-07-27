@@ -15,7 +15,7 @@
   <HAR_XO_Weapon_a.label>深渊之噬</HAR_XO_Weapon_a.label>
   <HAR_XO_Weapon_a.description>创造者为担任近卫的人鱼姬·渊丛主打造的主战骑枪。\n据说是与大地之剑·统御之枪所齐名的武器。\n由于是专门为人鱼姬·渊丛主所制造的武器，因此只能由她们所使用。\n\n\n那是在黄金时代立下了无数辉煌战果的骑士们的大枪。\n然而，骑士们在前去杀死神子的前日，将其埋葬于宇宙之中。\n如今所行乃是鲜血染红的道路，唯有此枪不可伴于身侧。</HAR_XO_Weapon_a.description>
   <Aya_Race_Ap_XO_C_T_a.description>人工种族的儿童们穿的服装，性能有所降低。</Aya_Race_Ap_XO_C_T_a.description>
-  <Aya_Race_Ap_XO_C_T_a.label>儿童异度服装</Aya_Race_Ap_XO_C_T_a.label>
+  <Aya_Race_Ap_XO_C_T_a.label>儿童异度礼装</Aya_Race_Ap_XO_C_T_a.label>
   <HAR_XO_AM_a.label>奥尔基努斯装甲</HAR_XO_AM_a.label>
   <HAR_XO_AM_a.description>奥尔基努斯旅团的团员配备的装甲，能够有效抵御攻击，但是牺牲了速度，且难以应付高温。曾经是在创造者的麾下担任战斗人员时穿的战斗服装。</HAR_XO_AM_a.description>
   <HAR_XO_AM_b.label>虎鲸甲</HAR_XO_AM_b.label>
@@ -51,11 +51,11 @@
   <HAR_XO_AS_c.description>为了快速换弹而集中放置弹药的腰带，毫无防御性，但能缩短射击间隔、提升射击精度。</HAR_XO_AS_c.description>
   <HAR_XO_AS_c.label>弹药带（人鱼姬）</HAR_XO_AS_c.label>
   <HAR_XO_AT_a.description>人鱼姬穿的特殊构造的服装，能从中看出设计者为了不让人鱼姬们闷热而付出的良苦用心。</HAR_XO_AT_a.description>
-  <HAR_XO_AT_a.label>异度服装A（人鱼姬）</HAR_XO_AT_a.label>
+  <HAR_XO_AT_a.label>异度礼装 A（人鱼姬）</HAR_XO_AT_a.label>
   <HAR_XO_AT_b.description>人鱼姬穿的特殊构造的服装，能从中看出设计者为了不让人鱼姬们闷热而付出的良苦用心。</HAR_XO_AT_b.description>
-  <HAR_XO_AT_b.label>异度服装B（人鱼姬）</HAR_XO_AT_b.label>
+  <HAR_XO_AT_b.label>异度礼装 B（人鱼姬）</HAR_XO_AT_b.label>
   <HAR_XO_AT_c.description>人鱼姬穿的特殊构造的服装，能从中看出设计者为了不让人鱼姬们闷热而付出的良苦用心。</HAR_XO_AT_c.description>
-  <HAR_XO_AT_c.label>异度服装C（人鱼姬）</HAR_XO_AT_c.label>
+  <HAR_XO_AT_c.label>异度礼装 C（人鱼姬）</HAR_XO_AT_c.label>
   <HAR_XO_AT_d.description>人鱼姬穿的女仆装，正儿八经的有在工作，所以稍微恶作剧一下会很可爱。</HAR_XO_AT_d.description>
   <HAR_XO_AT_d.label>女仆装（人鱼姬）</HAR_XO_AT_d.label>
   <HAR_XO_AT_e.description>为人鱼姬定制的一种传统服装。虽然有些难以移动，但因为其寒暑皆可穿、干净清爽的印象，能有效提高社交力。</HAR_XO_AT_e.description>

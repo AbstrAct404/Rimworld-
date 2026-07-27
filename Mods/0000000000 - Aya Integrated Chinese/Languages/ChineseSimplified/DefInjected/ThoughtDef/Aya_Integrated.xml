@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_NC_AteCorpse.stages.0.description>没有屠宰也没有烹饪，直接吃掉死去生物的血肉也不坏，不过要是能调点味就更好了。</HAR_NC_AteCorpse.stages.0.description>
+  <HAR_NC_AteCorpse.stages.0.label>吃了尸肉</HAR_NC_AteCorpse.stages.0.label>
+  <HAR_NC_ObservedLayingCorpse.stages.0.description>这里有适合喂养病菌的尸体，再多收集一些吧。</HAR_NC_ObservedLayingCorpse.stages.0.description>
+  <HAR_NC_ObservedLayingCorpse.stages.0.label>看到了尸体</HAR_NC_ObservedLayingCorpse.stages.0.label>
+  <HAR_NC_ObservedLayingRottingCorpse.stages.0.description>这里有一具腐烂得恰到好处的尸体！病菌一定会很高兴。</HAR_NC_ObservedLayingRottingCorpse.stages.0.description>
+  <HAR_NC_ObservedLayingRottingCorpse.stages.0.label>看到了腐烂尸体</HAR_NC_ObservedLayingRottingCorpse.stages.0.label>
+</LanguageData>
