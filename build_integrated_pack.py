@@ -281,17 +281,16 @@ def main() -> None:
         destination.parent.mkdir(parents=True, exist_ok=True)
         build.xml_write(destination, root)
 
-    # Merge patches shipped by the standalone packages first.  These include
-    # fixes newer than the Steam snapshot, while the baseline still remains
-    # authoritative for same-named published patch files.
-    for package in packages:
-        package_patches = package / "Patches"
-        if package_patches.is_dir():
-            shutil.copytree(
-                package_patches,
-                output / "Patches",
-                dirs_exist_ok=True,
-            )
+    # Merge maintained supplemental patches first.  Do not copy patches back
+    # from standalone output packages: those already contain the Steam
+    # baseline and would make every operation run twice in the integrated pack.
+    supplemental_root = Path(__file__).with_name("supplemental")
+    for package_patches in sorted(supplemental_root.glob("*/Patches")):
+        shutil.copytree(
+            package_patches,
+            output / "Patches",
+            dirs_exist_ok=True,
+        )
     steam_patches = STEAM_BASELINE / "Patches"
     if steam_patches.is_dir():
         shutil.copytree(
@@ -299,6 +298,10 @@ def main() -> None:
             output / "Patches",
             dirs_exist_ok=True,
         )
+    patch_report = build.consolidate_runtime_patches(
+        output,
+        "Aya_Localization.xml",
+    )
 
     about = ET.Element("ModMetaData")
     description = (
@@ -373,6 +376,7 @@ def main() -> None:
         "steamBaselineWorkshopId": PUBLISHED_FILE_ID,
         "steamBaselineEntriesRead": steam_entries_read,
         "uniqueEntriesWritten": written,
+        "runtimePatches": patch_report,
         "conflictCount": len(conflicts),
         "conflicts": conflicts,
     }

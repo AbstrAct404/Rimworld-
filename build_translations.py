@@ -567,6 +567,128 @@ def xml_write(path: Path, root: ET.Element) -> None:
     ET.ElementTree(root).write(path, encoding="utf-8", xml_declaration=True)
 
 
+def consolidate_runtime_patches(
+    package: Path,
+    output_name: str,
+) -> dict[str, int]:
+    """Merge runtime localization patches without dropping any fallback.
+
+    Some source mods bypass DefInjected at runtime or restore labels when an
+    editor refreshes a Def, so even apparently redundant direct patches must
+    remain.  When a patch and DefInjected target the same label/description,
+    normalize the patch value to the DefInjected value so both fallback paths
+    display exactly the same translation.
+    """
+    patches_dir = package / "Patches"
+    files = sorted(patches_dir.glob("*.xml"))
+    if not files:
+        return {
+            "sourceFiles": 0,
+            "outputFiles": 0,
+            "topLevelOperations": 0,
+            "modificationTargets": 0,
+            "normalizedStandardOverrides": 0,
+        }
+
+    language_values: dict[str, str] = {}
+    language_root = package / "Languages" / "ChineseSimplified"
+    for file in language_root.rglob("*.xml"):
+        try:
+            root = ET.parse(file).getroot()
+        except ET.ParseError:
+            continue
+        for node in root:
+            if node.text:
+                language_values[node.tag] = node.text
+
+    merged = ET.Element("Patch")
+    seen_targets: dict[str, str] = {}
+    normalized_standard = 0
+    kept_operations = 0
+
+    def modification_targets(operation: ET.Element) -> list[str]:
+        targets = []
+        for node in operation.iter():
+            if node.get("Class") not in {
+                "PatchOperationReplace",
+                "PatchOperationAdd",
+                "PatchOperationRemove",
+            }:
+                continue
+            xpath = text(node.find("xpath"))
+            if xpath:
+                targets.append(xpath)
+        return targets
+
+    def standard_translation_key(xpath: str) -> str | None:
+        match = re.fullmatch(
+            r'Defs/[^[]+\[defName="([^"]+)"\](?:/.*)?/'
+            r'(label|description)(?:\[\d+\])?',
+            xpath,
+        )
+        if not match:
+            return None
+        return f"{match.group(1)}.{match.group(2)}"
+
+    def normalize_modifier_value(node: ET.Element) -> int:
+        if node.get("Class") not in {
+            "PatchOperationReplace",
+            "PatchOperationAdd",
+        }:
+            return 0
+        xpath = text(node.find("xpath"))
+        key = standard_translation_key(xpath)
+        if key is None or key not in language_values:
+            return 0
+        field = key.rsplit(".", 1)[1]
+        value_node = node.find("value")
+        translated_node = value_node.find(field) if value_node is not None else None
+        if translated_node is None or translated_node.text == language_values[key]:
+            return 0
+        translated_node.text = language_values[key]
+        return 1
+
+    for file in files:
+        root = ET.parse(file).getroot()
+        for operation in root:
+            normalized_standard += sum(
+                normalize_modifier_value(node) for node in operation.iter()
+            )
+            targets = modification_targets(operation)
+            if not targets:
+                continue
+            for target in targets:
+                previous = seen_targets.get(target)
+                if previous:
+                    raise RuntimeError(
+                        "Overlapping runtime localization patches: "
+                        f"{target} appears in both {previous} and {file.name}"
+                    )
+                seen_targets[target] = file.name
+            merged.append(operation)
+            kept_operations += 1
+
+    destination = patches_dir / output_name
+    for file in files:
+        if file != destination:
+            file.unlink()
+    if kept_operations:
+        xml_write(destination, merged)
+        output_files = 1
+    else:
+        destination.unlink(missing_ok=True)
+        output_files = 0
+        if patches_dir.is_dir() and not any(patches_dir.iterdir()):
+            patches_dir.rmdir()
+    return {
+        "sourceFiles": len(files),
+        "outputFiles": output_files,
+        "topLevelOperations": kept_operations,
+        "modificationTargets": len(seen_targets),
+        "normalizedStandardOverrides": normalized_standard,
+    }
+
+
 def add_workshop_dependency(
     about: ET.Element,
     package_id_value: str,
@@ -830,6 +952,10 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
         destination = out / "Patches" / patch.name
         destination.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(patch, destination)
+    consolidate_runtime_patches(
+        out,
+        f"{mod_id}_Aya_Localization.xml",
+    )
     return {"id": mod_id, "name": fallback_name, "status": "built", "entries": written, "path": str(out)}
 
 

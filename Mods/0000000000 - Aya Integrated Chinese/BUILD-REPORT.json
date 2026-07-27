@@ -173,6 +173,13 @@
   "steamBaselineWorkshopId": "3770548798",
   "steamBaselineEntriesRead": 3099,
   "uniqueEntriesWritten": 3226,
+  "runtimePatches": {
+    "sourceFiles": 33,
+    "outputFiles": 1,
+    "topLevelOperations": 262,
+    "modificationTargets": 277,
+    "normalizedStandardOverrides": 4
+  },
   "conflictCount": 1,
   "conflicts": [
     {
