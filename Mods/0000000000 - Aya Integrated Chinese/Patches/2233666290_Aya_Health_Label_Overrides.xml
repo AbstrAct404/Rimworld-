@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="HAR_SK_PsychiteTeaHigh"]/label</xpath>
+    <value><label>工业茶</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="HAR_SK_Hediff_a"]/label</xpath>
+    <value><label>免疫增强</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="HAR_SK_Hediff_b"]/label</xpath>
+    <value><label>健康增强</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="HAR_SK_Skill_Hediff_b"]/label</xpath>
+    <value><label>狐灵附身</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="HAR_SK_Skill_Hediff_c"]/label</xpath>
+    <value><label>蛊毒</label></value>
+  </Operation>
+</Patch>

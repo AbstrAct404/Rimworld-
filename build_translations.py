@@ -20,6 +20,7 @@ from pathlib import Path
 from workshop_descriptions_zh import WORKSHOP_DESCRIPTION_OVERRIDES
 
 WORKSHOP = Path(r"D:\SteamLibrary\steamapps\workshop\content\294100")
+STEAM_INTEGRATED_BASELINE = Path(__file__).with_name("steam_integrated_baseline")
 
 MODS = [
     ("2946679071", "Chaoura Race"), ("3505571618", "Aya Premise Core"),
@@ -638,7 +639,7 @@ def write_steam_vdfs(destination: Path, vdf_dir: Path) -> None:
             f'\t"previewfile"\t\t"{vdf_quote(vdf_path(package / "About" / "Preview.png"))}"',
             f'\t"title"\t\t"{vdf_quote(title)}"',
             f'\t"description"\t\t"{vdf_quote(description)}"',
-            '\t"changenote"\t\t"补全了部分缺失文本并修复了部分名称显示。"',
+            '\t"changenote"\t\t"补全了健康状态、基因分类与装备效果显示文本。"',
             '}', '',
         ])
         (vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}.vdf").write_text(content, encoding="utf-8")
@@ -655,7 +656,7 @@ def write_steam_vdfs(destination: Path, vdf_dir: Path) -> None:
             f'\t"previewfile"\t\t"{vdf_quote(vdf_path(package / "About" / "Preview.png"))}"',
             f'\t"title"\t\t"{vdf_quote(title)}"',
             f'\t"description"\t\t"{vdf_quote(description)}"',
-            '\t"changenote"\t\t"补全了部分缺失文本并修复了部分名称显示。"',
+            '\t"changenote"\t\t"补全了健康状态、基因分类与装备效果显示文本。"',
             '}', '',
         ])
         (vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}-schinese.vdf").write_text(
@@ -820,6 +821,15 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
                 )
             except ET.ParseError:
                 continue
+    # The published integrated pack contains runtime patches for custom comp
+    # labels and descriptions that DefInjected cannot reliably reach.  Copy
+    # the matching per-mod patches into standalone packages as well, so using
+    # Character Editor or refreshing a Def does not expose the source label.
+    baseline_patches = STEAM_INTEGRATED_BASELINE / "Patches"
+    for patch in baseline_patches.glob(f"{mod_id}_*.xml"):
+        destination = out / "Patches" / patch.name
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(patch, destination)
     return {"id": mod_id, "name": fallback_name, "status": "built", "entries": written, "path": str(out)}
 
 

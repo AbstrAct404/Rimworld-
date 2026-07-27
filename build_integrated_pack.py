@@ -281,9 +281,24 @@ def main() -> None:
         destination.parent.mkdir(parents=True, exist_ok=True)
         build.xml_write(destination, root)
 
+    # Merge patches shipped by the standalone packages first.  These include
+    # fixes newer than the Steam snapshot, while the baseline still remains
+    # authoritative for same-named published patch files.
+    for package in packages:
+        package_patches = package / "Patches"
+        if package_patches.is_dir():
+            shutil.copytree(
+                package_patches,
+                output / "Patches",
+                dirs_exist_ok=True,
+            )
     steam_patches = STEAM_BASELINE / "Patches"
     if steam_patches.is_dir():
-        shutil.copytree(steam_patches, output / "Patches")
+        shutil.copytree(
+            steam_patches,
+            output / "Patches",
+            dirs_exist_ok=True,
+        )
 
     about = ET.Element("ModMetaData")
     description = (
@@ -394,7 +409,7 @@ def main() -> None:
                 f'\t"previewfile"\t\t"{build.vdf_quote(build.vdf_path(output / "About" / "Preview.png"))}"',
                 f'\t"title"\t\t"{build.vdf_quote(title)}"',
                 f'\t"description"\t\t"{build.vdf_quote(workshop_description)}"',
-                '\t"changenote"\t\t"补全了部分技能、派系及继承定义文本，并修复了部分名称异常显示。"',
+                '\t"changenote"\t\t"补全了健康状态、基因分类与装备效果显示文本。"',
                 "}", "",
             ])
             (

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="HAR_LL_Hediff_b"]/label</xpath>
+    <value><label>启蒙</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="HAR_LL_Hediff_c"]/label</xpath>
+    <value><label>教化</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="HAR_LL_Hediff_f"]/label</xpath>
+    <value><label>心魂暴露</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="HAR_LL_Hediff_j"]/label</xpath>
+    <value><label>心魂升华</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="HAR_LL_Hediff_m"]/label</xpath>
+    <value><label>神子骑士</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/DamageDef[defName="HAR_LL_Skill_MIKO_Damage_b"]/label</xpath>
+    <value><label>神子骑士</label></value>
+  </Operation>
+</Patch>

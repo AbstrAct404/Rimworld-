@@ -85,7 +85,7 @@ try
 
         SteamAPICall_t apiCall = SteamUGC.SubmitItemUpdate(
             handle,
-            "补全了部分缺失文本并修复了部分名称显示。"
+            "补全了健康状态、基因分类与装备效果显示文本。"
         );
 
         bool finished = false;
