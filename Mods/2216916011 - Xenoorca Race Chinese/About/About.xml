@@ -50,5 +50,10 @@
   </modDependencies>
   <loadAfter>
     <li>Ayameduki.HARXenoorca</li>
+    <li>Ayameduki.HARXenoorcaEX</li>
   </loadAfter>
+  <forceLoadAfter>
+    <li>Ayameduki.HARXenoorca</li>
+    <li>Ayameduki.HARXenoorcaEX</li>
+  </forceLoadAfter>
 </ModMetaData>

@@ -1,12 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Aya_CI_Artifact_a.description>由灵油创造而成的璀璨药剂。\n使用后，使用者的生命力将获得提升。\n力量拥有等级，最大等级为50。\n\n效果为各部位耐久值会依照等级提升而上升。\n\n达到等级 10 时的奖励：［出血无效］］\n达到等级 30 时的奖励：［毒耐性　真空耐性］\n\n\n\n相传远古时代，人工种族的造物主将此祝福的圣水赐予居住于迦南的人类。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n原本是创造迦南的灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_a.description>
+  <Aya_CI_Artifact_a.description>由灵油创造而成的璀璨药剂。
+使用后，使用者的生命力将获得提升。
+增益存在等级，最大等级为50。
+
+效果为各部位耐久值会依照等级提升而上升。
+
+达到等级 10 时的奖励：［出血无效］］
+达到等级 30 时的奖励：［毒耐性　真空耐性］
+
+
+
+相传远古时代，人工种族的造物主将此祝福的圣水赐予居住于迦南的人类。
+那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。
+人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。
+
+
+原本是创造迦南的灵长「伊什穆提特」过程中所诞生的副产物。
+如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_a.description>
   <Aya_CI_Artifact_a.label>生命圣餐药</Aya_CI_Artifact_a.label>
-  <Aya_CI_Artifact_b.description>由灵油创造而成的璀璨药剂。\n使用后，使用者的生命力将获得提升。\n力量拥有等级，最大等级为50。\n\n效果为强化身体能力、移动速度、伤害减免率。\n强化幅度会在后半逐渐提升。\n\n达到等级 10 时的奖励：［制作具有品质的物品时，品质提升1级］］\n达到等级 30 时的奖励：［将30以上受到的伤害削减至30］\n\n相传远古时代，人工种族的造物主将此祝福的圣水赐予居住于迦南的人类。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n原本是创造迦南的灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_b.description>
+  <Aya_CI_Artifact_b.description>由灵油创造而成的璀璨药剂。
+使用后，使用者的生命力将获得提升。
+增益存在等级，最大等级为50。
+
+效果为强化身体能力、移动速度、伤害减免率。
+强化幅度会在后半逐渐提升。
+
+达到等级 10 时的奖励：［制作具有品质的物品时，品质提升1级］］
+达到等级 30 时的奖励：［将30以上受到的伤害削减至30］
+
+相传远古时代，人工种族的造物主将此祝福的圣水赐予居住于迦南的人类。
+那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。
+人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。
+
+
+原本是创造迦南的灵长「伊什穆提特」过程中所诞生的副产物。
+如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_b.description>
   <Aya_CI_Artifact_b.label>淬体圣餐药</Aya_CI_Artifact_b.label>
-  <Aya_CI_Artifact_c.description>由灵油创造而成的璀璨药剂。\n使用后，使用者的精神力将获得提升。\n力量拥有等级，最大等级为50。\n\n效果为强化意识、射击间隔、医疗、种植、社交。\n强化幅度从中段逐渐提升。\n\n达到等级 10 时的奖励：［负面心情减半（小数点向下舍去）］\n达到等级 30 时的奖励：［状态上限无效化］\n\n相传远古时代，人工种族的造物主将此祝福的圣水赐予居住于迦南的人类。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n原本是创造迦南的灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_c.description>
+  <Aya_CI_Artifact_c.description>由灵油创造而成的璀璨药剂。
+使用后，使用者的精神力将获得提升。
+增益存在等级，最大等级为50。
+
+效果为强化意识、射击间隔、医疗、种植、社交。
+强化幅度从中段逐渐提升。
+
+达到等级 10 时的奖励：［负面心情减半（小数点向下舍去）］
+达到等级 30 时的奖励：［状态上限无效化］
+
+相传远古时代，人工种族的造物主将此祝福的圣水赐予居住于迦南的人类。
+那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。
+人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。
+
+
+原本是创造迦南的灵长「伊什穆提特」过程中所诞生的副产物。
+如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_c.description>
   <Aya_CI_Artifact_c.label>通心圣餐药</Aya_CI_Artifact_c.label>
-  <Aya_CI_Artifact_x.description>由灵油创造而成的璀璨药剂。\n使用后，使用者造成的伤害将获得提升。\n力量拥有等级，最大等级为50。\n\n效果为造成的伤害依照等级提升约1.2倍（等级50时为10倍）。\n\n相传远古时代，人工种族的造物主将此圣水赐予居住于迦南的人类，作为祝福。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n它原本是创造迦南灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_x.description>
+  <Aya_CI_Artifact_x.description>由灵油创造而成的璀璨药剂。
+使用后，使用者造成的伤害将获得提升。
+增益存在等级，最大等级为50。
+
+效果为造成的伤害依照等级提升约1.2倍（等级50时为10倍）。
+
+相传远古时代，人工种族的造物主将此圣水赐予居住于迦南的人类，作为祝福。
+那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。
+人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。
+
+
+它原本是创造迦南灵长「伊什穆提特」过程中所诞生的副产物。
+如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_x.description>
   <Aya_CI_Artifact_x.label>威能圣餐药</Aya_CI_Artifact_x.label>
   <Aya_CI_Book_a.label>迦南创世记</Aya_CI_Book_a.label>
   <Aya_CI_Bullet_Phobia_a.label>腐败恐惧</Aya_CI_Bullet_Phobia_a.label>
@@ -25,7 +86,7 @@
   <Aya_CI_Permit_a.label>特异制造许可证</Aya_CI_Permit_a.label>
   <Aya_CI_Skill_Gain_a.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［混沌跃迁］\n传送至指定格子。\n潜伏于深渊的混沌灵之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_a.description>
   <Aya_CI_Skill_Gain_a.label>始原之淀：混沌跃迁</Aya_CI_Skill_Gain_a.label>
-  <Aya_CI_Skill_Gain_b.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［反物质新星］\n在指定格子引发反物质爆炸。\n破坏万物的索拉克（龙姬）之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_b.description>
+  <Aya_CI_Skill_Gain_b.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［反物质新星］\n在指定格子引发反物质爆炸。\n破坏万物的XQAYA_索拉克（索拉克）_DRAGON_PRINCESS_QX（XQAYA_索拉克（索拉克）_DRAGON_PRINCESS_QX（索拉克））（XQAYA_索拉克（索拉克）_DRAGON_PRINCESS_QX（索拉克））之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_b.description>
   <Aya_CI_Skill_Gain_b.label>始原之淀：反物质新星</Aya_CI_Skill_Gain_b.label>
   <Aya_CI_Skill_Gain_c.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［烈焰爆炎］\n在指定格子引发火焰爆炸。\n掌管锻造的亚人兽娘之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_c.description>
   <Aya_CI_Skill_Gain_c.label>始原之淀：烈焰爆炎</Aya_CI_Skill_Gain_c.label>
@@ -121,11 +182,8 @@
   <BOSS_RQ_Bullet_a.label>雏鸟凝望</BOSS_RQ_Bullet_a.label>
   <BOSS_RQ_Bullet_b.label>雏鸟泣血</BOSS_RQ_Bullet_b.label>
   <BOSS_RQ_Drop_Base.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_Base.description>
-  <BOSS_RQ_Drop_a.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_a.description>
   <BOSS_RQ_Drop_a.label>女王种的部件</BOSS_RQ_Drop_a.label>
-  <BOSS_RQ_Drop_b.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_b.description>
   <BOSS_RQ_Drop_b.label>女王种的部件</BOSS_RQ_Drop_b.label>
-  <BOSS_RQ_Drop_c.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_c.description>
   <BOSS_RQ_Drop_c.label>女王种的部件</BOSS_RQ_Drop_c.label>
   <BOSS_RQ_Gun_TurretSniper.label>审判</BOSS_RQ_Gun_TurretSniper.label>
   <BOSS_RQ_Gun_TurretSniper_b.label>圣约</BOSS_RQ_Gun_TurretSniper_b.label>
@@ -1210,45 +1268,15 @@
 
 受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_Base.description>
   <HAR_QL_M_Race_Base.label>密特拉玛阿哈</HAR_QL_M_Race_Base.label>
-  <HAR_QL_M_Race_NPC_a.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
-
-受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_a.description>
   <HAR_QL_M_Race_NPC_a.label>宝冠天使（夜魔）</HAR_QL_M_Race_NPC_a.label>
-  <HAR_QL_M_Race_NPC_b.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
-
-受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_b.description>
   <HAR_QL_M_Race_NPC_b.label>宝冠天使（人鱼）</HAR_QL_M_Race_NPC_b.label>
-  <HAR_QL_M_Race_NPC_c.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
-
-受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_c.description>
   <HAR_QL_M_Race_NPC_c.label>宝冠天使（亚人）</HAR_QL_M_Race_NPC_c.label>
-  <HAR_QL_M_Race_NPC_d.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
-
-受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_d.description>
   <HAR_QL_M_Race_NPC_d.label>宝冠天使（异形）</HAR_QL_M_Race_NPC_d.label>
-  <HAR_QL_M_Race_NPC_e.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
-
-受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_e.description>
   <HAR_QL_M_Race_NPC_e.label>宝冠天使（龙人）</HAR_QL_M_Race_NPC_e.label>
-  <HAR_QL_M_Race_a.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
-
-受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_a.description>
   <HAR_QL_M_Race_a.label>宝冠天使（夜魔）</HAR_QL_M_Race_a.label>
-  <HAR_QL_M_Race_b.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
-
-受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_b.description>
   <HAR_QL_M_Race_b.label>宝冠天使（人鱼）</HAR_QL_M_Race_b.label>
-  <HAR_QL_M_Race_c.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
-
-受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_c.description>
   <HAR_QL_M_Race_c.label>宝冠天使（亚人）</HAR_QL_M_Race_c.label>
-  <HAR_QL_M_Race_d.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
-
-受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_d.description>
   <HAR_QL_M_Race_d.label>宝冠天使（异形）</HAR_QL_M_Race_d.label>
-  <HAR_QL_M_Race_e.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。
-
-受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_e.description>
   <HAR_QL_M_Race_e.label>宝冠天使（龙人）</HAR_QL_M_Race_e.label>
   <HAR_QL_O_a.description>库莉菈们所穿着的套装，尽管面料很薄，但其性能至高足以使穿着者在极地自由活动。</HAR_QL_O_a.description>
   <HAR_QL_O_a.label>言语礼装 A</HAR_QL_O_a.label>
@@ -1341,11 +1369,23 @@
   <HAR_SK_Archotech_b.label>亚人工业黑色券</HAR_SK_Archotech_b.label>
   <HAR_SK_Archotech_c.description>“殖民地需要心灵上的治愈吗？ \n你需要一只黏人的小猫！”使用后能召唤出柔顺的猫的券。\n没人知道它是基于何种原理起作用的。</HAR_SK_Archotech_c.description>
   <HAR_SK_Archotech_c.label>宠物券</HAR_SK_Archotech_c.label>
-  <HAR_SK_Archotech_d.description>“为人手不足的你带来一个好消息！\n奴性全开的社畜制作完成！”\n\n使用后能召唤飞蛾姬的券。\n没人知道它是基于何种原理起作用的。\n\n\n\n译者注：飞蛾姬出自作者的另一个mod：飞蛾姬</HAR_SK_Archotech_d.description>
+  <HAR_SK_Archotech_d.description>“为人手不足的你带来一个好消息！
+奴性全开的社畜制作完成！”
+
+使用后可召唤飞蛾姬。
+无人知晓它的运作原理。</HAR_SK_Archotech_d.description>
   <HAR_SK_Archotech_d.label>飞蛾姬券</HAR_SK_Archotech_d.label>
-  <HAR_SK_Archotech_e.description>“在遗迹转了半天也没见到交易对象！！！\n我等将回应你的呼喊！”\n使用后能召唤幽灵姬的券。\n没人知道它是基于何种原理起作用的。\n\n\n\n译者注：幽灵姬出自作者的另一个mod：幽灵姬</HAR_SK_Archotech_e.description>
+  <HAR_SK_Archotech_e.description>“在遗迹转了半天也没见到交易对象！！！
+我等将回应你的呼喊！”
+
+使用后可召唤幽灵姬。
+无人知晓它的运作原理。</HAR_SK_Archotech_e.description>
   <HAR_SK_Archotech_e.label>幽灵姬券</HAR_SK_Archotech_e.label>
-  <HAR_SK_Archotech_f.description>“那个小家伙还没来殖民地…\n那样的话直接叫过来就好了！”\n\n使用后能召唤伪神族的券。\n没人知道它是基于何种原理起作用的。\n\n\n\n译者注：伪神族出自作者的另一个mod：伪神族</HAR_SK_Archotech_f.description>
+  <HAR_SK_Archotech_f.description>“那个小家伙还没来殖民地……
+那样的话直接叫过来就好了！”
+
+使用后可召唤伪神族。
+无人知晓它的运作原理。</HAR_SK_Archotech_f.description>
   <HAR_SK_Archotech_f.label>小人族券</HAR_SK_Archotech_f.label>
   <HAR_SK_Art_a.description>某外星球上用来运输的交通工具。遗憾的是并不兼容边缘世界的燃料，因此它无法移动。</HAR_SK_Art_a.description>
   <HAR_SK_Art_a.label>观赏用卡车</HAR_SK_Art_a.label>

@@ -2,6 +2,56 @@
 <Patch>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Aya_CI_Artifact_a"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Aya_CI_Artifact_a"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>使用 {0}</useLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Aya_CI_Artifact_b"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Aya_CI_Artifact_b"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>使用 {0}</useLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Aya_CI_Artifact_c"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Aya_CI_Artifact_c"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>使用 {0}</useLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Aya_CI_Artifact_x"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Aya_CI_Artifact_x"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>使用 {0}</useLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_a"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_a"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>使用 {0} 以获得能力</useLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
     <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_a"]/comps[1]/li[2]/skillCompProperties[1]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
       <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_a"]/comps[1]/li[2]/skillCompProperties[1]/commandLabel[1]</xpath>
@@ -17,6 +67,16 @@
       <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_a"]/comps[1]/li[2]/skillCompProperties[1]/commandDesc[1]</xpath>
       <value>
         <commandDesc>瞬间传送至指定位置。</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_b"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_b"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>使用 {0} 以获得能力</useLabel>
       </value>
     </match>
   </Operation>
@@ -42,6 +102,16 @@
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_c"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_c"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>使用 {0} 以获得能力</useLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
     <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_c"]/comps[1]/li[2]/skillCompProperties[1]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
       <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_c"]/comps[1]/li[2]/skillCompProperties[1]/commandLabel[1]</xpath>
@@ -57,6 +127,16 @@
       <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_c"]/comps[1]/li[2]/skillCompProperties[1]/commandDesc[1]</xpath>
       <value>
         <commandDesc>在指定位置引发半径6格的反物质爆炸。</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_d"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_d"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>使用 {0} 以获得能力</useLabel>
       </value>
     </match>
   </Operation>
@@ -82,6 +162,16 @@
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_e"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_e"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>使用 {0} 以获得能力</useLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
     <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_e"]/comps[1]/li[2]/skillCompProperties[1]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
       <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_e"]/comps[1]/li[2]/skillCompProperties[1]/commandLabel[1]</xpath>
@@ -97,6 +187,16 @@
       <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_e"]/comps[1]/li[2]/skillCompProperties[1]/commandDesc[1]</xpath>
       <value>
         <commandDesc>斩击指定位置周围4格内的所有非殖民者目标并迫使其出血。</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_f"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_f"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>使用 {0} 以获得能力</useLabel>
       </value>
     </match>
   </Operation>
@@ -122,6 +222,16 @@
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_g"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_g"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>使用 {0} 以获得能力</useLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
     <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_g"]/comps[1]/li[2]/skillCompProperties[1]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
       <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_g"]/comps[1]/li[2]/skillCompProperties[1]/commandLabel[1]</xpath>
@@ -137,6 +247,16 @@
       <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_g"]/comps[1]/li[2]/skillCompProperties[1]/commandDesc[1]</xpath>
       <value>
         <commandDesc>为指定位置周围5格内的所有殖民者施加屏障。</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_h"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_h"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>使用 {0} 以获得能力</useLabel>
       </value>
     </match>
   </Operation>
@@ -162,6 +282,16 @@
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_i"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_i"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>使用 {0} 以获得能力</useLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
     <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_i"]/comps[1]/li[2]/skillCompProperties[1]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
       <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_i"]/comps[1]/li[2]/skillCompProperties[1]/commandLabel[1]</xpath>
@@ -177,6 +307,16 @@
       <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_i"]/comps[1]/li[2]/skillCompProperties[1]/commandDesc[1]</xpath>
       <value>
         <commandDesc>治疗指定位置周围5格内的所有非敌对目标。</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_j"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Aya_CI_Skill_Gain_j"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>使用 {0} 以获得能力</useLabel>
       </value>
     </match>
   </Operation>

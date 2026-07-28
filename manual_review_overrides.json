@@ -139,6 +139,10 @@
     "Littluna_Faction_NPC_b.fixedName": "狂乱少女众"
   },
   "2198830432": {
+    "Nearmaere_Faction_NPC.label": "魅魔氏族",
+    "HAR_NM_R_Weapon_A.label": "幻觉兵器研究·一",
+    "HAR_NM_R_Weapon_B.label": "幻觉兵器研究·二",
+    "HAR_NM_R_Weapon_C.label": "幻觉兵器研究·三",
     "NM_M_NightStalker_Base.description": "魅魔召唤的迅捷眷属。虽然单次杀伤力不及座狼，但行动极快，猎物很难逃脱。它的利爪与獠牙带有剧毒；即使将其击退，遭到攻击者仍需及时处理毒素。",
     "NM_M_NightGaunts_Base.description": "魅魔召唤的眷属。它的触手能够令接触部位的温度骤然变化：目标可能被瞬间夺走热量，也可能被灌入足以引燃身体的高热。",
     "NM_M_Nightmare_Base.description": "魅魔召唤的重型眷属。它拥有惊人的坚韧与庞大身躯，能以沉重冲击压制敌人，使其难以还手。",
@@ -184,6 +188,7 @@
     "HAR_M_NightGaunts_Kind_Base.labelMale": "夜魇",
     "HAR_M_NightGaunts_Kind_Base.labelFemale": "夜魇",
     "HAR_M_TES_Kind_Base.label": "茨鲁埃萨",
+    "HAR_Nearmaere_Player.label": "魅魔殖民者",
     "HAR_Nearmaere_KindBase_NPC_c.label": "魅魔·魔女系",
     "HAR_Nearmaere_KindBase_NPC_e.label": "魅魔·改良系",
     "NM_M_NightGaunts_Base.label": "夜魇",
@@ -228,11 +233,21 @@
   },
   "2233666290": {
     "Silkiera_Keyed_MailOrderPreparingError": "该商家无效。",
+    "HAR_SK_I_M_Research_Recycle_A.label": "亚人工业回收店",
+    "HAR_SK_I_M_Research_Refinery_A.label": "亚人工业炼油机",
     "HAR_SK_AT_c.label": "居家服（亚人兽娘）",
     "HAR_Silkiera_BaseNRPawn_b.description": "亚人兽娘是某个宙族派系以人工种族魅魔为基础，为充当劳动力而非生物兵器进行调整并量产的人工种族。为抑制反叛，她们的身体能力被设定得弱于人类，并被赋予乐于劳动的倾向；由于新加入了小动物基因，许多个体也十分亲人。\n\n离开创造者以前，她们主要从事制造工作；此后似乎利用这些经验，经营生产武器与工具的工厂。\n\n由于以魅魔为原型，她们可以穿戴魅魔的服装。",
     "BMOT_Building_MailOrderTerminal_Base.description": "邮购终端。足不出户便可立即购买所需商品。",
     "HAR_SK_TableBase.description": "亚人工业制造的桌子，中央采用透明玻璃，看起来颇为高档。",
-    "HAR_SK_Refinery_WorkGiver.label": "炼油"
+    "HAR_SK_Refinery_WorkGiver.label": "炼油",
+    "HAR_SK_Recipe_Recycle_a.label": "回收：所有武器",
+    "HAR_SK_Recipe_Recycle_b.label": "回收：所有护甲",
+    "HAR_SK_Recipe_Recycle_c.label": "回收：污染物",
+    "HAR_SK_Recipe_exchange_e.label": "兑换：亚人工业路灯",
+    "HAR_SK_Recipe_exchange_n.label": "兑换：超凡碎片",
+    "HAR_SK_Archotech_d.description": "“为人手不足的你带来一个好消息！\n奴性全开的社畜制作完成！”\n\n使用后可召唤飞蛾姬。\n无人知晓它的运作原理。",
+    "HAR_SK_Archotech_e.description": "“在遗迹转了半天也没见到交易对象！！！\n我等将回应你的呼喊！”\n\n使用后可召唤幽灵姬。\n无人知晓它的运作原理。",
+    "HAR_SK_Archotech_f.description": "“那个小家伙还没来殖民地……\n那样的话直接叫过来就好了！”\n\n使用后可召唤伪神族。\n无人知晓它的运作原理。"
   },
   "2608237489": {
     "HAR_Solark_b.description": "“龙王种·索拉克·赫雷勒夫”是以进一步强化高端型索拉克为目标创造、却始终未能完成的上位种。她在维持人形的同时凝聚了龙与反物质的力量，不仅能够装备武器，释放反物质能力的间隔也更短。\n\n她原本被设计为统领索拉克的存在，但要把龙与反物质的强大力量稳定在人形躯体中，需要经历漫长休眠，因此在创造者时代未能完成。如今她已稳定，不再有暴走风险。\n\n其最大特点是能够通过“龙体化”进入强力战斗形态。由反物质构成的龙躯足以撕裂并蹂躏一切；由于只是将龙躯覆于体表，她仍可在该状态下开枪射击。\n\n强大性能也意味着比普通索拉克消耗更多能量，食量极大。\n\n由于仍是人形，她可以穿戴魅魔的服装。",
@@ -261,10 +276,19 @@
   },
   "2216916011": {
     "Aya_Race_Ap_XO_C_T_a.label": "儿童异度礼装",
+    "Xenoorca_P_Faction.pawnsPlural": "人鱼姬",
+    "Xenoorca_Faction_NPC_b.pawnsPlural": "人鱼姬",
+    "Xenoorca_Faction_NPC.pawnsPlural": "人鱼姬",
     "HAR_XO_AT_a.label": "异度礼装 A（人鱼姬）",
     "HAR_XO_AT_b.label": "异度礼装 B（人鱼姬）",
     "HAR_XO_AT_c.label": "异度礼装 C（人鱼姬）",
     "HAR_Xenoorca_KindBase_NPC_b.label": "逆戟鲸佣兵团士兵",
     "HAR_Xenoorca_KindBase_NPC.label": "奥尔基努斯旅团士兵"
+  },
+  "3750626266": {
+    "Aya_CI_Artifact_a.description": "由灵油创造而成的璀璨药剂。\n使用后，使用者的生命力将获得提升。\n增益存在等级，最大等级为50。\n\n效果为各部位耐久值会依照等级提升而上升。\n\n达到等级 10 时的奖励：［出血无效］］\n达到等级 30 时的奖励：［毒耐性　真空耐性］\n\n\n\n相传远古时代，人工种族的造物主将此祝福的圣水赐予居住于迦南的人类。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n原本是创造迦南的灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。",
+    "Aya_CI_Artifact_b.description": "由灵油创造而成的璀璨药剂。\n使用后，使用者的生命力将获得提升。\n增益存在等级，最大等级为50。\n\n效果为强化身体能力、移动速度、伤害减免率。\n强化幅度会在后半逐渐提升。\n\n达到等级 10 时的奖励：［制作具有品质的物品时，品质提升1级］］\n达到等级 30 时的奖励：［将30以上受到的伤害削减至30］\n\n相传远古时代，人工种族的造物主将此祝福的圣水赐予居住于迦南的人类。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n原本是创造迦南的灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。",
+    "Aya_CI_Artifact_c.description": "由灵油创造而成的璀璨药剂。\n使用后，使用者的精神力将获得提升。\n增益存在等级，最大等级为50。\n\n效果为强化意识、射击间隔、医疗、种植、社交。\n强化幅度从中段逐渐提升。\n\n达到等级 10 时的奖励：［负面心情减半（小数点向下舍去）］\n达到等级 30 时的奖励：［状态上限无效化］\n\n相传远古时代，人工种族的造物主将此祝福的圣水赐予居住于迦南的人类。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n原本是创造迦南的灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。",
+    "Aya_CI_Artifact_x.description": "由灵油创造而成的璀璨药剂。\n使用后，使用者造成的伤害将获得提升。\n增益存在等级，最大等级为50。\n\n效果为造成的伤害依照等级提升约1.2倍（等级50时为10倍）。\n\n相传远古时代，人工种族的造物主将此圣水赐予居住于迦南的人类，作为祝福。\n那是仅凭知识与技术便能行使、堪称权能的伟业，能够提升种族本身的阶位。\n人类借由使用此物，即便仍是人类之身，也能发挥与人工种族不相逊色的战斗能力。\n\n\n它原本是创造迦南灵长「伊什穆提特」过程中所诞生的副产物。\n如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。"
   }
 }

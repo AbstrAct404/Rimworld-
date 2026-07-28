@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_CO_Hediff_a.label>永夜循环器（活性）</HAR_CO_Hediff_a.label>
   <HAR_CO_Hediff_a.description>混沌灵的宇宙之影辅助器官，处于完全黑暗时能使肉体活性化，提高身体能力，并使射击无效化。作为代价，当日光强烈时该器官会变为非活性状态，混沌灵的动作将变迟钝。</HAR_CO_Hediff_a.description>
+  <HAR_CO_Hediff_b.label>永夜循环器（非活性）</HAR_CO_Hediff_b.label>
   <HAR_CO_Hediff_b.description>混沌灵的宇宙之影辅助器官，处于完全黑暗时能使肉体活性化，提高身体能力，并使射击无效化。作为代价，当日光强烈时该器官会变为非活性状态，混沌灵的动作将变迟钝。</HAR_CO_Hediff_b.description>
   <HAR_CO_Hediff_c.label>深渊腐败</HAR_CO_Hediff_c.label>
   <HAR_CO_Hediff_c.description>当对混沌灵做出具有敌意的物理行为时产生的现象。\n深渊腐败并发“晦冥肿胀”，会逐渐降低身体机能。晦冥肿胀只发生在生物体上，所以对机械生命不起作用。\n\n只要停止对混沌灵的敌意行为，深渊腐败很快便会消散。</HAR_CO_Hediff_c.description>

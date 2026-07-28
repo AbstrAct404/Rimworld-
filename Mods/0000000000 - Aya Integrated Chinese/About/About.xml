@@ -7,7 +7,13 @@
 
 可只安装自己使用的原模组，无需安装整合包支持的全部种族。请将本汉化置于所有 Aya 原模组之后加载；不要与对应的独立汉化包同时启用。
 
-当前收录 21 个原模组，共合并 3226 条游戏文本。
+【EX 扩展说明】
+Idhale EX、Littluna EX、Nearmare EX、Neclose EX、Silkiera EX、Solark EX、Xenoorca EX 等原作者 EX 模组是上位种内容的启用开关。上位种的 Def、代码与资源位于对应种族本体中；未安装或未启用 EX 时，这些条件内容不会载入。RimWorld 1.5/1.6 如需使用上位种，请同时安装并启用对应的原 EX 模组。只有 About/翻译文件的汉化包不能替代原 EX。
+
+当前收录 21 个原模组，共合并 3232 条游戏文本。
+
+【本次更新】
+补全亚人工业回收店、亚人工业炼油机及幻觉兵器系列研究名称；补全人鱼姬袭击事件中的种族称谓；修复影之头盔、影之斗篷等装备名称回退；完整汉化各族自定义技能名称与说明，并复核技能、基因及异种类型文本；补全 5 个种族剧本的标题、摘要与专属开场信件，避免回退为原版三人开局文本；修复上一版本补丁加载条件不匹配、上述剧本与技能翻译未实际生效的问题。
 
 【收录内容】
 【核心与叙事】
@@ -66,13 +72,21 @@
   </supportedVersions>
   <loadAfter>
     <li>Ayameduki.HARNearmare</li>
+    <li>Ayameduki.HARNearmareEX</li>
     <li>Ayameduki.HARXenoorca</li>
+    <li>Ayameduki.HARXenoorcaEX</li>
     <li>Ayameduki.HARIdhale</li>
+    <li>Ayameduki.HARIdhaleEX</li>
     <li>Ayameduki.HARSilkiera</li>
+    <li>Ayameduki.HARSilkieraEX</li>
     <li>Ayameduki.HARNeclose</li>
+    <li>Ayameduki.HARNecloseEX</li>
+    <li>Ayameduki.HARNecloseUC</li>
     <li>Ayameduki.BOSSRequeen</li>
     <li>Ayameduki.HARLittluna</li>
+    <li>Ayameduki.HARLittlunaEX</li>
     <li>Ayameduki.HARSolark</li>
+    <li>Ayameduki.HARSolarkEX</li>
     <li>Ayameduki.HARSaclean</li>
     <li>Ayameduki.HARNexaga</li>
     <li>Ayameduki.BOSSEnforcer</li>
@@ -87,4 +101,35 @@
     <li>Ayameduki.HAROuterm</li>
     <li>Ayameduki.AyaCanaanIntellect</li>
   </loadAfter>
+  <forceLoadAfter>
+    <li>Ayameduki.HARNearmare</li>
+    <li>Ayameduki.HARNearmareEX</li>
+    <li>Ayameduki.HARXenoorca</li>
+    <li>Ayameduki.HARXenoorcaEX</li>
+    <li>Ayameduki.HARIdhale</li>
+    <li>Ayameduki.HARIdhaleEX</li>
+    <li>Ayameduki.HARSilkiera</li>
+    <li>Ayameduki.HARSilkieraEX</li>
+    <li>Ayameduki.HARNeclose</li>
+    <li>Ayameduki.HARNecloseEX</li>
+    <li>Ayameduki.HARNecloseUC</li>
+    <li>Ayameduki.BOSSRequeen</li>
+    <li>Ayameduki.HARLittluna</li>
+    <li>Ayameduki.HARLittlunaEX</li>
+    <li>Ayameduki.HARSolark</li>
+    <li>Ayameduki.HARSolarkEX</li>
+    <li>Ayameduki.HARSaclean</li>
+    <li>Ayameduki.HARNexaga</li>
+    <li>Ayameduki.BOSSEnforcer</li>
+    <li>Ayameduki.HARQualeela</li>
+    <li>Ayameduki.HARIdearn</li>
+    <li>Ayameduki.HARChaoura</li>
+    <li>Ayameduki.IdeaStoryteller</li>
+    <li>Ayameduki.HAREveliet</li>
+    <li>Ayameduki.HARZoichor</li>
+    <li>Ayameduki.HARChaouraUB</li>
+    <li>Ayameduki.AyaRacePremise</li>
+    <li>Ayameduki.HAROuterm</li>
+    <li>Ayameduki.AyaCanaanIntellect</li>
+  </forceLoadAfter>
 </ModMetaData>

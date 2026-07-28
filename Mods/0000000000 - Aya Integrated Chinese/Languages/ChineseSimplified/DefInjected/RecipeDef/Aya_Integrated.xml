@@ -91,9 +91,11 @@
   <HAR_SK_Cook_f.jobString>制作兽娘罐头(四人份)</HAR_SK_Cook_f.jobString>
   <HAR_SK_Cook_f.label>制作兽娘罐头(四人份)</HAR_SK_Cook_f.label>
   <HAR_SK_Recipe_Recycle_a.description>不需要的武器可以回收给亚人工业。\n作为谢礼，你将得到猫咪印章。</HAR_SK_Recipe_Recycle_a.description>
+  <HAR_SK_Recipe_Recycle_a.label>回收：所有武器</HAR_SK_Recipe_Recycle_a.label>
   <HAR_SK_Recipe_Recycle_b.description>不需要的护甲可以回收给亚人工业。\n作为谢礼，你将得到猫咪印章。</HAR_SK_Recipe_Recycle_b.description>
-  <HAR_SK_Recipe_Recycle_b.label>回收：全部护甲</HAR_SK_Recipe_Recycle_b.label>
+  <HAR_SK_Recipe_Recycle_b.label>回收：所有护甲</HAR_SK_Recipe_Recycle_b.label>
   <HAR_SK_Recipe_Recycle_c.description>每次可将10份污染垃圾回收给亚人工业。\n作为谢礼，你将得到猫咪印章。</HAR_SK_Recipe_Recycle_c.description>
+  <HAR_SK_Recipe_Recycle_c.label>回收：污染物</HAR_SK_Recipe_Recycle_c.label>
   <HAR_SK_Recipe_Refinery_a.description>将岩石液化，从中提炼化学燃料。</HAR_SK_Recipe_Refinery_a.description>
   <HAR_SK_Recipe_Refinery_a.label>从岩石中提炼化学燃料</HAR_SK_Recipe_Refinery_a.label>
   <HAR_SK_Recipe_exchange_a.description>使用500个猫咪印章交换治愈机械液。</HAR_SK_Recipe_exchange_a.description>
@@ -105,6 +107,7 @@
   <HAR_SK_Recipe_exchange_d.description>使用3000个猫咪印章交换黑色券。</HAR_SK_Recipe_exchange_d.description>
   <HAR_SK_Recipe_exchange_d.label>交换：黑色券</HAR_SK_Recipe_exchange_d.label>
   <HAR_SK_Recipe_exchange_e.description>使用500个猫咪印章交换亚人工业路灯。</HAR_SK_Recipe_exchange_e.description>
+  <HAR_SK_Recipe_exchange_e.label>兑换：亚人工业路灯</HAR_SK_Recipe_exchange_e.label>
   <HAR_SK_Recipe_exchange_f.description>使用50个猫咪印章交换宠物券。</HAR_SK_Recipe_exchange_f.description>
   <HAR_SK_Recipe_exchange_f.label>交换：宠物券</HAR_SK_Recipe_exchange_f.label>
   <HAR_SK_Recipe_exchange_g.description>使用50个猫咪印章交换魔鬼素。</HAR_SK_Recipe_exchange_g.description>
@@ -118,6 +121,7 @@
   <HAR_SK_Recipe_exchange_k.description>使用2500个猫咪印章交换小人族券。</HAR_SK_Recipe_exchange_k.description>
   <HAR_SK_Recipe_exchange_k.label>交换：小人族券</HAR_SK_Recipe_exchange_k.label>
   <HAR_SK_Recipe_exchange_n.description>使用50个猫咪印章交换暗黑超凡碎片。</HAR_SK_Recipe_exchange_n.description>
+  <HAR_SK_Recipe_exchange_n.label>兑换：超凡碎片</HAR_SK_Recipe_exchange_n.label>
   <HAR_ZC_Cook_a.description>将米煮熟，制作出四人份员工餐的松饼。</HAR_ZC_Cook_a.description>
   <HAR_ZC_Cook_a.jobString>烹调员工餐的松饼x4</HAR_ZC_Cook_a.jobString>
   <HAR_ZC_Cook_a.label>烹调员工餐的松饼x4</HAR_ZC_Cook_a.label>

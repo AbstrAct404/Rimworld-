@@ -43,4 +43,7 @@
   <loadAfter>
     <li>Ayameduki.AyaCanaanIntellect</li>
   </loadAfter>
+  <forceLoadAfter>
+    <li>Ayameduki.AyaCanaanIntellect</li>
+  </forceLoadAfter>
 </ModMetaData>

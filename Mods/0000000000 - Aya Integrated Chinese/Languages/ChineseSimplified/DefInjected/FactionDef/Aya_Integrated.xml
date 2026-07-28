@@ -16,11 +16,9 @@
   <Eveliet_P_Faction.description>伊娃莉特们聚集在一起平静生活的居住点。</Eveliet_P_Faction.description>
   <Eveliet_P_Faction.label>伊娃莉特的隐居地</Eveliet_P_Faction.label>
   <Eveliet_P_Faction.pawnSingular>伊娃莉特</Eveliet_P_Faction.pawnSingular>
-  <Eveliet_P_Faction.pawnsPlural>伊娃莉特</Eveliet_P_Faction.pawnsPlural>
   <Idearn_P_Faction.description>伊迪安的隐秘居所</Idearn_P_Faction.description>
   <Idearn_P_Faction.label>伊迪安之乡</Idearn_P_Faction.label>
   <Idearn_P_Faction.pawnSingular>伊迪安</Idearn_P_Faction.pawnSingular>
-  <Idearn_P_Faction.pawnsPlural>伊迪安</Idearn_P_Faction.pawnsPlural>
   <Idhale_Faction_NPC.description>幽灵姬的隐秘居所</Idhale_Faction_NPC.description>
   <Idhale_Faction_NPC.label>幽灵姬隐居地</Idhale_Faction_NPC.label>
   <Idhale_Faction_NPC.pawnSingular>幽灵姬人</Idhale_Faction_NPC.pawnSingular>
@@ -68,15 +66,12 @@
   <Neclose_Faction_NPC.fixedName>牧菌战团</Neclose_Faction_NPC.fixedName>
   <Neclose_Faction_NPC.label>牧菌战团</Neclose_Faction_NPC.label>
   <Neclose_Faction_NPC.pawnSingular>牧菌妖姬</Neclose_Faction_NPC.pawnSingular>
-  <Neclose_Faction_NPC.pawnsPlural>牧菌妖姬</Neclose_Faction_NPC.pawnsPlural>
   <Neclose_Faction_NPC_b.fixedName>昏暗之物</Neclose_Faction_NPC_b.fixedName>
   <Neclose_Faction_NPC_b.label>昏暗之物</Neclose_Faction_NPC_b.label>
   <Neclose_Faction_NPC_b.pawnSingular>牧菌妖姬</Neclose_Faction_NPC_b.pawnSingular>
-  <Neclose_Faction_NPC_b.pawnsPlural>牧菌妖姬</Neclose_Faction_NPC_b.pawnsPlural>
   <Neclose_P_Faction.description>牧菌妖姬们聚集在一起愉快生活的地方。</Neclose_P_Faction.description>
   <Neclose_P_Faction.label>牧菌妖姬的隐居之处</Neclose_P_Faction.label>
   <Neclose_P_Faction.pawnSingular>牧菌妖姬</Neclose_P_Faction.pawnSingular>
-  <Neclose_P_Faction.pawnsPlural>牧菌妖姬</Neclose_P_Faction.pawnsPlural>
   <Nexaga_Faction_NPC.description>由混血种组成的中立派系。</Nexaga_Faction_NPC.description>
   <Nexaga_Faction_NPC.label>混血种同盟</Nexaga_Faction_NPC.label>
   <Nexaga_Faction_NPC.pawnSingular>混血种</Nexaga_Faction_NPC.pawnSingular>
@@ -113,11 +108,9 @@
   <Solark_Faction_NPC.fixedName>阿德莱·吉贝尔</Solark_Faction_NPC.fixedName>
   <Solark_Faction_NPC.label>索拉克派系</Solark_Faction_NPC.label>
   <Solark_Faction_NPC.pawnSingular>索拉克</Solark_Faction_NPC.pawnSingular>
-  <Solark_Faction_NPC.pawnsPlural>索拉克</Solark_Faction_NPC.pawnsPlural>
   <Solark_P_Faction.description>索拉克们聚集和安静生活的村庄。</Solark_P_Faction.description>
   <Solark_P_Faction.label>索拉克隐居乡</Solark_P_Faction.label>
   <Solark_P_Faction.pawnSingular>索拉克</Solark_P_Faction.pawnSingular>
-  <Solark_P_Faction.pawnsPlural>索拉克</Solark_P_Faction.pawnsPlural>
   <Xenoorca_Faction_NPC.description>在世界各地徘徊、反复进行掠夺的派系，一旦被她们盯上就会演变成不死不休的局面。狡猾又暴虐的人鱼们使用私自改造的火器、身穿特殊铠甲进行战斗。</Xenoorca_Faction_NPC.description>
   <Xenoorca_Faction_NPC.fixedName>逆戟鲸旅团</Xenoorca_Faction_NPC.fixedName>
   <Xenoorca_Faction_NPC.label>逆戟鲸旅团</Xenoorca_Faction_NPC.label>

@@ -50,5 +50,12 @@
   </modDependencies>
   <loadAfter>
     <li>Ayameduki.HARNeclose</li>
+    <li>Ayameduki.HARNecloseEX</li>
+    <li>Ayameduki.HARNecloseUC</li>
   </loadAfter>
+  <forceLoadAfter>
+    <li>Ayameduki.HARNeclose</li>
+    <li>Ayameduki.HARNecloseEX</li>
+    <li>Ayameduki.HARNecloseUC</li>
+  </forceLoadAfter>
 </ModMetaData>

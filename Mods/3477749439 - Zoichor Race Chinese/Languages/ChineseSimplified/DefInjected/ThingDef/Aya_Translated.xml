@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>
-  <HAR_ZC_Weapon_a.label>阿拉斯托耳</HAR_ZC_Weapon_a.label>
-  <HAR_ZC_Weapon_a.description>锢魂魔在执行特殊刑罚时所使用的地狱之剑。\n据说是由混沌灵所创造，其性能几乎可媲美迦南的神器。\n\n由地狱的物质构成，因此仅有锢魂魔能够安全地配戴。\n\n这把剑似乎具备能够直击灵魂的力量，对人类尤其有效。\n一旦被斩中，便会被揭示罪行，成为只能静待死亡的囚徒。\n\n那把剑仿佛拥有生命般地鼓动着。\n剑尖锐利得难以置信，无论是什么障碍，都仿佛能毫无阻碍地斩断。\n而更令人畏惧的是，这把剑对生者无比严苛。\n即便是王族，若曾犯下罪行，也绝不宽恕。</HAR_ZC_Weapon_a.description>
   <Aya_Race_Ap_C_T_a.description>人工种族儿童穿着的衬衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_a.description>
   <Aya_Race_Ap_C_T_a.label>儿童衬衫</Aya_Race_Ap_C_T_a.label>
   <Aya_Race_Ap_C_T_b.description>人工种族儿童穿着的罩衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_b.description>
@@ -11,16 +8,6 @@
   <Aya_Race_Ap_C_T_d.description>人工种族儿童穿着的学生服。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_d.description>
   <HAR_ZC_Onskin_a.description>锢魂魔爱用的内衣。虽然外观看起来不怎么可靠，却不容易损坏。</HAR_ZC_Onskin_a.description>
   <HAR_ZC_Onskin_a.label>看守者内衣</HAR_ZC_Onskin_a.label>
-  <HAR_ZC_Tops_a.description>锢魂魔爱用的服装。由于来自极寒的星球，因此服装的设计较为保守，露出较少。</HAR_ZC_Tops_a.description>
-  <HAR_ZC_Tops_a.label>看守者连衣裙A</HAR_ZC_Tops_a.label>
-  <HAR_ZC_Tops_b.description>锢魂魔爱用的服装。由于来自极寒的星球，因此服装的设计较为保守，露出较少。</HAR_ZC_Tops_b.description>
-  <HAR_ZC_Tops_b.label>看守者连衣裙B</HAR_ZC_Tops_b.label>
-  <HAR_ZC_Tops_c.description>锢魂魔爱用的服装。由于来自极寒的星球，因此服装的设计较为保守，露出较少。</HAR_ZC_Tops_c.description>
-  <HAR_ZC_Tops_c.label>看守者连衣裙C</HAR_ZC_Tops_c.label>
-  <HAR_ZC_Tops_d.label>地狱盔甲</HAR_ZC_Tops_d.label>
-  <HAR_ZC_Tops_d.description>锢魂魔担任看守时所穿着的外套。深夜，从她的盔甲中传出的金属声，成为困于梦中的罪人们的噩梦，让他们深感恐惧。</HAR_ZC_Tops_d.description>
-  <HAR_ZC_Tops_e.label>混沌连衣裙</HAR_ZC_Tops_e.label>
-  <HAR_ZC_Tops_e.description>对喜爱暗色服装的锢魂魔而言，这件白色外套显得格外特别。\n这是她的盟友混沌灵送给她的礼物。\n据说她会在重要仪式时穿上这件外套。</HAR_ZC_Tops_e.description>
   <HAR_ZC_Heads_a.description>锢魂魔爱用的帽子。\n其设计风格严谨庄重，彰显了她们作为秩序阵营存在的立场。</HAR_ZC_Heads_a.description>
   <HAR_ZC_Heads_a.label>看守者帽子</HAR_ZC_Heads_a.label>
   <HAR_ZC_Heads_b.description>锢魂魔爱用的围巾。\n在寒冷地区是不可或缺的物品，对原本就耐寒的她们而言，则被当作时尚配件来使用。</HAR_ZC_Heads_b.description>
@@ -43,6 +30,16 @@
   <HAR_ZC_Shell_e.label>地狱斗篷</HAR_ZC_Shell_e.label>
   <HAR_ZC_Shell_f.description>对喜爱暗色服装的锢魂魔而言，这件白色外套显得格外特别。\n这是她的盟友混沌灵送给她的礼物。\n据说她会在重要仪式时穿上这件外套。</HAR_ZC_Shell_f.description>
   <HAR_ZC_Shell_f.label>混沌斗篷</HAR_ZC_Shell_f.label>
+  <HAR_ZC_Tops_a.description>锢魂魔爱用的服装。由于来自极寒的星球，因此服装的设计较为保守，露出较少。</HAR_ZC_Tops_a.description>
+  <HAR_ZC_Tops_a.label>看守者连衣裙A</HAR_ZC_Tops_a.label>
+  <HAR_ZC_Tops_b.description>锢魂魔爱用的服装。由于来自极寒的星球，因此服装的设计较为保守，露出较少。</HAR_ZC_Tops_b.description>
+  <HAR_ZC_Tops_b.label>看守者连衣裙B</HAR_ZC_Tops_b.label>
+  <HAR_ZC_Tops_c.description>锢魂魔爱用的服装。由于来自极寒的星球，因此服装的设计较为保守，露出较少。</HAR_ZC_Tops_c.description>
+  <HAR_ZC_Tops_c.label>看守者连衣裙C</HAR_ZC_Tops_c.label>
+  <HAR_ZC_Tops_d.label>地狱盔甲</HAR_ZC_Tops_d.label>
+  <HAR_ZC_Tops_d.description>锢魂魔担任看守时所穿着的外套。深夜，从她的盔甲中传出的金属声，成为困于梦中的罪人们的噩梦，让他们深感恐惧。</HAR_ZC_Tops_d.description>
+  <HAR_ZC_Tops_e.label>混沌连衣裙</HAR_ZC_Tops_e.label>
+  <HAR_ZC_Tops_e.description>对喜爱暗色服装的锢魂魔而言，这件白色外套显得格外特别。\n这是她的盟友混沌灵送给她的礼物。\n据说她会在重要仪式时穿上这件外套。</HAR_ZC_Tops_e.description>
   <HAR_ZC_Bullet_a.label>冰冷之炎</HAR_ZC_Bullet_a.label>
   <HAR_ZC_Food_a.label>员工餐的松饼</HAR_ZC_Food_a.label>
   <HAR_ZC_Food_a.description>在监狱星球梅拉芙非常普及的松饼。\n由于极寒的环境中牲畜无法正常生存，\n因此当地必须开发出独特的料理方式。\n\n这款松饼的材料为米与水，并使用虫族果冻作为调味。\n\n这是看守的锢魂魔与囚犯们常食用的点心。\n原本是为了收容在梅拉芙、因发生单翼变色的异常现象而遭监察处置的伪神族们，\n当时身体因严寒而逐渐虚弱，为了让她们露出一点笑容，锢魂魔拼命研发出来的小点心。\n如今这种料理方式也传到了迦南，作为甜点深受欢迎。</HAR_ZC_Food_a.description>
@@ -59,4 +56,7 @@
   <HAR_ZC_Item_b.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的苍阳果会增加。碎裂的苍阳果可以强化苍褪的太阳。</HAR_ZC_Item_b.description>
   <HAR_ZC_Item_c.label>完整的苍阳果</HAR_ZC_Item_c.label>
   <HAR_ZC_Item_c.description>从地之佛拉斯生成的蓝色石榴。\n当使用于锢魂魔时，可以强化苍褪的太阳。\n每当苍褪的太阳的阶段提升时，所需的苍阳果会增加。完整的苍阳果可以强化苍褪的太阳。</HAR_ZC_Item_c.description>
+  <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>
+  <HAR_ZC_Weapon_a.label>阿拉斯托耳</HAR_ZC_Weapon_a.label>
+  <HAR_ZC_Weapon_a.description>锢魂魔在执行特殊刑罚时所使用的地狱之剑。\n据说是由混沌灵所创造，其性能几乎可媲美迦南的神器。\n\n由地狱的物质构成，因此仅有锢魂魔能够安全地配戴。\n\n这把剑似乎具备能够直击灵魂的力量，对人类尤其有效。\n一旦被斩中，便会被揭示罪行，成为只能静待死亡的囚徒。\n\n那把剑仿佛拥有生命般地鼓动着。\n剑尖锐利得难以置信，无论是什么障碍，都仿佛能毫无阻碍地斩断。\n而更令人畏惧的是，这把剑对生者无比严苛。\n即便是王族，若曾犯下罪行，也绝不宽恕。</HAR_ZC_Weapon_a.description>
 </LanguageData>

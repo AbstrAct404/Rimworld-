@@ -1,0 +1,41 @@
+{
+  "scenarioCount": 5,
+  "scenarios": [
+    {
+      "modId": "2946679071",
+      "packageId": "Ayameduki.HARChaoura",
+      "scenarioDef": "Chaoura_Scenario",
+      "label": "混沌灵剧本",
+      "startKey": "AyaScenarioStartChaoura"
+    },
+    {
+      "modId": "2198830432",
+      "packageId": "Ayameduki.HARNearmare",
+      "scenarioDef": "Nearmaere_Scenario",
+      "label": "魅魔的夜曲",
+      "startKey": "AyaScenarioStartNearmare"
+    },
+    {
+      "modId": "2394460334",
+      "packageId": "Ayameduki.HARNeclose",
+      "scenarioDef": "Neclose_Scenario",
+      "label": "牧菌妖姬剧本",
+      "startKey": "AyaScenarioStartNeclose"
+    },
+    {
+      "modId": "2233666290",
+      "packageId": "Ayameduki.HARSilkiera",
+      "scenarioDef": "Silkiera_Scenario",
+      "label": "亚人兽娘剧本",
+      "startKey": "AyaScenarioStartSilkiera"
+    },
+    {
+      "modId": "2216916011",
+      "packageId": "Ayameduki.HARXenoorca",
+      "scenarioDef": "Xenoorca_Scenario",
+      "label": "人鱼姬剧本",
+      "startKey": "AyaScenarioStartXenoorca"
+    }
+  ],
+  "missing": []
+}

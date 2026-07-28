@@ -94,6 +94,12 @@ def main() -> int:
                         f"Canonical value mismatch: {file}: {node.tag}: "
                         f"{value.strip()!r} != {expected!r}"
                     )
+            # Patch XPath expressions intentionally contain exact source text
+            # (including Japanese and legacy tokens such as "Lv") so RimWorld
+            # can find the nodes to replace.  They are selectors, not text
+            # shown to players.
+            if node.tag == "xpath":
+                continue
             for forbidden in FORBIDDEN_RELEASE_TEXT:
                 if forbidden in value:
                     errors.append(

@@ -1,0 +1,19 @@
+{
+  "checkedValues": 265,
+  "checkedByType": {
+    "GeneDef.label": 12,
+    "GeneDef.description": 12,
+    "XenotypeDef.label": 12,
+    "XenotypeDef.description": 12,
+    "CustomCommand.label": 92,
+    "CustomCommand.description": 93,
+    "CustomSummon.autoLabel": 8,
+    "CustomSummon.autoDescription": 8,
+    "CustomSummon.manualLabel": 8,
+    "CustomSummon.manualDescription": 8
+  },
+  "missingCount": 0,
+  "untranslatedCount": 0,
+  "missing": [],
+  "untranslated": []
+}

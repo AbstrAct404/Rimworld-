@@ -51,5 +51,10 @@
   </modDependencies>
   <loadAfter>
     <li>Ayameduki.HARNearmare</li>
+    <li>Ayameduki.HARNearmareEX</li>
   </loadAfter>
+  <forceLoadAfter>
+    <li>Ayameduki.HARNearmare</li>
+    <li>Ayameduki.HARNearmareEX</li>
+  </forceLoadAfter>
 </ModMetaData>

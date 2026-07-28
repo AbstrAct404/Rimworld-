@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ScenarioDef[defName="Nearmaere_Scenario"]</xpath>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ScenarioDef[defName="Nearmaere_Scenario"]/label</xpath>
+          <value>
+            <label>魅魔的夜曲</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ScenarioDef[defName="Nearmaere_Scenario"]/description</xpath>
+          <value>
+            <description>魅魔的专属剧本</description>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ScenarioDef[defName="Nearmaere_Scenario"]/scenario/summary</xpath>
+          <value>
+            <summary>你在休眠舱中被警报和船体撕裂声惊醒。飞船解体前，你勉强登上逃生舱。
+
+短暂漂流后，你降落在这颗未知的边缘世界。
+
+残骸散落在身边。现在，作为一名魅魔，你必须在这片土地上开辟自己的生存之路。</summary>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ScenarioDef[defName="Nearmaere_Scenario"]/scenario/parts/li[def="GameStartDialog"]/textKey</xpath>
+          <value>
+            <textKey>AyaScenarioStartNearmare</textKey>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

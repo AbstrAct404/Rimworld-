@@ -45,5 +45,10 @@
   </modDependencies>
   <loadAfter>
     <li>Ayameduki.HARLittluna</li>
+    <li>Ayameduki.HARLittlunaEX</li>
   </loadAfter>
+  <forceLoadAfter>
+    <li>Ayameduki.HARLittluna</li>
+    <li>Ayameduki.HARLittlunaEX</li>
+  </forceLoadAfter>
 </ModMetaData>

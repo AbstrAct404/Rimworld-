@@ -1,0 +1,55 @@
+{
+  "generatedOperations": 10,
+  "operations": [
+    {
+      "modId": "2198830432",
+      "defName": "Gun_AssaultRifle_NM",
+      "label": "魑枪「郄浍堕狱」"
+    },
+    {
+      "modId": "2198830432",
+      "defName": "HAR_NM_Wear_y",
+      "label": "魔女礼装（魅魔）"
+    },
+    {
+      "modId": "2233666290",
+      "defName": "Gun_AssaultRifle_SK",
+      "label": "炽热之枪"
+    },
+    {
+      "modId": "2394460334",
+      "defName": "HAR_NC_Armor_b",
+      "label": "血月装甲（突袭型）"
+    },
+    {
+      "modId": "2946679071",
+      "defName": "HAR_CO_Apparel_Head_c",
+      "label": "影之头盔"
+    },
+    {
+      "modId": "2946679071",
+      "defName": "HAR_CO_Apparel_Shell_a",
+      "label": "影之斗篷"
+    },
+    {
+      "modId": "2946679071",
+      "defName": "HAR_CO_Apparel_Tops_z",
+      "label": "米什帕提姆礼装"
+    },
+    {
+      "modId": "2946679071",
+      "defName": "HAR_CO_Weapon_UB",
+      "label": "无限之光"
+    },
+    {
+      "modId": "3153539856",
+      "defName": "HAR_EL_Apparel_Shell_c",
+      "label": "伊沙芭夹克 C"
+    },
+    {
+      "modId": "3153539856",
+      "defName": "HAR_EL_Apparel_Tops_a",
+      "label": "伊沙芭连衣裙 A"
+    }
+  ]
+}

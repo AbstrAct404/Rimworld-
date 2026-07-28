@@ -21,7 +21,6 @@ import build_translations as build
 INTEGRATED_FOLDER = "0000000000 - Aya Integrated Chinese"
 PACKAGE_ID = "abstract404.aya.integrated.zh"
 PUBLISHED_FILE_ID = "3770548798"
-STEAM_BASELINE = Path(__file__).with_name("steam_integrated_baseline")
 
 ORIGINAL_WORKSHOP_TITLES = {
     "2946679071": "[Aya]Chaoura Race",
@@ -79,6 +78,11 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--mods-root", type=Path, default=Path("Mods"))
     parser.add_argument("--steam-vdf-dir", type=Path)
+    parser.add_argument(
+        "--steam-content-root",
+        type=Path,
+        help="Optional ASCII-safe mod root referenced by generated Steam VDF files.",
+    )
     args = parser.parse_args()
 
     mods_root = args.mods_root
@@ -103,6 +107,9 @@ def main() -> None:
         original_id, dependency, translation_title = read_about(package)
         if dependency and dependency not in load_after:
             load_after.append(dependency)
+        for optional_dependency in build.OPTIONAL_LOAD_AFTER.get(original_id, []):
+            if optional_dependency not in load_after:
+                load_after.append(optional_dependency)
         entry_count = 0
         language_root = package / "Languages" / "ChineseSimplified"
         for file in sorted(language_root.rglob("*.xml")):
@@ -135,6 +142,30 @@ def main() -> None:
                     })
                     continue
                 bucket[child.tag] = (value, original_id)
+        patch_root = package / "Patches"
+        if patch_root.is_dir():
+            for patch_file in sorted(patch_root.rglob("*.xml")):
+                relative_patch = patch_file.relative_to(patch_root)
+                # RimWorld patch discovery must not depend on recursive
+                # traversal.  Keep every patch immediately under Patches and
+                # prefix it with the source Workshop ID to prevent collisions.
+                destination_patch = (
+                    output
+                    / "Patches"
+                    / f"{original_id}_{relative_patch.name}"
+                )
+                destination_patch.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(patch_file, destination_patch)
+        # A small Harmony shim is required only where an original assembly
+        # hard-codes UI text that DefInjected/PatchOperation cannot localize.
+        # Keep its filename intact: the CLR uses the assembly metadata name,
+        # but a stable file name simplifies diagnosis in RimWorld's log.
+        assembly_root = package / "Assemblies"
+        if assembly_root.is_dir():
+            for assembly_file in sorted(assembly_root.glob("*.dll")):
+                destination_assembly = output / "Assemblies" / assembly_file.name
+                destination_assembly.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(assembly_file, destination_assembly)
         package_info.append({
             "originalWorkshopId": original_id,
             "originalTitle": ORIGINAL_WORKSHOP_TITLES.get(original_id, dependency),
@@ -143,43 +174,6 @@ def main() -> None:
             "folder": package.name,
             "entriesRead": entry_count,
         })
-
-    # The published Workshop package is the authority for every overlapping
-    # key.  Keep locally newer standalone-only keys, but overlay the downloaded
-    # Workshop snapshot last so an integrated rebuild cannot silently revert
-    # translations that have already shipped on Steam.
-    steam_entries_read = 0
-    steam_language_root = STEAM_BASELINE / "Languages" / "ChineseSimplified"
-    if not steam_language_root.is_dir():
-        raise FileNotFoundError(
-            f"Missing integrated Steam baseline: {steam_language_root}"
-        )
-    for file in sorted(steam_language_root.rglob("*.xml")):
-        relative = file.relative_to(steam_language_root)
-        if len(relative.parts) < 2:
-            continue
-        section, subtype = relative.parts[0], relative.parts[1]
-        if section not in {"DefInjected", "Keyed"}:
-            continue
-        if section == "Keyed":
-            subtype = "Keyed"
-        root = ET.parse(file).getroot()
-        bucket = buckets[(section, subtype)]
-        for child in root:
-            value = build.text(child)
-            if not value:
-                continue
-            steam_entries_read += 1
-            previous = bucket.get(child.tag)
-            if previous and previous[0] != value:
-                conflicts.append({
-                    "key": child.tag,
-                    "keptValue": value,
-                    "keptFrom": f"steam:{PUBLISHED_FILE_ID}",
-                    "ignoredValue": previous[0],
-                    "ignoredFrom": previous[1],
-                })
-            bucket[child.tag] = (value, f"steam:{PUBLISHED_FILE_ID}")
 
     package_by_id = {
         str(item["originalWorkshopId"]): item for item in package_info
@@ -255,6 +249,11 @@ def main() -> None:
             sections.append("\n".join(lines))
         return "\n\n".join(sections)
 
+    # Core dialogs used by several Aya mods reference this shared key.  Keep
+    # the correction in the generated integrated pack instead of relying on a
+    # hand-added file that would disappear on the next rebuild.
+    buckets[("Keyed", "Keyed")]["GoBack"] = ("返回", "integrated-fix")
+
     written = 0
     for (section, subtype), values in sorted(buckets.items()):
         root = ET.Element("LanguageData")
@@ -281,34 +280,23 @@ def main() -> None:
         destination.parent.mkdir(parents=True, exist_ok=True)
         build.xml_write(destination, root)
 
-    # Merge maintained supplemental patches first.  Do not copy patches back
-    # from standalone output packages: those already contain the Steam
-    # baseline and would make every operation run twice in the integrated pack.
-    supplemental_root = Path(__file__).with_name("supplemental")
-    for package_patches in sorted(supplemental_root.glob("*/Patches")):
-        shutil.copytree(
-            package_patches,
-            output / "Patches",
-            dirs_exist_ok=True,
-        )
-    steam_patches = STEAM_BASELINE / "Patches"
-    if steam_patches.is_dir():
-        shutil.copytree(
-            steam_patches,
-            output / "Patches",
-            dirs_exist_ok=True,
-        )
-    patch_report = build.consolidate_runtime_patches(
-        output,
-        "Aya_Localization.xml",
-    )
-
     about = ET.Element("ModMetaData")
     description = (
         "Aya 人工种族系列简体中文整合汉化包。\n\n"
         "可只安装自己使用的原模组，无需安装整合包支持的全部种族。"
         "请将本汉化置于所有 Aya 原模组之后加载；不要与对应的独立汉化包同时启用。\n\n"
+        "【EX 扩展说明】\n"
+        "Idhale EX、Littluna EX、Nearmare EX、Neclose EX、Silkiera EX、Solark EX、Xenoorca EX "
+        "等原作者 EX 模组是上位种内容的启用开关。上位种的 Def、代码与资源位于对应种族本体中；"
+        "未安装或未启用 EX 时，这些条件内容不会载入。RimWorld 1.5/1.6 如需使用上位种，"
+        "请同时安装并启用对应的原 EX 模组。只有 About/翻译文件的汉化包不能替代原 EX。\n\n"
         f"当前收录 {len(packages)} 个原模组，共合并 {written} 条游戏文本。\n\n"
+        "【本次更新】\n"
+        "补全亚人工业回收店、亚人工业炼油机及幻觉兵器系列研究名称；"
+        "补全人鱼姬袭击事件中的种族称谓；修复影之头盔、影之斗篷等装备名称回退；"
+        "完整汉化各族自定义技能名称与说明，并复核技能、基因及异种类型文本；"
+        "补全 5 个种族剧本的标题、摘要与专属开场信件，避免回退为原版三人开局文本；"
+        "修复上一版本补丁加载条件不匹配、上述剧本与技能翻译未实际生效的问题。\n\n"
         "【收录内容】\n"
         + plain_directory()
         + "\n\n"
@@ -323,6 +311,21 @@ def main() -> None:
         "[*]只需安装实际使用的 Aya 原模组。\n"
         "[*]将本整合汉化置于所有 Aya 原模组之后加载。\n"
         "[*]不要与下列独立汉化包同时启用。\n"
+        "[/list]\n\n"
+        "[h2]EX 扩展说明[/h2]\n"
+        "Idhale EX、Littluna EX、Nearmare EX、Neclose EX、Silkiera EX、Solark EX、Xenoorca EX "
+        "等原作者 EX 模组本身是上位种内容的启用开关。上位种的 Def、代码与资源已经包含在对应种族本体中，"
+        "但只有检测到并启用相应 EX 的 packageId 时才会载入。未安装或未启用 EX，不会启用上位种内容。"
+        "RimWorld 1.5/1.6 如需使用上位种，请安装并启用对应的原 EX；汉化包不能代替原 EX。\n\n"
+        "[h2]本次更新[/h2]\n"
+        "[list]\n"
+        "[*]补全“亚人工业回收店”“亚人工业炼油机”研究名称。\n"
+        "[*]补全“幻觉兵器研究·一/二/三”研究名称。\n"
+        "[*]补全人鱼姬袭击事件中的种族称谓。\n"
+        "[*]修复“影之头盔”“影之斗篷”等部分装备名称回退为日文的问题。\n"
+        "[*]完整汉化各族自定义技能名称与说明，并复核技能、基因及异种类型文本。\n"
+        "[*]补全 5 个种族剧本的标题、摘要与专属开场信件；开局信件不再误用原版三人剧本。\n"
+        "[*]修复上一版本按 packageId 检测原模组而导致剧本、开场信件与技能补丁未执行的问题。\n"
         "[/list]\n\n"
         + workshop_directory()
         + "\n\n[h2]兼容信息[/h2]\n"
@@ -340,6 +343,9 @@ def main() -> None:
     load_after_node = ET.SubElement(about, "loadAfter")
     for dependency in load_after:
         ET.SubElement(load_after_node, "li").text = dependency
+    force_load_after_node = ET.SubElement(about, "forceLoadAfter")
+    for dependency in load_after:
+        ET.SubElement(force_load_after_node, "li").text = dependency
     build.xml_write(output / "About" / "About.xml", about)
     preview_source = (
         mods_root
@@ -360,6 +366,11 @@ def main() -> None:
         "- 将本整合汉化放在全部 Aya 原模组之后。",
         "- 不要与对应的独立汉化包同时启用。",
         "",
+        "## EX 扩展说明",
+        "- Idhale EX、Littluna EX、Nearmare EX、Neclose EX、Silkiera EX、Solark EX、Xenoorca EX 等原作者 EX 模组是上位种内容的启用开关。",
+        "- 上位种的 Def、代码与资源位于对应种族本体中；未安装或未启用 EX 时，相关条件内容不会载入。",
+        "- RimWorld 1.5/1.6 如需使用上位种，请安装并启用对应的原 EX；汉化包不能代替原 EX。",
+        "",
         "## 收录内容与链接",
         "",
         markdown_directory(),
@@ -373,10 +384,7 @@ def main() -> None:
     report = {
         "packageId": PACKAGE_ID,
         "includedPackages": package_info,
-        "steamBaselineWorkshopId": PUBLISHED_FILE_ID,
-        "steamBaselineEntriesRead": steam_entries_read,
         "uniqueEntriesWritten": written,
-        "runtimePatches": patch_report,
         "conflictCount": len(conflicts),
         "conflicts": conflicts,
     }
@@ -403,17 +411,21 @@ def main() -> None:
     if args.steam_vdf_dir:
         args.steam_vdf_dir.mkdir(parents=True, exist_ok=True)
         title = build.text(about.find("name"))
-        for language, suffix in (("english", ""), ("schinese", "-schinese")):
+        steam_output = (
+            args.steam_content_root / INTEGRATED_FOLDER
+            if args.steam_content_root
+            else output
+        )
+        for suffix in ("", "-schinese"):
             content = "\n".join([
                 '"workshopitem"', "{",
                 '\t"appid"\t\t"294100"',
                 f'\t"publishedfileid"\t\t"{PUBLISHED_FILE_ID}"',
-                f'\t"language"\t\t"{language}"',
-                f'\t"contentfolder"\t\t"{build.vdf_quote(build.vdf_path(output))}"',
-                f'\t"previewfile"\t\t"{build.vdf_quote(build.vdf_path(output / "About" / "Preview.png"))}"',
+                f'\t"contentfolder"\t\t"{build.vdf_quote(build.vdf_path(steam_output))}"',
+                f'\t"previewfile"\t\t"{build.vdf_quote(build.vdf_path(steam_output / "About" / "Preview.png"))}"',
                 f'\t"title"\t\t"{build.vdf_quote(title)}"',
                 f'\t"description"\t\t"{build.vdf_quote(workshop_description)}"',
-                '\t"changenote"\t\t"补全了健康状态、基因分类与装备效果显示文本。"',
+                f'\t"changenote"\t\t"{build.vdf_quote("补全各人工种族的自定义心情提示翻译：新增索拉克、萨克莱恩等种族的心情名称与说明，并修复混血种心情文本乱码。")}"',
                 "}", "",
             ])
             (
@@ -424,7 +436,6 @@ def main() -> None:
         "output": str(output),
         "packages": len(packages),
         "entries": written,
-        "steamBaselineEntries": steam_entries_read,
         "conflicts": len(conflicts),
     }, ensure_ascii=False, indent=2))
 

@@ -50,5 +50,10 @@
   </modDependencies>
   <loadAfter>
     <li>Ayameduki.HARIdhale</li>
+    <li>Ayameduki.HARIdhaleEX</li>
   </loadAfter>
+  <forceLoadAfter>
+    <li>Ayameduki.HARIdhale</li>
+    <li>Ayameduki.HARIdhaleEX</li>
+  </forceLoadAfter>
 </ModMetaData>

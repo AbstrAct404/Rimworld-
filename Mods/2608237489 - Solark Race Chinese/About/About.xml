@@ -45,5 +45,10 @@
   </modDependencies>
   <loadAfter>
     <li>Ayameduki.HARSolark</li>
+    <li>Ayameduki.HARSolarkEX</li>
   </loadAfter>
+  <forceLoadAfter>
+    <li>Ayameduki.HARSolark</li>
+    <li>Ayameduki.HARSolarkEX</li>
+  </forceLoadAfter>
 </ModMetaData>

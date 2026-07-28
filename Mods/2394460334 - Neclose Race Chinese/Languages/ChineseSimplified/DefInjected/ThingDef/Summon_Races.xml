@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HAR_NC_M_a_race_Summon.label>戈尔诺伊德</HAR_NC_M_a_race_Summon.label>
+  <HAR_NC_M_a_race_Summon.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_a_race_Summon.description>
+  <HAR_NC_M_a_race_Summon.tools.0.label>左爪</HAR_NC_M_a_race_Summon.tools.0.label>
+  <HAR_NC_M_a_race_Summon.tools.1.label>右爪</HAR_NC_M_a_race_Summon.tools.1.label>
+  <HAR_NC_M_a_race_Summon.tools.2.label>利齿</HAR_NC_M_a_race_Summon.tools.2.label>
+  <Meat_HAR_NC_M_a_race_Summon.label>戈尔诺伊德肉</Meat_HAR_NC_M_a_race_Summon.label>
+  <Meat_HAR_NC_M_a_race_Summon.description>从戈尔诺伊德身上取得的肉。</Meat_HAR_NC_M_a_race_Summon.description>
+  <Corpse_HAR_NC_M_a_race_Summon.label>戈尔诺伊德尸体</Corpse_HAR_NC_M_a_race_Summon.label>
+  <Corpse_HAR_NC_M_a_race_Summon.description>戈尔诺伊德的尸体。</Corpse_HAR_NC_M_a_race_Summon.description>
+
+  <HAR_NC_M_a_race_NPC.label>戈尔诺伊德</HAR_NC_M_a_race_NPC.label>
+  <HAR_NC_M_a_race_NPC.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_a_race_NPC.description>
+  <HAR_NC_M_a_race_NPC.tools.0.label>左爪</HAR_NC_M_a_race_NPC.tools.0.label>
+  <HAR_NC_M_a_race_NPC.tools.1.label>右爪</HAR_NC_M_a_race_NPC.tools.1.label>
+  <HAR_NC_M_a_race_NPC.tools.2.label>利齿</HAR_NC_M_a_race_NPC.tools.2.label>
+  <Meat_HAR_NC_M_a_race_NPC.label>戈尔诺伊德肉</Meat_HAR_NC_M_a_race_NPC.label>
+  <Meat_HAR_NC_M_a_race_NPC.description>从戈尔诺伊德身上取得的肉。</Meat_HAR_NC_M_a_race_NPC.description>
+  <Corpse_HAR_NC_M_a_race_NPC.label>戈尔诺伊德尸体</Corpse_HAR_NC_M_a_race_NPC.label>
+  <Corpse_HAR_NC_M_a_race_NPC.description>戈尔诺伊德的尸体。</Corpse_HAR_NC_M_a_race_NPC.description>
+
+  <HAR_NC_M_b_race_Summon.label>戈尔种</HAR_NC_M_b_race_Summon.label>
+  <HAR_NC_M_b_race_Summon.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_b_race_Summon.description>
+  <HAR_NC_M_b_race_Summon.tools.0.label>左爪</HAR_NC_M_b_race_Summon.tools.0.label>
+  <HAR_NC_M_b_race_Summon.tools.1.label>右爪</HAR_NC_M_b_race_Summon.tools.1.label>
+  <HAR_NC_M_b_race_Summon.tools.2.label>利齿</HAR_NC_M_b_race_Summon.tools.2.label>
+  <Meat_HAR_NC_M_b_race_Summon.label>戈尔种肉</Meat_HAR_NC_M_b_race_Summon.label>
+  <Meat_HAR_NC_M_b_race_Summon.description>从戈尔种身上取得的肉。</Meat_HAR_NC_M_b_race_Summon.description>
+  <Corpse_HAR_NC_M_b_race_Summon.label>戈尔种尸体</Corpse_HAR_NC_M_b_race_Summon.label>
+  <Corpse_HAR_NC_M_b_race_Summon.description>戈尔种的尸体。</Corpse_HAR_NC_M_b_race_Summon.description>
+
+  <HAR_NC_M_b_race_NPC.label>戈尔种</HAR_NC_M_b_race_NPC.label>
+  <HAR_NC_M_b_race_NPC.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_b_race_NPC.description>
+  <HAR_NC_M_b_race_NPC.tools.0.label>左爪</HAR_NC_M_b_race_NPC.tools.0.label>
+  <HAR_NC_M_b_race_NPC.tools.1.label>右爪</HAR_NC_M_b_race_NPC.tools.1.label>
+  <HAR_NC_M_b_race_NPC.tools.2.label>利齿</HAR_NC_M_b_race_NPC.tools.2.label>
+  <Meat_HAR_NC_M_b_race_NPC.label>戈尔种肉</Meat_HAR_NC_M_b_race_NPC.label>
+  <Meat_HAR_NC_M_b_race_NPC.description>从戈尔种身上取得的肉。</Meat_HAR_NC_M_b_race_NPC.description>
+  <Corpse_HAR_NC_M_b_race_NPC.label>戈尔种尸体</Corpse_HAR_NC_M_b_race_NPC.label>
+  <Corpse_HAR_NC_M_b_race_NPC.description>戈尔种的尸体。</Corpse_HAR_NC_M_b_race_NPC.description>
+
+  <HAR_NC_M_c_race_Summon.label>戈尔肉块</HAR_NC_M_c_race_Summon.label>
+  <HAR_NC_M_c_race_Summon.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_c_race_Summon.description>
+  <HAR_NC_M_c_race_Summon.tools.0.label>左爪</HAR_NC_M_c_race_Summon.tools.0.label>
+  <HAR_NC_M_c_race_Summon.tools.1.label>右爪</HAR_NC_M_c_race_Summon.tools.1.label>
+  <HAR_NC_M_c_race_Summon.tools.2.label>利齿</HAR_NC_M_c_race_Summon.tools.2.label>
+  <Meat_HAR_NC_M_c_race_Summon.label>戈尔肉块</Meat_HAR_NC_M_c_race_Summon.label>
+  <Meat_HAR_NC_M_c_race_Summon.description>从戈尔肉块身上取得的肉。</Meat_HAR_NC_M_c_race_Summon.description>
+  <Corpse_HAR_NC_M_c_race_Summon.label>戈尔肉块尸体</Corpse_HAR_NC_M_c_race_Summon.label>
+  <Corpse_HAR_NC_M_c_race_Summon.description>戈尔肉块的尸体。</Corpse_HAR_NC_M_c_race_Summon.description>
+
+  <HAR_NC_M_c_race_NPC.label>戈尔肉块</HAR_NC_M_c_race_NPC.label>
+  <HAR_NC_M_c_race_NPC.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_c_race_NPC.description>
+  <HAR_NC_M_c_race_NPC.tools.0.label>左爪</HAR_NC_M_c_race_NPC.tools.0.label>
+  <HAR_NC_M_c_race_NPC.tools.1.label>右爪</HAR_NC_M_c_race_NPC.tools.1.label>
+  <HAR_NC_M_c_race_NPC.tools.2.label>利齿</HAR_NC_M_c_race_NPC.tools.2.label>
+  <Meat_HAR_NC_M_c_race_NPC.label>戈尔肉块</Meat_HAR_NC_M_c_race_NPC.label>
+  <Meat_HAR_NC_M_c_race_NPC.description>从戈尔肉块身上取得的肉。</Meat_HAR_NC_M_c_race_NPC.description>
+  <Corpse_HAR_NC_M_c_race_NPC.label>戈尔肉块尸体</Corpse_HAR_NC_M_c_race_NPC.label>
+  <Corpse_HAR_NC_M_c_race_NPC.description>戈尔肉块的尸体。</Corpse_HAR_NC_M_c_race_NPC.description>
+</LanguageData>
