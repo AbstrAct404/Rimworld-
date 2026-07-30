@@ -222,6 +222,106 @@
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[2]/commandLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[2]/commandLabel[1]</xpath>
+      <value>
+        <commandLabel>快速充能</commandLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[2]/commandDesc[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[2]/commandDesc[1]</xpath>
+      <value>
+        <commandDesc>为赫斯提亚熔炉补充30%能量。\n副作用是更容易饥饿。\n冷却时间为1天。</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[3]/commandLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[3]/commandLabel[1]</xpath>
+      <value>
+        <commandLabel>诺托斯手雷</commandLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[3]/commandDesc[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[3]/commandDesc[1]</xpath>
+      <value>
+        <commandDesc>向指定位置投掷手雷。\n消耗能量：5</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[4]/commandLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[4]/commandLabel[1]</xpath>
+      <value>
+        <commandLabel>阿克里西奥斯护盾</commandLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[4]/commandDesc[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[4]/commandDesc[1]</xpath>
+      <value>
+        <commandDesc>以自身为中心展开半径2格的低角度防护盾。\n消耗能量：20</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[5]/commandLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[5]/commandLabel[1]</xpath>
+      <value>
+        <commandLabel>安塔瑞斯阔剑雷</commandLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[5]/commandDesc[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[5]/commandDesc[1]</xpath>
+      <value>
+        <commandDesc>在指定位置布设阔剑地雷。\n消耗能量：10</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[6]/commandLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[6]/commandLabel[1]</xpath>
+      <value>
+        <commandLabel>欧律托斯炮</commandLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[6]/commandDesc[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[6]/commandDesc[1]</xpath>
+      <value>
+        <commandDesc>向指定位置附近发射八联装迫击炮。\n消耗能量：60</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
     <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_d"]/comps[1]/li[1]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
       <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_d"]/comps[1]/li[1]/commandLabel[1]</xpath>
@@ -342,101 +442,21 @@
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[2]/commandLabel[1]</xpath>
+    <xpath>Defs/ThingDef[@Name="HAR_NM_ArtifactBase"]/comps[1]/li[1]/useLabel[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[2]/commandLabel[1]</xpath>
+      <xpath>Defs/ThingDef[@Name="HAR_NM_ArtifactBase"]/comps[1]/li[1]/useLabel[1]</xpath>
       <value>
-        <commandLabel>快速充能</commandLabel>
+        <useLabel>激活 {0_label}</useLabel>
       </value>
     </match>
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[2]/commandDesc[1]</xpath>
+    <xpath>Defs/ThingDef[@Name="HAR_NM_ArtifactBase_b"]/comps[1]/li[1]/useLabel[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[2]/commandDesc[1]</xpath>
+      <xpath>Defs/ThingDef[@Name="HAR_NM_ArtifactBase_b"]/comps[1]/li[1]/useLabel[1]</xpath>
       <value>
-        <commandDesc>为赫斯提亚熔炉补充30%能量。\n副作用是更容易饥饿。\n冷却时间为1天。</commandDesc>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[3]/commandLabel[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[3]/commandLabel[1]</xpath>
-      <value>
-        <commandLabel>诺托斯手雷</commandLabel>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[3]/commandDesc[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[3]/commandDesc[1]</xpath>
-      <value>
-        <commandDesc>向指定位置投掷手雷。\n消耗能量：5</commandDesc>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[4]/commandLabel[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[4]/commandLabel[1]</xpath>
-      <value>
-        <commandLabel>阿克里西奥斯护盾</commandLabel>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[4]/commandDesc[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[4]/commandDesc[1]</xpath>
-      <value>
-        <commandDesc>以自身为中心展开半径2格的低角度防护盾。\n消耗能量：20</commandDesc>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[5]/commandLabel[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[5]/commandLabel[1]</xpath>
-      <value>
-        <commandLabel>安塔瑞斯阔剑雷</commandLabel>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[5]/commandDesc[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[5]/commandDesc[1]</xpath>
-      <value>
-        <commandDesc>在指定位置布设阔剑地雷。\n消耗能量：10</commandDesc>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[6]/commandLabel[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[6]/commandLabel[1]</xpath>
-      <value>
-        <commandLabel>欧律托斯炮</commandLabel>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[6]/commandDesc[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[6]/commandDesc[1]</xpath>
-      <value>
-        <commandDesc>向指定位置附近发射八联装迫击炮。\n消耗能量：60</commandDesc>
+        <useLabel>激活 {0_label}</useLabel>
       </value>
     </match>
   </Operation>

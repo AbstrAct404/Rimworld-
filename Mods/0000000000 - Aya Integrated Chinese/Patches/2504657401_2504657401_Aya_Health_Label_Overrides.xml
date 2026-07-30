@@ -1,15 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <Patch>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/HediffDef[defName="BOSS_RQ_Hediff_b"]/label</xpath>
-    <value>
-      <label>精神污染</label>
-    </value>
+    <value><label>精神污染</label></value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/HediffDef[defName="BOSS_RQ_Hediff_Gone_Error_a"]/label</xpath>
-    <value>
-      <label>心魂捕食</label>
-    </value>
+    <value><label>心魂捕食</label></value>
   </Operation>
 </Patch>

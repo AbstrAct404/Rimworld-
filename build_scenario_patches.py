@@ -64,6 +64,53 @@ def add_replace(operations: ET.Element, xpath: str, tag: str, value: str) -> Non
     ET.SubElement(replacement, tag).text = value
 
 
+def sync_definjected_scenario(
+    package: Path,
+    def_name: str,
+    label: str,
+    description: str,
+) -> None:
+    """Keep standard injection and the direct runtime fallback identical."""
+    language_root = (
+        package
+        / "Languages"
+        / "ChineseSimplified"
+        / "DefInjected"
+        / "ScenarioDef"
+    )
+    language_root.mkdir(parents=True, exist_ok=True)
+    keys = {
+        f"{def_name}.label": label,
+        f"{def_name}.description": description,
+    }
+    found: set[str] = set()
+    for file in sorted(language_root.glob("*.xml")):
+        root = ET.parse(file).getroot()
+        changed = False
+        for node in root:
+            if node.tag in keys:
+                node.text = keys[node.tag]
+                found.add(node.tag)
+                changed = True
+        if changed:
+            xml_write(file, root)
+    missing = [key for key in keys if key not in found]
+    if missing:
+        destination = language_root / "Aya_Scenarios.xml"
+        root = (
+            ET.parse(destination).getroot()
+            if destination.is_file()
+            else ET.Element("LanguageData")
+        )
+        existing = {node.tag: node for node in root}
+        for key in missing:
+            node = existing.get(key)
+            if node is None:
+                node = ET.SubElement(root, key)
+            node.text = keys[key]
+        xml_write(destination, root)
+
+
 def main() -> None:
     generated: list[dict[str, str]] = []
     missing: list[str] = []
@@ -92,6 +139,12 @@ def main() -> None:
         keyed = ET.Element("LanguageData")
         for def_name in found:
             data = SCENARIOS[def_name]
+            sync_definjected_scenario(
+                package,
+                def_name,
+                data["label"],
+                data["description"],
+            )
             base = f'Defs/ScenarioDef[defName="{def_name}"]'
             conditional = ET.SubElement(
                 patch, "Operation", {"Class": "PatchOperationConditional"}

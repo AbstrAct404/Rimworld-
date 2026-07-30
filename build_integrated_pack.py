@@ -16,6 +16,7 @@ from collections import defaultdict
 from pathlib import Path
 
 import build_translations as build
+from optimize_runtime_patches import package_patch_index
 
 
 INTEGRATED_FOLDER = "0000000000 - Aya Integrated Chinese"
@@ -69,6 +70,23 @@ def read_about(package: Path) -> tuple[str, str, str]:
     return original_id, dependency, title
 
 
+def assert_unique_package_patch_targets(package: Path) -> None:
+    """Reject accidental legacy/generated overlap before integrating patches."""
+    duplicates = {
+        xpath: files
+        for xpath, files in package_patch_index(package).items()
+        if len(files) > 1
+    }
+    if not duplicates:
+        return
+    xpath, files = next(iter(duplicates.items()))
+    raise RuntimeError(
+        f"{package.name}: duplicate runtime patch target {xpath} in "
+        + ", ".join(files)
+        + "; run optimize_runtime_patches.py before rebuilding the integrated pack"
+    )
+
+
 def markdown_label(value: object) -> str:
     """Escape brackets in Workshop titles used as Markdown link labels."""
     return str(value).replace("[", r"\[").replace("]", r"\]")
@@ -104,6 +122,7 @@ def main() -> None:
     conflicts: list[dict[str, str]] = []
 
     for package in packages:
+        assert_unique_package_patch_targets(package)
         original_id, dependency, translation_title = read_about(package)
         if dependency and dependency not in load_after:
             load_after.append(dependency)
@@ -400,7 +419,7 @@ def main() -> None:
             ).removesuffix(" Chinese"),
             "status": "present",
             "entries": item["entriesRead"],
-            "path": str(mods_root / str(item["folder"])),
+            "path": (mods_root / str(item["folder"])).as_posix(),
         }
         for item in package_info
     ]
@@ -425,7 +444,7 @@ def main() -> None:
                 f'\t"previewfile"\t\t"{build.vdf_quote(build.vdf_path(steam_output / "About" / "Preview.png"))}"',
                 f'\t"title"\t\t"{build.vdf_quote(title)}"',
                 f'\t"description"\t\t"{build.vdf_quote(workshop_description)}"',
-                f'\t"changenote"\t\t"{build.vdf_quote("补全各人工种族的自定义心情提示翻译：新增索拉克、萨克莱恩等种族的心情名称与说明，并修复混血种心情文本乱码。")}"',
+                f'\t"changenote"\t\t"{build.vdf_quote("补全了部分物品交互、种族剧本与运行时名称文本。")}"',
                 "}", "",
             ])
             (

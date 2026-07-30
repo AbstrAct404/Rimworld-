@@ -1,165 +1,7 @@
 {
-  "generatedOperations": 232,
-  "missingTranslations": [
-    {
-      "modId": "2946679071",
-      "mod": "Chaoura Race",
-      "defName": "HAR_CO_UB_ArtifactBase",
-      "field": "useLabel",
-      "source": "Activate {0_label}"
-    },
-    {
-      "modId": "3153539856",
-      "mod": "Eveliet Race",
-      "defName": "HAR_EL_Spawn_a",
-      "field": "useLabel",
-      "source": "Activate {0_label}"
-    },
-    {
-      "modId": "3153539856",
-      "mod": "Eveliet Race",
-      "defName": "HAR_EL_Spawn_b",
-      "field": "useLabel",
-      "source": "Activate {0_label}"
-    },
-    {
-      "modId": "2227425882",
-      "mod": "Idhale Race",
-      "defName": "HAR_IH_ArtifactBase",
-      "field": "useLabel",
-      "source": "Activate {0_label}"
-    },
-    {
-      "modId": "2569091688",
-      "mod": "Littluna Race",
-      "defName": "HAR_LL_ArtifactBase",
-      "field": "useLabel",
-      "source": "Activate {0_label}"
-    },
-    {
-      "modId": "2198830432",
-      "mod": "Nearmare Race",
-      "defName": "HAR_NM_ArtifactBase",
-      "field": "useLabel",
-      "source": "Activate {0_label}"
-    },
-    {
-      "modId": "2198830432",
-      "mod": "Nearmare Race",
-      "defName": "HAR_NM_ArtifactBase_b",
-      "field": "useLabel",
-      "source": "Activate {0_label}"
-    },
-    {
-      "modId": "2394460334",
-      "mod": "Neclose Race",
-      "defName": "HAR_NC_Item_a",
-      "field": "useLabel",
-      "source": "Activate {0_label}"
-    },
-    {
-      "modId": "2394460334",
-      "mod": "Neclose Race",
-      "defName": "HAR_NC_Artifact_Spawn_Base",
-      "field": "useLabel",
-      "source": "Activate {0_label}"
-    },
-    {
-      "modId": "2504657401",
-      "mod": "Requeen Boss",
-      "defName": "BOSS_RQ_ArtifactBase",
-      "field": "useLabel",
-      "source": "Activate {0_label}"
-    },
-    {
-      "modId": "2233666290",
-      "mod": "Silkiera Race",
-      "defName": "HAR_SK_ArtifactBase",
-      "field": "useLabel",
-      "source": "Activate {0_label}"
-    },
-    {
-      "modId": "2608237489",
-      "mod": "Solark Race",
-      "defName": "HAR_SA_ArtifactBase",
-      "field": "useLabel",
-      "source": "Activate {0_label}"
-    },
-    {
-      "modId": "3477749439",
-      "mod": "Zoichor Race",
-      "defName": "HAR_ZC_ArtifactBase",
-      "field": "useLabel",
-      "source": "Activate {0_label}"
-    }
-  ],
+  "generatedOperations": 245,
+  "missingTranslations": [],
   "operations": [
-    {
-      "modId": "2946679071",
-      "mod": "Chaoura Race",
-      "sourcePackageId": "Ayameduki.HARChaoura",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_CO_Race_Chaoura_a",
-      "field": "commandLabel",
-      "source": "影跳び",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_CO_Race_Chaoura_a\"]/comps[1]/li[4]/commandLabel[1]",
-      "translation": "影跃"
-    },
-    {
-      "modId": "2946679071",
-      "mod": "Chaoura Race",
-      "sourcePackageId": "Ayameduki.HARChaoura",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_CO_Race_Chaoura_a",
-      "field": "commandDesc",
-      "source": "射程内任意のマスに瞬間移動します。",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_CO_Race_Chaoura_a\"]/comps[1]/li[4]/commandDesc[1]",
-      "translation": "瞬间移动到射程内任意格。"
-    },
-    {
-      "modId": "2946679071",
-      "mod": "Chaoura Race",
-      "sourcePackageId": "Ayameduki.HARChaoura",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_CO_Race_Chaoura_a",
-      "field": "commandLabel",
-      "source": "仇返し",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_CO_Race_Chaoura_a\"]/comps[1]/li[6]/commandLabel[1]",
-      "translation": "复仇反击"
-    },
-    {
-      "modId": "2946679071",
-      "mod": "Chaoura Race",
-      "sourcePackageId": "Ayameduki.HARChaoura",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_CO_Race_Chaoura_a",
-      "field": "commandDesc",
-      "source": "暗闇にいる間、射撃してきた敵にワープしダメージを与える。再使用には3日の時間が必要となります。",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_CO_Race_Chaoura_a\"]/comps[1]/li[6]/commandDesc[1]",
-      "translation": "处于黑暗中时，传送至向自己射击的敌人身边并造成伤害。冷却时间为3天。"
-    },
-    {
-      "modId": "2946679071",
-      "mod": "Chaoura Race",
-      "sourcePackageId": "Ayameduki.HARChaoura",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_CO_Race_Chaoura_a",
-      "field": "commandLabel",
-      "source": "血狂い",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_CO_Race_Chaoura_a\"]/comps[1]/li[7]/commandLabel[1]",
-      "translation": "血狂"
-    },
-    {
-      "modId": "2946679071",
-      "mod": "Chaoura Race",
-      "sourcePackageId": "Ayameduki.HARChaoura",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_CO_Race_Chaoura_a",
-      "field": "commandDesc",
-      "source": "半径3マスに出血を強いる斬撃を放つ、攻撃を受けた敵は暗闇にいると更にダメージを受ける。",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_CO_Race_Chaoura_a\"]/comps[1]/li[7]/commandDesc[1]",
-      "translation": "释放覆盖半径3格的斩击并迫使目标出血；受击者处于黑暗中时还会受到额外伤害。"
-    },
     {
       "modId": "2946679071",
       "mod": "Chaoura Race",
@@ -269,6 +111,105 @@
       "source": "顕現臨界を初期化します。クールタイムは1日。",
       "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_CO_Race_Chaoura_z\"]/comps[1]/li[8]/commandDesc[1]",
       "translation": "重置显现临界。冷却时间为1天。"
+    },
+    {
+      "modId": "2946679071",
+      "mod": "Chaoura Race",
+      "sourcePackageId": "Ayameduki.HARChaoura",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_CO_Race_Chaoura_a",
+      "field": "commandLabel",
+      "source": "影跳び",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_CO_Race_Chaoura_a\"]/comps[1]/li[4]/commandLabel[1]",
+      "translation": "影跃"
+    },
+    {
+      "modId": "2946679071",
+      "mod": "Chaoura Race",
+      "sourcePackageId": "Ayameduki.HARChaoura",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_CO_Race_Chaoura_a",
+      "field": "commandDesc",
+      "source": "射程内任意のマスに瞬間移動します。",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_CO_Race_Chaoura_a\"]/comps[1]/li[4]/commandDesc[1]",
+      "translation": "瞬间移动到射程内任意格。"
+    },
+    {
+      "modId": "2946679071",
+      "mod": "Chaoura Race",
+      "sourcePackageId": "Ayameduki.HARChaoura",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_CO_Race_Chaoura_a",
+      "field": "commandLabel",
+      "source": "仇返し",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_CO_Race_Chaoura_a\"]/comps[1]/li[6]/commandLabel[1]",
+      "translation": "复仇反击"
+    },
+    {
+      "modId": "2946679071",
+      "mod": "Chaoura Race",
+      "sourcePackageId": "Ayameduki.HARChaoura",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_CO_Race_Chaoura_a",
+      "field": "commandDesc",
+      "source": "暗闇にいる間、射撃してきた敵にワープしダメージを与える。再使用には3日の時間が必要となります。",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_CO_Race_Chaoura_a\"]/comps[1]/li[6]/commandDesc[1]",
+      "translation": "处于黑暗中时，传送至向自己射击的敌人身边并造成伤害。冷却时间为3天。"
+    },
+    {
+      "modId": "2946679071",
+      "mod": "Chaoura Race",
+      "sourcePackageId": "Ayameduki.HARChaoura",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_CO_Race_Chaoura_a",
+      "field": "commandLabel",
+      "source": "血狂い",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_CO_Race_Chaoura_a\"]/comps[1]/li[7]/commandLabel[1]",
+      "translation": "血狂"
+    },
+    {
+      "modId": "2946679071",
+      "mod": "Chaoura Race",
+      "sourcePackageId": "Ayameduki.HARChaoura",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_CO_Race_Chaoura_a",
+      "field": "commandDesc",
+      "source": "半径3マスに出血を強いる斬撃を放つ、攻撃を受けた敵は暗闇にいると更にダメージを受ける。",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_CO_Race_Chaoura_a\"]/comps[1]/li[7]/commandDesc[1]",
+      "translation": "释放覆盖半径3格的斩击并迫使目标出血；受击者处于黑暗中时还会受到额外伤害。"
+    },
+    {
+      "modId": "2946679071",
+      "mod": "Chaoura Race",
+      "sourcePackageId": "Ayameduki.HARChaoura",
+      "defType": "ThingDef",
+      "defName": "HAR_CO_UB_ArtifactBase",
+      "field": "useLabel",
+      "source": "Activate {0_label}",
+      "xpath": "Defs/ThingDef[@Name=\"HAR_CO_UB_ArtifactBase\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "激活 {0_label}"
+    },
+    {
+      "modId": "3153539856",
+      "mod": "Eveliet Race",
+      "sourcePackageId": "Ayameduki.HAREveliet",
+      "defType": "ThingDef",
+      "defName": "HAR_EL_Spawn_a",
+      "field": "useLabel",
+      "source": "Activate {0_label}",
+      "xpath": "Defs/ThingDef[defName=\"HAR_EL_Spawn_a\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "激活 {0_label}"
+    },
+    {
+      "modId": "3153539856",
+      "mod": "Eveliet Race",
+      "sourcePackageId": "Ayameduki.HAREveliet",
+      "defType": "ThingDef",
+      "defName": "HAR_EL_Spawn_b",
+      "field": "useLabel",
+      "source": "Activate {0_label}",
+      "xpath": "Defs/ThingDef[defName=\"HAR_EL_Spawn_b\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "激活 {0_label}"
     },
     {
       "modId": "3153539856",
@@ -407,10 +348,10 @@
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Critias",
+      "defName": "HAR_Idearn_Theaetetus_b",
       "field": "commandLabel",
       "source": "アザーサイド",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[1]/commandLabel[1]",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[1]/commandLabel[1]",
       "translation": "彼岸"
     },
     {
@@ -418,21 +359,21 @@
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Critias",
+      "defName": "HAR_Idearn_Theaetetus_b",
       "field": "commandDesc",
-      "source": "自身にダメージ軽減のバリアを展開します。",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[1]/commandDesc[1]",
-      "translation": "为自身展开减伤屏障。"
+      "source": "自身にダメージ軽減のバリアを展開します、再使用には3日間の時間が必要となります。",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[1]/commandDesc[1]",
+      "translation": "为自身展开减伤屏障。冷却时间为3天。"
     },
     {
       "modId": "2871413100",
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Critias",
+      "defName": "HAR_Idearn_Theaetetus_b",
       "field": "commandLabel",
       "source": "シーンアウト",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[2]/commandLabel[1]",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[2]/commandLabel[1]",
       "translation": "离场"
     },
     {
@@ -440,10 +381,10 @@
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Critias",
+      "defName": "HAR_Idearn_Theaetetus_b",
       "field": "commandDesc",
       "source": "射程内任意のマスに瞬間移動します。",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[2]/commandDesc[1]",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[2]/commandDesc[1]",
       "translation": "瞬间移动到射程内任意格。"
     },
     {
@@ -451,88 +392,44 @@
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Critias",
+      "defName": "HAR_Idearn_Theaetetus_b",
       "field": "commandLabel",
-      "source": "テロスバシレイア",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[5]/commandLabel[1]",
-      "translation": "终末王权"
+      "source": "エリスロスエクスシア",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[3]/commandLabel[1]",
+      "translation": "绯红权能"
     },
     {
       "modId": "2871413100",
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Critias",
+      "defName": "HAR_Idearn_Theaetetus_b",
       "field": "commandDesc",
-      "source": "【範囲:超大規模】自身を中心として20マスの「不可逆の精神崩壊」を起こす大爆発を発生させます。",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[5]/commandDesc[1]",
-      "translation": "【超大范围】以自身为中心引发半径20格的大爆炸，使目标陷入“不可逆的精神崩溃”。"
+      "source": "【範囲:大規模】自身を中心として10マスのダメージフィールドを召喚します、再使用には半日間の時間が必要となります。",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[3]/commandDesc[1]",
+      "translation": "【大范围】以自身为中心生成半径10格的伤害力场。冷却时间为半天。"
     },
     {
       "modId": "2871413100",
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Critias",
+      "defName": "HAR_Idearn_Theaetetus_b",
       "field": "commandLabel",
-      "source": "トゥレラバシレイア",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[6]/commandLabel[1]",
-      "translation": "狂乱王权"
+      "source": "キュアノスエクスシア",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[4]/commandLabel[1]",
+      "translation": "苍蓝权能"
     },
     {
       "modId": "2871413100",
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Critias",
+      "defName": "HAR_Idearn_Theaetetus_b",
       "field": "commandDesc",
-      "source": "【範囲:超大規模】自身を中心として20マスの「不可逆の狂暴化」を起こす大爆発を発生させます。",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[6]/commandDesc[1]",
-      "translation": "【超大范围】以自身为中心引发半径20格的大爆炸，使目标陷入“不可逆的狂暴”。"
-    },
-    {
-      "modId": "2871413100",
-      "mod": "Idearn Race",
-      "sourcePackageId": "Ayameduki.HARIdearn",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Critias",
-      "field": "commandLabel",
-      "source": "ゲヘナバシレイア",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[7]/commandLabel[1]",
-      "translation": "炼狱王权"
-    },
-    {
-      "modId": "2871413100",
-      "mod": "Idearn Race",
-      "sourcePackageId": "Ayameduki.HARIdearn",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Critias",
-      "field": "commandDesc",
-      "source": "射程内任意のマスに、半径80マスの衝撃波を発生させます。クリティアス以外の存在は消滅します(例外あり)。",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[7]/commandDesc[1]",
-      "translation": "在射程内指定位置释放半径80格的冲击波。除克里提亚斯外的存在都会被消灭（部分目标例外）。"
-    },
-    {
-      "modId": "2871413100",
-      "mod": "Idearn Race",
-      "sourcePackageId": "Ayameduki.HARIdearn",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Menexenus_a",
-      "field": "commandLabel",
-      "source": "アザーサイド(不完全)",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Menexenus_a\"]/comps[1]/li[1]/commandLabel[1]",
-      "translation": "彼岸（不完全）"
-    },
-    {
-      "modId": "2871413100",
-      "mod": "Idearn Race",
-      "sourcePackageId": "Ayameduki.HARIdearn",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Menexenus_a",
-      "field": "commandDesc",
-      "source": "自身にダメージ軽減のバリアを展開します、再使用には3日間の時間が必要となります。",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Menexenus_a\"]/comps[1]/li[1]/commandDesc[1]",
-      "translation": "为自身展开减伤屏障。冷却时间为3天。"
+      "source": "【範囲:大規模】自身を中心として10マスの死の宣告フィールドを召喚します、再使用には半日の時間が必要となります。",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[4]/commandDesc[1]",
+      "translation": "【大范围】以自身为中心生成半径10格的死亡宣告力场。冷却时间为半天。"
     },
     {
       "modId": "2871413100",
@@ -715,21 +612,21 @@
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Theaetetus_b",
+      "defName": "HAR_Idearn_Menexenus_a",
       "field": "commandLabel",
-      "source": "アザーサイド",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[1]/commandLabel[1]",
-      "translation": "彼岸"
+      "source": "アザーサイド(不完全)",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Menexenus_a\"]/comps[1]/li[1]/commandLabel[1]",
+      "translation": "彼岸（不完全）"
     },
     {
       "modId": "2871413100",
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Theaetetus_b",
+      "defName": "HAR_Idearn_Menexenus_a",
       "field": "commandDesc",
       "source": "自身にダメージ軽減のバリアを展開します、再使用には3日間の時間が必要となります。",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[1]/commandDesc[1]",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Menexenus_a\"]/comps[1]/li[1]/commandDesc[1]",
       "translation": "为自身展开减伤屏障。冷却时间为3天。"
     },
     {
@@ -737,10 +634,32 @@
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Theaetetus_b",
+      "defName": "HAR_Idearn_Critias",
+      "field": "commandLabel",
+      "source": "アザーサイド",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[1]/commandLabel[1]",
+      "translation": "彼岸"
+    },
+    {
+      "modId": "2871413100",
+      "mod": "Idearn Race",
+      "sourcePackageId": "Ayameduki.HARIdearn",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_Idearn_Critias",
+      "field": "commandDesc",
+      "source": "自身にダメージ軽減のバリアを展開します。",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[1]/commandDesc[1]",
+      "translation": "为自身展开减伤屏障。"
+    },
+    {
+      "modId": "2871413100",
+      "mod": "Idearn Race",
+      "sourcePackageId": "Ayameduki.HARIdearn",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_Idearn_Critias",
       "field": "commandLabel",
       "source": "シーンアウト",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[2]/commandLabel[1]",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[2]/commandLabel[1]",
       "translation": "离场"
     },
     {
@@ -748,10 +667,10 @@
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Theaetetus_b",
+      "defName": "HAR_Idearn_Critias",
       "field": "commandDesc",
       "source": "射程内任意のマスに瞬間移動します。",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[2]/commandDesc[1]",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[2]/commandDesc[1]",
       "translation": "瞬间移动到射程内任意格。"
     },
     {
@@ -759,44 +678,77 @@
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Theaetetus_b",
+      "defName": "HAR_Idearn_Critias",
       "field": "commandLabel",
-      "source": "エリスロスエクスシア",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[3]/commandLabel[1]",
-      "translation": "绯红权能"
+      "source": "テロスバシレイア",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[5]/commandLabel[1]",
+      "translation": "终末王权"
     },
     {
       "modId": "2871413100",
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Theaetetus_b",
+      "defName": "HAR_Idearn_Critias",
       "field": "commandDesc",
-      "source": "【範囲:大規模】自身を中心として10マスのダメージフィールドを召喚します、再使用には半日間の時間が必要となります。",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[3]/commandDesc[1]",
-      "translation": "【大范围】以自身为中心生成半径10格的伤害力场。冷却时间为半天。"
+      "source": "【範囲:超大規模】自身を中心として20マスの「不可逆の精神崩壊」を起こす大爆発を発生させます。",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[5]/commandDesc[1]",
+      "translation": "【超大范围】以自身为中心引发半径20格的大爆炸，使目标陷入“不可逆的精神崩溃”。"
     },
     {
       "modId": "2871413100",
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Theaetetus_b",
+      "defName": "HAR_Idearn_Critias",
       "field": "commandLabel",
-      "source": "キュアノスエクスシア",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[4]/commandLabel[1]",
-      "translation": "苍蓝权能"
+      "source": "トゥレラバシレイア",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[6]/commandLabel[1]",
+      "translation": "狂乱王权"
     },
     {
       "modId": "2871413100",
       "mod": "Idearn Race",
       "sourcePackageId": "Ayameduki.HARIdearn",
       "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Idearn_Theaetetus_b",
+      "defName": "HAR_Idearn_Critias",
       "field": "commandDesc",
-      "source": "【範囲:大規模】自身を中心として10マスの死の宣告フィールドを召喚します、再使用には半日の時間が必要となります。",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Theaetetus_b\"]/comps[1]/li[4]/commandDesc[1]",
-      "translation": "【大范围】以自身为中心生成半径10格的死亡宣告力场。冷却时间为半天。"
+      "source": "【範囲:超大規模】自身を中心として20マスの「不可逆の狂暴化」を起こす大爆発を発生させます。",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[6]/commandDesc[1]",
+      "translation": "【超大范围】以自身为中心引发半径20格的大爆炸，使目标陷入“不可逆的狂暴”。"
+    },
+    {
+      "modId": "2871413100",
+      "mod": "Idearn Race",
+      "sourcePackageId": "Ayameduki.HARIdearn",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_Idearn_Critias",
+      "field": "commandLabel",
+      "source": "ゲヘナバシレイア",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[7]/commandLabel[1]",
+      "translation": "炼狱王权"
+    },
+    {
+      "modId": "2871413100",
+      "mod": "Idearn Race",
+      "sourcePackageId": "Ayameduki.HARIdearn",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_Idearn_Critias",
+      "field": "commandDesc",
+      "source": "射程内任意のマスに、半径80マスの衝撃波を発生させます。クリティアス以外の存在は消滅します(例外あり)。",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idearn_Critias\"]/comps[1]/li[7]/commandDesc[1]",
+      "translation": "在射程内指定位置释放半径80格的冲击波。除克里提亚斯外的存在都会被消灭（部分目标例外）。"
+    },
+    {
+      "modId": "2227425882",
+      "mod": "Idhale Race",
+      "sourcePackageId": "Ayameduki.HARIdhale",
+      "defType": "ThingDef",
+      "defName": "HAR_IH_ArtifactBase",
+      "field": "useLabel",
+      "source": "Activate {0_label}",
+      "xpath": "Defs/ThingDef[@Name=\"HAR_IH_ArtifactBase\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "激活 {0_label}"
     },
     {
       "modId": "2227425882",
@@ -885,6 +837,17 @@
       "source": "眷属を任意召喚します。眷属のLv・召喚数は「人工種族」のLvによって変動し再召喚には2日のクールタイムが発生します。",
       "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Idhale_b_Player\"]/comps[1]/li[7]/CommandDesc[1]",
       "translation": "手动召唤眷属。眷属的等级和数量取决于“人工种族”等级，重新召唤的冷却时间为2天。"
+    },
+    {
+      "modId": "2569091688",
+      "mod": "Littluna Race",
+      "sourcePackageId": "Ayameduki.HARLittluna",
+      "defType": "ThingDef",
+      "defName": "HAR_LL_ArtifactBase",
+      "field": "useLabel",
+      "source": "Activate {0_label}",
+      "xpath": "Defs/ThingDef[@Name=\"HAR_LL_ArtifactBase\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "激活 {0_label}"
     },
     {
       "modId": "2569091688",
@@ -1243,6 +1206,116 @@
       "mod": "Nearmare Race",
       "sourcePackageId": "Ayameduki.HARNearmare",
       "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_Nearmaere_e",
+      "field": "commandLabel",
+      "source": "急速充電",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[2]/commandLabel[1]",
+      "translation": "快速充能"
+    },
+    {
+      "modId": "2198830432",
+      "mod": "Nearmare Race",
+      "sourcePackageId": "Ayameduki.HARNearmare",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_Nearmaere_e",
+      "field": "commandDesc",
+      "source": "ヘスティアファーネスにEN30%の充電を行います\\n副作用として餓えやすくなります\\n再使用には1日の時間が必要となります。",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[2]/commandDesc[1]",
+      "translation": "为赫斯提亚熔炉补充30%能量。\\n副作用是更容易饥饿。\\n冷却时间为1天。"
+    },
+    {
+      "modId": "2198830432",
+      "mod": "Nearmare Race",
+      "sourcePackageId": "Ayameduki.HARNearmare",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_Nearmaere_e",
+      "field": "commandLabel",
+      "source": "ノトスグレネード",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[3]/commandLabel[1]",
+      "translation": "诺托斯手雷"
+    },
+    {
+      "modId": "2198830432",
+      "mod": "Nearmare Race",
+      "sourcePackageId": "Ayameduki.HARNearmare",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_Nearmaere_e",
+      "field": "commandDesc",
+      "source": "指定マスにグレネードを投擲します\\n消費EN　　：　5",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[3]/commandDesc[1]",
+      "translation": "向指定位置投掷手雷。\\n消耗能量：5"
+    },
+    {
+      "modId": "2198830432",
+      "mod": "Nearmare Race",
+      "sourcePackageId": "Ayameduki.HARNearmare",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_Nearmaere_e",
+      "field": "commandLabel",
+      "source": "アクリシオスシールド",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[4]/commandLabel[1]",
+      "translation": "阿克里西奥斯护盾"
+    },
+    {
+      "modId": "2198830432",
+      "mod": "Nearmare Race",
+      "sourcePackageId": "Ayameduki.HARNearmare",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_Nearmaere_e",
+      "field": "commandDesc",
+      "source": "自身を中心に半径2マスの低角低下シールドを展開します\\n消費EN　　：　20",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[4]/commandDesc[1]",
+      "translation": "以自身为中心展开半径2格的低角度防护盾。\\n消耗能量：20"
+    },
+    {
+      "modId": "2198830432",
+      "mod": "Nearmare Race",
+      "sourcePackageId": "Ayameduki.HARNearmare",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_Nearmaere_e",
+      "field": "commandLabel",
+      "source": "アンタレスクレイモア",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[5]/commandLabel[1]",
+      "translation": "安塔瑞斯阔剑雷"
+    },
+    {
+      "modId": "2198830432",
+      "mod": "Nearmare Race",
+      "sourcePackageId": "Ayameduki.HARNearmare",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_Nearmaere_e",
+      "field": "commandDesc",
+      "source": "指定マスにクレイモアを設置します\\n消費EN　　：　10",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[5]/commandDesc[1]",
+      "translation": "在指定位置布设阔剑地雷。\\n消耗能量：10"
+    },
+    {
+      "modId": "2198830432",
+      "mod": "Nearmare Race",
+      "sourcePackageId": "Ayameduki.HARNearmare",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_Nearmaere_e",
+      "field": "commandLabel",
+      "source": "エウリュトスカノン",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[6]/commandLabel[1]",
+      "translation": "欧律托斯炮"
+    },
+    {
+      "modId": "2198830432",
+      "mod": "Nearmare Race",
+      "sourcePackageId": "Ayameduki.HARNearmare",
+      "defType": "AlienRace.ThingDef_AlienRace",
+      "defName": "HAR_Nearmaere_e",
+      "field": "commandDesc",
+      "source": "指定したマス付近に8連迫撃砲を放ちます\\n消費EN　　：　60",
+      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[6]/commandDesc[1]",
+      "translation": "向指定位置附近发射八联装迫击炮。\\n消耗能量：60"
+    },
+    {
+      "modId": "2198830432",
+      "mod": "Nearmare Race",
+      "sourcePackageId": "Ayameduki.HARNearmare",
+      "defType": "AlienRace.ThingDef_AlienRace",
       "defName": "HAR_Nearmaere_d",
       "field": "commandLabel",
       "source": "死体解剖",
@@ -1374,111 +1447,45 @@
       "modId": "2198830432",
       "mod": "Nearmare Race",
       "sourcePackageId": "Ayameduki.HARNearmare",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Nearmaere_e",
-      "field": "commandLabel",
-      "source": "急速充電",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[2]/commandLabel[1]",
-      "translation": "快速充能"
+      "defType": "ThingDef",
+      "defName": "HAR_NM_ArtifactBase",
+      "field": "useLabel",
+      "source": "Activate {0_label}",
+      "xpath": "Defs/ThingDef[@Name=\"HAR_NM_ArtifactBase\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "激活 {0_label}"
     },
     {
       "modId": "2198830432",
       "mod": "Nearmare Race",
       "sourcePackageId": "Ayameduki.HARNearmare",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Nearmaere_e",
-      "field": "commandDesc",
-      "source": "ヘスティアファーネスにEN30%の充電を行います\\n副作用として餓えやすくなります\\n再使用には1日の時間が必要となります。",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[2]/commandDesc[1]",
-      "translation": "为赫斯提亚熔炉补充30%能量。\\n副作用是更容易饥饿。\\n冷却时间为1天。"
+      "defType": "ThingDef",
+      "defName": "HAR_NM_ArtifactBase_b",
+      "field": "useLabel",
+      "source": "Activate {0_label}",
+      "xpath": "Defs/ThingDef[@Name=\"HAR_NM_ArtifactBase_b\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "激活 {0_label}"
     },
     {
-      "modId": "2198830432",
-      "mod": "Nearmare Race",
-      "sourcePackageId": "Ayameduki.HARNearmare",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Nearmaere_e",
-      "field": "commandLabel",
-      "source": "ノトスグレネード",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[3]/commandLabel[1]",
-      "translation": "诺托斯手雷"
+      "modId": "2394460334",
+      "mod": "Neclose Race",
+      "sourcePackageId": "Ayameduki.HARNeclose",
+      "defType": "ThingDef",
+      "defName": "HAR_NC_Artifact_Spawn_Base",
+      "field": "useLabel",
+      "source": "Activate {0_label}",
+      "xpath": "Defs/ThingDef[@Name=\"HAR_NC_Artifact_Spawn_Base\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "激活 {0_label}"
     },
     {
-      "modId": "2198830432",
-      "mod": "Nearmare Race",
-      "sourcePackageId": "Ayameduki.HARNearmare",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Nearmaere_e",
-      "field": "commandDesc",
-      "source": "指定マスにグレネードを投擲します\\n消費EN　　：　5",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[3]/commandDesc[1]",
-      "translation": "向指定位置投掷手雷。\\n消耗能量：5"
-    },
-    {
-      "modId": "2198830432",
-      "mod": "Nearmare Race",
-      "sourcePackageId": "Ayameduki.HARNearmare",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Nearmaere_e",
-      "field": "commandLabel",
-      "source": "アクリシオスシールド",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[4]/commandLabel[1]",
-      "translation": "阿克里西奥斯护盾"
-    },
-    {
-      "modId": "2198830432",
-      "mod": "Nearmare Race",
-      "sourcePackageId": "Ayameduki.HARNearmare",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Nearmaere_e",
-      "field": "commandDesc",
-      "source": "自身を中心に半径2マスの低角低下シールドを展開します\\n消費EN　　：　20",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[4]/commandDesc[1]",
-      "translation": "以自身为中心展开半径2格的低角度防护盾。\\n消耗能量：20"
-    },
-    {
-      "modId": "2198830432",
-      "mod": "Nearmare Race",
-      "sourcePackageId": "Ayameduki.HARNearmare",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Nearmaere_e",
-      "field": "commandLabel",
-      "source": "アンタレスクレイモア",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[5]/commandLabel[1]",
-      "translation": "安塔瑞斯阔剑雷"
-    },
-    {
-      "modId": "2198830432",
-      "mod": "Nearmare Race",
-      "sourcePackageId": "Ayameduki.HARNearmare",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Nearmaere_e",
-      "field": "commandDesc",
-      "source": "指定マスにクレイモアを設置します\\n消費EN　　：　10",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[5]/commandDesc[1]",
-      "translation": "在指定位置布设阔剑地雷。\\n消耗能量：10"
-    },
-    {
-      "modId": "2198830432",
-      "mod": "Nearmare Race",
-      "sourcePackageId": "Ayameduki.HARNearmare",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Nearmaere_e",
-      "field": "commandLabel",
-      "source": "エウリュトスカノン",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[6]/commandLabel[1]",
-      "translation": "欧律托斯炮"
-    },
-    {
-      "modId": "2198830432",
-      "mod": "Nearmare Race",
-      "sourcePackageId": "Ayameduki.HARNearmare",
-      "defType": "AlienRace.ThingDef_AlienRace",
-      "defName": "HAR_Nearmaere_e",
-      "field": "commandDesc",
-      "source": "指定したマス付近に8連迫撃砲を放ちます\\n消費EN　　：　60",
-      "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[6]/commandDesc[1]",
-      "translation": "向指定位置附近发射八联装迫击炮。\\n消耗能量：60"
+      "modId": "2394460334",
+      "mod": "Neclose Race",
+      "sourcePackageId": "Ayameduki.HARNeclose",
+      "defType": "ThingDef",
+      "defName": "HAR_NC_Item_a",
+      "field": "useLabel",
+      "source": "Activate {0_label}",
+      "xpath": "Defs/ThingDef[defName=\"HAR_NC_Item_a\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "激活 {0_label}"
     },
     {
       "modId": "2394460334",
@@ -1723,6 +1730,28 @@
       "translation": "强化自身及周围友军的防御。冷却时间为3天。"
     },
     {
+      "modId": "2504657401",
+      "mod": "Requeen Boss",
+      "sourcePackageId": "Ayameduki.BOSSRequeen",
+      "defType": "ThingDef",
+      "defName": "BOSS_RQ_ArtifactBase",
+      "field": "useLabel",
+      "source": "Activate {0_label}",
+      "xpath": "Defs/ThingDef[@Name=\"BOSS_RQ_ArtifactBase\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "激活 {0_label}"
+    },
+    {
+      "modId": "2233666290",
+      "mod": "Silkiera Race",
+      "sourcePackageId": "Ayameduki.HARSilkiera",
+      "defType": "ThingDef",
+      "defName": "HAR_SK_ArtifactBase",
+      "field": "useLabel",
+      "source": "Activate {0_label}",
+      "xpath": "Defs/ThingDef[@Name=\"HAR_SK_ArtifactBase\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "激活 {0_label}"
+    },
+    {
       "modId": "2233666290",
       "mod": "Silkiera Race",
       "sourcePackageId": "Ayameduki.HARSilkiera",
@@ -1793,6 +1822,50 @@
       "mod": "Solark Race",
       "sourcePackageId": "Ayameduki.HARSolark",
       "defType": "ThingDef",
+      "defName": "HAR_Solark_BaseNRPawn",
+      "field": "commandLabel",
+      "source": "ラアムフレア",
+      "xpath": "Defs/ThingDef[@Name=\"HAR_Solark_BaseNRPawn\"]/comps[1]/li[2]/commandLabel[1]",
+      "translation": "雷霆爆炎"
+    },
+    {
+      "modId": "2608237489",
+      "mod": "Solark Race",
+      "sourcePackageId": "Ayameduki.HARSolark",
+      "defType": "ThingDef",
+      "defName": "HAR_Solark_BaseNRPawn",
+      "field": "commandDesc",
+      "source": "【範囲:小規模】自身を中心として体内に蓄えた反物質を解放します、再使用には3日間の時間が必要となります。",
+      "xpath": "Defs/ThingDef[@Name=\"HAR_Solark_BaseNRPawn\"]/comps[1]/li[2]/commandDesc[1]",
+      "translation": "【小范围】以自身为中心释放体内积蓄的反物质。冷却时间为3天。"
+    },
+    {
+      "modId": "2608237489",
+      "mod": "Solark Race",
+      "sourcePackageId": "Ayameduki.HARSolark",
+      "defType": "ThingDef",
+      "defName": "HAR_Solark_BaseNRPawn",
+      "field": "commandLabel",
+      "source": "シェオルフレア",
+      "xpath": "Defs/ThingDef[@Name=\"HAR_Solark_BaseNRPawn\"]/comps[1]/li[3]/commandLabel[1]",
+      "translation": "炼狱爆炎"
+    },
+    {
+      "modId": "2608237489",
+      "mod": "Solark Race",
+      "sourcePackageId": "Ayameduki.HARSolark",
+      "defType": "ThingDef",
+      "defName": "HAR_Solark_BaseNRPawn",
+      "field": "commandDesc",
+      "source": "【範囲:大規模】自身を中心として体内に蓄えた反物質を解放します、再使用には1シーズンの時間が必要となります。",
+      "xpath": "Defs/ThingDef[@Name=\"HAR_Solark_BaseNRPawn\"]/comps[1]/li[3]/commandDesc[1]",
+      "translation": "【大范围】以自身为中心释放体内积蓄的反物质。冷却时间为1个象限。"
+    },
+    {
+      "modId": "2608237489",
+      "mod": "Solark Race",
+      "sourcePackageId": "Ayameduki.HARSolark",
+      "defType": "ThingDef",
       "defName": "HAR_Solark_BaseNRPawn_b",
       "field": "commandLabel",
       "source": "シェオルフレア",
@@ -1837,44 +1910,11 @@
       "mod": "Solark Race",
       "sourcePackageId": "Ayameduki.HARSolark",
       "defType": "ThingDef",
-      "defName": "HAR_Solark_BaseNRPawn",
-      "field": "commandLabel",
-      "source": "ラアムフレア",
-      "xpath": "Defs/ThingDef[@Name=\"HAR_Solark_BaseNRPawn\"]/comps[1]/li[2]/commandLabel[1]",
-      "translation": "雷霆爆炎"
-    },
-    {
-      "modId": "2608237489",
-      "mod": "Solark Race",
-      "sourcePackageId": "Ayameduki.HARSolark",
-      "defType": "ThingDef",
-      "defName": "HAR_Solark_BaseNRPawn",
-      "field": "commandDesc",
-      "source": "【範囲:小規模】自身を中心として体内に蓄えた反物質を解放します、再使用には3日間の時間が必要となります。",
-      "xpath": "Defs/ThingDef[@Name=\"HAR_Solark_BaseNRPawn\"]/comps[1]/li[2]/commandDesc[1]",
-      "translation": "【小范围】以自身为中心释放体内积蓄的反物质。冷却时间为3天。"
-    },
-    {
-      "modId": "2608237489",
-      "mod": "Solark Race",
-      "sourcePackageId": "Ayameduki.HARSolark",
-      "defType": "ThingDef",
-      "defName": "HAR_Solark_BaseNRPawn",
-      "field": "commandLabel",
-      "source": "シェオルフレア",
-      "xpath": "Defs/ThingDef[@Name=\"HAR_Solark_BaseNRPawn\"]/comps[1]/li[3]/commandLabel[1]",
-      "translation": "炼狱爆炎"
-    },
-    {
-      "modId": "2608237489",
-      "mod": "Solark Race",
-      "sourcePackageId": "Ayameduki.HARSolark",
-      "defType": "ThingDef",
-      "defName": "HAR_Solark_BaseNRPawn",
-      "field": "commandDesc",
-      "source": "【範囲:大規模】自身を中心として体内に蓄えた反物質を解放します、再使用には1シーズンの時間が必要となります。",
-      "xpath": "Defs/ThingDef[@Name=\"HAR_Solark_BaseNRPawn\"]/comps[1]/li[3]/commandDesc[1]",
-      "translation": "【大范围】以自身为中心释放体内积蓄的反物质。冷却时间为1个象限。"
+      "defName": "HAR_SA_ArtifactBase",
+      "field": "useLabel",
+      "source": "Activate {0_label}",
+      "xpath": "Defs/ThingDef[@Name=\"HAR_SA_ArtifactBase\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "激活 {0_label}"
     },
     {
       "modId": "2216916011",
@@ -1897,50 +1937,6 @@
       "source": "射程内任意のマスに瞬間移動します。",
       "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Xenoorca_b\"]/comps[1]/li[1]/commandDesc[1]",
       "translation": "瞬间移动到射程内任意格。"
-    },
-    {
-      "modId": "3750626266",
-      "mod": "Canaan Intellect",
-      "sourcePackageId": "Ayameduki.AyaCanaanIntellect",
-      "defType": "ThingDef",
-      "defName": "Aya_CI_Artifact_a",
-      "field": "useLabel",
-      "source": "{0} を使用する",
-      "xpath": "Defs/ThingDef[defName=\"Aya_CI_Artifact_a\"]/comps[1]/li[1]/useLabel[1]",
-      "translation": "使用 {0}"
-    },
-    {
-      "modId": "3750626266",
-      "mod": "Canaan Intellect",
-      "sourcePackageId": "Ayameduki.AyaCanaanIntellect",
-      "defType": "ThingDef",
-      "defName": "Aya_CI_Artifact_b",
-      "field": "useLabel",
-      "source": "{0} を使用する",
-      "xpath": "Defs/ThingDef[defName=\"Aya_CI_Artifact_b\"]/comps[1]/li[1]/useLabel[1]",
-      "translation": "使用 {0}"
-    },
-    {
-      "modId": "3750626266",
-      "mod": "Canaan Intellect",
-      "sourcePackageId": "Ayameduki.AyaCanaanIntellect",
-      "defType": "ThingDef",
-      "defName": "Aya_CI_Artifact_c",
-      "field": "useLabel",
-      "source": "{0} を使用する",
-      "xpath": "Defs/ThingDef[defName=\"Aya_CI_Artifact_c\"]/comps[1]/li[1]/useLabel[1]",
-      "translation": "使用 {0}"
-    },
-    {
-      "modId": "3750626266",
-      "mod": "Canaan Intellect",
-      "sourcePackageId": "Ayameduki.AyaCanaanIntellect",
-      "defType": "ThingDef",
-      "defName": "Aya_CI_Artifact_x",
-      "field": "useLabel",
-      "source": "{0} を使用する",
-      "xpath": "Defs/ThingDef[defName=\"Aya_CI_Artifact_x\"]/comps[1]/li[1]/useLabel[1]",
-      "translation": "使用 {0}"
     },
     {
       "modId": "3750626266",
@@ -2271,6 +2267,50 @@
       "source": "指定したマスの周囲にいる、入植者全員を強化する。",
       "xpath": "Defs/ThingDef[defName=\"Aya_CI_Skill_Gain_j\"]/comps[1]/li[2]/skillCompProperties[1]/commandDesc[1]",
       "translation": "强化指定位置周围的所有殖民者。"
+    },
+    {
+      "modId": "3750626266",
+      "mod": "Canaan Intellect",
+      "sourcePackageId": "Ayameduki.AyaCanaanIntellect",
+      "defType": "ThingDef",
+      "defName": "Aya_CI_Artifact_a",
+      "field": "useLabel",
+      "source": "{0} を使用する",
+      "xpath": "Defs/ThingDef[defName=\"Aya_CI_Artifact_a\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "使用 {0}"
+    },
+    {
+      "modId": "3750626266",
+      "mod": "Canaan Intellect",
+      "sourcePackageId": "Ayameduki.AyaCanaanIntellect",
+      "defType": "ThingDef",
+      "defName": "Aya_CI_Artifact_b",
+      "field": "useLabel",
+      "source": "{0} を使用する",
+      "xpath": "Defs/ThingDef[defName=\"Aya_CI_Artifact_b\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "使用 {0}"
+    },
+    {
+      "modId": "3750626266",
+      "mod": "Canaan Intellect",
+      "sourcePackageId": "Ayameduki.AyaCanaanIntellect",
+      "defType": "ThingDef",
+      "defName": "Aya_CI_Artifact_c",
+      "field": "useLabel",
+      "source": "{0} を使用する",
+      "xpath": "Defs/ThingDef[defName=\"Aya_CI_Artifact_c\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "使用 {0}"
+    },
+    {
+      "modId": "3750626266",
+      "mod": "Canaan Intellect",
+      "sourcePackageId": "Ayameduki.AyaCanaanIntellect",
+      "defType": "ThingDef",
+      "defName": "Aya_CI_Artifact_x",
+      "field": "useLabel",
+      "source": "{0} を使用する",
+      "xpath": "Defs/ThingDef[defName=\"Aya_CI_Artifact_x\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "使用 {0}"
     },
     {
       "modId": "3675887482",
@@ -2645,6 +2685,17 @@
       "source": "対象を即死させる。\\n発動条件　：[太陽]　6\\n発動コスト：[神銀] 30",
       "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Zoichor\"]/comps[1]/li[9]/commandDesc[1]",
       "translation": "使目标立即死亡。\\n发动条件：[苍褪的太阳]6\\n消耗：[白银币]30"
+    },
+    {
+      "modId": "3477749439",
+      "mod": "Zoichor Race",
+      "sourcePackageId": "Ayameduki.HARZoichor",
+      "defType": "ThingDef",
+      "defName": "HAR_ZC_ArtifactBase",
+      "field": "useLabel",
+      "source": "Activate {0_label}",
+      "xpath": "Defs/ThingDef[@Name=\"HAR_ZC_ArtifactBase\"]/comps[1]/li[1]/useLabel[1]",
+      "translation": "激活 {0_label}"
     }
   ]
 }

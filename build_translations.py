@@ -19,7 +19,9 @@ from collections import defaultdict
 from pathlib import Path
 from workshop_descriptions_zh import WORKSHOP_DESCRIPTION_OVERRIDES
 
-WORKSHOP = Path(r"D:\SteamLibrary\steamapps\workshop\content\294100")
+LOCAL_WORKSHOP = Path("original_mods/steamapps/workshop/content/294100")
+WINDOWS_WORKSHOP = Path(r"D:\SteamLibrary\steamapps\workshop\content\294100")
+WORKSHOP = LOCAL_WORKSHOP if LOCAL_WORKSHOP.is_dir() else WINDOWS_WORKSHOP
 
 MODS = [
     ("2946679071", "Chaoura Race"), ("3505571618", "Aya Premise Core"),
@@ -230,6 +232,23 @@ WORKSHOP_DESCRIPTION_REPLACEMENTS = {
     },
 }
 
+# Shared source prose must keep one reviewed rendering across inherited or
+# duplicated Defs.
+ENFORCER_METEOR_DESCRIPTION = (
+    "随陨石一同降临的神秘生命体。它体型与质量惊人，几乎无法以物理手段摧毁。"
+    "\\n行动本身虽然迟缓，但其超大质量所爆发的攻击足以媲美陨石撞击，"
+    "贸然接近绝非明智之举。\\n\\n这种生物已经近似于兵器，但似乎无法适应"
+    "这颗星球的环境，活动时间极短；不足一天便会自行崩解消失。若无力将其破坏，"
+    "也可设法拖延并阻止它接近殖民地，等待其自行消亡。\\n\\n大型个体各自拥有"
+    "不同的特殊能力，可能对殖民者造成严重负面影响，请务必留意。"
+)
+ZOICHOR_ARRIVAL_TEXT = (
+    "一名笼罩着阴郁气息的人工种族——锢魂魔加入了你的殖民地。"
+    "\\n她不愿说明加入的原因，不过似乎无需担心她会背叛。"
+    "\\n\\n她目前的力量正处于封印状态；推进相关研究，"
+    "或许能够找到帮助她取回力量的契机。"
+)
+
 # A deliberately obfuscated source label cannot be translated reliably by an
 # automatic service; use the established race name and a readable designation.
 KEY_OVERRIDES = {
@@ -264,6 +283,7 @@ KEY_OVERRIDES = {
     "Chaoura_Faction_NPC.fixedName": "死影会",
     "Chaoura_Faction_NPC_b.label": "自有永有教团",
     "Chaoura_Faction_NPC_b.fixedName": "自有永有教团",
+    "HAR_CO_UB_Hediff_Promise.label": "古老的约定",
     "Outerm_Faction.label": "混沌辛迪加",
     "Outerm_Faction.fixedName": "混沌辛迪加",
     # Canaan Intellect: the reference pack still leaves this newly expanded
@@ -271,7 +291,16 @@ KEY_OVERRIDES = {
     "Aya_CI_Permit_a.description": "“真棒！太厉害了！做得很好！这个印章就奖励给你啦！”\\n——神子\n\n向少年消耗交涉点数后获得的神秘许可证。委托其制造特殊道具时必须出示。\n\n造物主曾因“毫无节制地大量制造特殊道具并不妥当”而受到神子劝诫，于是制作了这种许可证。据说在古迦南，生产由神子管理，人们凭此证向造物主领取道具。印章图案采用了造物主的爱女——伪神族·杜娜米丝的形象。",
     # Enforcer Boss.
     "BOSS_EF_M_race_Base.label": "执行者",
-    "BOSS_EF_B_M_race_Base.description": "随陨石一同降临的神秘生命体。它体型与质量惊人，几乎无法以物理手段摧毁。\\n行动本身虽然迟缓，但其超大质量所爆发的攻击足以媲美陨石撞击，贸然接近绝非明智之举。\\n\\n这种生物已经近似于兵器，但似乎无法适应这颗星球的环境，活动时间极短；不足一天便会自行崩解消失。若无力将其破坏，也可设法拖延并阻止它接近殖民地，等待其自行消亡。\\n\\n大型个体各自拥有不同的特殊能力，可能对殖民者造成严重负面影响，请务必留意。",
+    "BOSS_EF_B_M_race_Base.description": ENFORCER_METEOR_DESCRIPTION,
+    "BOSS_EF_B_M_race_a.description": ENFORCER_METEOR_DESCRIPTION,
+    "BOSS_EF_B_M_race_b.description": ENFORCER_METEOR_DESCRIPTION,
+    "BOSS_EF_B_M_race_c.description": ENFORCER_METEOR_DESCRIPTION,
+    "BOSS_EF_B_M_race_d.description": ENFORCER_METEOR_DESCRIPTION,
+    "BOSS_EF_B_M_race_e.description": ENFORCER_METEOR_DESCRIPTION,
+    "BOSS_EF_M_race_a.description": ENFORCER_METEOR_DESCRIPTION,
+    # Zoichor repeats the same arrival letter in IncidentDef and Keyed data.
+    "HAR_ZC_Incident_a.letterText": ZOICHOR_ARRIVAL_TEXT,
+    "Letter_HAR_ZC_Zoichor_a": ZOICHOR_ARRIVAL_TEXT,
     # Nexaga is a proper race name; 混血种 remains its setting category.
     "HAR_Nexaga_KindBase_NPC.label": "涅克萨迦居民",
     # The shared Japanese source is also used for pawn kinds. A faction name
@@ -650,7 +679,7 @@ def write_steam_vdfs(destination: Path, vdf_dir: Path) -> None:
             f'\t"previewfile"\t\t"{vdf_quote(vdf_path(package / "About" / "Preview.png"))}"',
             f'\t"title"\t\t"{vdf_quote(title)}"',
             f'\t"description"\t\t"{vdf_quote(description)}"',
-            '\t"changenote"\t\t"更新：完善简体中文翻译，适配 RimWorld 1.6。"',
+            '\t"changenote"\t\t"补全了部分物品交互、种族剧本与运行时名称文本。"',
             '}', '',
         ])
         (vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}.vdf").write_text(content, encoding="utf-8")
@@ -667,7 +696,7 @@ def write_steam_vdfs(destination: Path, vdf_dir: Path) -> None:
             f'\t"previewfile"\t\t"{vdf_quote(vdf_path(package / "About" / "Preview.png"))}"',
             f'\t"title"\t\t"{vdf_quote(title)}"',
             f'\t"description"\t\t"{vdf_quote(description)}"',
-            '\t"changenote"\t\t"更新：同步简体中文标题与简介。"',
+            '\t"changenote"\t\t"补全了部分物品交互、种族剧本与运行时名称文本。"',
             '}', '',
         ])
         (vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}-schinese.vdf").write_text(

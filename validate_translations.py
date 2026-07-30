@@ -20,6 +20,13 @@ CONTEXTUAL_TRANSLATION_EXCEPTIONS = {
     "アイティオンヘルメット",
     "イデア－ン専用のアーマー、創造主時代に運用されていたかは不明。そもそも彼女達は元から丈夫な為必要性はあまりない。",
     "イデア－ン専用の謎の装備、通常のイデアーン達は装備出来ない。",
+    # These source strings are deliberately reused for different UI concepts:
+    # a lore name versus a faction collective, or a race versus a pawn/faction.
+    "エフイェアシェル",
+    "イドヘール",
+    "狂乱の童女",
+    "干渉する",
+    "ネクサーガの住人",
 }
 FORBIDDEN_RELEASE_TEXT = (
     "鐢",

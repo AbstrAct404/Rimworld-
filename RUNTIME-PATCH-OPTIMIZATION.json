@@ -1,0 +1,230 @@
+[
+  {
+    "modId": "2198830432",
+    "package": "2198830432 - Nearmare Race Chinese",
+    "supplementalFilesSynced": [
+      "2198830432_Aya_Health_Label_Overrides.xml"
+    ],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 57,
+    "operationsBefore": 57,
+    "operationsAfter": 57,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "2216916011",
+    "package": "2216916011 - Xenoorca Race Chinese",
+    "supplementalFilesSynced": [],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 6,
+    "operationsBefore": 6,
+    "operationsAfter": 6,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "2227425882",
+    "package": "2227425882 - Idhale Race Chinese",
+    "supplementalFilesSynced": [],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 9,
+    "operationsBefore": 9,
+    "operationsAfter": 9,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "2233666290",
+    "package": "2233666290 - Silkiera Race Chinese",
+    "supplementalFilesSynced": [
+      "2233666290_Aya_Health_Label_Overrides.xml"
+    ],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 17,
+    "operationsBefore": 17,
+    "operationsAfter": 17,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "2394460334",
+    "package": "2394460334 - Neclose Race Chinese",
+    "supplementalFilesSynced": [
+      "2394460334_Aya_Health_Label_Overrides.xml"
+    ],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 22,
+    "operationsBefore": 22,
+    "operationsAfter": 22,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "2504657401",
+    "package": "2504657401 - Requeen Boss Chinese",
+    "supplementalFilesSynced": [
+      "2504657401_Aya_Health_Label_Overrides.xml"
+    ],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 3,
+    "operationsBefore": 3,
+    "operationsAfter": 3,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "2569091688",
+    "package": "2569091688 - Littluna Race Chinese",
+    "supplementalFilesSynced": [
+      "2569091688_Aya_Health_Label_Overrides.xml"
+    ],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 17,
+    "operationsBefore": 17,
+    "operationsAfter": 17,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "2608237489",
+    "package": "2608237489 - Solark Race Chinese",
+    "supplementalFilesSynced": [
+      "2608237489_Aya_Health_Label_Overrides.xml"
+    ],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 10,
+    "operationsBefore": 10,
+    "operationsAfter": 10,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "2676302514",
+    "package": "2676302514 - Saclean Race Chinese",
+    "supplementalFilesSynced": [],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 0,
+    "operationsBefore": 0,
+    "operationsAfter": 0,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "2706009136",
+    "package": "2706009136 - Nexaga Race Chinese",
+    "supplementalFilesSynced": [],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 0,
+    "operationsBefore": 0,
+    "operationsAfter": 0,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "2729712799",
+    "package": "2729712799 - Enforcer Boss Chinese",
+    "supplementalFilesSynced": [],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 0,
+    "operationsBefore": 0,
+    "operationsAfter": 0,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "2763078885",
+    "package": "2763078885 - Qualeela Race Chinese",
+    "supplementalFilesSynced": [],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 8,
+    "operationsBefore": 8,
+    "operationsAfter": 8,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "2871413100",
+    "package": "2871413100 - Idearn Race Chinese",
+    "supplementalFilesSynced": [
+      "2871413100_Aya_Health_Label_Overrides.xml"
+    ],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 37,
+    "operationsBefore": 37,
+    "operationsAfter": 37,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "2946679071",
+    "package": "2946679071 - Chaoura Race Chinese",
+    "supplementalFilesSynced": [
+      "2946679071_Aya_Health_Label_Overrides.xml"
+    ],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 31,
+    "operationsBefore": 31,
+    "operationsAfter": 31,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "2954714860",
+    "package": "2954714860 - Idea Storyteller Chinese",
+    "supplementalFilesSynced": [],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 0,
+    "operationsBefore": 0,
+    "operationsAfter": 0,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "3153539856",
+    "package": "3153539856 - Eveliet Race Chinese",
+    "supplementalFilesSynced": [],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 16,
+    "operationsBefore": 16,
+    "operationsAfter": 16,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "3477749439",
+    "package": "3477749439 - Zoichor Race Chinese",
+    "supplementalFilesSynced": [
+      "3477749439_Aya_Health_Gene_Label_Overrides.xml"
+    ],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 17,
+    "operationsBefore": 17,
+    "operationsAfter": 17,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "3489429571",
+    "package": "3489429571 - Chaoura UB Chinese",
+    "supplementalFilesSynced": [],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 0,
+    "operationsBefore": 0,
+    "operationsAfter": 0,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "3505571618",
+    "package": "3505571618 - Aya Premise Core Chinese",
+    "supplementalFilesSynced": [],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 0,
+    "operationsBefore": 0,
+    "operationsAfter": 0,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "3675887482",
+    "package": "3675887482 - Outerm Race Chinese",
+    "supplementalFilesSynced": [],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 20,
+    "operationsBefore": 20,
+    "operationsAfter": 20,
+    "coveragePreserved": true
+  },
+  {
+    "modId": "3750626266",
+    "package": "3750626266 - Canaan Intellect Chinese",
+    "supplementalFilesSynced": [],
+    "legacyBundleRemoved": false,
+    "runtimeTargets": 34,
+    "operationsBefore": 34,
+    "operationsAfter": 34,
+    "coveragePreserved": true
+  }
+]

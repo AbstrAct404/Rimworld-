@@ -7,7 +7,7 @@
 - 整合包源目录：`Mods/0000000000 - Aya Integrated Chinese`
 - Steam 创意工坊物品：`3770548798`
 - RimWorld App ID：`294100`
-- 当前整合范围：21 个 Aya 原模组、3138 条合并游戏文本、22 个已记录冲突。
+- 当前整合范围：21 个 Aya 原模组、3231 条合并游戏文本、0 个未解决冲突。
 - 最新内容更新：补齐研究、装备、袭击事件、各族嵌套自定义技能/召唤按钮，以及 5 个种族剧本的标题、摘要和开场信件。
 - 最新技能与基因审计：265 项已检查，缺失 `0`，翻译残留日文 `0`。
 
@@ -21,6 +21,7 @@
 - `skill_command_translations.json`：217 项自定义技能、自动/手动召唤命令的原文—译文对照；这是此类字段的唯一维护源。
 - `audit_skills_genes.py`：审计 GeneDef、XenotypeDef 与嵌套技能字段是否缺失或残留日文；报告写入 `SKILL-GENE-AUDIT.json`。
 - `validate_runtime_patch_targets.py`：把所有技能与剧本补丁 XPath 对照当前原模组 1.6 Def；必须全部命中。
+- `optimize_runtime_patches.py`：清理旧版合并补丁与新版生成补丁的重复执行；只有在其他直接补丁仍覆盖同一 XPath 时才会移除旧文件，绝不以 DefInjected 代替运行时兜底。
 - `validate_translations.py`：通用 XML、依赖元数据、术语一致性校验。Patch 的 `xpath` 是原文选择器，不应按游戏显示文本检查。
 - `TERMINOLOGY_REFERENCE.md`：面向人工阅读的固定术语表。
 - `terminology.json`：机器处理时使用的术语库。
@@ -63,7 +64,8 @@
 2. 运行 `python build_skill_command_patches.py`。
 3. 运行 `python validate_runtime_patch_targets.py`，所有 XPath 必须命中。
 4. 运行 `python audit_skills_genes.py`，必须得到缺失 `0`、残留日文 `0`。
-5. 运行 `python build_integrated_pack.py --mods-root .\Mods`，整合包会复制各独立包的 `Patches` 文件。
+5. 运行 `python optimize_runtime_patches.py`，确认所有包的 `coveragePreserved` 均为 `true` 且没有重复 XPath。
+6. 运行 `python build_integrated_pack.py --mods-root .\Mods`，整合包会复制各独立包的 `Patches` 文件；若独立包仍有重复运行时目标，构建会直接终止。
 
 补丁生成后的整合包必须将 XML 文件直接置于 `Patches/` 根目录，并以原模组 Workshop ID 为文件名前缀。不要用 `PatchOperationFindMod` 匹配 `packageId`：该操作匹配的是显示名，错误使用 `packageId` 会静默跳过补丁。技能和剧本补丁统一使用 `PatchOperationConditional`，按目标 Def 是否存在来执行。
 
@@ -90,6 +92,7 @@
 ```powershell
 python .\build_skill_command_patches.py
 python .\build_scenario_patches.py
+python .\optimize_runtime_patches.py
 python .\validate_runtime_patch_targets.py
 python .\audit_skills_genes.py
 python .\build_integrated_pack.py --mods-root .\Mods --steam-vdf-dir .\steam_upload --steam-content-root 'D:\MODS\Rimworld'

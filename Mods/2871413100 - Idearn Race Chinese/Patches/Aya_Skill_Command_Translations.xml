@@ -2,9 +2,9 @@
 <Patch>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[1]/commandLabel[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[1]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[1]/commandLabel[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[1]/commandLabel[1]</xpath>
       <value>
         <commandLabel>彼岸</commandLabel>
       </value>
@@ -12,19 +12,19 @@
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[1]/commandDesc[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[1]/commandDesc[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[1]/commandDesc[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[1]/commandDesc[1]</xpath>
       <value>
-        <commandDesc>为自身展开减伤屏障。</commandDesc>
+        <commandDesc>为自身展开减伤屏障。冷却时间为3天。</commandDesc>
       </value>
     </match>
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[2]/commandLabel[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[2]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[2]/commandLabel[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[2]/commandLabel[1]</xpath>
       <value>
         <commandLabel>离场</commandLabel>
       </value>
@@ -32,9 +32,9 @@
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[2]/commandDesc[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[2]/commandDesc[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[2]/commandDesc[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[2]/commandDesc[1]</xpath>
       <value>
         <commandDesc>瞬间移动到射程内任意格。</commandDesc>
       </value>
@@ -42,81 +42,41 @@
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[5]/commandLabel[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[3]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[5]/commandLabel[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[3]/commandLabel[1]</xpath>
       <value>
-        <commandLabel>终末王权</commandLabel>
+        <commandLabel>绯红权能</commandLabel>
       </value>
     </match>
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[5]/commandDesc[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[3]/commandDesc[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[5]/commandDesc[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[3]/commandDesc[1]</xpath>
       <value>
-        <commandDesc>【超大范围】以自身为中心引发半径20格的大爆炸，使目标陷入“不可逆的精神崩溃”。</commandDesc>
+        <commandDesc>【大范围】以自身为中心生成半径10格的伤害力场。冷却时间为半天。</commandDesc>
       </value>
     </match>
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[6]/commandLabel[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[4]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[6]/commandLabel[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[4]/commandLabel[1]</xpath>
       <value>
-        <commandLabel>狂乱王权</commandLabel>
+        <commandLabel>苍蓝权能</commandLabel>
       </value>
     </match>
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[6]/commandDesc[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[4]/commandDesc[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[6]/commandDesc[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[4]/commandDesc[1]</xpath>
       <value>
-        <commandDesc>【超大范围】以自身为中心引发半径20格的大爆炸，使目标陷入“不可逆的狂暴”。</commandDesc>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[7]/commandLabel[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[7]/commandLabel[1]</xpath>
-      <value>
-        <commandLabel>炼狱王权</commandLabel>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[7]/commandDesc[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[7]/commandDesc[1]</xpath>
-      <value>
-        <commandDesc>在射程内指定位置释放半径80格的冲击波。除克里提亚斯外的存在都会被消灭（部分目标例外）。</commandDesc>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Menexenus_a"]/comps[1]/li[1]/commandLabel[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Menexenus_a"]/comps[1]/li[1]/commandLabel[1]</xpath>
-      <value>
-        <commandLabel>彼岸（不完全）</commandLabel>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Menexenus_a"]/comps[1]/li[1]/commandDesc[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Menexenus_a"]/comps[1]/li[1]/commandDesc[1]</xpath>
-      <value>
-        <commandDesc>为自身展开减伤屏障。冷却时间为3天。</commandDesc>
+        <commandDesc>【大范围】以自身为中心生成半径10格的死亡宣告力场。冷却时间为半天。</commandDesc>
       </value>
     </match>
   </Operation>
@@ -282,19 +242,19 @@
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[1]/commandLabel[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Menexenus_a"]/comps[1]/li[1]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[1]/commandLabel[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Menexenus_a"]/comps[1]/li[1]/commandLabel[1]</xpath>
       <value>
-        <commandLabel>彼岸</commandLabel>
+        <commandLabel>彼岸（不完全）</commandLabel>
       </value>
     </match>
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[1]/commandDesc[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Menexenus_a"]/comps[1]/li[1]/commandDesc[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[1]/commandDesc[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Menexenus_a"]/comps[1]/li[1]/commandDesc[1]</xpath>
       <value>
         <commandDesc>为自身展开减伤屏障。冷却时间为3天。</commandDesc>
       </value>
@@ -302,9 +262,29 @@
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[2]/commandLabel[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[1]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[2]/commandLabel[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[1]/commandLabel[1]</xpath>
+      <value>
+        <commandLabel>彼岸</commandLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[1]/commandDesc[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[1]/commandDesc[1]</xpath>
+      <value>
+        <commandDesc>为自身展开减伤屏障。</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[2]/commandLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[2]/commandLabel[1]</xpath>
       <value>
         <commandLabel>离场</commandLabel>
       </value>
@@ -312,9 +292,9 @@
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[2]/commandDesc[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[2]/commandDesc[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[2]/commandDesc[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[2]/commandDesc[1]</xpath>
       <value>
         <commandDesc>瞬间移动到射程内任意格。</commandDesc>
       </value>
@@ -322,41 +302,61 @@
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[3]/commandLabel[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[5]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[3]/commandLabel[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[5]/commandLabel[1]</xpath>
       <value>
-        <commandLabel>绯红权能</commandLabel>
+        <commandLabel>终末王权</commandLabel>
       </value>
     </match>
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[3]/commandDesc[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[5]/commandDesc[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[3]/commandDesc[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[5]/commandDesc[1]</xpath>
       <value>
-        <commandDesc>【大范围】以自身为中心生成半径10格的伤害力场。冷却时间为半天。</commandDesc>
+        <commandDesc>【超大范围】以自身为中心引发半径20格的大爆炸，使目标陷入“不可逆的精神崩溃”。</commandDesc>
       </value>
     </match>
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[4]/commandLabel[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[6]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[4]/commandLabel[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[6]/commandLabel[1]</xpath>
       <value>
-        <commandLabel>苍蓝权能</commandLabel>
+        <commandLabel>狂乱王权</commandLabel>
       </value>
     </match>
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[4]/commandDesc[1]</xpath>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[6]/commandDesc[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Theaetetus_b"]/comps[1]/li[4]/commandDesc[1]</xpath>
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[6]/commandDesc[1]</xpath>
       <value>
-        <commandDesc>【大范围】以自身为中心生成半径10格的死亡宣告力场。冷却时间为半天。</commandDesc>
+        <commandDesc>【超大范围】以自身为中心引发半径20格的大爆炸，使目标陷入“不可逆的狂暴”。</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[7]/commandLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[7]/commandLabel[1]</xpath>
+      <value>
+        <commandLabel>炼狱王权</commandLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[7]/commandDesc[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idearn_Critias"]/comps[1]/li[7]/commandDesc[1]</xpath>
+      <value>
+        <commandDesc>在射程内指定位置释放半径80格的冲击波。除克里提亚斯外的存在都会被消灭（部分目标例外）。</commandDesc>
       </value>
     </match>
   </Operation>

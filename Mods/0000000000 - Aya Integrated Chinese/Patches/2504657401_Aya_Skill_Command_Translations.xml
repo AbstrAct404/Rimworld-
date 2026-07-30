@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[@Name="BOSS_RQ_ArtifactBase"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[@Name="BOSS_RQ_ArtifactBase"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>激活 {0_label}</useLabel>
+      </value>
+    </match>
+  </Operation>
+</Patch>

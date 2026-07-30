@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="HAR_IA_Gunshot"]/label</xpath>
+    <value><label>空迹</label></value>
+  </Operation>
+</Patch>

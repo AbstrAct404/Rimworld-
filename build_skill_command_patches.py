@@ -26,6 +26,7 @@ EXTRA_FIELD_TRANSLATIONS = {
     "useLabel": {
         "{0} を使用する": "使用 {0}",
         "{0} を使用して能力を獲得する": "使用 {0} 以获得能力",
+        "Activate {0_label}": "激活 {0_label}",
     },
 }
 OUTPUT_NAME = "Aya_Skill_Command_Translations.xml"

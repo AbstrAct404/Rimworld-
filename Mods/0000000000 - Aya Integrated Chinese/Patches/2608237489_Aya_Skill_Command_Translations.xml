@@ -2,6 +2,46 @@
 <Patch>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
+    <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[2]/commandLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[2]/commandLabel[1]</xpath>
+      <value>
+        <commandLabel>雷霆爆炎</commandLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[2]/commandDesc[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[2]/commandDesc[1]</xpath>
+      <value>
+        <commandDesc>【小范围】以自身为中心释放体内积蓄的反物质。冷却时间为3天。</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[3]/commandLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[3]/commandLabel[1]</xpath>
+      <value>
+        <commandLabel>炼狱爆炎</commandLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[3]/commandDesc[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[3]/commandDesc[1]</xpath>
+      <value>
+        <commandDesc>【大范围】以自身为中心释放体内积蓄的反物质。冷却时间为1个象限。</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
     <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn_b"]/comps[1]/li[2]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
       <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn_b"]/comps[1]/li[2]/commandLabel[1]</xpath>
@@ -42,41 +82,11 @@
   </Operation>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[2]/commandLabel[1]</xpath>
+    <xpath>Defs/ThingDef[@Name="HAR_SA_ArtifactBase"]/comps[1]/li[1]/useLabel[1]</xpath>
     <match Class="PatchOperationReplace">
-      <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[2]/commandLabel[1]</xpath>
+      <xpath>Defs/ThingDef[@Name="HAR_SA_ArtifactBase"]/comps[1]/li[1]/useLabel[1]</xpath>
       <value>
-        <commandLabel>雷霆爆炎</commandLabel>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[2]/commandDesc[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[2]/commandDesc[1]</xpath>
-      <value>
-        <commandDesc>【小范围】以自身为中心释放体内积蓄的反物质。冷却时间为3天。</commandDesc>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[3]/commandLabel[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[3]/commandLabel[1]</xpath>
-      <value>
-        <commandLabel>炼狱爆炎</commandLabel>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[3]/commandDesc[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/ThingDef[@Name="HAR_Solark_BaseNRPawn"]/comps[1]/li[3]/commandDesc[1]</xpath>
-      <value>
-        <commandDesc>【大范围】以自身为中心释放体内积蓄的反物质。冷却时间为1个象限。</commandDesc>
+        <useLabel>激活 {0_label}</useLabel>
       </value>
     </match>
   </Operation>

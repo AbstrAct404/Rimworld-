@@ -15,6 +15,11 @@
 短暂漂流后，你降落在这颗未知的边缘世界。
 
 残骸散落在身边。现在，作为一名牧菌妖姬，你必须在这片土地上开辟自己的生存之路。</AyaScenarioStartNeclose>
+  <AyaScenarioStartSilkiera>你在休眠舱中被警报和船体撕裂声惊醒。飞船解体前，你勉强登上逃生舱。
+
+短暂漂流后，你降落在这颗未知的边缘世界。
+
+残骸散落在身边。现在，作为一名亚人兽娘，你必须在这片土地上开辟自己的生存之路。</AyaScenarioStartSilkiera>
   <AyaScenarioStartXenoorca>你在休眠舱中被警报和船体撕裂声惊醒。飞船解体前，你勉强登上逃生舱。
 
 短暂漂流后，你降落在这颗未知的边缘世界。
@@ -115,7 +120,7 @@
 她似乎因长途跋涉而十分虚弱，不久后便会因体力不支倒下，但几天内应该可以恢复。</LetterLittlunaPasses>
   <Letter_BOSS_RQ_Incident_Monster_z>一种生物和机械混合的生命体出现在了你的殖民地附近，你可以试着驯服装这种处于无垢状态且易于被调教的生物。生命体会在你的殖民地附近停留一段时间后离开。</Letter_BOSS_RQ_Incident_Monster_z>
   <Letter_BOSS_RQ_PartsDrop>由于卫星轨道上不知名的宙族之间的冲突，某种未知的碎片在其影响下坠毁至殖民地附近。</Letter_BOSS_RQ_PartsDrop>
-  <Letter_HAR_ZC_Zoichor_a>垄罩着昏暗氛围的人工种族，锢魂魔加入了你的殖民地。\n她并未透露加入的理由，但似乎不必担心背叛之类的问题。\n\n目前，她的力量被封印，通过进行研究，应该能够找到恢复力量的契机。</Letter_HAR_ZC_Zoichor_a>
+  <Letter_HAR_ZC_Zoichor_a>一名笼罩着阴郁气息的人工种族——锢魂魔加入了你的殖民地。\n她不愿说明加入的原因，不过似乎无需担心她会背叛。\n\n她目前的力量正处于封印状态；推进相关研究，或许能够找到帮助她取回力量的契机。</Letter_HAR_ZC_Zoichor_a>
   <Letter_Label_HAR_ZC_Zoichor_a>古老的约定</Letter_Label_HAR_ZC_Zoichor_a>
   <Message_CannotUseEquipment>{0}无法使用该装备，已将其丢下。</Message_CannotUseEquipment>
   <Outerm.DisableNpcSkillF>禁止 NPC 使用提丰纳斯【待核译名】</Outerm.DisableNpcSkillF>
