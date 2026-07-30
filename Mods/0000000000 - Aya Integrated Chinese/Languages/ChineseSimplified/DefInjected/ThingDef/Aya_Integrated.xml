@@ -120,11 +120,16 @@
   <BMOT_Building_Incubator.description>过去人工种族的造物主所制造的培养器。\n能够通过读取专用的数据来创造出相应的生物。</BMOT_Building_Incubator.description>
   <BMOT_Building_Incubator.label>神之形</BMOT_Building_Incubator.label>
   <BMOT_Building_MailOrderTerminal_Animal.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Animal.description>
+  <BMOT_Building_MailOrderTerminal_Animal.label>亚人工业牲畜店</BMOT_Building_MailOrderTerminal_Animal.label>
   <BMOT_Building_MailOrderTerminal_Base.description>邮购终端。足不出户便可立即购买所需商品。</BMOT_Building_MailOrderTerminal_Base.description>
   <BMOT_Building_MailOrderTerminal_Food.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Food.description>
+  <BMOT_Building_MailOrderTerminal_Food.label>亚人工业食品店</BMOT_Building_MailOrderTerminal_Food.label>
   <BMOT_Building_MailOrderTerminal_Furniture.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Furniture.description>
+  <BMOT_Building_MailOrderTerminal_Furniture.label>亚人工业家具店</BMOT_Building_MailOrderTerminal_Furniture.label>
   <BMOT_Building_MailOrderTerminal_Material.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Material.description>
+  <BMOT_Building_MailOrderTerminal_Material.label>亚人工业材料店</BMOT_Building_MailOrderTerminal_Material.label>
   <BMOT_Building_MailOrderTerminal_Slave.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Slave.description>
+  <BMOT_Building_MailOrderTerminal_Slave.label>亚人工业奴隶商店</BMOT_Building_MailOrderTerminal_Slave.label>
   <BMOT_Building_Recycle_a.description>『还在为堆满殖民地的武器和护甲感到头疼？\n这一问题就由我等亚人工业来解决！』\n\n亚人工业开设的回收店，可以快速回收不需要的武器和护甲。\n另外，你还能得到作为谢礼的“猫咪印章”，能够兑换超豪华的奖品哦~</BMOT_Building_Recycle_a.description>
   <BMOT_Building_Recycle_a.label>亚人工业回收店</BMOT_Building_Recycle_a.label>
   <BMOT_Building_Refinery_a.description>『那边那位刚刚入手了心仪飞船的客人！\n还在为缺乏燃料所困扰吗？\n这一烦恼就由我等来解决！』\n\n亚人工业的炼油机。能够将岩石液化，与空气与电力进行反应，从中提炼出化合燃料。\n\n据说其原型是人工种族的神子在闲暇之余制造的机器。</BMOT_Building_Refinery_a.description>
@@ -196,6 +201,7 @@
   <BOSS_RQ_Hive_Requeen_b.description>女王种是某个外星文明创造的机械生命体，孕育了魅魔及其亚种们的始祖，\n也许因为是最初建造的生命体，基本没有自我意识，在外星文明灭亡后也忠实地遵循输入的指令，一直处于“生产兵力”和“排除外敌”的暴走状态。\n\n她们不具备战斗能力，但有着极强的装甲和再生能力，能够源源不断地生产机械生命体。\n即使自身能量耗尽，她们也能迅速从周围汲取能量；只有外力才能真正杀死她们。\n\n\n现如今，“击败还在苦苦侍奉那已灭亡的创造者的女王们、让她们陷入永眠”成为了以魅魔为首的女儿们的夙愿。\n\n\n这一个体重视防卫，不会造成周围的草木枯死。\n最初的眷属早已死亡，不主动进入射程的话就不会有危险。</BOSS_RQ_Hive_Requeen_b.description>
   <BOSS_RQ_Hive_Requeen_b.label>女王种（要塞）</BOSS_RQ_Hive_Requeen_b.label>
   <BOSS_RQ_Hive_Viceroy.description>副王种是女王种的幼体，在紧急情况下代理其生产。\n副王种本应通过合适的育成方针成长为女王种，但在创造者已毁灭的现如今，副王种需要耗费极其漫长的时间和巨量能量才能完成这一转变。\n\n或许是没有被输入上位指令的缘故，副王种们不同于完全陷入暴走状态的女王种，拥有正常的思考能力。\n\n\n\n每 15 天产出一个“粒子泡提取核心”。\n每年产出一个“研究型 AI 次人格核心”。</BOSS_RQ_Hive_Viceroy.description>
+  <BOSS_RQ_Hive_Viceroy.label>副王种</BOSS_RQ_Hive_Viceroy.label>
   <BOSS_RQ_Hive_Viceroy_Unit.description>收纳着某种东西的单元，据说里面沉眠着某个派系的遗产。</BOSS_RQ_Hive_Viceroy_Unit.description>
   <BOSS_RQ_Hive_Viceroy_Unit.label>运输单元</BOSS_RQ_Hive_Viceroy_Unit.label>
   <BOSS_RQ_Monster_race_Summon_a.description>拥有半机械半血肉的特殊构造的【女王种】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“先锋种”是用利爪攻击敌人的前卫兵种。它们的利爪由超振动刀刃构成，即便是坚固的盔甲也能轻易撕开。</BOSS_RQ_Monster_race_Summon_a.description>
@@ -1260,7 +1266,9 @@
   <HAR_QL_Weapon_b.label>统御之枪</HAR_QL_Weapon_b.label>
   <HAR_QL_Weapon_b_Bullet.label>统御之枪</HAR_QL_Weapon_b_Bullet.label>
   <HAR_RQ_Art_a.description>停止了生命活动和机能的【女王种】。经过漫长的星际流浪后降落到了这颗星球上，最终被你们镇压。已经不再被毫无意义的使命所束缚，今后只会迎来永眠。\n\n\n母上终于完成了主的任务。</HAR_RQ_Art_a.description>
+  <HAR_RQ_Art_a.label>女王种镇魂碑</HAR_RQ_Art_a.label>
   <HAR_RQ_Art_z.description>这是已经停止了生命活动的【雏鸟】，更是你“击杀了它”这一伟大壮举的证明。\n雏鸟遵循着来自亲族基因的指引，肆意宣泄着力量。\n但现在，它已经被你击败，远渡星海的旅途在此断绝，它再也没有了成长为成鸟的机会，永远地沉眠在了这片大地之上。\n\n\n\n人工种族们持续了无数年的战争终于画下了句号。</HAR_RQ_Art_z.description>
+  <HAR_RQ_Art_z.label>雏鸟长眠碑</HAR_RQ_Art_z.label>
   <HAR_RQ_Item_a.description>副王种生产的神秘核心，似乎能够作为制造虚空电池的机密部件的替代品。</HAR_RQ_Item_a.description>
   <HAR_RQ_Item_a.label>粒子泡提取核心</HAR_RQ_Item_a.label>
   <HAR_SA_Archotech_a.description>用古老科技制造的收容装置。\n里面似乎有一个人工种族，激活后会加入殖民地。\n因为收容装置使用了反物质，所以推测是和索拉克族有关。</HAR_SA_Archotech_a.description>
@@ -1352,7 +1360,9 @@
   <HAR_SK_Art_a.description>某外星球上用来运输的交通工具。遗憾的是并不兼容边缘世界的燃料，因此它无法移动。</HAR_SK_Art_a.description>
   <HAR_SK_Art_a.label>观赏用卡车</HAR_SK_Art_a.label>
   <HAR_SK_City_Light.description>“随时都会照亮您的殖民地！\n完全不需要电的高科技路灯！”\n\n亚人工业使用的路灯。发光部位用的并非电力，而是某种神秘能源，能够一直发光。</HAR_SK_City_Light.description>
+  <HAR_SK_City_Light.label>亚人工业路灯</HAR_SK_City_Light.label>
   <HAR_SK_Hive_a.description>“真的吃了也没问题的美味兽娘罐头！\n你就敞开肚皮吃吧！！！”\n\n在各地飞来飞去分发兽娘罐头的亚人工业补给店。\n似乎是以宣传美味食品、拯救忍饥挨饿的人们的慈善行动为目的而分发的。\n为了让更多的人认识她们，不论是战场还是极寒之地都会前往；人们在感激的同时，也对这种毅力感到害怕。</HAR_SK_Hive_a.description>
+  <HAR_SK_Hive_a.label>亚人工业补给站</HAR_SK_Hive_a.label>
   <HAR_SK_Item_Extra_a.description>“今天也非常感谢\n请收好这个猫咪印章哦！”\n\n在回收店作为谢礼的印章，多存一些的话能用来交换贵重的奖品。</HAR_SK_Item_Extra_a.description>
   <HAR_SK_Item_Extra_a.label>亚人工业猫咪印章</HAR_SK_Item_Extra_a.label>
   <HAR_SK_Lamp.description>亚人工业制作的电灯，制作时使用了两倍以上的素材，但能照亮相应的范围。</HAR_SK_Lamp.description>
@@ -1382,8 +1392,8 @@
   <HAR_SK_Medicine_a.label>亚人医疗包</HAR_SK_Medicine_a.label>
   <HAR_SK_NPC_Z_Item_a.description>复仇战兽释放出的无色透明力场。\n受到冲击后会引发反物质爆炸，但由于领域只能维持很短一段时间，所以很快就会消失。</HAR_SK_NPC_Z_Item_a.description>
   <HAR_SK_NPC_Z_Item_a.label>镇魂摇曳曲</HAR_SK_NPC_Z_Item_a.label>
-  <HAR_SK_Table2x2c.label>玻璃桌(2x2)</HAR_SK_Table2x2c.label>
-  <HAR_SK_Table3x3c.label>玻璃桌(3x3)</HAR_SK_Table3x3c.label>
+  <HAR_SK_Table2x2c.label>玻璃桌（2×2）</HAR_SK_Table2x2c.label>
+  <HAR_SK_Table3x3c.label>玻璃桌（3×3）</HAR_SK_Table3x3c.label>
   <HAR_SK_TableBase.description>亚人工业制造的桌子，中央采用透明玻璃，看起来颇为高档。</HAR_SK_TableBase.description>
   <HAR_SK_Wall_Fence.description>亚人工业使用的现代化围栏。需要注意的是，子弹可以从铁丝间穿过。</HAR_SK_Wall_Fence.description>
   <HAR_SK_Wall_Fence.label>现代化围栏</HAR_SK_Wall_Fence.label>

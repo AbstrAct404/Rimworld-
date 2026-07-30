@@ -35,12 +35,13 @@
     "modId": "2233666290",
     "package": "2233666290 - Silkiera Race Chinese",
     "supplementalFilesSynced": [
+      "2233666290_Aya_Furniture_Label_Overrides.xml",
       "2233666290_Aya_Health_Label_Overrides.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 17,
-    "operationsBefore": 17,
-    "operationsAfter": 17,
+    "runtimeTargets": 26,
+    "operationsBefore": 26,
+    "operationsAfter": 26,
     "coveragePreserved": true
   },
   {
@@ -59,12 +60,13 @@
     "modId": "2504657401",
     "package": "2504657401 - Requeen Boss Chinese",
     "supplementalFilesSynced": [
-      "2504657401_Aya_Health_Label_Overrides.xml"
+      "2504657401_Aya_Health_Label_Overrides.xml",
+      "2504657401_Aya_Placeable_Label_Overrides.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 3,
-    "operationsBefore": 3,
-    "operationsAfter": 3,
+    "runtimeTargets": 6,
+    "operationsBefore": 6,
+    "operationsAfter": 6,
     "coveragePreserved": true
   },
   {

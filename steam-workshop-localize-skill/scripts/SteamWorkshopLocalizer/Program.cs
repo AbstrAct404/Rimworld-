@@ -85,7 +85,7 @@ try
 
         SteamAPICall_t apiCall = SteamUGC.SubmitItemUpdate(
             handle,
-            "补全了部分物品交互、种族剧本与运行时名称文本。"
+            "补全了玻璃桌、邮购设施及部分可放置物品名称。"
         );
 
         bool finished = false;

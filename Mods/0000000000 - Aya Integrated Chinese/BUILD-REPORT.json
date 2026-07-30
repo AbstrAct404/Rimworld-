@@ -31,7 +31,7 @@
       "translationWorkshopId": "3769650937",
       "translationTitle": "[Aya] Silkiera Race_zh 人工种族汉化 v1.6",
       "folder": "2233666290 - Silkiera Race Chinese",
-      "entriesRead": 281
+      "entriesRead": 288
     },
     {
       "originalWorkshopId": "2394460334",
@@ -47,7 +47,7 @@
       "translationWorkshopId": "3769649735",
       "translationTitle": "[Aya] Requeen Boss_zh 人工种族汉化 v1.6",
       "folder": "2504657401 - Requeen Boss Chinese",
-      "entriesRead": 127
+      "entriesRead": 130
     },
     {
       "originalWorkshopId": "2569091688",
@@ -170,7 +170,7 @@
       "entriesRead": 163
     }
   ],
-  "uniqueEntriesWritten": 3231,
+  "uniqueEntriesWritten": 3241,
   "conflictCount": 0,
   "conflicts": []
 }

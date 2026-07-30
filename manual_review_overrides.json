@@ -222,7 +222,10 @@
     "HAR_QL_M_Race_Base.description": "通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。"
   },
   "2504657401": {
-    "BOSS_RQ_Drop_Base.description": "构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。"
+    "BOSS_RQ_Drop_Base.description": "构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。",
+    "HAR_RQ_Art_a.label": "女王种镇魂碑",
+    "HAR_RQ_Art_z.label": "雏鸟长眠碑",
+    "BOSS_RQ_Hive_Viceroy.label": "副王种"
   },
   "2676302514": {
     "Aya_Race_Ap_C_T_d.label": "儿童学生服",
@@ -238,7 +241,16 @@
     "HAR_SK_AT_c.label": "居家服（亚人兽娘）",
     "HAR_Silkiera_BaseNRPawn_b.description": "亚人兽娘是某个宙族派系以人工种族魅魔为基础，为充当劳动力而非生物兵器进行调整并量产的人工种族。为抑制反叛，她们的身体能力被设定得弱于人类，并被赋予乐于劳动的倾向；由于新加入了小动物基因，许多个体也十分亲人。\n\n离开创造者以前，她们主要从事制造工作；此后似乎利用这些经验，经营生产武器与工具的工厂。\n\n由于以魅魔为原型，她们可以穿戴魅魔的服装。",
     "BMOT_Building_MailOrderTerminal_Base.description": "邮购终端。足不出户便可立即购买所需商品。",
+    "BMOT_Building_MailOrderTerminal_Food.label": "亚人工业食品店",
+    "BMOT_Building_MailOrderTerminal_Material.label": "亚人工业材料店",
+    "BMOT_Building_MailOrderTerminal_Furniture.label": "亚人工业家具店",
+    "BMOT_Building_MailOrderTerminal_Animal.label": "亚人工业牲畜店",
+    "BMOT_Building_MailOrderTerminal_Slave.label": "亚人工业奴隶商店",
+    "HAR_SK_Hive_a.label": "亚人工业补给站",
+    "HAR_SK_City_Light.label": "亚人工业路灯",
     "HAR_SK_TableBase.description": "亚人工业制造的桌子，中央采用透明玻璃，看起来颇为高档。",
+    "HAR_SK_Table2x2c.label": "玻璃桌（2×2）",
+    "HAR_SK_Table3x3c.label": "玻璃桌（3×3）",
     "HAR_SK_Refinery_WorkGiver.label": "炼油",
     "HAR_SK_Recipe_Recycle_a.label": "回收：所有武器",
     "HAR_SK_Recipe_Recycle_b.label": "回收：所有护甲",

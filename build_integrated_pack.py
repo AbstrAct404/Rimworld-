@@ -444,7 +444,7 @@ def main() -> None:
                 f'\t"previewfile"\t\t"{build.vdf_quote(build.vdf_path(steam_output / "About" / "Preview.png"))}"',
                 f'\t"title"\t\t"{build.vdf_quote(title)}"',
                 f'\t"description"\t\t"{build.vdf_quote(workshop_description)}"',
-                f'\t"changenote"\t\t"{build.vdf_quote("补全了部分物品交互、种族剧本与运行时名称文本。")}"',
+                f'\t"changenote"\t\t"{build.vdf_quote("补全了玻璃桌、邮购设施及部分可放置物品名称。")}"',
                 "}", "",
             ])
             (

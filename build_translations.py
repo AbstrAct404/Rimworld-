@@ -679,7 +679,7 @@ def write_steam_vdfs(destination: Path, vdf_dir: Path) -> None:
             f'\t"previewfile"\t\t"{vdf_quote(vdf_path(package / "About" / "Preview.png"))}"',
             f'\t"title"\t\t"{vdf_quote(title)}"',
             f'\t"description"\t\t"{vdf_quote(description)}"',
-            '\t"changenote"\t\t"补全了部分物品交互、种族剧本与运行时名称文本。"',
+            '\t"changenote"\t\t"补全了玻璃桌、邮购设施及部分可放置物品名称。"',
             '}', '',
         ])
         (vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}.vdf").write_text(content, encoding="utf-8")
@@ -696,7 +696,7 @@ def write_steam_vdfs(destination: Path, vdf_dir: Path) -> None:
             f'\t"previewfile"\t\t"{vdf_quote(vdf_path(package / "About" / "Preview.png"))}"',
             f'\t"title"\t\t"{vdf_quote(title)}"',
             f'\t"description"\t\t"{vdf_quote(description)}"',
-            '\t"changenote"\t\t"补全了部分物品交互、种族剧本与运行时名称文本。"',
+            '\t"changenote"\t\t"补全了玻璃桌、邮购设施及部分可放置物品名称。"',
             '}', '',
         ])
         (vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}-schinese.vdf").write_text(

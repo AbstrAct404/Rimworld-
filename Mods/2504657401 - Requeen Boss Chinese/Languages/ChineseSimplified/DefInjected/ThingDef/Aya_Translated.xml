@@ -23,7 +23,9 @@
   <BOSS_RQ_Archotech_a.description>从远渡星海的雏鸟【雏鸟】身上摘取的心脏。这颗心脏本属于毁灭了创造者、使人工种族濒临灭绝的超级兵器「对上位者决战自立兵器·克里提亚斯」。\n现在已经失去了绝大部分的功能，对人们来说几乎毫无用处。\n这颗心脏具有容纳灵魂的功能——这一功能至今仍在运转。侧耳倾听，你仿佛能幻听到那成千上万灵魂的悲鸣。\n解放这些灵魂便可以真正意义上的毁灭「远渡星海之鸟」。\n这就是人工种族们世代相传的、巡视于诸天万界、啄食文明与亿万生命的「远渡星海之鸟」的心脏。\n这心脏宛如极小的地狱，至今仍在死者们的惨叫中熊熊燃烧着。\n还请给予他们救赎，并让这只翱翔于星海的、令人深恶痛绝的鸟永远得留在这片大地上吧。</BOSS_RQ_Archotech_a.description>
   <BOSS_RQ_Bullet_a.label>雏鸟凝望</BOSS_RQ_Bullet_a.label>
   <BOSS_RQ_Bullet_b.label>雏鸟泣血</BOSS_RQ_Bullet_b.label>
+  <HAR_RQ_Art_a.label>女王种镇魂碑</HAR_RQ_Art_a.label>
   <HAR_RQ_Art_a.description>停止了生命活动和机能的【女王种】。经过漫长的星际流浪后降落到了这颗星球上，最终被你们镇压。已经不再被毫无意义的使命所束缚，今后只会迎来永眠。\n\n\n母上终于完成了主的任务。</HAR_RQ_Art_a.description>
+  <HAR_RQ_Art_z.label>雏鸟长眠碑</HAR_RQ_Art_z.label>
   <HAR_RQ_Art_z.description>这是已经停止了生命活动的【雏鸟】，更是你“击杀了它”这一伟大壮举的证明。\n雏鸟遵循着来自亲族基因的指引，肆意宣泄着力量。\n但现在，它已经被你击败，远渡星海的旅途在此断绝，它再也没有了成长为成鸟的机会，永远地沉眠在了这片大地之上。\n\n\n\n人工种族们持续了无数年的战争终于画下了句号。</HAR_RQ_Art_z.description>
   <BOSS_RQ_Remnant.label>女王种的残骸</BOSS_RQ_Remnant.label>
   <BOSS_RQ_Remnant.description>被称为女王种的机械生命体的残骸。\n不知是在宇宙中和哪个派系发生了交战，遭受了足以令原初种彻底毁灭的致命损伤。\n\n残骸中侦测到高浓度的反物质信号，似乎埋有尚未引爆的反物质弹。</BOSS_RQ_Remnant.description>
@@ -67,6 +69,7 @@
 随着体力的减少，它的反击也会越来越猛烈，因此可以适时呼叫盟友的援军进行缓冲。
 只会受到近战攻击伤害，一旦被攻击就会在防卫本能下立刻展开反击。另外，反复遭受近战攻击后，雏鸟会释放特殊的强大反击，能通过远距离射击来抑制这一能力。请注意，投入的近战单位越多，就越需要更多远程射击单位进行压制。
 这只可怕的雏鸟在你的殖民地停留半年后便会离去，前往其他星球。</BOSS_RQ_Hive_Requeen_Z.description>
+  <BOSS_RQ_Hive_Viceroy.label>副王种</BOSS_RQ_Hive_Viceroy.label>
   <BOSS_RQ_Hive_Viceroy.description>副王种是女王种的幼体，在紧急情况下代理其生产。\n副王种本应通过合适的育成方针成长为女王种，但在创造者已毁灭的现如今，副王种需要耗费极其漫长的时间和巨量能量才能完成这一转变。\n\n或许是没有被输入上位指令的缘故，副王种们不同于完全陷入暴走状态的女王种，拥有正常的思考能力。\n\n\n\n每 15 天产出一个“粒子泡提取核心”。\n每年产出一个“研究型 AI 次人格核心”。</BOSS_RQ_Hive_Viceroy.description>
   <BOSS_RQ_Hive_Viceroy_Unit.label>运输单元</BOSS_RQ_Hive_Viceroy_Unit.label>
   <BOSS_RQ_Hive_Viceroy_Unit.description>收纳着某种东西的单元，据说里面沉眠着某个派系的遗产。</BOSS_RQ_Hive_Viceroy_Unit.description>

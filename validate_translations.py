@@ -166,12 +166,18 @@ def main() -> int:
 
         defs = build.active_defs(source)
         if defs:
+            thing_defs: list[ET.Element] = []
+            named_thing_defs: dict[str, ET.Element] = {}
             for file in defs.rglob("*.xml"):
                 try:
                     source_root = ET.parse(file).getroot()
                 except ET.ParseError:
                     continue
                 for definition in source_root:
+                    if definition.tag in {"ThingDef", "AlienRace.ThingDef_AlienRace"}:
+                        thing_defs.append(definition)
+                        if definition.get("Name"):
+                            named_thing_defs[definition.get("Name", "")] = definition
                     def_name = (
                         build.text(definition.find("defName"))
                         or definition.get("Name", "")
@@ -188,6 +194,60 @@ def main() -> int:
                             and build.is_japanese(original)
                         ):
                             translations_by_source[original].add(output_values[key])
+
+            # Construction-menu labels merit a separate completeness check.
+            # A source label made only of kanji contains no kana, so the
+            # general Japanese detector cannot reliably distinguish it from
+            # Chinese.  Resolve local abstract-parent inheritance and require
+            # every concrete, placeable ThingDef to supply a Chinese label.
+            def inherited_value(
+                definition: ET.Element, field: str
+            ) -> tuple[str, str]:
+                current: ET.Element | None = definition
+                seen: set[int] = set()
+                unresolved_parent = ""
+                while current is not None and id(current) not in seen:
+                    seen.add(id(current))
+                    value = build.text(current.find(field))
+                    if value:
+                        return value, unresolved_parent
+                    parent_name = current.get("ParentName", "")
+                    unresolved_parent = parent_name
+                    current = named_thing_defs.get(parent_name)
+                return "", unresolved_parent
+
+            for definition in thing_defs:
+                if definition.get("Abstract", "").lower() == "true":
+                    continue
+                def_name = build.text(definition.find("defName"))
+                source_label = build.text(definition.find("label"))
+                if not def_name or not source_label:
+                    continue
+                designation, designation_parent = inherited_value(
+                    definition, "designationCategory"
+                )
+                category, category_parent = inherited_value(definition, "category")
+                minified, minified_parent = inherited_value(definition, "minifiedDef")
+                parent_hints = {
+                    definition.get("ParentName", ""),
+                    designation_parent,
+                    category_parent,
+                    minified_parent,
+                }
+                placeable = bool(
+                    designation
+                    or minified
+                    or any(
+                        hint.startswith(("Furniture", "Bench"))
+                        for hint in parent_hints
+                    )
+                )
+                key = f"{def_name}.label"
+                if placeable and key not in output_values:
+                    errors.append(
+                        f"Placeable ThingDef label missing: mod={mod_id} "
+                        f"key={key} source={source_label!r}"
+                    )
 
         for file in source.rglob("*.xml"):
             parts = {part.lower() for part in file.parts}
