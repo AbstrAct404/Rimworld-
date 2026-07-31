@@ -166,11 +166,11 @@
       "modName": "[Aya]Enforcer Boss",
       "defName": "BOSS_EF_Item_b",
       "originalName": "ミーティアライト",
-      "currentTranslation": "星陨铁石",
+      "currentTranslation": "星陨铁",
       "proposedTranslation": "星陨铁",
       "category": "建筑与武器材料",
       "effectSummary": "坚固的陨石矿物，可作墙体或近战武器材料。",
-      "reason": "“铁石”语义重复且不够自然；“星陨铁”简洁，并能直接判断它是陨星来源的金属材料。",
+      "reason": "沿用 Steam 创意工坊简介中的既有译名“星陨铁”，确保游戏内物品、说明与发布文案一致。",
       "confidence": "high",
       "affectedKeyPrefixes": [
         "BOSS_EF_Item_b"

@@ -13,3 +13,6 @@ __pycache__/
 **/bin/
 **/obj/
 steam_localizer/
+
+# IDE-generated knowledge wiki (not part of the project).
+.qoder/
