@@ -1,0 +1,120 @@
+{
+  "2198830432": {
+    "HAR_NM_Hediff_a": {
+      "0": {"source": "潜伏", "translation": "潜伏"},
+      "1": {"source": "昇天", "translation": "爆发"}
+    },
+    "HAR_NM_Hediff_Potency_a": {
+      "0": {"source": "副作用", "translation": "副作用"}
+    },
+    "HAR_NM_Hediff_Potency_b": {
+      "0": {"source": "副作用", "translation": "副作用"}
+    }
+  },
+  "2216916011": {
+    "HAR_XO_Hediff_e": {
+      "0": {"source": "潜伏", "translation": "潜伏"},
+      "1": {"source": "昇天", "translation": "升天"}
+    }
+  },
+  "2233666290": {
+    "HAR_SK_Skill_Hediff_c": {
+      "0": {"source": "活動限界", "translation": "活动极限"},
+      "1": {"source": "活性化", "translation": "活化"}
+    }
+  },
+  "2394460334": {
+    "HAR_NC_Hediff_a": {
+      "0": {"source": "麻痺", "translation": "麻痹"},
+      "1": {"source": "混乱", "translation": "混乱"},
+      "2": {"source": "発狂", "translation": "发狂"},
+      "3": {"source": "脳死", "translation": "脑死亡"}
+    },
+    "HAR_NC_Hediff_b": {
+      "0": {"source": "軽度", "translation": "轻度"},
+      "1": {"source": "中度", "translation": "中度"},
+      "2": {"source": "重度", "translation": "重度"},
+      "3": {"source": "極度", "translation": "极重"}
+    }
+  },
+  "2569091688": {
+    "HAR_LL_Hediff_a": {
+      "0": {"source": "昏倒", "translation": "昏迷"},
+      "1": {"source": "朦朧", "translation": "意识朦胧"}
+    },
+    "HAR_LL_Hediff_c": {
+      "0": {"source": "解脱", "translation": "解脱"},
+      "1": {"source": "理解", "translation": "理解"}
+    }
+  },
+  "2706009136": {
+    "Nexaga_Artificial_a": {
+      "0": {"source": "ニアメーア", "translation": "魅魔"}
+    },
+    "Nexaga_Artificial_b": {
+      "0": {"source": "ゼノオーカ", "translation": "人鱼姬"}
+    },
+    "Nexaga_Artificial_c": {
+      "0": {"source": "イドヘール", "translation": "幽灵姬"}
+    },
+    "Nexaga_Artificial_d": {
+      "0": {"source": "シルキーラ", "translation": "亚人兽娘"}
+    },
+    "Nexaga_Artificial_e": {
+      "0": {"source": "ネクロース", "translation": "牧菌妖姬"}
+    },
+    "Nexaga_Artificial_f": {
+      "0": {"source": "リトルーナ", "translation": "伪神族"}
+    },
+    "Nexaga_Artificial_g": {
+      "0": {"source": "ソルアーク", "translation": "索拉克"}
+    },
+    "Nexaga_Artificial_h": {
+      "0": {"source": "サクリーン", "translation": "飞蛾姬"}
+    },
+    "Nexaga_Artificial_i": {
+      "0": {"source": "クオリーラ", "translation": "库莉菈"}
+    },
+    "Nexaga_Artificial_j": {
+      "0": {"source": "ケイオーラ", "translation": "混沌灵"}
+    }
+  },
+  "2763078885": {
+    "HAR_QL_Hediff_e": {
+      "0": {"source": "潜伏", "translation": "潜伏"},
+      "1": {"source": "昇天", "translation": "升天"}
+    }
+  },
+  "2871413100": {
+    "HAR_IA_Skill_Hediff_d": {
+      "0": {"source": "昇天", "translation": "升天"},
+      "1": {"source": "潜伏", "translation": "潜伏"}
+    },
+    "HAR_IA_Skill_Hediff_f": {
+      "0": {"source": "人格崩壊", "translation": "人格崩溃"}
+    },
+    "HAR_IA_Skill_Hediff_g": {
+      "0": {"source": "狂暴化", "translation": "狂暴化"}
+    },
+    "Idearn_Otherside_a": {
+      "0": {"source": "不完全", "translation": "不完全"}
+    }
+  },
+  "3153539856": {
+    "HAR_EL_Hediff_b": {
+      "0": {"source": "軽度", "translation": "轻度"},
+      "1": {"source": "中度", "translation": "中度"},
+      "2": {"source": "重度", "translation": "重度"}
+    }
+  },
+  "3477749439": {
+    "HAR_ZC_Hediff_a": {
+      "1": {"source": "封印", "translation": "封印"},
+      "2": {"source": "灯火", "translation": "灯火"},
+      "3": {"source": "燐火", "translation": "磷火"},
+      "4": {"source": "天火", "translation": "天火"},
+      "5": {"source": "浄火", "translation": "净火"},
+      "6": {"source": "劫火", "translation": "劫火"}
+    }
+  }
+}

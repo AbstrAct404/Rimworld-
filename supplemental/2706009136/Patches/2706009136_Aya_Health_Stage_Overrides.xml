@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/HediffDef[defName="Nexaga_Artificial_a"]/stages/li[1]/label</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/HediffDef[defName="Nexaga_Artificial_a"]/stages/li[1]/label</xpath>
+      <value>
+        <label>魅魔</label>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/HediffDef[defName="Nexaga_Artificial_b"]/stages/li[1]/label</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/HediffDef[defName="Nexaga_Artificial_b"]/stages/li[1]/label</xpath>
+      <value>
+        <label>人鱼姬</label>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/HediffDef[defName="Nexaga_Artificial_c"]/stages/li[1]/label</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/HediffDef[defName="Nexaga_Artificial_c"]/stages/li[1]/label</xpath>
+      <value>
+        <label>幽灵姬</label>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/HediffDef[defName="Nexaga_Artificial_d"]/stages/li[1]/label</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/HediffDef[defName="Nexaga_Artificial_d"]/stages/li[1]/label</xpath>
+      <value>
+        <label>亚人兽娘</label>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/HediffDef[defName="Nexaga_Artificial_e"]/stages/li[1]/label</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/HediffDef[defName="Nexaga_Artificial_e"]/stages/li[1]/label</xpath>
+      <value>
+        <label>牧菌妖姬</label>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/HediffDef[defName="Nexaga_Artificial_f"]/stages/li[1]/label</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/HediffDef[defName="Nexaga_Artificial_f"]/stages/li[1]/label</xpath>
+      <value>
+        <label>伪神族</label>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/HediffDef[defName="Nexaga_Artificial_g"]/stages/li[1]/label</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/HediffDef[defName="Nexaga_Artificial_g"]/stages/li[1]/label</xpath>
+      <value>
+        <label>索拉克</label>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/HediffDef[defName="Nexaga_Artificial_h"]/stages/li[1]/label</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/HediffDef[defName="Nexaga_Artificial_h"]/stages/li[1]/label</xpath>
+      <value>
+        <label>飞蛾姬</label>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/HediffDef[defName="Nexaga_Artificial_i"]/stages/li[1]/label</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/HediffDef[defName="Nexaga_Artificial_i"]/stages/li[1]/label</xpath>
+      <value>
+        <label>库莉菈</label>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/HediffDef[defName="Nexaga_Artificial_j"]/stages/li[1]/label</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/HediffDef[defName="Nexaga_Artificial_j"]/stages/li[1]/label</xpath>
+      <value>
+        <label>混沌灵</label>
+      </value>
+    </match>
+  </Operation>
+</Patch>

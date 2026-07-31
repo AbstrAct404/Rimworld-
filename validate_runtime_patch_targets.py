@@ -11,10 +11,6 @@ from build_translations import MODS, WORKSHOP, active_defs
 
 
 MODS_ROOT = Path("Mods")
-PATCH_NAMES = {
-    "Aya_Scenario_Translations.xml",
-    "Aya_Skill_Command_Translations.xml",
-}
 
 
 def merged_active_defs() -> etree._Element:
@@ -43,11 +39,12 @@ def main() -> None:
     find_mod_files: list[str] = []
 
     for package in sorted(MODS_ROOT.glob("* - * Chinese")):
+        if package.name.startswith("0000000000"):
+            continue
         patch_root = package / "Patches"
-        for patch_name in PATCH_NAMES:
-            file = patch_root / patch_name
-            if not file.is_file():
-                continue
+        if not patch_root.is_dir():
+            continue
+        for file in sorted(patch_root.glob("*.xml")):
             root = ET.parse(file).getroot()
             if root.findall('.//Operation[@Class="PatchOperationFindMod"]'):
                 find_mod_files.append(str(file))

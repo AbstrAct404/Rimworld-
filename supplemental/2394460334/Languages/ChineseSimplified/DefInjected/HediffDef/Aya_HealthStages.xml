@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_NC_Hediff_a.stages.0.label>麻痹</HAR_NC_Hediff_a.stages.0.label>
+  <HAR_NC_Hediff_a.stages.1.label>混乱</HAR_NC_Hediff_a.stages.1.label>
+  <HAR_NC_Hediff_a.stages.2.label>发狂</HAR_NC_Hediff_a.stages.2.label>
+  <HAR_NC_Hediff_a.stages.3.label>脑死亡</HAR_NC_Hediff_a.stages.3.label>
+  <HAR_NC_Hediff_b.stages.0.label>轻度</HAR_NC_Hediff_b.stages.0.label>
+  <HAR_NC_Hediff_b.stages.1.label>中度</HAR_NC_Hediff_b.stages.1.label>
+  <HAR_NC_Hediff_b.stages.2.label>重度</HAR_NC_Hediff_b.stages.2.label>
+  <HAR_NC_Hediff_b.stages.3.label>极重</HAR_NC_Hediff_b.stages.3.label>
+</LanguageData>

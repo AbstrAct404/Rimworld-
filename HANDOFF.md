@@ -1,14 +1,14 @@
 # Aya 人工种族简体中文汉化：交接说明
 
-最后更新：2026-07-25。此文件用于后续维护者或新的 Codex 任务快速恢复上下文。
+最后更新：2026-07-30。此文件用于后续维护者或新的 Codex 任务快速恢复上下文。
 
 ## 当前发布状态
 
 - 整合包源目录：`Mods/0000000000 - Aya Integrated Chinese`
 - Steam 创意工坊物品：`3770548798`
 - RimWorld App ID：`294100`
-- 当前整合范围：21 个 Aya 原模组、3231 条合并游戏文本、0 个未解决冲突。
-- 最新内容更新：补齐研究、装备、袭击事件、各族嵌套自定义技能/召唤按钮，以及 5 个种族剧本的标题、摘要和开场信件。
+- 当前整合范围：21 个 Aya 原模组、3287 条合并游戏文本、0 个未解决冲突。
+- 最新内容更新：补齐 46 个健康状态阶段名称，包括露娜病菌导致麻痹、混乱、发狂直至脑死亡的阶段，以及其他种族的即死、活化与强化阶段。
 - 最新技能与基因审计：265 项已检查，缺失 `0`，翻译残留日文 `0`。
 
 ## 重要目录与生成物
@@ -20,6 +20,7 @@
 - `build_scenario_patches.py`：为 5 个种族剧本生成直接补丁和开场信件 Keyed 翻译；将原模组错误复用的 `GameStartDialog` 改为剧本专属文本键。
 - `skill_command_translations.json`：217 项自定义技能、自动/手动召唤命令的原文—译文对照；这是此类字段的唯一维护源。
 - `audit_skills_genes.py`：审计 GeneDef、XenotypeDef 与嵌套技能字段是否缺失或残留日文；报告写入 `SKILL-GENE-AUDIT.json`。
+- `build_health_stage_patches.py`：补齐 `HediffDef/stages/li/label` 中不会被常规生成器提取的健康状态阶段名称，同时生成 DefInjected 与运行时直接兜底；报告写入 `HEALTH-STAGE-AUDIT.json`。
 - `validate_runtime_patch_targets.py`：把所有技能与剧本补丁 XPath 对照当前原模组 1.6 Def；必须全部命中。
 - `optimize_runtime_patches.py`：清理旧版合并补丁与新版生成补丁的重复执行；只有在其他直接补丁仍覆盖同一 XPath 时才会移除旧文件，绝不以 DefInjected 代替运行时兜底。
 - `validate_translations.py`：通用 XML、依赖元数据、术语一致性校验。Patch 的 `xpath` 是原文选择器，不应按游戏显示文本检查。
@@ -92,6 +93,7 @@
 ```powershell
 python .\build_skill_command_patches.py
 python .\build_scenario_patches.py
+python .\build_health_stage_patches.py
 python .\optimize_runtime_patches.py
 python .\validate_runtime_patch_targets.py
 python .\audit_skills_genes.py

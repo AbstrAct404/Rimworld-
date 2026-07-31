@@ -3,22 +3,25 @@
     "modId": "2198830432",
     "package": "2198830432 - Nearmare Race Chinese",
     "supplementalFilesSynced": [
-      "2198830432_Aya_Health_Label_Overrides.xml"
+      "2198830432_Aya_Health_Label_Overrides.xml",
+      "2198830432_Aya_Health_Stage_Overrides.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 57,
-    "operationsBefore": 57,
-    "operationsAfter": 57,
+    "runtimeTargets": 61,
+    "operationsBefore": 61,
+    "operationsAfter": 61,
     "coveragePreserved": true
   },
   {
     "modId": "2216916011",
     "package": "2216916011 - Xenoorca Race Chinese",
-    "supplementalFilesSynced": [],
+    "supplementalFilesSynced": [
+      "2216916011_Aya_Health_Stage_Overrides.xml"
+    ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 6,
-    "operationsBefore": 6,
-    "operationsAfter": 6,
+    "runtimeTargets": 8,
+    "operationsBefore": 8,
+    "operationsAfter": 8,
     "coveragePreserved": true
   },
   {
@@ -36,24 +39,26 @@
     "package": "2233666290 - Silkiera Race Chinese",
     "supplementalFilesSynced": [
       "2233666290_Aya_Furniture_Label_Overrides.xml",
-      "2233666290_Aya_Health_Label_Overrides.xml"
+      "2233666290_Aya_Health_Label_Overrides.xml",
+      "2233666290_Aya_Health_Stage_Overrides.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 26,
-    "operationsBefore": 26,
-    "operationsAfter": 26,
+    "runtimeTargets": 28,
+    "operationsBefore": 28,
+    "operationsAfter": 28,
     "coveragePreserved": true
   },
   {
     "modId": "2394460334",
     "package": "2394460334 - Neclose Race Chinese",
     "supplementalFilesSynced": [
-      "2394460334_Aya_Health_Label_Overrides.xml"
+      "2394460334_Aya_Health_Label_Overrides.xml",
+      "2394460334_Aya_Health_Stage_Overrides.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 22,
-    "operationsBefore": 22,
-    "operationsAfter": 22,
+    "runtimeTargets": 30,
+    "operationsBefore": 30,
+    "operationsAfter": 30,
     "coveragePreserved": true
   },
   {
@@ -73,12 +78,13 @@
     "modId": "2569091688",
     "package": "2569091688 - Littluna Race Chinese",
     "supplementalFilesSynced": [
-      "2569091688_Aya_Health_Label_Overrides.xml"
+      "2569091688_Aya_Health_Label_Overrides.xml",
+      "2569091688_Aya_Health_Stage_Overrides.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 17,
-    "operationsBefore": 17,
-    "operationsAfter": 17,
+    "runtimeTargets": 21,
+    "operationsBefore": 21,
+    "operationsAfter": 21,
     "coveragePreserved": true
   },
   {
@@ -106,11 +112,13 @@
   {
     "modId": "2706009136",
     "package": "2706009136 - Nexaga Race Chinese",
-    "supplementalFilesSynced": [],
+    "supplementalFilesSynced": [
+      "2706009136_Aya_Health_Stage_Overrides.xml"
+    ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 0,
-    "operationsBefore": 0,
-    "operationsAfter": 0,
+    "runtimeTargets": 10,
+    "operationsBefore": 10,
+    "operationsAfter": 10,
     "coveragePreserved": true
   },
   {
@@ -126,23 +134,26 @@
   {
     "modId": "2763078885",
     "package": "2763078885 - Qualeela Race Chinese",
-    "supplementalFilesSynced": [],
+    "supplementalFilesSynced": [
+      "2763078885_Aya_Health_Stage_Overrides.xml"
+    ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 8,
-    "operationsBefore": 8,
-    "operationsAfter": 8,
+    "runtimeTargets": 10,
+    "operationsBefore": 10,
+    "operationsAfter": 10,
     "coveragePreserved": true
   },
   {
     "modId": "2871413100",
     "package": "2871413100 - Idearn Race Chinese",
     "supplementalFilesSynced": [
-      "2871413100_Aya_Health_Label_Overrides.xml"
+      "2871413100_Aya_Health_Label_Overrides.xml",
+      "2871413100_Aya_Health_Stage_Overrides.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 37,
-    "operationsBefore": 37,
-    "operationsAfter": 37,
+    "runtimeTargets": 42,
+    "operationsBefore": 42,
+    "operationsAfter": 42,
     "coveragePreserved": true
   },
   {
@@ -170,23 +181,26 @@
   {
     "modId": "3153539856",
     "package": "3153539856 - Eveliet Race Chinese",
-    "supplementalFilesSynced": [],
+    "supplementalFilesSynced": [
+      "3153539856_Aya_Health_Stage_Overrides.xml"
+    ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 16,
-    "operationsBefore": 16,
-    "operationsAfter": 16,
+    "runtimeTargets": 19,
+    "operationsBefore": 19,
+    "operationsAfter": 19,
     "coveragePreserved": true
   },
   {
     "modId": "3477749439",
     "package": "3477749439 - Zoichor Race Chinese",
     "supplementalFilesSynced": [
-      "3477749439_Aya_Health_Gene_Label_Overrides.xml"
+      "3477749439_Aya_Health_Gene_Label_Overrides.xml",
+      "3477749439_Aya_Health_Stage_Overrides.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 17,
-    "operationsBefore": 17,
-    "operationsAfter": 17,
+    "runtimeTargets": 23,
+    "operationsBefore": 23,
+    "operationsAfter": 23,
     "coveragePreserved": true
   },
   {
