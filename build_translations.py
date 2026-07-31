@@ -52,7 +52,7 @@ OPTIONAL_LOAD_AFTER = {
 
 FIELDS = {
     "label", "labelNoun", "labelMale", "labelFemale", "description", "jobString",
-    "gerundLabel", "pawnSingular", "pawnPlural", "customLabel", "letterLabel",
+    "gerundLabel", "pawnSingular", "pawnPlural", "pawnsPlural", "customLabel", "letterLabel",
     "letterText", "deathMessage", "beginLetter", "endLetter", "reportString",
     "ingestCommandString", "ingestReportString", "gerundLabel", "labelShort",
     "title", "titleShort", "fixedName",
@@ -535,6 +535,15 @@ def reviewed_game_translation(mod_id: str, key: str, original: str) -> str:
         value = source.get(mod_id, {}).get(key)
         if value is not None:
             return CANONICAL_SOURCE_TRANSLATIONS.get(original, value)
+    # FactionDef uses `pawnsPlural`; Chinese race names normally do not
+    # inflect, so reuse the reviewed singular term rather than falling back
+    # to the source language in quest and letter text.
+    if key.endswith(".pawnsPlural"):
+        singular_key = key[:-len("pawnsPlural")] + "pawnSingular"
+        for source in sources:
+            value = source.get(mod_id, {}).get(singular_key)
+            if value is not None:
+                return value
     if is_japanese(original):
         raise RuntimeError(
             f"Unreviewed Japanese game text: mod={mod_id} key={key} value={original!r}"

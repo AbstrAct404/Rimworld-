@@ -263,8 +263,10 @@
   },
   "2608237489": {
     "HAR_Solark_b.description": "“龙王种·索拉克·赫雷勒夫”是以进一步强化高端型索拉克为目标创造、却始终未能完成的上位种。她在维持人形的同时凝聚了龙与反物质的力量，不仅能够装备武器，释放反物质能力的间隔也更短。\n\n她原本被设计为统领索拉克的存在，但要把龙与反物质的强大力量稳定在人形躯体中，需要经历漫长休眠，因此在创造者时代未能完成。如今她已稳定，不再有暴走风险。\n\n其最大特点是能够通过“龙体化”进入强力战斗形态。由反物质构成的龙躯足以撕裂并蹂躏一切；由于只是将龙躯覆于体表，她仍可在该状态下开枪射击。\n\n强大性能也意味着比普通索拉克消耗更多能量，食量极大。\n\n由于仍是人形，她可以穿戴魅魔的服装。",
-    "Solark_P_Faction.pawnSingular": "索拉克",
-    "Solark_Faction_NPC.pawnSingular": "索拉克",
+  "Solark_P_Faction.pawnSingular": "索拉克",
+  "Solark_P_Faction.pawnsPlural": "索拉克",
+  "Solark_Faction_NPC.pawnSingular": "索拉克",
+  "Solark_Faction_NPC.pawnsPlural": "索拉克",
     "Solark_Artificial_b.description": "索拉克·赫雷勒夫是索拉克的上位种，拥有更加强韧的肉体。\n\n她的力量会随岁月逐渐接近完成，身体也会愈发强大。赫雷勒夫的力量由等级决定，约每年提升 1 级，最高为 5 级。",
     "Solark_Hediff_a.description": "索拉克·赫雷勒夫正在释放龙躯。龙体状态会在半天后解除。",
     "HAR_SA_Tops_d.description": "索拉克·赫雷勒夫专用的礼服。或许因为她本身身体能力很强，这件礼服只承担服装本身的作用。"

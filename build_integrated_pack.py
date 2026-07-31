@@ -23,6 +23,44 @@ INTEGRATED_FOLDER = "0000000000 - Aya Integrated Chinese"
 PACKAGE_ID = "abstract404.aya.integrated.zh"
 PUBLISHED_FILE_ID = "3770548798"
 
+# The integrated localization must always load after every official Aya
+# package that it can translate.  Keep this baseline independent from which
+# standalone localization folders happen to be present during a rebuild:
+# otherwise an omitted EX localization folder can silently remove the EX
+# ordering rule and place the integrated pack above that EX in a mod manager.
+AYA_LOAD_AFTER = (
+    "Ayameduki.AyaRacePremise",
+    "Ayameduki.IdeaStoryteller",
+    "Ayameduki.AyaCanaanIntellect",
+    "Ayameduki.HARChaoura",
+    "Ayameduki.HAREveliet",
+    "Ayameduki.HARIdearn",
+    "Ayameduki.HARIdhale",
+    "Ayameduki.HARLittluna",
+    "Ayameduki.HARNearmare",
+    "Ayameduki.HARNeclose",
+    "Ayameduki.HARNexaga",
+    "Ayameduki.HAROuterm",
+    "Ayameduki.HARQualeela",
+    "Ayameduki.HARSaclean",
+    "Ayameduki.HARSilkiera",
+    "Ayameduki.HARSolark",
+    "Ayameduki.HARXenoorca",
+    "Ayameduki.HARZoichor",
+    "Ayameduki.BOSSRequeen",
+    "Ayameduki.BOSSEnforcer",
+    "Ayameduki.HARChaouraUB",
+    # Optional upper-race switches/extensions.
+    "Ayameduki.HARIdhaleEX",
+    "Ayameduki.HARLittlunaEX",
+    "Ayameduki.HARNearmareEX",
+    "Ayameduki.HARNecloseEX",
+    "Ayameduki.HARNecloseUC",
+    "Ayameduki.HARSilkieraEX",
+    "Ayameduki.HARSolarkEX",
+    "Ayameduki.HARXenoorcaEX",
+)
+
 ORIGINAL_WORKSHOP_TITLES = {
     "2946679071": "[Aya]Chaoura Race",
     "3505571618": "[Aya]Aya Premise Core",
@@ -115,7 +153,10 @@ def main() -> None:
         if package.name != INTEGRATED_FOLDER
         and (package / "Languages" / "ChineseSimplified").is_dir()
     )
-    load_after: list[str] = []
+    # Start with the complete official baseline, then append any newly
+    # discovered dependency from standalone packs.  This makes auto-sorting
+    # deterministic even when only part of the standalone set is available.
+    load_after: list[str] = list(AYA_LOAD_AFTER)
     package_info: list[dict[str, object]] = []
     # (section, subtype) -> key -> (value, source ID)
     buckets: dict[tuple[str, str], dict[str, tuple[str, str]]] = defaultdict(dict)
@@ -437,7 +478,7 @@ def main() -> None:
                 f'\t"previewfile"\t\t"{build.vdf_quote(build.vdf_path(steam_output / "About" / "Preview.png"))}"',
                 f'\t"title"\t\t"{build.vdf_quote(title)}"',
                 f'\t"description"\t\t"{build.vdf_quote(workshop_description)}"',
-                f'\t"changenote"\t\t"{build.vdf_quote("补全了特殊健康状态的阶段名称。")}"',
+                f'\t"changenote"\t\t"{build.vdf_quote("修复整合包自动排序：现在会加载于全部 Aya 本体及 EX/UC 扩展之后。")}"',
                 "}", "",
             ])
             (
