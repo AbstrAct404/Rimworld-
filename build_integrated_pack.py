@@ -385,7 +385,11 @@ def main() -> None:
         "RimWorld 1.6｜本模组仅含翻译文件，不包含任何原模组资源。"
     )
     for tag, value in [
-        ("name", "[Aya] 人工种族简体中文整合汉化包 v1.6"),
+        # Keep an ASCII suffix immediately after the shared [Aya] prefix so
+        # name-based mod-manager views also place the integrated translation
+        # after every regular/EX Aya entry. The explicit loadAfter rules below
+        # remain the authoritative ordering mechanism.
+        ("name", "[Aya]ZZZ 人工种族简体中文整合汉化包 v1.6"),
         ("author", "AbstrAct404 / Chinese localization"),
         ("packageId", PACKAGE_ID),
         ("description", description),
