@@ -28,7 +28,7 @@ PUBLISHED_FILE_ID = "3770548798"
 # standalone localization folders happen to be present during a rebuild:
 # otherwise an omitted EX localization folder can silently remove the EX
 # ordering rule and place the integrated pack above that EX in a mod manager.
-AYA_LOAD_AFTER = (
+INTEGRATED_LOAD_AFTER = (
     "Ayameduki.AyaRacePremise",
     "Ayameduki.IdeaStoryteller",
     "Ayameduki.AyaCanaanIntellect",
@@ -59,6 +59,12 @@ AYA_LOAD_AFTER = (
     "Ayameduki.HARSilkieraEX",
     "Ayameduki.HARSolarkEX",
     "Ayameduki.HARXenoorcaEX",
+    # Mechanoids: Total Warfare incorrectly defines the global GoBack key as
+    # “返回目录”.  Load after it so the integrated pack can restore RimWorld's
+    # generic “返回” label without modifying that unrelated Workshop mod.
+    "Nyar.NCLvsTW",
+    # Call A Trader supplies English fallback text for its request button.
+    "arakos.callatrader.acat",
 )
 
 ORIGINAL_WORKSHOP_TITLES = {
@@ -156,7 +162,7 @@ def main() -> None:
     # Start with the complete official baseline, then append any newly
     # discovered dependency from standalone packs.  This makes auto-sorting
     # deterministic even when only part of the standalone set is available.
-    load_after: list[str] = list(AYA_LOAD_AFTER)
+    load_after: list[str] = list(INTEGRATED_LOAD_AFTER)
     package_info: list[dict[str, object]] = []
     # (section, subtype) -> key -> (value, source ID)
     buckets: dict[tuple[str, str], dict[str, tuple[str, str]]] = defaultdict(dict)
@@ -313,6 +319,10 @@ def main() -> None:
     # the correction in the generated integrated pack instead of relying on a
     # hand-added file that would disappear on the next rebuild.
     buckets[("Keyed", "Keyed")]["GoBack"] = ("返回", "integrated-fix")
+    buckets[("Keyed", "Keyed")]["acat.traderletter.accept"] = (
+        "请求派遣：{0}",
+        "integrated-fix",
+    )
 
     written = 0
     for (section, subtype), values in sorted(buckets.items()):
@@ -478,7 +488,7 @@ def main() -> None:
                 f'\t"previewfile"\t\t"{build.vdf_quote(build.vdf_path(steam_output / "About" / "Preview.png"))}"',
                 f'\t"title"\t\t"{build.vdf_quote(title)}"',
                 f'\t"description"\t\t"{build.vdf_quote(workshop_description)}"',
-                f'\t"changenote"\t\t"{build.vdf_quote("移除名称中的 ZZZ 前缀；保留全部 Aya 本体及 EX/UC 自动排序规则。")}"',
+                f'\t"changenote"\t\t"{build.vdf_quote("修复通用返回按钮、呼叫商船选项与远行队种族名称。")}"',
                 "}", "",
             ])
             (

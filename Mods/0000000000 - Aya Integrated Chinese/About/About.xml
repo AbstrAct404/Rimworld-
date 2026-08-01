@@ -10,7 +10,7 @@
 【EX 扩展说明】
 Idhale EX、Littluna EX、Nearmare EX、Neclose EX、Silkiera EX、Solark EX、Xenoorca EX 等原作者 EX 模组是上位种内容的启用开关。上位种的 Def、代码与资源位于对应种族本体中；未安装或未启用 EX 时，这些条件内容不会载入。RimWorld 1.5/1.6 如需使用上位种，请同时安装并启用对应的原 EX 模组。只有 About/翻译文件的汉化包不能替代原 EX。
 
-当前收录 21 个原模组，共合并 3318 条游戏文本。
+当前收录 21 个原模组，共合并 3319 条游戏文本。
 
 【本次更新】
 补全 46 个特殊健康状态的阶段名称，包括露娜病菌导致的麻痹、混乱、发狂与脑死亡阶段，以及其他种族的即死、活化和强化阶段。
@@ -100,6 +100,8 @@ Idhale EX、Littluna EX、Nearmare EX、Neclose EX、Silkiera EX、Solark EX、X
     <li>Ayameduki.HARSilkieraEX</li>
     <li>Ayameduki.HARSolarkEX</li>
     <li>Ayameduki.HARXenoorcaEX</li>
+    <li>Nyar.NCLvsTW</li>
+    <li>arakos.callatrader.acat</li>
   </loadAfter>
   <forceLoadAfter>
     <li>Ayameduki.AyaRacePremise</li>
@@ -131,5 +133,7 @@ Idhale EX、Littluna EX、Nearmare EX、Neclose EX、Silkiera EX、Solark EX、X
     <li>Ayameduki.HARSilkieraEX</li>
     <li>Ayameduki.HARSolarkEX</li>
     <li>Ayameduki.HARXenoorcaEX</li>
+    <li>Nyar.NCLvsTW</li>
+    <li>arakos.callatrader.acat</li>
   </forceLoadAfter>
 </ModMetaData>

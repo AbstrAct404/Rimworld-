@@ -138,4 +138,5 @@
   <Silkiera_Keyed_MailOrderPreparing>目前正在准备邮购。请稍等。</Silkiera_Keyed_MailOrderPreparing>
   <Silkiera_Keyed_MailOrderPreparingError>该商家无效。</Silkiera_Keyed_MailOrderPreparingError>
   <StillCoolDownTime>尚未冷却完毕</StillCoolDownTime>
+  <acat.traderletter.accept>请求派遣：{0}</acat.traderletter.accept>
 </LanguageData>
