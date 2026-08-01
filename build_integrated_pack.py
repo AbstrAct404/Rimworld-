@@ -385,11 +385,7 @@ def main() -> None:
         "RimWorld 1.6｜本模组仅含翻译文件，不包含任何原模组资源。"
     )
     for tag, value in [
-        # Keep an ASCII suffix immediately after the shared [Aya] prefix so
-        # name-based mod-manager views also place the integrated translation
-        # after every regular/EX Aya entry. The explicit loadAfter rules below
-        # remain the authoritative ordering mechanism.
-        ("name", "[Aya]ZZZ 人工种族简体中文整合汉化包 v1.6"),
+        ("name", "[Aya] 人工种族简体中文整合汉化包 v1.6"),
         ("author", "AbstrAct404 / Chinese localization"),
         ("packageId", PACKAGE_ID),
         ("description", description),
@@ -482,7 +478,7 @@ def main() -> None:
                 f'\t"previewfile"\t\t"{build.vdf_quote(build.vdf_path(steam_output / "About" / "Preview.png"))}"',
                 f'\t"title"\t\t"{build.vdf_quote(title)}"',
                 f'\t"description"\t\t"{build.vdf_quote(workshop_description)}"',
-                f'\t"changenote"\t\t"{build.vdf_quote("修复整合包自动排序：现在会加载于全部 Aya 本体及 EX/UC 扩展之后。")}"',
+                f'\t"changenote"\t\t"{build.vdf_quote("移除名称中的 ZZZ 前缀；保留全部 Aya 本体及 EX/UC 自动排序规则。")}"',
                 "}", "",
             ])
             (
