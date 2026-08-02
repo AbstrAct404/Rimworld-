@@ -1,5 +1,7 @@
 {
   "2946679071": {
+    "HAR_CO_Hediff_a.label": "常暗循环器（活性）",
+    "HAR_CO_Hediff_b.label": "常暗循环器（非活性）",
     "Aya_Race_Ap_C_T_d.label": "儿童学生服",
     "HAR_CO_UB_Archotech_a.label": "异象之书",
     "HAR_CO_UB_Archotech_b.label": "盟约之灵",
@@ -236,6 +238,11 @@
   },
   "2233666290": {
     "Silkiera_Keyed_MailOrderPreparingError": "该商家无效。",
+    "BMOT_Animal.label": "家畜商",
+    "BMOT_FoodTrader.label": "食品商",
+    "BMOT_Furniture.label": "家具商",
+    "BMOT_MaterialTrader.label": "建材商",
+    "BMOT_Slave.label": "奴隶商",
     "HAR_SK_I_M_Research_Recycle_A.label": "亚人工业回收店",
     "HAR_SK_I_M_Research_Refinery_A.label": "亚人工业炼油机",
     "HAR_SK_AT_c.label": "居家服（亚人兽娘）",

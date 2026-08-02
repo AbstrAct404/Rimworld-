@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- 征召栏的武器按钮读取 VerbProperties.label，而不是 ThingDef 的汉化 label。 -->
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Geist_Knife"]/verbs/li[1]/label</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Geist_Knife"]/verbs/li[1]/label</xpath>
+      <value>
+        <label>缚刃「盖斯特」</label>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Geist_Knife"]/verbs/li[1]</xpath>
+      <value>
+        <label>缚刃「盖斯特」</label>
+      </value>
+    </nomatch>
+  </Operation>
+</Patch>

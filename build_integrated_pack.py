@@ -395,7 +395,7 @@ def main() -> None:
         "RimWorld 1.6｜本模组仅含翻译文件，不包含任何原模组资源。"
     )
     for tag, value in [
-        ("name", "[Aya] 人工种族简体中文整合汉化包 v1.6"),
+        ("name", "[Aya]人工种族简体中文整合汉化包 v1.6"),
         ("author", "AbstrAct404 / Chinese localization"),
         ("packageId", PACKAGE_ID),
         ("description", description),
@@ -420,7 +420,7 @@ def main() -> None:
         shutil.copy2(preview_source, output / "About" / "Preview.png")
 
     readme = "\n".join([
-        "# [Aya] 人工种族简体中文整合汉化包 v1.6",
+        "# [Aya]人工种族简体中文整合汉化包 v1.6",
         "",
         f"> 当前收录 **{len(packages)}** 个原模组，共合并 **{written}** 条游戏文本。",
         "",
@@ -488,7 +488,7 @@ def main() -> None:
                 f'\t"previewfile"\t\t"{build.vdf_quote(build.vdf_path(steam_output / "About" / "Preview.png"))}"',
                 f'\t"title"\t\t"{build.vdf_quote(title)}"',
                 f'\t"description"\t\t"{build.vdf_quote(workshop_description)}"',
-                f'\t"changenote"\t\t"{build.vdf_quote("修复通用返回按钮、呼叫商船选项与远行队种族名称。")}"',
+                f'\t"changenote"\t\t"{build.vdf_quote("补全亚人工业五类商船名称，并修复信件与请求提示。")}"',
                 "}", "",
             ])
             (

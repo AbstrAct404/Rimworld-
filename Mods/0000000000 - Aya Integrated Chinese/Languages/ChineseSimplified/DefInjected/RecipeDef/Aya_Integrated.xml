@@ -137,4 +137,6 @@
   <HAR_ZC_Recipe_c.description>从地之佛拉斯生成苍阳果。</HAR_ZC_Recipe_c.description>
   <HAR_ZC_Recipe_c.jobString>创造中</HAR_ZC_Recipe_c.jobString>
   <HAR_ZC_Recipe_c.label>完整的苍阳果</HAR_ZC_Recipe_c.label>
+  <Make_HAR_NM_Sh_Cry.jobString>正在制作魔女水晶（魅魔）。</Make_HAR_NM_Sh_Cry.jobString>
+  <Make_HAR_NM_Sh_Cry.label>魔女水晶（魅魔）</Make_HAR_NM_Sh_Cry.label>
 </LanguageData>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 自动生成的服装配方；未完成品名称会读取该标签。 -->
+  <Make_HAR_NM_Sh_Cry.label>魔女水晶（魅魔）</Make_HAR_NM_Sh_Cry.label>
+  <Make_HAR_NM_Sh_Cry.jobString>正在制作魔女水晶（魅魔）。</Make_HAR_NM_Sh_Cry.jobString>
+</LanguageData>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ResearchTabDef[defName="Aya_CI_ResearchTab" and not(generalTitle) and not(generalDescription)]</xpath>
+    <match Class="PatchOperationAdd">
+    <xpath>Defs/ResearchTabDef[defName="Aya_CI_ResearchTab"]</xpath>
+    <value>
+      <generalTitle>迦南的睿智研究项目</generalTitle>
+      <generalDescription>研究迦南的异能理论，解锁相关讲义与能力运用技术。</generalDescription>
+    </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional"><success>Always</success><xpath>Defs/ResearchTabDef[defName="HAR_EL_ResearchTab" and not(generalTitle) and not(generalDescription)]</xpath><match Class="PatchOperationAdd">
+    <xpath>Defs/ResearchTabDef[defName="HAR_EL_ResearchTab"]</xpath>
+    <value>
+      <generalTitle>伊娃莉特研究项目</generalTitle>
+      <generalDescription>研究伊娃莉特的传承与影像数据，解锁相关装备、神器及数据复原技术。</generalDescription>
+    </value>
+  </match></Operation>
+  <Operation Class="PatchOperationConditional"><success>Always</success><xpath>Defs/ResearchTabDef[defName="HAR_IA_ResearchTab" and not(generalTitle) and not(generalDescription)]</xpath><match Class="PatchOperationAdd">
+    <xpath>Defs/ResearchTabDef[defName="HAR_IA_ResearchTab"]</xpath>
+    <value>
+      <generalTitle>伊迪安研究项目</generalTitle>
+      <generalDescription>研究伊迪安的隐匿技术与各项计划，逐步探索彼岸及其相关成果。</generalDescription>
+    </value>
+  </match></Operation>
+  <Operation Class="PatchOperationConditional"><success>Always</success><xpath>Defs/ResearchTabDef[defName="HAR_NM_ResearchTab" and not(generalTitle) and not(generalDescription)]</xpath><match Class="PatchOperationAdd">
+    <xpath>Defs/ResearchTabDef[defName="HAR_NM_ResearchTab"]</xpath>
+    <value>
+      <generalTitle>魅魔研究项目</generalTitle>
+      <generalDescription>研究魅魔的幻觉兵器，解锁并强化相应武器制造技术。</generalDescription>
+    </value>
+  </match></Operation>
+  <Operation Class="PatchOperationConditional"><success>Always</success><xpath>Defs/ResearchTabDef[defName="HAR_OT_ResearchTab" and not(generalTitle) and not(generalDescription)]</xpath><match Class="PatchOperationAdd">
+    <xpath>Defs/ResearchTabDef[defName="HAR_OT_ResearchTab"]</xpath>
+    <value>
+      <generalTitle>奥特姆研究项目</generalTitle>
+      <generalDescription>研究奥特姆的混沌技术，解锁相关麻药与武器。</generalDescription>
+    </value>
+  </match></Operation>
+  <Operation Class="PatchOperationConditional"><success>Always</success><xpath>Defs/ResearchTabDef[defName="HAR_SK_ResearchTab" and not(generalTitle) and not(generalDescription)]</xpath><match Class="PatchOperationAdd">
+    <xpath>Defs/ResearchTabDef[defName="HAR_SK_ResearchTab"]</xpath>
+    <value>
+      <generalTitle>亚人兽娘研究项目</generalTitle>
+      <generalDescription>研究亚人工业的食品、医疗、商店、回收与炼油技术。</generalDescription>
+    </value>
+  </match></Operation>
+  <Operation Class="PatchOperationConditional"><success>Always</success><xpath>Defs/ResearchTabDef[defName="HAR_SL_ResearchTab" and not(generalTitle) and not(generalDescription)]</xpath><match Class="PatchOperationAdd">
+    <xpath>Defs/ResearchTabDef[defName="HAR_SL_ResearchTab"]</xpath>
+    <value>
+      <generalTitle>飞蛾姬研究项目</generalTitle>
+      <generalDescription>研究飞蛾姬使用的亚人工业高级医疗技术与配方。</generalDescription>
+    </value>
+  </match></Operation>
+  <Operation Class="PatchOperationConditional"><success>Always</success><xpath>Defs/ResearchTabDef[defName="HAR_ZC_ResearchTab" and not(generalTitle) and not(generalDescription)]</xpath><match Class="PatchOperationAdd">
+    <xpath>Defs/ResearchTabDef[defName="HAR_ZC_ResearchTab"]</xpath>
+    <value>
+      <generalTitle>锢魂魔研究项目</generalTitle>
+      <generalDescription>研究锢魂魔与混沌灵相关的苍阳果、冥府武器及深渊契约技术。</generalDescription>
+    </value>
+  </match></Operation>
+</Patch>

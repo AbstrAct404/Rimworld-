@@ -1,4 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <BMOT_Animal.label>家畜商</BMOT_Animal.label>
+  <BMOT_FoodTrader.label>食品商</BMOT_FoodTrader.label>
+  <BMOT_Furniture.label>家具商</BMOT_Furniture.label>
+  <BMOT_MaterialTrader.label>建材商</BMOT_MaterialTrader.label>
+  <BMOT_Slave.label>奴隶商</BMOT_Slave.label>
   <HAR_NM_Caravan_Outlander_Exotic.label>魅魔贸易商</HAR_NM_Caravan_Outlander_Exotic.label>
 </LanguageData>

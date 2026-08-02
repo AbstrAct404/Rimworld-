@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <HAR_CO_Hediff_a.label>永夜循环器（活性）</HAR_CO_Hediff_a.label>
-  <HAR_CO_Hediff_b.label>永夜循环器（非活性）</HAR_CO_Hediff_b.label>
+  <HAR_CO_Hediff_a.label>常暗循环器（活性）</HAR_CO_Hediff_a.label>
+  <HAR_CO_Hediff_b.label>常暗循环器（非活性）</HAR_CO_Hediff_b.label>
   <HAR_CO_UB_Hediff_Clone.label>并行存在</HAR_CO_UB_Hediff_Clone.label>
   <HAR_CO_UB_Hediff_Death.label>死</HAR_CO_UB_Hediff_Death.label>
   <HAR_CO_UB_Hediff_Limit.label>显现临界</HAR_CO_UB_Hediff_Limit.label>
