@@ -2,7 +2,7 @@
 <LanguageData>
   <Aya_CI_Hediff_Phase_a.description>被能够遮断一切攻击的相位之膜所覆盖的状态。\n变得更加坚固，减轻所受到的伤害。\n\n此状态经过6小时后结束。\n\n\n此力量以潜伏于彼岸的人工种族「幽灵姬」的特异性为基础。\n由于肉体不像她们那样完全顺应，无法将所有伤害完全无效化。</Aya_CI_Hediff_Phase_a.description>
   <Aya_CI_Hediff_Phase_a.label>相位薄膜</Aya_CI_Hediff_Phase_a.label>
-  <Aya_CI_Hediff_Phobia_a.description>被腐蚀性细菌所侵蚀的状态。\n护甲减半，变得更容易受到伤害。\n\n此状态经过6小时后结束。\n\n\n此力量以与细菌共生的人工种族「牧菌妖姬」的特异性为基础。\n虽然已去除了精神干涉的效果，但若在战斗中遭到侵蚀，可能会造成致命伤。</Aya_CI_Hediff_Phobia_a.description>
+  <Aya_CI_Hediff_Phobia_a.description>被狂化病菌毒素侵蚀的状态。\n护甲减半，变得更容易受到伤害。\n\n此状态经过6小时后结束。\n\n\n此力量以与狂化病菌共生的人工种族「牧菌妖姬」的特异性为基础。\n虽然已去除了精神干涉的效果，但若在战斗中遭到侵蚀，可能会造成致命伤。</Aya_CI_Hediff_Phobia_a.description>
   <Aya_CI_Hediff_Phobia_a.label>墓地恐惧</Aya_CI_Hediff_Phobia_a.label>
   <Aya_CI_Hediff_Resistance.description>保护对象免受世界折磨的温暖光芒。\n增强对热与毒的抗性，提升生存能力。\n\n此状态将持续6天。\n\n\n\n造物主从幽灵姬的特性中获得灵感而开发出的技术。\n据说特别常用于保护身躯脆弱的伪神族们。</Aya_CI_Hediff_Resistance.description>
   <Aya_CI_Hediff_Resistance.label>创造之光</Aya_CI_Hediff_Resistance.label>
@@ -255,14 +255,14 @@
   <HAR_LL_Hediff_m.description>神子伪神族·杜娜米丝所赐予的加护。\n受到此加护的人会化为超人打败一切敌人。\n\n这一效果将会持续半天。\n\n\n据说在迦南星遭到大规模袭击的时候，受到了这一加护的骑士在战场上大为活跃、世间无双。</HAR_LL_Hediff_m.description>
   <HAR_LL_Hediff_m.label>神子骑士</HAR_LL_Hediff_m.label>
   <HAR_NC_Hediff_Flag.label>伟大的来访</HAR_NC_Hediff_Flag.label>
-  <HAR_NC_Hediff_a.description>共生在牧菌妖姬体内、对精神念波有感应的细菌。\n这类细菌只能生存在特殊的环境中，而牧菌妖姬的体内环境正好满足这一条件；为了保护牧菌妖姬，细菌促进了她们很多的良性进化。平时都处于假死状态，即使他人感染了也不会产生不良影响，会在 1 天内自行消亡——可一旦接收到牧菌妖姬的攻击指令的话，就会立刻开始强腐蚀性的增殖，并释放出能使人狂躁的精神念波。\n\n刚感染时只会感到手脚麻痹，但到了末期，连脑神经都会受到影响，感染者将精神崩溃，变得极为狂暴。由于这种现象不属于物理层面的干扰，所以对机械族等机械生物同样起作用。</HAR_NC_Hediff_a.description>
+  <HAR_NC_Hediff_a.description>狂化病菌是共生在牧菌妖姬体内、能够感应精神念波的特殊细菌。\n这种病菌只能在特殊环境中长期生存，而牧菌妖姬的体内环境正好满足这一条件；为了保护牧菌妖姬，狂化病菌促成了她们多方面的良性进化。平时都处于假死状态，即使他人感染了也不会产生不良影响，会在 1 天内自行消亡——可一旦接收到牧菌妖姬的攻击指令的话，就会立刻开始强腐蚀性的增殖，并释放出能使人狂躁的精神念波。\n\n刚感染时只会感到手脚麻痹，但到了末期，连脑神经都会受到影响，感染者将精神崩溃，变得极为狂暴。由于这种现象不属于物理层面的干扰，所以对机械族等机械生物同样起作用。</HAR_NC_Hediff_a.description>
   <HAR_NC_Hediff_a.label>狂化病菌</HAR_NC_Hediff_a.label>
   <HAR_NC_Hediff_a.stages.0.label>麻痹</HAR_NC_Hediff_a.stages.0.label>
   <HAR_NC_Hediff_a.stages.1.label>混乱</HAR_NC_Hediff_a.stages.1.label>
   <HAR_NC_Hediff_a.stages.2.label>发狂</HAR_NC_Hediff_a.stages.2.label>
   <HAR_NC_Hediff_a.stages.3.label>脑死亡</HAR_NC_Hediff_a.stages.3.label>
   <HAR_NC_Hediff_b.description>狂化病菌分泌的腐蚀性毒素，可以逐渐侵蚀血肉、从厚重的装甲内部击溃对手。\n这种毒只会对和感染者基因相同的细胞起作用，因此即使有人吃了含有这种毒素的尸体，也不会引起食物中毒。</HAR_NC_Hediff_b.description>
-  <HAR_NC_Hediff_b.label>腐蚀性细菌毒</HAR_NC_Hediff_b.label>
+  <HAR_NC_Hediff_b.label>狂化病菌毒素</HAR_NC_Hediff_b.label>
   <HAR_NC_Hediff_b.stages.0.label>轻度</HAR_NC_Hediff_b.stages.0.label>
   <HAR_NC_Hediff_b.stages.1.label>中度</HAR_NC_Hediff_b.stages.1.label>
   <HAR_NC_Hediff_b.stages.2.label>重度</HAR_NC_Hediff_b.stages.2.label>

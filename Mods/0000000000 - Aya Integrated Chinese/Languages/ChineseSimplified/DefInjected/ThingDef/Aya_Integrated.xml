@@ -94,7 +94,7 @@
   <Aya_CI_Skill_Gain_d.label>始原之淀：脑部骇入</Aya_CI_Skill_Gain_d.label>
   <Aya_CI_Skill_Gain_e.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［残酷之刃］\n对指定格子周围、除殖民者以外的所有人施以斩击并强制出血。\n恶虐的神子伊娃莉特之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_e.description>
   <Aya_CI_Skill_Gain_e.label>始原之淀：残酷之刃</Aya_CI_Skill_Gain_e.label>
-  <Aya_CI_Skill_Gain_f.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［墓地恐惧］\n在指定位置的范围内随机发射8颗腐蚀性爆弹。\n与细菌共生的牧菌妖姬之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_f.description>
+  <Aya_CI_Skill_Gain_f.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［墓地恐惧］\n在指定位置的范围内随机发射8颗腐蚀性爆弹。\n与狂化病菌共生的牧菌妖姬之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_f.description>
   <Aya_CI_Skill_Gain_f.label>始原之淀：墓地恐惧</Aya_CI_Skill_Gain_f.label>
   <Aya_CI_Skill_Gain_g.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［相位薄膜］\n对指定格子周围的所有入殖者赋予护盾。\n置身彼岸的幽灵姬之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_g.description>
   <Aya_CI_Skill_Gain_g.label>始原之淀：相位薄膜</Aya_CI_Skill_Gain_g.label>
@@ -924,38 +924,38 @@
 
 『为什么我会做出这个呢。自从与那个东西相遇之后，我真的还是我自己吗。有没有人能够来帮帮我，帮我停下这无尽的低语。我的梦已经只剩下了噩梦』</HAR_NC_Item_a.description>
   <HAR_NC_Item_a.label>血色蜂蜜酒</HAR_NC_Item_a.label>
-  <HAR_NC_M_a_race_Base.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_a_race_Base.description>
+  <HAR_NC_M_a_race_Base.description>牧菌妖姬的眷属。尸体、血肉等组织感染狂化病菌后，会受到念波控制；狂化病菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_a_race_Base.description>
   <HAR_NC_M_a_race_Base.label>戈尔诺伊德</HAR_NC_M_a_race_Base.label>
-  <HAR_NC_M_a_race_NPC.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_a_race_NPC.description>
+  <HAR_NC_M_a_race_NPC.description>牧菌妖姬的眷属。尸体、血肉等组织感染狂化病菌后，会受到念波控制；狂化病菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_a_race_NPC.description>
   <HAR_NC_M_a_race_NPC.label>戈尔诺伊德</HAR_NC_M_a_race_NPC.label>
   <HAR_NC_M_a_race_NPC.tools.0.label>左爪</HAR_NC_M_a_race_NPC.tools.0.label>
   <HAR_NC_M_a_race_NPC.tools.1.label>右爪</HAR_NC_M_a_race_NPC.tools.1.label>
   <HAR_NC_M_a_race_NPC.tools.2.label>利齿</HAR_NC_M_a_race_NPC.tools.2.label>
-  <HAR_NC_M_a_race_Summon.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_a_race_Summon.description>
+  <HAR_NC_M_a_race_Summon.description>牧菌妖姬的眷属。尸体、血肉等组织感染狂化病菌后，会受到念波控制；狂化病菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_a_race_Summon.description>
   <HAR_NC_M_a_race_Summon.label>戈尔诺伊德</HAR_NC_M_a_race_Summon.label>
   <HAR_NC_M_a_race_Summon.tools.0.label>左爪</HAR_NC_M_a_race_Summon.tools.0.label>
   <HAR_NC_M_a_race_Summon.tools.1.label>右爪</HAR_NC_M_a_race_Summon.tools.1.label>
   <HAR_NC_M_a_race_Summon.tools.2.label>利齿</HAR_NC_M_a_race_Summon.tools.2.label>
-  <HAR_NC_M_b_race_Base.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_b_race_Base.description>
+  <HAR_NC_M_b_race_Base.description>牧菌妖姬的眷属。尸体、血肉等组织感染狂化病菌后，会受到念波控制；狂化病菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_b_race_Base.description>
   <HAR_NC_M_b_race_Base.label>戈尔种</HAR_NC_M_b_race_Base.label>
-  <HAR_NC_M_b_race_NPC.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_b_race_NPC.description>
+  <HAR_NC_M_b_race_NPC.description>牧菌妖姬的眷属。尸体、血肉等组织感染狂化病菌后，会受到念波控制；狂化病菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_b_race_NPC.description>
   <HAR_NC_M_b_race_NPC.label>戈尔种</HAR_NC_M_b_race_NPC.label>
   <HAR_NC_M_b_race_NPC.tools.0.label>左爪</HAR_NC_M_b_race_NPC.tools.0.label>
   <HAR_NC_M_b_race_NPC.tools.1.label>右爪</HAR_NC_M_b_race_NPC.tools.1.label>
   <HAR_NC_M_b_race_NPC.tools.2.label>利齿</HAR_NC_M_b_race_NPC.tools.2.label>
-  <HAR_NC_M_b_race_Summon.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_b_race_Summon.description>
+  <HAR_NC_M_b_race_Summon.description>牧菌妖姬的眷属。尸体、血肉等组织感染狂化病菌后，会受到念波控制；狂化病菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_b_race_Summon.description>
   <HAR_NC_M_b_race_Summon.label>戈尔种</HAR_NC_M_b_race_Summon.label>
   <HAR_NC_M_b_race_Summon.tools.0.label>左爪</HAR_NC_M_b_race_Summon.tools.0.label>
   <HAR_NC_M_b_race_Summon.tools.1.label>右爪</HAR_NC_M_b_race_Summon.tools.1.label>
   <HAR_NC_M_b_race_Summon.tools.2.label>利齿</HAR_NC_M_b_race_Summon.tools.2.label>
-  <HAR_NC_M_c_race_Base.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_c_race_Base.description>
+  <HAR_NC_M_c_race_Base.description>牧菌妖姬的眷属。尸体、血肉等组织感染狂化病菌后，会受到念波控制；狂化病菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_c_race_Base.description>
   <HAR_NC_M_c_race_Base.label>戈尔肉块</HAR_NC_M_c_race_Base.label>
-  <HAR_NC_M_c_race_NPC.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_c_race_NPC.description>
+  <HAR_NC_M_c_race_NPC.description>牧菌妖姬的眷属。尸体、血肉等组织感染狂化病菌后，会受到念波控制；狂化病菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_c_race_NPC.description>
   <HAR_NC_M_c_race_NPC.label>戈尔肉块</HAR_NC_M_c_race_NPC.label>
   <HAR_NC_M_c_race_NPC.tools.0.label>左爪</HAR_NC_M_c_race_NPC.tools.0.label>
   <HAR_NC_M_c_race_NPC.tools.1.label>右爪</HAR_NC_M_c_race_NPC.tools.1.label>
   <HAR_NC_M_c_race_NPC.tools.2.label>利齿</HAR_NC_M_c_race_NPC.tools.2.label>
-  <HAR_NC_M_c_race_Summon.description>牧菌妖姬的眷属。尸体、血肉等组织感染牧菌妖姬细菌后，会受到念波控制；细菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_c_race_Summon.description>
+  <HAR_NC_M_c_race_Summon.description>牧菌妖姬的眷属。尸体、血肉等组织感染狂化病菌后，会受到念波控制；狂化病菌也潜伏在爪牙中，被其抓伤或咬伤者会遭到感染。它本质上只是肉块，因此惧怕斩击、刺击等会破坏形体的攻击，却极能承受枪击与火焰等较难撕裂形体的伤害。</HAR_NC_M_c_race_Summon.description>
   <HAR_NC_M_c_race_Summon.label>戈尔肉块</HAR_NC_M_c_race_Summon.label>
   <HAR_NC_M_c_race_Summon.tools.0.label>左爪</HAR_NC_M_c_race_Summon.tools.0.label>
   <HAR_NC_M_c_race_Summon.tools.1.label>右爪</HAR_NC_M_c_race_Summon.tools.1.label>

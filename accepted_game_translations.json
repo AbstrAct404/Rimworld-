@@ -172,7 +172,11 @@
     "HAR_NC_M_y_race_Base.label": "弗拉斯塔里",
     "HAR_NC_M_y_race_Base.description": "牧菌妖姬 无人（界外之血） 的一个属。由活体重建的尸体。 \\n它不应该具有任何生物活性，但尚不清楚它是如何移动的。 \\n\\n它们又小又弱，但它们形成群体并且速度很快。",
     "HAR_NC_M_z_race_Base.label": "克莱尔斯",
-    "HAR_NC_M_z_race_Base.description": "牧菌妖姬 无人（界外之血） 的一个属。由活体重建的尸体。 \\n它不应该具有任何生物活性，但尚不清楚它是如何移动的。 \\n\\n极难击中，普通攻击无法杀死。"
+    "HAR_NC_M_z_race_Base.description": "牧菌妖姬 无人（界外之血） 的一个属。由活体重建的尸体。 \\n它不应该具有任何生物活性，但尚不清楚它是如何移动的。 \\n\\n极难击中，普通攻击无法杀死。",
+    "HAR_NC_Hediff_a.label": "狂化病菌",
+    "HAR_NC_Damage_a.label": "狂化病菌",
+    "HAR_NC_Hediff_b.label": "狂化病菌毒素",
+    "HAR_NC_Damage_b.label": "狂化病菌毒素"
   },
   "2763078885": {
     "HAR_QL_Backstory_A90.title": "噩梦商人",
