@@ -290,7 +290,7 @@
   <HAR_CO_UB_Archotech_a.label>异象之书</HAR_CO_UB_Archotech_a.label>
   <HAR_CO_UB_Archotech_b.description>蕴含着生命的神圣结晶。
 使用之后，能够让那个存在作为同伴加入。</HAR_CO_UB_Archotech_b.description>
-  <HAR_CO_UB_Archotech_b.label>盟约之灵</HAR_CO_UB_Archotech_b.label>
+  <HAR_CO_UB_Archotech_b.label>盟约灵晶</HAR_CO_UB_Archotech_b.label>
   <HAR_CO_UB_Bullet_a.label>天之剑</HAR_CO_UB_Bullet_a.label>
   <HAR_CO_UB_Bullet_b.label>灾厄彗星</HAR_CO_UB_Bullet_b.label>
   <HAR_CO_UB_Bullet_c.label>灾厄彗星</HAR_CO_UB_Bullet_c.label>
@@ -788,7 +788,7 @@
 这种脏器能用于与不同的次元进行交流，因而高度发达。
 
 致这个箱子的持有者，若你理智尚存的话，那就请不要打开它。</HAR_LL_Archotech_e.description>
-  <HAR_LL_Archotech_e.label>潘多拉深渊</HAR_LL_Archotech_e.label>
+  <HAR_LL_Archotech_e.label>潘多拉魔匣</HAR_LL_Archotech_e.label>
   <HAR_LL_Archotech_f.description>伪神族·杜娜米丝的大脑中生成的形似十字架的器官。
 拥有与不同的次元进行交流，接受能量的功能。
 使用该目标的对象将会获得巨大的力量。
@@ -812,7 +812,7 @@
   <HAR_LL_H_e.label>小小围巾</HAR_LL_H_e.label>
   <HAR_LL_H_f.description>伪神族专用的头盔。为身体脆弱的伪神族们定制的战斗用头盔，但实际上从未被动用过。</HAR_LL_H_f.description>
   <HAR_LL_H_f.label>禁断头盔</HAR_LL_H_f.label>
-  <HAR_LL_Hive_Critias.description>通过潘多拉深渊召唤而出的迷之生命体。
+  <HAR_LL_Hive_Critias.description>通过潘多拉魔匣召唤而出的迷之生命体。
 其外壳类似于人工种族认知中被称为超存在的物体，极其牢固。
 更可怕的是，其内部搭载有过去被视为灾厄的『■■■■■』相同的炉心。
 
@@ -1189,7 +1189,7 @@
   <HAR_OT_Drag_a.label>天使隐剂</HAR_OT_Drag_a.label>
   <HAR_OT_Gas_ToxicCustom.label>朱红之毒</HAR_OT_Gas_ToxicCustom.label>
   <HAR_OT_Material_a.description>混沌所持有的稀有金属。\n散发着令所有人为之倾倒的美丽光泽。\n\n作为加工素材亦是顶级之选，用于武具之上将发挥绝大的威力。\n但其真正的价值，或许更能在家具等艺术品上得到体现。\n\n各派系都在探查迪斯提基亚的取得管道，至今仍不得而知。\n也有一说，低声流传着这是她们所信仰的神明赐予之物的无稽之谈。</HAR_OT_Material_a.description>
-  <HAR_OT_Material_a.label>恩赐</HAR_OT_Material_a.label>
+  <HAR_OT_Material_a.label>神赐辉金</HAR_OT_Material_a.label>
   <HAR_OT_Monster_Race_a.description>奥特姆的眷属。战斗力不高，但机动性相当出色。更大的问题在于它们会无差别地胡闹，甚至会把召唤它们的奥特姆视为攻击对象。</HAR_OT_Monster_Race_a.description>
   <HAR_OT_Monster_Race_a.label>美伯拉</HAR_OT_Monster_Race_a.label>
   <HAR_OT_Proj_GrenadeFrag.label>朱红爆弹</HAR_OT_Proj_GrenadeFrag.label>
@@ -1391,7 +1391,7 @@
   <HAR_SK_Medicine_a.description>“不需要中性胺的医疗用品\n对极力抑制过敏反应的孩子也同样适用！”\n\n亚人工业售卖的医疗品，比一般的医药品性能稍高。因为不需要中性胺，所以容易制作，但是制作所需的材料稍多一些。</HAR_SK_Medicine_a.description>
   <HAR_SK_Medicine_a.label>亚人医疗包</HAR_SK_Medicine_a.label>
   <HAR_SK_NPC_Z_Item_a.description>复仇战兽释放出的无色透明力场。\n受到冲击后会引发反物质爆炸，但由于领域只能维持很短一段时间，所以很快就会消失。</HAR_SK_NPC_Z_Item_a.description>
-  <HAR_SK_NPC_Z_Item_a.label>镇魂摇曳曲</HAR_SK_NPC_Z_Item_a.label>
+  <HAR_SK_NPC_Z_Item_a.label>镇魂反物质场</HAR_SK_NPC_Z_Item_a.label>
   <HAR_SK_Table2x2c.label>玻璃桌（2×2）</HAR_SK_Table2x2c.label>
   <HAR_SK_Table3x3c.label>玻璃桌（3×3）</HAR_SK_Table3x3c.label>
   <HAR_SK_TableBase.description>亚人工业制造的桌子，中央采用透明玻璃，看起来颇为高档。</HAR_SK_TableBase.description>
@@ -1483,7 +1483,7 @@
   <HAR_XO_AT_x.label>深渊之翼</HAR_XO_AT_x.label>
   <HAR_XO_Weapon_a.description>创造者为担任近卫的人鱼姬·渊丛主打造的主战骑枪。\n据说是与大地之剑·统御之枪所齐名的武器。\n由于是专门为人鱼姬·渊丛主所制造的武器，因此只能由她们所使用。\n\n\n那是在黄金时代立下了无数辉煌战果的骑士们的大枪。\n然而，骑士们在前去杀死神子的前日，将其埋葬于宇宙之中。\n如今所行乃是鲜血染红的道路，唯有此枪不可伴于身侧。</HAR_XO_Weapon_a.description>
   <HAR_XO_Weapon_a.label>深渊之噬</HAR_XO_Weapon_a.label>
-  <HAR_ZC_BMOT_Building_Incubator.description>制造锢魂魔相关物品所需的设备。在梅拉夫也设置有许多同类装置，主要用于生成罗迪西安。
+  <HAR_ZC_BMOT_Building_Incubator.description>制造锢魂魔相关物品所需的设备。在梅拉夫也设置有许多同类装置，主要用于生成苍阳果。
 
 
 这套设备由人工种族的神子——伪神族·杜娜米丝亲手设计。技术极为先进，但运行需要消耗大量资源。</HAR_ZC_BMOT_Building_Incubator.description>

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "status": "applied",
+  "status": "applied_and_reaudited",
   "generatedAt": "2026-07-24",
   "appliedAt": "2026-07-24",
   "scope": {
@@ -339,5 +339,101 @@
       "modId": "2706009136",
       "reason": "未发现意义不明且需要功能性意译的药物或实用物品名称。"
     }
-  ]
+  ],
+  "revalidatedAt": "2026-08-03",
+  "sourceReconciledAt": "2026-08-03",
+  "reaudit": {
+    "methodology": [
+      "逐项对照 21 个独立汉化包与原模组 ThingDef 中的物品、药物、材料和可使用神器名称。",
+      "核对独立汉化、整合汉化、生成源 reviewed_game_translations.json、构建脚本与创意工坊发布文案是否一致。",
+      "已确认的“苍阳果”直接修正；仍存在多种合理译法的条目只列入人工复核，不擅自覆盖。"
+    ],
+    "confirmedCorrection": {
+      "modId": "3477749439",
+      "defNames": [
+        "HAR_ZC_Item_a",
+        "HAR_ZC_Item_b",
+        "HAR_ZC_Item_c"
+      ],
+      "canonicalBaseName": "苍阳果",
+      "variants": [
+        "碎裂的苍阳果",
+        "残缺的苍阳果",
+        "完整的苍阳果"
+      ],
+      "staleTermsRemoved": [
+        "罗迪西安",
+        "罗迪西昂"
+      ],
+      "reconciledScopes": [
+        "独立汉化包",
+        "整合汉化包",
+        "物品/配方/研究/健康状态说明",
+        "README 与 About",
+        "构建脚本",
+        "reviewed_game_translations.json",
+        "创意工坊上传文案"
+      ]
+    },
+    "auditResult": "本轮复核确认的 4 个功能性物品名称均已写入独立汉化包、整合汉化包及高优先级翻译源。",
+    "appliedFromManualReviewAt": "2026-08-03",
+    "appliedItems": [
+      {
+        "modId": "3675887482",
+        "modName": "[Aya]Outerm Race",
+        "defName": "HAR_OT_Material_a",
+        "originalName": "ディスティキア",
+        "currentTranslation": "恩赐",
+        "proposedTranslation": "神赐辉金",
+        "category": "顶级金属材料",
+        "effectSummary": "可用于建筑、家具、护甲与近战武器；具有极高美观、耐久、护甲和近战材料倍率。",
+        "reason": "现名没有表明它是具有实用价值的金属材料；候选名保留“神赐”设定，并补出光泽与金属属性。",
+        "confidence": "high",
+        "status": "applied",
+        "appliedAt": "2026-08-03"
+      },
+      {
+        "modId": "2569091688",
+        "modName": "[Aya]Littluna Race",
+        "defName": "HAR_LL_Archotech_e",
+        "originalName": "パンドラビュトス",
+        "currentTranslation": "潘多拉深渊",
+        "proposedTranslation": "潘多拉魔匣",
+        "category": "一次性事件神器",
+        "effectSummary": "箱状器官；使用后会触发灾厄事件。",
+        "reason": "“潘多拉深渊”没有说明物品形态；“潘多拉魔匣”能直接提示这是不可随意开启的箱状神器。",
+        "confidence": "high",
+        "status": "applied",
+        "appliedAt": "2026-08-03"
+      },
+      {
+        "modId": "2946679071",
+        "modName": "[Aya]Chaoura Race",
+        "defName": "HAR_CO_UB_Archotech_b",
+        "originalName": "ルアフベリト",
+        "currentTranslation": "盟约之灵",
+        "proposedTranslation": "盟约灵晶",
+        "category": "招募神器",
+        "effectSummary": "承载生命的神圣结晶；使用后生成并招募一个特殊个体。",
+        "reason": "补出“结晶”这一物品形态，避免被误认为抽象状态或能力。",
+        "confidence": "medium",
+        "status": "applied",
+        "appliedAt": "2026-08-03"
+      },
+      {
+        "modId": "2233666290",
+        "modName": "[Aya]Silkiera Race",
+        "defName": "HAR_SK_NPC_Z_Item_a",
+        "originalName": "鎮魂の揺らぎ",
+        "currentTranslation": "镇魂摇曳曲",
+        "proposedTranslation": "镇魂反物质场",
+        "category": "临时爆炸物",
+        "effectSummary": "无色力场，受冲击会发生半径 8 的反物质爆炸，并在 600 tick 后消失。",
+        "reason": "现名偏诗性且无法辨认用途；候选名保留“镇魂”设定，并明确其实际物理性质。",
+        "confidence": "medium",
+        "status": "applied",
+        "appliedAt": "2026-08-03"
+      }
+    ]
+  }
 }
