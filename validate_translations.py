@@ -107,6 +107,16 @@ def main() -> int:
             # shown to players.
             if node.tag == "xpath":
                 continue
+            # About dependency lists contain package IDs in generic <li> nodes.
+            # They are internal identifiers, not player-facing prose, and may
+            # legitimately contain tokens such as "Lv" (for example NCLvsTW).
+            is_about_identifier = (
+                file.name == "About.xml"
+                and node.tag in {"packageId", "li"}
+                and re.fullmatch(r"[A-Za-z0-9_.-]+", value.strip()) is not None
+            )
+            if is_about_identifier:
+                continue
             for forbidden in FORBIDDEN_RELEASE_TEXT:
                 if forbidden in value:
                     errors.append(

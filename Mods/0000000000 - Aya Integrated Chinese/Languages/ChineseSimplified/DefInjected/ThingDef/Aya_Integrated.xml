@@ -70,8 +70,8 @@
 如今在迦南已无法制造，记录上仅留有造物主与神子能够创造此物。</Aya_CI_Artifact_x.description>
   <Aya_CI_Artifact_x.label>威能圣餐药</Aya_CI_Artifact_x.label>
   <Aya_CI_Book_a.label>迦南创世记</Aya_CI_Book_a.label>
-  <Aya_CI_Bullet_Phobia_a.label>腐败恐惧</Aya_CI_Bullet_Phobia_a.label>
-  <Aya_CI_Bullet_a.label>仁慈的一击</Aya_CI_Bullet_a.label>
+  <Aya_CI_Bullet_Phobia_a.label>墓地恐惧</Aya_CI_Bullet_Phobia_a.label>
+  <Aya_CI_Bullet_a.label>慈悲一击</Aya_CI_Bullet_a.label>
   <Aya_CI_Material_a.description>由少年所制作的加工品。作为基底的素材已液化，散发着黯淡的光泽。\n与其他灵油组合便能成为强化道具。</Aya_CI_Material_a.description>
   <Aya_CI_Material_a.label>生物灵油</Aya_CI_Material_a.label>
   <Aya_CI_Material_b.description>由少年所制作的加工品。作为基底的素材已液化，散发着黯淡的光泽。\n与其他灵油组合便能成为强化道具。</Aya_CI_Material_b.description>
@@ -94,12 +94,12 @@
   <Aya_CI_Skill_Gain_d.label>始原之淀：脑部骇入</Aya_CI_Skill_Gain_d.label>
   <Aya_CI_Skill_Gain_e.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［残酷之刃］\n对指定格子周围、除殖民者以外的所有人施以斩击并强制出血。\n恶虐的神子伊娃莉特之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_e.description>
   <Aya_CI_Skill_Gain_e.label>始原之淀：残酷之刃</Aya_CI_Skill_Gain_e.label>
-  <Aya_CI_Skill_Gain_f.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［腐败恐惧］\n在指定位置的范围内随机发射8颗腐蚀性爆弹。\n与细菌共生的牧菌妖姬之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_f.description>
-  <Aya_CI_Skill_Gain_f.label>始原之淀：腐败恐惧</Aya_CI_Skill_Gain_f.label>
+  <Aya_CI_Skill_Gain_f.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［墓地恐惧］\n在指定位置的范围内随机发射8颗腐蚀性爆弹。\n与细菌共生的牧菌妖姬之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_f.description>
+  <Aya_CI_Skill_Gain_f.label>始原之淀：墓地恐惧</Aya_CI_Skill_Gain_f.label>
   <Aya_CI_Skill_Gain_g.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［相位薄膜］\n对指定格子周围的所有入殖者赋予护盾。\n置身彼岸的幽灵姬之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_g.description>
   <Aya_CI_Skill_Gain_g.label>始原之淀：相位薄膜</Aya_CI_Skill_Gain_g.label>
-  <Aya_CI_Skill_Gain_h.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［仁慈的一击］\n从虚空中发射瞄准对手要害的子弹。\n天真且残忍的杀戮者人鱼姬之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_h.description>
-  <Aya_CI_Skill_Gain_h.label>始原之淀：仁慈的一击</Aya_CI_Skill_Gain_h.label>
+  <Aya_CI_Skill_Gain_h.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［慈悲一击］\n从虚空中发射瞄准对手要害的子弹。\n天真且残忍的杀戮者人鱼姬之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_h.description>
+  <Aya_CI_Skill_Gain_h.label>始原之淀：慈悲一击</Aya_CI_Skill_Gain_h.label>
   <Aya_CI_Skill_Gain_i.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［再见了，痛苦！］\n治愈指定格子周围、敌对者以外的所有人。\n引来灾厄又将其驱退的伪神族之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_i.description>
   <Aya_CI_Skill_Gain_i.label>始原之淀：再见了，痛苦！</Aya_CI_Skill_Gain_i.label>
   <Aya_CI_Skill_Gain_j.description>装有黏稠液体的神秘安瓿。\n使用后可获得人工种族的力量。\n\n［君主恩典］\n强化指定格子周围的所有殖民者。\n身为人工种族王族的库利菈之力。\n\n\n\n远古时代，人工种族的造物主将此物赐予追随自己的人类。\n就此，他将强者与弱者一视同仁地转变为超人，瞬间成为万军之主。\n因此在星外被称为「迦南的大祖」而令人闻风丧胆，据说在高度文明的星球上，其名至今仍未消散。</Aya_CI_Skill_Gain_j.description>
@@ -291,7 +291,7 @@
   <HAR_CO_UB_Archotech_b.description>蕴含着生命的神圣结晶。
 使用之后，能够让那个存在作为同伴加入。</HAR_CO_UB_Archotech_b.description>
   <HAR_CO_UB_Archotech_b.label>盟约之灵</HAR_CO_UB_Archotech_b.label>
-  <HAR_CO_UB_Bullet_a.label>空之剑</HAR_CO_UB_Bullet_a.label>
+  <HAR_CO_UB_Bullet_a.label>天之剑</HAR_CO_UB_Bullet_a.label>
   <HAR_CO_UB_Bullet_b.label>灾厄彗星</HAR_CO_UB_Bullet_b.label>
   <HAR_CO_UB_Bullet_c.label>灾厄彗星</HAR_CO_UB_Bullet_c.label>
   <HAR_CO_UB_Item_a.description>混沌灵·阿瓦露其安遗下的超物质。这种来自深渊或天界的金属完全脱离现世法则；若制成武具，足以轻易征服边境星球。
@@ -637,10 +637,10 @@
   <HAR_IA_Armor_b.label>奥尔芬礼装</HAR_IA_Armor_b.label>
   <HAR_IA_Filth_FireFoam_a.description>伊迪安·泰阿泰德 B型散布的纳米机械充斥着这片领域。进入其中的敌对目标会受伤并大量出血。
 摧毁中央核心，或等待半天后，领域便会自然消失。</HAR_IA_Filth_FireFoam_a.description>
-  <HAR_IA_Filth_FireFoam_a.label>猩红能天使</HAR_IA_Filth_FireFoam_a.label>
+  <HAR_IA_Filth_FireFoam_a.label>绯红权能</HAR_IA_Filth_FireFoam_a.label>
   <HAR_IA_Filth_FireFoam_b.description>伊迪安·泰阿泰德 B型散布的纳米机械充斥着这片领域。进入其中的敌对目标会受伤并大量出血。
 摧毁中央核心，或等待半天后，领域便会自然消失。</HAR_IA_Filth_FireFoam_b.description>
-  <HAR_IA_Filth_FireFoam_b.label>靛蓝能天使</HAR_IA_Filth_FireFoam_b.label>
+  <HAR_IA_Filth_FireFoam_b.label>苍蓝权能</HAR_IA_Filth_FireFoam_b.label>
   <HAR_IA_Item_ArcheCartridge.description>内含有伊迪安的生命活动所必须的能量的药盒。\n每个象限需要更换一次。\n要是处于能量枯竭状态就会陷入无法行动的境地因此建议尽早更换。</HAR_IA_Item_ArcheCartridge.description>
   <HAR_IA_Item_ArcheCartridge.label>本源药盒</HAR_IA_Item_ArcheCartridge.label>
   <HAR_IA_Item_a.description>机械生命体体内夹杂着的神秘物体。\n似乎拥有作为储存介质的功能，其中已经记录了某些制造数据的样子。</HAR_IA_Item_a.description>
@@ -720,8 +720,8 @@
   <HAR_IH_AT_z.label>以太礼装</HAR_IH_AT_z.label>
   <HAR_IH_Archotech_a.description>创造者为了使第三者能够与幽灵姬·罪孽灵签下契约而遗留下的天蓝钥匙。\n使用后能够召唤出幽灵姬·罪孽灵。</HAR_IH_Archotech_a.description>
   <HAR_IH_Archotech_a.label>天穹之钥</HAR_IH_Archotech_a.label>
-  <HAR_IH_Bullet_a.label>巴耶力之剑</HAR_IH_Bullet_a.label>
-  <HAR_IH_Bullet_b.label>莫斯提马之枪</HAR_IH_Bullet_b.label>
+  <HAR_IH_Bullet_a.label>虚空贯刃</HAR_IH_Bullet_a.label>
+  <HAR_IH_Bullet_b.label>灾厄爆枪</HAR_IH_Bullet_b.label>
   <HAR_IH_Item_a.description>仿照创造者曾见过的上位种族的外壳所制成的物质。
 仅被用作人工种族中幽灵姬·罪孽灵的外壳上。
 
@@ -891,17 +891,17 @@
   <HAR_LL_T_c.label>小小披巾</HAR_LL_T_c.label>
   <HAR_LL_T_e.description>伪神族专用的装备。</HAR_LL_T_e.description>
   <HAR_LL_T_e.label>小小夹克</HAR_LL_T_e.label>
-  <HAR_NC_Armor_a.description>牧菌妖姬的专用装甲，性能侧重于接近对方并使其感染露娜病菌。原本是作为创造者麾下的战斗人员时穿着的战斗装甲。</HAR_NC_Armor_a.description>
+  <HAR_NC_Armor_a.description>牧菌妖姬的专用装甲，性能侧重于接近对方并使其感染狂化病菌。原本是作为创造者麾下的战斗人员时穿着的战斗装甲。</HAR_NC_Armor_a.description>
   <HAR_NC_Armor_a.label>血月装甲（耐久型）</HAR_NC_Armor_a.label>
-  <HAR_NC_Armor_b.description>牧菌妖姬的专用装甲，性能侧重于接近对方并使其感染露娜病菌。原本是作为创造者麾下的战斗人员时穿着的战斗装甲。</HAR_NC_Armor_b.description>
+  <HAR_NC_Armor_b.description>牧菌妖姬的专用装甲，性能侧重于接近对方并使其感染狂化病菌。原本是作为创造者麾下的战斗人员时穿着的战斗装甲。</HAR_NC_Armor_b.description>
   <HAR_NC_Armor_b.label>血月装甲（突袭型）</HAR_NC_Armor_b.label>
-  <HAR_NC_Armor_c.description>牧菌妖姬的专用装甲，性能侧重于接近对方并使其感染露娜病菌。原本是作为创造者麾下的战斗人员时穿着的战斗装甲。</HAR_NC_Armor_c.description>
+  <HAR_NC_Armor_c.description>牧菌妖姬的专用装甲，性能侧重于接近对方并使其感染狂化病菌。原本是作为创造者麾下的战斗人员时穿着的战斗装甲。</HAR_NC_Armor_c.description>
   <HAR_NC_Armor_c.label>血月装甲（标准型）</HAR_NC_Armor_c.label>
   <HAR_NC_Armor_z.description>牧菌妖姬·无人（界外之血）专用的装甲。\n外表看起来怎么想都是宇航服装的样子。</HAR_NC_Armor_z.description>
   <HAR_NC_Armor_z.label>异端装甲</HAR_NC_Armor_z.label>
   <HAR_NC_Heads_a.description>高贵之人所戴的王冠。</HAR_NC_Heads_a.description>
   <HAR_NC_Heads_a.label>皇冠头饰（牧菌妖姬）</HAR_NC_Heads_a.label>
-  <HAR_NC_Heads_b.description>牧菌妖姬的专用头盔，性能侧重于接近对方并使其感染露娜病菌。原本是作为创造者麾下的战斗人员时穿着的战斗头盔。</HAR_NC_Heads_b.description>
+  <HAR_NC_Heads_b.description>牧菌妖姬的专用头盔，性能侧重于接近对方并使其感染狂化病菌。原本是作为创造者麾下的战斗人员时穿着的战斗头盔。</HAR_NC_Heads_b.description>
   <HAR_NC_Heads_b.label>血月头盔</HAR_NC_Heads_b.label>
   <HAR_NC_Heads_c.description>牧菌妖姬专用的发箍，或许是因为其不得不进行近身作战的特性，强化了装备耐久值。</HAR_NC_Heads_c.description>
   <HAR_NC_Heads_c.label>发箍（牧菌妖姬）</HAR_NC_Heads_c.label>
@@ -1026,7 +1026,7 @@
   <HAR_NM_Blouse.label>衬衫（魅魔）</HAR_NM_Blouse.label>
   <HAR_NM_BroadshieldProjector.description>仅对单纯子弹有效的小范围的低角护盾。与以往的护盾背包相比，范围很小，且具有3倍的展开时间。\n缺陷是防护范围小，所以无法防御爆炸伤害。</HAR_NM_BroadshieldProjector.description>
   <HAR_NM_BroadshieldProjector.label>召唤的护盾</HAR_NM_BroadshieldProjector.label>
-  <HAR_NM_Bullet_Shell_HighExplosive_Base.label>欧律托斯炮</HAR_NM_Bullet_Shell_HighExplosive_Base.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_Base.label>八联迫击炮</HAR_NM_Bullet_Shell_HighExplosive_Base.label>
   <HAR_NM_China.description>某个神秘的派系为魅魔定制的专用的传统的服装，服装最大限度的遮盖了所有敏感部位，却又有着极大的魅力，且因为用料少而轻便，移动速度得到提升了。</HAR_NM_China.description>
   <HAR_NM_China.label>旗袍（魅魔）</HAR_NM_China.label>
   <HAR_NM_Cts.description>佩戴起来没有那么张扬的低调头饰。</HAR_NM_Cts.description>

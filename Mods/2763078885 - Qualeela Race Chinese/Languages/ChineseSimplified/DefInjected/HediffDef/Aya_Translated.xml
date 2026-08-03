@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_QL_Hediff_a.label>王权誓约</HAR_QL_Hediff_a.label>
-  <HAR_QL_Hediff_a.description>库莉菈的王权机能之一『王权誓约』的效果。\n通过与周围的友方单位进行暂时的契约，从而施加剧烈的身体强化。\n由于只是简易的契约，效果在数小时后就会消失。</HAR_QL_Hediff_a.description>
-  <HAR_QL_Hediff_b.label>王权护佑</HAR_QL_Hediff_b.label>
-  <HAR_QL_Hediff_b.description>库莉菈的王权机能之一『王权护佑』的效果。\n通过对周围的友方单位进行击退攻击的祝福，从而提高他们的防御力。\n由于只是简易的祝福，效果在数小时后就会消失。</HAR_QL_Hediff_b.description>
+  <HAR_QL_Hediff_a.label>王权之威</HAR_QL_Hediff_a.label>
+  <HAR_QL_Hediff_a.description>库莉菈的王权机能之一『王权之威』的效果。\n通过与周围的友方单位进行暂时的契约，从而施加剧烈的身体强化。\n由于只是简易的契约，效果在数小时后就会消失。</HAR_QL_Hediff_a.description>
+  <HAR_QL_Hediff_b.label>王权庇佑</HAR_QL_Hediff_b.label>
+  <HAR_QL_Hediff_b.description>库莉菈的王权机能之一『王权庇佑』的效果。\n通过对周围的友方单位进行击退攻击的祝福，从而提高他们的防御力。\n由于只是简易的祝福，效果在数小时后就会消失。</HAR_QL_Hediff_b.description>
   <HAR_QL_Hediff_c.label>王权统治</HAR_QL_Hediff_c.label>
   <HAR_QL_Hediff_c.description>库莉菈的王权机能之一『王权统治』的效果。\n封印敌方的强化效果并压迫他们的精神，使其处于极度紧张状态。</HAR_QL_Hediff_c.description>
   <HAR_QL_Hediff_d.label>王权耀光</HAR_QL_Hediff_d.label>

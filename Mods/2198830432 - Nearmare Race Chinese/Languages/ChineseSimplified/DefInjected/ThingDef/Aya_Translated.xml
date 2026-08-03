@@ -147,7 +147,7 @@
   <HAR_NM_BroadshieldProjector.description>仅对单纯子弹有效的小范围的低角护盾。与以往的护盾背包相比，范围很小，且具有3倍的展开时间。\n缺陷是防护范围小，所以无法防御爆炸伤害。</HAR_NM_BroadshieldProjector.description>
   <HAR_NM_TrapIED_HighExplosive.label>召唤的地雷</HAR_NM_TrapIED_HighExplosive.label>
   <HAR_NM_TrapIED_HighExplosive.description>魅魔·改良系召唤的地雷。\n踩上去或施加冲击时，会发生半径6格的爆炸。</HAR_NM_TrapIED_HighExplosive.description>
-  <HAR_NM_Bullet_Shell_HighExplosive_Base.label>欧律托斯炮</HAR_NM_Bullet_Shell_HighExplosive_Base.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_Base.label>八联迫击炮</HAR_NM_Bullet_Shell_HighExplosive_Base.label>
   <HAR_NM_VanometricPowerCell.label>伪神族发电机</HAR_NM_VanometricPowerCell.label>
   <HAR_NM_VanometricPowerCell.description>人工种族神子伪神族·杜娜米丝开发的发电机。它利用持续膨胀的宇宙引力发电，无需燃料。对殖民地运营十分有用，但市场价值很高，需要留意。</HAR_NM_VanometricPowerCell.description>
   <HAR_NM_Filth_FireFoam_a.label>极寒力场（扩散）</HAR_NM_Filth_FireFoam_a.label>

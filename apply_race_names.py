@@ -356,8 +356,8 @@ KEY_OVERRIDES = {
     "HAR_Idearn_Critias.label": SPECIAL_FORMS["Idearn_Critias"],
     "HAR_IA_Item_spawn_Critias.label": SPECIAL_FORMS["Idearn_Critias"],
     # Etine is a Silkiera character name, not an Idearn alias.
-    "HAR_NM_Hediff_Potency_b.label": "艾提涅魔药",
-    "HAR_NM_Skill_Damage_b_d.label": "艾提涅魔药",
+    "HAR_NM_Hediff_Potency_b.label": "铁壁魔药",
+    "HAR_NM_Skill_Damage_b_d.label": "铁壁魔药",
     "HAR_LL_Skill_MIKO_Damage_a.label": "你好，朋友！",
     "BOSS_RQ_Incident_Requeen.label": BASE_NAMES["Requeen"],
     "BOSS_RQ_Incident_Requeen.letterLabel": BASE_NAMES["Requeen"],

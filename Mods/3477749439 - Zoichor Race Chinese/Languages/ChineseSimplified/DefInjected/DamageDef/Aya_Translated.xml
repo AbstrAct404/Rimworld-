@@ -2,7 +2,7 @@
 <LanguageData>
   <HAR_ZC_Damage_a.label>冻炎</HAR_ZC_Damage_a.label>
   <HAR_ZC_Damage_a.deathMessage>{0} 死于一场爆炸。</HAR_ZC_Damage_a.deathMessage>
-  <HAR_ZC_Damage_b.label>暗黒的咆哮</HAR_ZC_Damage_b.label>
+  <HAR_ZC_Damage_b.label>暗狱咆哮</HAR_ZC_Damage_b.label>
   <HAR_ZC_Damage_b.deathMessage>{0} 死于一场爆炸。</HAR_ZC_Damage_b.deathMessage>
   <HAR_ZC_Damage_c.label>恶魔的一击</HAR_ZC_Damage_c.label>
   <HAR_ZC_Damage_c.deathMessage>{0} 死于一场爆炸。</HAR_ZC_Damage_c.deathMessage>

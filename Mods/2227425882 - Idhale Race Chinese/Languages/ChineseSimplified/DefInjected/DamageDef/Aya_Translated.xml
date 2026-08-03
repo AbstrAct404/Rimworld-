@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <HAR_IH_Damage_Attack.label>炼狱的彼岸</HAR_IH_Damage_Attack.label>
-  <HAR_IH_Damage_a.label>神之兵器</HAR_IH_Damage_a.label>
-  <HAR_IH_Damage_b.label>哈米吉多顿</HAR_IH_Damage_b.label>
-  <HAR_IH_Damage_c.label>巴耶力之剑</HAR_IH_Damage_c.label>
-  <HAR_IH_Damage_d.label>莫斯提马之枪</HAR_IH_Damage_d.label>
-  <HAR_IH_Damage_e.label>巴别的审判</HAR_IH_Damage_e.label>
+  <HAR_IH_Damage_Attack.label>炼狱重击</HAR_IH_Damage_Attack.label>
+  <HAR_IH_Damage_a.label>圣械破城</HAR_IH_Damage_a.label>
+  <HAR_IH_Damage_b.label>末日审判</HAR_IH_Damage_b.label>
+  <HAR_IH_Damage_c.label>虚空贯刃</HAR_IH_Damage_c.label>
+  <HAR_IH_Damage_d.label>灾厄爆枪</HAR_IH_Damage_d.label>
+  <HAR_IH_Damage_e.label>审判镇压</HAR_IH_Damage_e.label>
 </LanguageData>

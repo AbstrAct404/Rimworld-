@@ -246,7 +246,7 @@
     <match Class="PatchOperationReplace">
       <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[3]/commandLabel[1]</xpath>
       <value>
-        <commandLabel>诺托斯手雷</commandLabel>
+        <commandLabel>能量手雷</commandLabel>
       </value>
     </match>
   </Operation>
@@ -266,7 +266,7 @@
     <match Class="PatchOperationReplace">
       <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[4]/commandLabel[1]</xpath>
       <value>
-        <commandLabel>阿克里西奥斯护盾</commandLabel>
+        <commandLabel>低角防护盾</commandLabel>
       </value>
     </match>
   </Operation>
@@ -286,7 +286,7 @@
     <match Class="PatchOperationReplace">
       <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[5]/commandLabel[1]</xpath>
       <value>
-        <commandLabel>安塔瑞斯阔剑雷</commandLabel>
+        <commandLabel>阔剑地雷</commandLabel>
       </value>
     </match>
   </Operation>
@@ -306,7 +306,7 @@
     <match Class="PatchOperationReplace">
       <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_e"]/comps[1]/li[6]/commandLabel[1]</xpath>
       <value>
-        <commandLabel>欧律托斯炮</commandLabel>
+        <commandLabel>八联迫击炮</commandLabel>
       </value>
     </match>
   </Operation>
@@ -346,7 +346,7 @@
     <match Class="PatchOperationReplace">
       <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_d"]/comps[1]/li[2]/commandLabel[1]</xpath>
       <value>
-        <commandLabel>古法医疗</commandLabel>
+        <commandLabel>古法疗愈</commandLabel>
       </value>
     </match>
   </Operation>
@@ -366,7 +366,7 @@
     <match Class="PatchOperationReplace">
       <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_d"]/comps[1]/li[3]/commandLabel[1]</xpath>
       <value>
-        <commandLabel>阿尔库忒拉灵药</commandLabel>
+        <commandLabel>强攻灵药</commandLabel>
       </value>
     </match>
   </Operation>
@@ -386,7 +386,7 @@
     <match Class="PatchOperationReplace">
       <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_d"]/comps[1]/li[4]/commandLabel[1]</xpath>
       <value>
-        <commandLabel>艾蒂努魔药</commandLabel>
+        <commandLabel>铁壁魔药</commandLabel>
       </value>
     </match>
   </Operation>
@@ -406,7 +406,7 @@
     <match Class="PatchOperationReplace">
       <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_d"]/comps[1]/li[5]/commandLabel[1]</xpath>
       <value>
-        <commandLabel>杜纳米斯秘药</commandLabel>
+        <commandLabel>复生秘药</commandLabel>
       </value>
     </match>
   </Operation>
@@ -426,7 +426,7 @@
     <match Class="PatchOperationReplace">
       <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Nearmaere_d"]/comps[1]/li[6]/commandLabel[1]</xpath>
       <value>
-        <commandLabel>■■■死药</commandLabel>
+        <commandLabel>傀儡化死药</commandLabel>
       </value>
     </match>
   </Operation>

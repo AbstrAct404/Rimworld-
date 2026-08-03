@@ -1232,7 +1232,7 @@
       "field": "commandLabel",
       "source": "ノトスグレネード",
       "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[3]/commandLabel[1]",
-      "translation": "诺托斯手雷"
+      "translation": "能量手雷"
     },
     {
       "modId": "2198830432",
@@ -1254,7 +1254,7 @@
       "field": "commandLabel",
       "source": "アクリシオスシールド",
       "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[4]/commandLabel[1]",
-      "translation": "阿克里西奥斯护盾"
+      "translation": "低角防护盾"
     },
     {
       "modId": "2198830432",
@@ -1276,7 +1276,7 @@
       "field": "commandLabel",
       "source": "アンタレスクレイモア",
       "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[5]/commandLabel[1]",
-      "translation": "安塔瑞斯阔剑雷"
+      "translation": "阔剑地雷"
     },
     {
       "modId": "2198830432",
@@ -1298,7 +1298,7 @@
       "field": "commandLabel",
       "source": "エウリュトスカノン",
       "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_e\"]/comps[1]/li[6]/commandLabel[1]",
-      "translation": "欧律托斯炮"
+      "translation": "八联迫击炮"
     },
     {
       "modId": "2198830432",
@@ -1342,7 +1342,7 @@
       "field": "commandLabel",
       "source": "旧き医療",
       "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_d\"]/comps[1]/li[2]/commandLabel[1]",
-      "translation": "古法医疗"
+      "translation": "古法疗愈"
     },
     {
       "modId": "2198830432",
@@ -1364,7 +1364,7 @@
       "field": "commandLabel",
       "source": "アルクテラの霊薬",
       "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_d\"]/comps[1]/li[3]/commandLabel[1]",
-      "translation": "阿尔库忒拉灵药"
+      "translation": "强攻灵药"
     },
     {
       "modId": "2198830432",
@@ -1386,7 +1386,7 @@
       "field": "commandLabel",
       "source": "エティーヌの魔薬",
       "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_d\"]/comps[1]/li[4]/commandLabel[1]",
-      "translation": "艾蒂努魔药"
+      "translation": "铁壁魔药"
     },
     {
       "modId": "2198830432",
@@ -1408,7 +1408,7 @@
       "field": "commandLabel",
       "source": "デュナミスの秘薬",
       "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_d\"]/comps[1]/li[5]/commandLabel[1]",
-      "translation": "杜纳米斯秘药"
+      "translation": "复生秘药"
     },
     {
       "modId": "2198830432",
@@ -1430,7 +1430,7 @@
       "field": "commandLabel",
       "source": "■■■の死薬",
       "xpath": "Defs/AlienRace.ThingDef_AlienRace[defName=\"HAR_Nearmaere_d\"]/comps[1]/li[6]/commandLabel[1]",
-      "translation": "■■■死药"
+      "translation": "傀儡化死药"
     },
     {
       "modId": "2198830432",

@@ -362,8 +362,8 @@ def main() -> None:
         "请同时安装并启用对应的原 EX 模组。只有 About/翻译文件的汉化包不能替代原 EX。\n\n"
         f"当前收录 {len(packages)} 个原模组，共合并 {written} 条游戏文本。\n\n"
         "【本次更新】\n"
-        "补全 46 个特殊健康状态的阶段名称，包括露娜病菌导致的麻痹、混乱、发狂与脑死亡阶段，"
-        "以及其他种族的即死、活化和强化阶段。\n\n"
+        "修复原模组未全部启用时的红字报错。\n"
+        "优化部分技能翻译。\n\n"
         "【收录内容】\n"
         + plain_directory()
         + "\n\n"
@@ -386,9 +386,8 @@ def main() -> None:
         "RimWorld 1.5/1.6 如需使用上位种，请安装并启用对应的原 EX；汉化包不能代替原 EX。\n\n"
         "[h2]本次更新[/h2]\n"
         "[list]\n"
-        "[*]补全 46 个特殊健康状态的阶段名称。\n"
-        "[*]补全露娜病菌导致的麻痹、混乱、发狂与脑死亡阶段。\n"
-        "[*]补全其他种族的即死、活化和强化阶段。\n"
+        "[*]修复原模组未全部启用时的红字报错。\n"
+        "[*]优化部分技能翻译。\n"
         "[/list]\n\n"
         + workshop_directory()
         + "\n\n[h2]兼容信息[/h2]\n"
@@ -488,7 +487,7 @@ def main() -> None:
                 f'\t"previewfile"\t\t"{build.vdf_quote(build.vdf_path(steam_output / "About" / "Preview.png"))}"',
                 f'\t"title"\t\t"{build.vdf_quote(title)}"',
                 f'\t"description"\t\t"{build.vdf_quote(workshop_description)}"',
-                f'\t"changenote"\t\t"{build.vdf_quote("补全亚人工业五类商船名称，并修复信件与请求提示。")}"',
+                f'\t"changenote"\t\t"{build.vdf_quote("修复原模组未全部启用时的红字报错，并优化部分技能翻译。")}"',
                 "}", "",
             ])
             (

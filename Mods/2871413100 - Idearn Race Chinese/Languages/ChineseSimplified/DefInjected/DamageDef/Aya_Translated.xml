@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <HAR_IA_Damage_a.label>俄刻阿诺斯之剑</HAR_IA_Damage_a.label>
-  <HAR_IA_Damage_b.label>武装实践</HAR_IA_Damage_b.label>
-  <HAR_IA_Damage_c.label>猩红能天使（散布）</HAR_IA_Damage_c.label>
-  <HAR_IA_Damage_d.label>猩红能天使</HAR_IA_Damage_d.label>
-  <HAR_IA_Damage_e.label>靛蓝能天使</HAR_IA_Damage_e.label>
+  <HAR_IA_Damage_b.label>武装仪式</HAR_IA_Damage_b.label>
+  <HAR_IA_Damage_c.label>绯红权能（散布）</HAR_IA_Damage_c.label>
+  <HAR_IA_Damage_d.label>绯红权能</HAR_IA_Damage_d.label>
+  <HAR_IA_Damage_e.label>苍蓝权能</HAR_IA_Damage_e.label>
   <HAR_IA_Damage_z_a.label>俄刻阿诺斯之剑</HAR_IA_Damage_z_a.label>
-  <HAR_IA_Damage_f.label>天国之意</HAR_IA_Damage_f.label>
-  <HAR_IA_Damage_g.label>天国之躁</HAR_IA_Damage_g.label>
-  <HAR_IA_Damage_h.label>天国之狱</HAR_IA_Damage_h.label>
+  <HAR_IA_Damage_f.label>终末王权</HAR_IA_Damage_f.label>
+  <HAR_IA_Damage_g.label>狂乱王权</HAR_IA_Damage_g.label>
+  <HAR_IA_Damage_h.label>炼狱王权</HAR_IA_Damage_h.label>
   <HAR_IA_Damage_Otherside_a.label>彼岸（不完全）</HAR_IA_Damage_Otherside_a.label>
   <HAR_IA_Damage_Otherside_b.label>彼岸</HAR_IA_Damage_Otherside_b.label>
 </LanguageData>

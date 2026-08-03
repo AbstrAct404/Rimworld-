@@ -3,7 +3,7 @@
   <Aya_CI_Hediff_Phase_a.description>被能够遮断一切攻击的相位之膜所覆盖的状态。\n变得更加坚固，减轻所受到的伤害。\n\n此状态经过6小时后结束。\n\n\n此力量以潜伏于彼岸的人工种族「幽灵姬」的特异性为基础。\n由于肉体不像她们那样完全顺应，无法将所有伤害完全无效化。</Aya_CI_Hediff_Phase_a.description>
   <Aya_CI_Hediff_Phase_a.label>相位薄膜</Aya_CI_Hediff_Phase_a.label>
   <Aya_CI_Hediff_Phobia_a.description>被腐蚀性细菌所侵蚀的状态。\n护甲减半，变得更容易受到伤害。\n\n此状态经过6小时后结束。\n\n\n此力量以与细菌共生的人工种族「牧菌妖姬」的特异性为基础。\n虽然已去除了精神干涉的效果，但若在战斗中遭到侵蚀，可能会造成致命伤。</Aya_CI_Hediff_Phobia_a.description>
-  <Aya_CI_Hediff_Phobia_a.label>腐败恐惧</Aya_CI_Hediff_Phobia_a.label>
+  <Aya_CI_Hediff_Phobia_a.label>墓地恐惧</Aya_CI_Hediff_Phobia_a.label>
   <Aya_CI_Hediff_Resistance.description>保护对象免受世界折磨的温暖光芒。\n增强对热与毒的抗性，提升生存能力。\n\n此状态将持续6天。\n\n\n\n造物主从幽灵姬的特性中获得灵感而开发出的技术。\n据说特别常用于保护身躯脆弱的伪神族们。</Aya_CI_Hediff_Resistance.description>
   <Aya_CI_Hediff_Resistance.label>创造之光</Aya_CI_Hediff_Resistance.label>
   <Aya_CI_Hediff_Sovereign_a.description>受到卓越指挥所鼓舞的状态。\n战斗方面的性能获得提升。\n\n此状态经过6小时后结束。\n\n\n此力量以统治失去造物主后的迦南的人工种族「库利菈」的特异性为基础。\n那吸引人心的魅力，有时能够激发出超越原本性能的力量。</Aya_CI_Hediff_Sovereign_a.description>
@@ -131,7 +131,7 @@
   <HAR_CO_UB_Hediff_Promise.description>。</HAR_CO_UB_Hediff_Promise.description>
   <HAR_CO_UB_Hediff_Promise.label>古老的约定</HAR_CO_UB_Hediff_Promise.label>
   <HAR_EL_Hediff_a.description>保存在伊娃莉特外壳中的鲜血之杯。
-只能通过猩红之吻对其中的血液进行补充。
+只能通过血噬对其中的血液进行补充。
 同时也会在进行身体强化或者使用特殊能力时作为代价进行消耗。
 最多可以补充到400。</HAR_EL_Hediff_a.description>
   <HAR_EL_Hediff_a.label>救济的血杯</HAR_EL_Hediff_a.label>
@@ -149,21 +149,21 @@
 
 一旦将这层外壳解放的话，伊娃莉特就会破除封印恢复原有的力量，发挥出超人一般的性能。
 一般来讲启动的极限时长是6个小时，但在此期间血液如果能得到补充的话，还能运作更长时间。</HAR_EL_Hediff_c.description>
-  <HAR_EL_Hediff_c.label>利乏音之壳</HAR_EL_Hediff_c.label>
+  <HAR_EL_Hediff_c.label>焚血甲胄</HAR_EL_Hediff_c.label>
   <HAR_EL_Hediff_d.description>被伊娃莉特的血刃造成的伤势。
 出血会逐渐严重，伤口也会越来越难以愈合。
 这种状态在半天之后就会解除。</HAR_EL_Hediff_d.description>
-  <HAR_EL_Hediff_d.label>黑暗之宴</HAR_EL_Hediff_d.label>
+  <HAR_EL_Hediff_d.label>猩红风暴</HAR_EL_Hediff_d.label>
   <HAR_IA_Gunshot.description>天国之倾造成的空间压缩超过洛希极限所造成的伤害。</HAR_IA_Gunshot.description>
   <HAR_IA_Gunshot.label>空迹</HAR_IA_Gunshot.label>
   <HAR_IA_Skill_Hediff_a.description>伊迪安·梅涅克赛努 A型散布的纳米机械，能够削弱敌对目标的战斗能力。效果最多持续半天；只要目标仍位于梅涅克赛努 A型的作用范围内，效果便会持续存在。</HAR_IA_Skill_Hediff_a.description>
   <HAR_IA_Skill_Hediff_a.label>感官离线</HAR_IA_Skill_Hediff_a.label>
   <HAR_IA_Skill_Hediff_b.description>伊迪安·泰阿泰德 A型散布的纳米机械，可增强受影响者的身体能力。效果最多持续半天。</HAR_IA_Skill_Hediff_b.description>
-  <HAR_IA_Skill_Hediff_b.label>武装实践</HAR_IA_Skill_Hediff_b.label>
+  <HAR_IA_Skill_Hediff_b.label>武装仪式</HAR_IA_Skill_Hediff_b.label>
   <HAR_IA_Skill_Hediff_c.description>伊迪安·泰阿泰德 B型散布的纳米机械，会大幅降低敌对目标的移动能力，并迫使伤口大量出血。效果最多持续半天；只要目标仍位于伤害领域内，效果便会持续存在。</HAR_IA_Skill_Hediff_c.description>
-  <HAR_IA_Skill_Hediff_c.label>猩红能天使</HAR_IA_Skill_Hediff_c.label>
+  <HAR_IA_Skill_Hediff_c.label>绯红权能</HAR_IA_Skill_Hediff_c.label>
   <HAR_IA_Skill_Hediff_d.description>伊迪安·泰阿泰德 B型散布的纳米机械，会在敌对目标体内潜伏侵蚀型飞升纳米机械，并于数小时后令其立即死亡。一旦遭到侵蚀便没有救治手段，务必留意。</HAR_IA_Skill_Hediff_d.description>
-  <HAR_IA_Skill_Hediff_d.label>靛蓝能天使</HAR_IA_Skill_Hediff_d.label>
+  <HAR_IA_Skill_Hediff_d.label>苍蓝权能</HAR_IA_Skill_Hediff_d.label>
   <HAR_IA_Skill_Hediff_d.stages.0.label>升天</HAR_IA_Skill_Hediff_d.stages.0.label>
   <HAR_IA_Skill_Hediff_d.stages.1.label>潜伏</HAR_IA_Skill_Hediff_d.stages.1.label>
   <HAR_IA_Skill_Hediff_e.description>这是创造者未能在库莉菈·凯特尔身上实现的王权机能之一。伊迪安·克里提亚斯（焚书模型）展开的空间压缩领域会对敌对目标施加多种影响。一旦遭到侵蚀便没有救治手段，务必留意。</HAR_IA_Skill_Hediff_e.description>
@@ -171,12 +171,12 @@
   <HAR_IA_Skill_Hediff_f.description>这是创造者未能在库莉菈·凯特尔身上实现的王权机能之一。目标正受到“目的·巴西利亚”产生的力场影响。空间压缩会使其对事件的认知产生致命错位；在感知到这种错位后，脑组织会遭到破坏并引发精神崩溃。
 
 “目的·巴西利亚”会造成近似痴呆的症状，使目标在附近漫无目的地徘徊。</HAR_IA_Skill_Hediff_f.description>
-  <HAR_IA_Skill_Hediff_f.label>天国之意</HAR_IA_Skill_Hediff_f.label>
+  <HAR_IA_Skill_Hediff_f.label>终末王权</HAR_IA_Skill_Hediff_f.label>
   <HAR_IA_Skill_Hediff_f.stages.0.label>人格崩溃</HAR_IA_Skill_Hediff_f.stages.0.label>
   <HAR_IA_Skill_Hediff_g.description>这是创造者未能在库莉菈·凯特尔身上实现的王权机能之一。目标正受到“图雷拉·巴西利亚”产生的力场影响。空间压缩会使其对事件的认知产生致命错位；在感知到这种错位后，脑组织会遭到破坏并引发精神崩溃。
 
 “图雷拉·巴西利亚”会扰乱脑内物质，使目标陷入狂暴并无差别攻击敌我双方。</HAR_IA_Skill_Hediff_g.description>
-  <HAR_IA_Skill_Hediff_g.label>天国之躁</HAR_IA_Skill_Hediff_g.label>
+  <HAR_IA_Skill_Hediff_g.label>狂乱王权</HAR_IA_Skill_Hediff_g.label>
   <HAR_IA_Skill_Hediff_g.stages.0.label>狂暴化</HAR_IA_Skill_Hediff_g.stages.0.label>
   <HAR_IA_Skill_Hediff_h.description>这是创造者未能在库莉菈·凯特尔身上实现的王权机能之一。伊迪安·克里提亚斯（焚书模型）展开的空间压缩领域，会把敌对目标的时间流速减慢至极限。该状态会在半天后解除。</HAR_IA_Skill_Hediff_h.description>
   <HAR_IA_Skill_Hediff_h.label>天国之止</HAR_IA_Skill_Hediff_h.label>
@@ -225,7 +225,7 @@
   <HAR_IH_Hediff_EX_e.label>万军神临</HAR_IH_Hediff_EX_e.label>
   <HAR_IH_Hediff_Flag.label>苍白契约</HAR_IH_Hediff_Flag.label>
   <HAR_IH_Hediff_ZZZ.description>幽灵姬·罪孽灵在释放万军之主在此时产生的波动。\n受到影响的人会失去行动能力，只能匍匐在地。\n该状态会在 1 天后解除。</HAR_IH_Hediff_ZZZ.description>
-  <HAR_IH_Hediff_ZZZ.label>巴别的审判</HAR_IH_Hediff_ZZZ.label>
+  <HAR_IH_Hediff_ZZZ.label>审判镇压</HAR_IH_Hediff_ZZZ.label>
   <HAR_LL_Hediff_a.description>漫长旅途耗尽了她们的体力，看上去马上就要晕倒在地的样子。</HAR_LL_Hediff_a.description>
   <HAR_LL_Hediff_a.label>长途跋涉的疲惫</HAR_LL_Hediff_a.label>
   <HAR_LL_Hediff_a.stages.0.label>昏迷</HAR_LL_Hediff_a.stages.0.label>
@@ -256,12 +256,12 @@
   <HAR_LL_Hediff_m.label>神子骑士</HAR_LL_Hediff_m.label>
   <HAR_NC_Hediff_Flag.label>伟大的来访</HAR_NC_Hediff_Flag.label>
   <HAR_NC_Hediff_a.description>共生在牧菌妖姬体内、对精神念波有感应的细菌。\n这类细菌只能生存在特殊的环境中，而牧菌妖姬的体内环境正好满足这一条件；为了保护牧菌妖姬，细菌促进了她们很多的良性进化。平时都处于假死状态，即使他人感染了也不会产生不良影响，会在 1 天内自行消亡——可一旦接收到牧菌妖姬的攻击指令的话，就会立刻开始强腐蚀性的增殖，并释放出能使人狂躁的精神念波。\n\n刚感染时只会感到手脚麻痹，但到了末期，连脑神经都会受到影响，感染者将精神崩溃，变得极为狂暴。由于这种现象不属于物理层面的干扰，所以对机械族等机械生物同样起作用。</HAR_NC_Hediff_a.description>
-  <HAR_NC_Hediff_a.label>露娜病菌</HAR_NC_Hediff_a.label>
+  <HAR_NC_Hediff_a.label>狂化病菌</HAR_NC_Hediff_a.label>
   <HAR_NC_Hediff_a.stages.0.label>麻痹</HAR_NC_Hediff_a.stages.0.label>
   <HAR_NC_Hediff_a.stages.1.label>混乱</HAR_NC_Hediff_a.stages.1.label>
   <HAR_NC_Hediff_a.stages.2.label>发狂</HAR_NC_Hediff_a.stages.2.label>
   <HAR_NC_Hediff_a.stages.3.label>脑死亡</HAR_NC_Hediff_a.stages.3.label>
-  <HAR_NC_Hediff_b.description>露娜病菌分泌的腐蚀性毒素，可以逐渐侵蚀血肉、从厚重的装甲内部击溃对手。\n这种毒只会对和感染者基因相同的细胞起作用，因此即使有人吃了含有这种毒素的尸体，也不会引起食物中毒。</HAR_NC_Hediff_b.description>
+  <HAR_NC_Hediff_b.description>狂化病菌分泌的腐蚀性毒素，可以逐渐侵蚀血肉、从厚重的装甲内部击溃对手。\n这种毒只会对和感染者基因相同的细胞起作用，因此即使有人吃了含有这种毒素的尸体，也不会引起食物中毒。</HAR_NC_Hediff_b.description>
   <HAR_NC_Hediff_b.label>腐蚀性细菌毒</HAR_NC_Hediff_b.label>
   <HAR_NC_Hediff_b.stages.0.label>轻度</HAR_NC_Hediff_b.stages.0.label>
   <HAR_NC_Hediff_b.stages.1.label>中度</HAR_NC_Hediff_b.stages.1.label>
@@ -304,31 +304,31 @@
 副作用持续24小时。</HAR_NM_Hediff_Energy_b.description>
   <HAR_NM_Hediff_Energy_b.label>充能副作用</HAR_NM_Hediff_Energy_b.label>
   <HAR_NM_Hediff_Potency_a.description>这种灵药由魅魔·魔女系成员阿克忒拉调制。\n药效持续 8 小时，随后 4 小时出现副作用。\n\n效果期间，身体能力提升，攻击力增强。\n当出现副作用时，运动功能会下降至 50%。\n\n\n\n“说实话，我不信任阿拉迪娅，所以不想过分依赖这种药。她们表面平静，心里却不知在盘算什么。”</HAR_NM_Hediff_Potency_a.description>
-  <HAR_NM_Hediff_Potency_a.label>阿尔克忒拉灵药</HAR_NM_Hediff_Potency_a.label>
+  <HAR_NM_Hediff_Potency_a.label>强攻灵药</HAR_NM_Hediff_Potency_a.label>
   <HAR_NM_Hediff_Potency_a.stages.0.label>副作用</HAR_NM_Hediff_Potency_a.stages.0.label>
   <HAR_NM_Hediff_Potency_b.description>这种魔药由亚人兽娘·维克森玛丽斯成员艾提涅调制。\n药效持续 8 小时，随后 4 小时出现副作用。\n\n药效生效时，身体能力与防御力都会提升；副作用发作时，身体则会变得脆弱。\n\n\n\n药效本身十分实用。\n但不知道到底是堆了多少太空部落的尸体才炼制出这种药剂的……</HAR_NM_Hediff_Potency_b.description>
-  <HAR_NM_Hediff_Potency_b.label>艾提涅魔药</HAR_NM_Hediff_Potency_b.label>
+  <HAR_NM_Hediff_Potency_b.label>铁壁魔药</HAR_NM_Hediff_Potency_b.label>
   <HAR_NM_Hediff_Potency_b.stages.0.label>副作用</HAR_NM_Hediff_Potency_b.stages.0.label>
   <HAR_NM_Hediff_Potency_c.description>神子伪神族·杜娜米丝所调制药物的效力。能够在没有副作用的情况下复活死者，并因复活的附带效果使其获得永久强化。
 
 “那孩子究竟从哪里学会了这种调配方法？就连她的父亲也没想到这种手段。看来她声称能够与外宇宙交流，并非全是虚言。”</HAR_NM_Hediff_Potency_c.description>
-  <HAR_NM_Hediff_Potency_c.label>杜娜米丝秘药</HAR_NM_Hediff_Potency_c.label>
+  <HAR_NM_Hediff_Potency_c.label>复生秘药</HAR_NM_Hediff_Potency_c.label>
   <HAR_NM_Hediff_Potency_z.description>魅魔·神秘系使用据称从某个存在处交易得来的配方所制药物的效力。使用者会偏离正常生物范畴，化为只受你们驱使的侍从。成为非生物后会失去许多需求，但工作与社交能力也会出现致命缺陷。
 
 使用者不再流血，伤口会缓慢再生，但更容易饥饿，个体市场价值也会下降。
 
 “果然只有药效值得利用。无论制法还是来历，都无法用可记录的方式描述。究竟是对██的审查过于严格，还是宇宙本身在排斥██呢……”</HAR_NM_Hediff_Potency_z.description>
-  <HAR_NM_Hediff_Potency_z.label>■■■的死药</HAR_NM_Hediff_Potency_z.label>
+  <HAR_NM_Hediff_Potency_z.label>傀儡化死药</HAR_NM_Hediff_Potency_z.label>
   <HAR_NM_Hediff_a.description>混入魑枪「郄浍堕狱」子弹里的纳米机器引起的症状。\n通常潜伏在体内不会造成危害，但如果超过一定数量，就会被激活，使内脏功能强制停止而导致死亡。因为在潜伏中探查了机体构造，无论是对生物还是机械都能发挥作用。</HAR_NM_Hediff_a.description>
   <HAR_NM_Hediff_a.label>即死预兆</HAR_NM_Hediff_a.label>
   <HAR_NM_Hediff_a.stages.0.label>潜伏</HAR_NM_Hediff_a.stages.0.label>
   <HAR_NM_Hediff_a.stages.1.label>爆发</HAR_NM_Hediff_a.stages.1.label>
   <HAR_NM_Skill_Hediff_b.description>受到由魅魔·魔女系引起的狂暴化的干涉。\n因为魔女巧妙的干涉，甚至让人觉得不是敌对行为。</HAR_NM_Skill_Hediff_b.description>
-  <HAR_NM_Skill_Hediff_b.label>毁灭之息</HAR_NM_Skill_Hediff_b.label>
+  <HAR_NM_Skill_Hediff_b.label>灼燃之怒</HAR_NM_Skill_Hediff_b.label>
   <HAR_NM_Skill_Hediff_c.description>受到魅魔·魔女系的身体沉重的干扰。\n前进的速度变得极其迟缓，连迈出一步都觉得难如登天。</HAR_NM_Skill_Hediff_c.description>
-  <HAR_NM_Skill_Hediff_c.label>颓废之咒</HAR_NM_Skill_Hediff_c.label>
+  <HAR_NM_Skill_Hediff_c.label>溃烂颓败</HAR_NM_Skill_Hediff_c.label>
   <HAR_NM_Skill_Hediff_e.description>受到魅魔·魔女系的身体脆弱的干涉。\n即使穿着最坚固的铠甲，防御也会降低到致命的程度。</HAR_NM_Skill_Hediff_e.description>
-  <HAR_NM_Skill_Hediff_e.label>深渊之咒</HAR_NM_Skill_Hediff_e.label>
+  <HAR_NM_Skill_Hediff_e.label>浸染晦暗</HAR_NM_Skill_Hediff_e.label>
   <HAR_NM_XXX_Hediff.description>正在接受超存在的“救济”。但看起来，她似乎正失去某种无比重要的东西……
 
 看着祂，不知为何就会安心。仿佛被拥入怀中，身体轻飘飘的；心也越来越轻，好像马上就要升上天空。
@@ -360,7 +360,7 @@
   <HAR_OT_Hediff_c.description>奥特姆的危机感知能力被提升至极限的状态。\n\n原理不明，但奥特姆们的直觉异常敏锐。\n再加上轻盈的身体能力，使他们即使身处枪林弹雨之中也能持续战斗。\n\n\n对于射击攻击会以高机率回避，而对于非射击攻击则以低机率回避。\n\n\n此状态会在数小时后结束。</HAR_OT_Hediff_c.description>
   <HAR_OT_Hediff_c.label>锋刃之心智</HAR_OT_Hediff_c.label>
   <HAR_OT_Hediff_d.description>受到奥特姆邪恶的一击后的状态。\n\n由于被灌入不可视的能量，身心变得不稳定。\n目前尚未查明是透过何种机制造成的，只是不适与恐惧不断加剧。\n\n此状态会在数小时后完全恢复。</HAR_OT_Hediff_d.description>
-  <HAR_OT_Hediff_d.label>催化</HAR_OT_Hediff_d.label>
+  <HAR_OT_Hediff_d.label>机能瓦解</HAR_OT_Hediff_d.label>
   <HAR_OT_Hediff_e.description>奥特姆从更高次元的存在获得力量而被强化的状态。\n\n若在此状态下死亡，能够复活一次。\n作为代价，此状态会被强制解除。\n\n拥有强大力量的奥特姆，能够从所信仰的「虚空的■■■」获得加护。\n为了将神谕化为现实，她们将自身化作薪柴般燃烧战斗。\n即使前方等待的是死亡，她们也绝不会停下。\n\n此状态会在半日后结束。</HAR_OT_Hediff_e.description>
   <HAR_OT_Hediff_e.label>使徒</HAR_OT_Hediff_e.label>
   <HAR_OT_Hediff_h.description>奥特姆的报复心被提升至极限的状态。\n\n遭敌人攻击时，会立即发动反击。\n但无法连续反击，每次反击之间有5次的间隔。\n毕竟只是报复，此状态本身无法无效化所受到的伤害。\n\n\n对于射击攻击会以相同子弹反弹，对于非射击攻击则将威力削减至1/10后立即反击。\n\n\n此状态会在数小时后结束。</HAR_OT_Hediff_h.description>
@@ -369,10 +369,10 @@
   <HAR_OT_Hediff_i.label>掠食者</HAR_OT_Hediff_i.label>
   <HAR_OT_Hediff_j.description>奥特姆将隐藏之力完全释放的状态。\n\n此状态期间，身体耐久值提升为5倍，生命力也随之提高。\n此外，能够抵御对自身不利的异常状态。\n但是，进入此状态之前所受到的异常状态无法被无效化。\n\n\n\n自所信仰的■■■处获赐虚空之壳，披覆其上，从而晋升超存在之格。\n奥特姆们放任冲动，散播鲜血与暴虐，以恶玷污世界。\n那狂暴凶刃所指，毫无分别，王族、骑士、咎灵皆不例外。\n\n\n此状态会在半天后结束。</HAR_OT_Hediff_j.description>
   <HAR_OT_Hediff_j.label>逆卡巴拉</HAR_OT_Hediff_j.label>
-  <HAR_QL_Hediff_a.description>库莉菈的王权机能之一『王权誓约』的效果。\n通过与周围的友方单位进行暂时的契约，从而施加剧烈的身体强化。\n由于只是简易的契约，效果在数小时后就会消失。</HAR_QL_Hediff_a.description>
-  <HAR_QL_Hediff_a.label>王权誓约</HAR_QL_Hediff_a.label>
-  <HAR_QL_Hediff_b.description>库莉菈的王权机能之一『王权护佑』的效果。\n通过对周围的友方单位进行击退攻击的祝福，从而提高他们的防御力。\n由于只是简易的祝福，效果在数小时后就会消失。</HAR_QL_Hediff_b.description>
-  <HAR_QL_Hediff_b.label>王权护佑</HAR_QL_Hediff_b.label>
+  <HAR_QL_Hediff_a.description>库莉菈的王权机能之一『王权之威』的效果。\n通过与周围的友方单位进行暂时的契约，从而施加剧烈的身体强化。\n由于只是简易的契约，效果在数小时后就会消失。</HAR_QL_Hediff_a.description>
+  <HAR_QL_Hediff_a.label>王权之威</HAR_QL_Hediff_a.label>
+  <HAR_QL_Hediff_b.description>库莉菈的王权机能之一『王权庇佑』的效果。\n通过对周围的友方单位进行击退攻击的祝福，从而提高他们的防御力。\n由于只是简易的祝福，效果在数小时后就会消失。</HAR_QL_Hediff_b.description>
+  <HAR_QL_Hediff_b.label>王权庇佑</HAR_QL_Hediff_b.label>
   <HAR_QL_Hediff_c.description>库莉菈的王权机能之一『王权统治』的效果。\n封印敌方的强化效果并压迫他们的精神，使其处于极度紧张状态。</HAR_QL_Hediff_c.description>
   <HAR_QL_Hediff_c.label>王权统治</HAR_QL_Hediff_c.label>
   <HAR_QL_Hediff_d.description>库莉菈的王权机能之一『王权耀光』的效果。\n敌方会产生幻听与幻视，进入意识朦胧的状态。</HAR_QL_Hediff_d.description>
@@ -414,7 +414,7 @@
 
 为了狩猎而在刹那间释放出的一击，无论怎样的敌人都会被轻松地吹飞。
 此处已是尸山血海的战场，想要退缩不前无异于痴人说梦。</HAR_XO_Hediff_d.description>
-  <HAR_XO_Hediff_d.label>奥尔基努斯之赤</HAR_XO_Hediff_d.label>
+  <HAR_XO_Hediff_d.label>虎鲸突袭</HAR_XO_Hediff_d.label>
   <HAR_XO_Hediff_e.description>被深渊之噬所刻下的圣痕。\n在护甲遭到摧毁的同时，刻下了的圣痕超过一定数量的话，那个人就会即刻落命。</HAR_XO_Hediff_e.description>
   <HAR_XO_Hediff_e.label>堕落圣痕</HAR_XO_Hediff_e.label>
   <HAR_XO_Hediff_e.stages.0.label>潜伏</HAR_XO_Hediff_e.stages.0.label>

@@ -16,7 +16,7 @@
 此状态会在数小时内完全恢复。</HAR_OT_Hediff_Bed_b.description>
   <HAR_OT_Hediff_c.label>锋刃之心智</HAR_OT_Hediff_c.label>
   <HAR_OT_Hediff_c.description>奥特姆的危机感知能力被提升至极限的状态。\n\n原理不明，但奥特姆们的直觉异常敏锐。\n再加上轻盈的身体能力，使他们即使身处枪林弹雨之中也能持续战斗。\n\n\n对于射击攻击会以高机率回避，而对于非射击攻击则以低机率回避。\n\n\n此状态会在数小时后结束。</HAR_OT_Hediff_c.description>
-  <HAR_OT_Hediff_d.label>催化</HAR_OT_Hediff_d.label>
+  <HAR_OT_Hediff_d.label>机能瓦解</HAR_OT_Hediff_d.label>
   <HAR_OT_Hediff_d.description>受到奥特姆邪恶的一击后的状态。\n\n由于被灌入不可视的能量，身心变得不稳定。\n目前尚未查明是透过何种机制造成的，只是不适与恐惧不断加剧。\n\n此状态会在数小时后完全恢复。</HAR_OT_Hediff_d.description>
   <HAR_OT_Hediff_Drag_a.label>天使隐剂</HAR_OT_Hediff_Drag_a.label>
   <HAR_OT_Hediff_Drag_a.labelNoun>天使隐剂</HAR_OT_Hediff_Drag_a.labelNoun>

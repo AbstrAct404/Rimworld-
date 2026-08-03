@@ -2,20 +2,20 @@
 <LanguageData>
   <HAR_IA_Skill_Hediff_a.label>感官离线</HAR_IA_Skill_Hediff_a.label>
   <HAR_IA_Skill_Hediff_a.description>伊迪安·梅涅克赛努 A型散布的纳米机械，能够削弱敌对目标的战斗能力。效果最多持续半天；只要目标仍位于梅涅克赛努 A型的作用范围内，效果便会持续存在。</HAR_IA_Skill_Hediff_a.description>
-  <HAR_IA_Skill_Hediff_b.label>武装实践</HAR_IA_Skill_Hediff_b.label>
+  <HAR_IA_Skill_Hediff_b.label>武装仪式</HAR_IA_Skill_Hediff_b.label>
   <HAR_IA_Skill_Hediff_b.description>伊迪安·泰阿泰德 A型散布的纳米机械，可增强受影响者的身体能力。效果最多持续半天。</HAR_IA_Skill_Hediff_b.description>
-  <HAR_IA_Skill_Hediff_c.label>猩红能天使</HAR_IA_Skill_Hediff_c.label>
+  <HAR_IA_Skill_Hediff_c.label>绯红权能</HAR_IA_Skill_Hediff_c.label>
   <HAR_IA_Skill_Hediff_c.description>伊迪安·泰阿泰德 B型散布的纳米机械，会大幅降低敌对目标的移动能力，并迫使伤口大量出血。效果最多持续半天；只要目标仍位于伤害领域内，效果便会持续存在。</HAR_IA_Skill_Hediff_c.description>
-  <HAR_IA_Skill_Hediff_d.label>靛蓝能天使</HAR_IA_Skill_Hediff_d.label>
+  <HAR_IA_Skill_Hediff_d.label>苍蓝权能</HAR_IA_Skill_Hediff_d.label>
   <HAR_IA_Skill_Hediff_d.description>伊迪安·泰阿泰德 B型散布的纳米机械，会在敌对目标体内潜伏侵蚀型飞升纳米机械，并于数小时后令其立即死亡。一旦遭到侵蚀便没有救治手段，务必留意。</HAR_IA_Skill_Hediff_d.description>
   <HAR_IA_Skill_Hediff_e.label>天国之倾</HAR_IA_Skill_Hediff_e.label>
   <HAR_IA_Skill_Hediff_e.description>这是创造者未能在库莉菈·凯特尔身上实现的王权机能之一。伊迪安·克里提亚斯（焚书模型）展开的空间压缩领域会对敌对目标施加多种影响。一旦遭到侵蚀便没有救治手段，务必留意。</HAR_IA_Skill_Hediff_e.description>
   <HAR_IA_Gunshot.description>天国之倾造成的空间压缩超过洛希极限所造成的伤害。</HAR_IA_Gunshot.description>
-  <HAR_IA_Skill_Hediff_f.label>天国之意</HAR_IA_Skill_Hediff_f.label>
+  <HAR_IA_Skill_Hediff_f.label>终末王权</HAR_IA_Skill_Hediff_f.label>
   <HAR_IA_Skill_Hediff_f.description>这是创造者未能在库莉菈·凯特尔身上实现的王权机能之一。目标正受到“目的·巴西利亚”产生的力场影响。空间压缩会使其对事件的认知产生致命错位；在感知到这种错位后，脑组织会遭到破坏并引发精神崩溃。
 
 “目的·巴西利亚”会造成近似痴呆的症状，使目标在附近漫无目的地徘徊。</HAR_IA_Skill_Hediff_f.description>
-  <HAR_IA_Skill_Hediff_g.label>天国之躁</HAR_IA_Skill_Hediff_g.label>
+  <HAR_IA_Skill_Hediff_g.label>狂乱王权</HAR_IA_Skill_Hediff_g.label>
   <HAR_IA_Skill_Hediff_g.description>这是创造者未能在库莉菈·凯特尔身上实现的王权机能之一。目标正受到“图雷拉·巴西利亚”产生的力场影响。空间压缩会使其对事件的认知产生致命错位；在感知到这种错位后，脑组织会遭到破坏并引发精神崩溃。
 
 “图雷拉·巴西利亚”会扰乱脑内物质，使目标陷入狂暴并无差别攻击敌我双方。</HAR_IA_Skill_Hediff_g.description>
