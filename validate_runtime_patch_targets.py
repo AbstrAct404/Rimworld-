@@ -38,6 +38,39 @@ def main() -> None:
     missing: list[tuple[str, str]] = []
     find_mod_files: list[str] = []
 
+    def validate_operation(file: Path, node: ET.Element) -> None:
+        """Follow the branch RimWorld would execute and validate its write target.
+
+        Conditional XPath expressions are allowed not to resolve: that is the
+        purpose of their ``nomatch`` branch.  The old flat scan incorrectly
+        reported those tests (and inactive branches) as missing patch targets.
+        """
+        nonlocal checked
+        operation_class = node.get("Class", "")
+
+        if operation_class == "PatchOperationConditional":
+            xpath = node.findtext("xpath") or ""
+            checked += 1
+            branch_name = "match" if defs.xpath(xpath) else "nomatch"
+            branch = node.find(branch_name)
+            if branch is not None and branch.get("Class"):
+                validate_operation(file, branch)
+            return
+
+        if operation_class == "PatchOperationSequence":
+            operations = node.find("operations")
+            if operations is not None:
+                for child in operations:
+                    if child.get("Class"):
+                        validate_operation(file, child)
+            return
+
+        if operation_class in {"PatchOperationAdd", "PatchOperationReplace"}:
+            xpath = node.findtext("xpath") or ""
+            checked += 1
+            if not defs.xpath(xpath):
+                missing.append((str(file), xpath))
+
     for package in sorted(MODS_ROOT.glob("* - * Chinese")):
         if package.name.startswith("0000000000"):
             continue
@@ -48,11 +81,8 @@ def main() -> None:
             root = ET.parse(file).getroot()
             if root.findall('.//Operation[@Class="PatchOperationFindMod"]'):
                 find_mod_files.append(str(file))
-            for node in root.findall(".//xpath"):
-                xpath = node.text or ""
-                checked += 1
-                if not defs.xpath(xpath):
-                    missing.append((str(file), xpath))
+            for operation in root.findall("./Operation"):
+                validate_operation(file, operation)
 
     if find_mod_files or missing:
         for file in find_mod_files:
