@@ -8,62 +8,62 @@
     {
       "modId": "2198830432",
       "stageLabels": 4,
-      "languageFile": "supplemental/2198830432/Languages/ChineseSimplified/DefInjected/HediffDef/Aya_HealthStages.xml",
-      "patchFile": "supplemental/2198830432/Patches/2198830432_Aya_Health_Stage_Overrides.xml"
+      "languageFile": "supplemental\\2198830432\\Languages\\ChineseSimplified\\DefInjected\\HediffDef\\Aya_HealthStages.xml",
+      "patchFile": "supplemental\\2198830432\\Patches\\2198830432_Aya_Health_Stage_Overrides.xml"
     },
     {
       "modId": "2216916011",
       "stageLabels": 2,
-      "languageFile": "supplemental/2216916011/Languages/ChineseSimplified/DefInjected/HediffDef/Aya_HealthStages.xml",
-      "patchFile": "supplemental/2216916011/Patches/2216916011_Aya_Health_Stage_Overrides.xml"
+      "languageFile": "supplemental\\2216916011\\Languages\\ChineseSimplified\\DefInjected\\HediffDef\\Aya_HealthStages.xml",
+      "patchFile": "supplemental\\2216916011\\Patches\\2216916011_Aya_Health_Stage_Overrides.xml"
     },
     {
       "modId": "2233666290",
       "stageLabels": 2,
-      "languageFile": "supplemental/2233666290/Languages/ChineseSimplified/DefInjected/HediffDef/Aya_HealthStages.xml",
-      "patchFile": "supplemental/2233666290/Patches/2233666290_Aya_Health_Stage_Overrides.xml"
+      "languageFile": "supplemental\\2233666290\\Languages\\ChineseSimplified\\DefInjected\\HediffDef\\Aya_HealthStages.xml",
+      "patchFile": "supplemental\\2233666290\\Patches\\2233666290_Aya_Health_Stage_Overrides.xml"
     },
     {
       "modId": "2394460334",
       "stageLabels": 8,
-      "languageFile": "supplemental/2394460334/Languages/ChineseSimplified/DefInjected/HediffDef/Aya_HealthStages.xml",
-      "patchFile": "supplemental/2394460334/Patches/2394460334_Aya_Health_Stage_Overrides.xml"
+      "languageFile": "supplemental\\2394460334\\Languages\\ChineseSimplified\\DefInjected\\HediffDef\\Aya_HealthStages.xml",
+      "patchFile": "supplemental\\2394460334\\Patches\\2394460334_Aya_Health_Stage_Overrides.xml"
     },
     {
       "modId": "2569091688",
       "stageLabels": 4,
-      "languageFile": "supplemental/2569091688/Languages/ChineseSimplified/DefInjected/HediffDef/Aya_HealthStages.xml",
-      "patchFile": "supplemental/2569091688/Patches/2569091688_Aya_Health_Stage_Overrides.xml"
+      "languageFile": "supplemental\\2569091688\\Languages\\ChineseSimplified\\DefInjected\\HediffDef\\Aya_HealthStages.xml",
+      "patchFile": "supplemental\\2569091688\\Patches\\2569091688_Aya_Health_Stage_Overrides.xml"
     },
     {
       "modId": "2706009136",
       "stageLabels": 10,
-      "languageFile": "supplemental/2706009136/Languages/ChineseSimplified/DefInjected/HediffDef/Aya_HealthStages.xml",
-      "patchFile": "supplemental/2706009136/Patches/2706009136_Aya_Health_Stage_Overrides.xml"
+      "languageFile": "supplemental\\2706009136\\Languages\\ChineseSimplified\\DefInjected\\HediffDef\\Aya_HealthStages.xml",
+      "patchFile": "supplemental\\2706009136\\Patches\\2706009136_Aya_Health_Stage_Overrides.xml"
     },
     {
       "modId": "2763078885",
       "stageLabels": 2,
-      "languageFile": "supplemental/2763078885/Languages/ChineseSimplified/DefInjected/HediffDef/Aya_HealthStages.xml",
-      "patchFile": "supplemental/2763078885/Patches/2763078885_Aya_Health_Stage_Overrides.xml"
+      "languageFile": "supplemental\\2763078885\\Languages\\ChineseSimplified\\DefInjected\\HediffDef\\Aya_HealthStages.xml",
+      "patchFile": "supplemental\\2763078885\\Patches\\2763078885_Aya_Health_Stage_Overrides.xml"
     },
     {
       "modId": "2871413100",
       "stageLabels": 5,
-      "languageFile": "supplemental/2871413100/Languages/ChineseSimplified/DefInjected/HediffDef/Aya_HealthStages.xml",
-      "patchFile": "supplemental/2871413100/Patches/2871413100_Aya_Health_Stage_Overrides.xml"
+      "languageFile": "supplemental\\2871413100\\Languages\\ChineseSimplified\\DefInjected\\HediffDef\\Aya_HealthStages.xml",
+      "patchFile": "supplemental\\2871413100\\Patches\\2871413100_Aya_Health_Stage_Overrides.xml"
     },
     {
       "modId": "3153539856",
       "stageLabels": 3,
-      "languageFile": "supplemental/3153539856/Languages/ChineseSimplified/DefInjected/HediffDef/Aya_HealthStages.xml",
-      "patchFile": "supplemental/3153539856/Patches/3153539856_Aya_Health_Stage_Overrides.xml"
+      "languageFile": "supplemental\\3153539856\\Languages\\ChineseSimplified\\DefInjected\\HediffDef\\Aya_HealthStages.xml",
+      "patchFile": "supplemental\\3153539856\\Patches\\3153539856_Aya_Health_Stage_Overrides.xml"
     },
     {
       "modId": "3477749439",
       "stageLabels": 6,
-      "languageFile": "supplemental/3477749439/Languages/ChineseSimplified/DefInjected/HediffDef/Aya_HealthStages.xml",
-      "patchFile": "supplemental/3477749439/Patches/3477749439_Aya_Health_Stage_Overrides.xml"
+      "languageFile": "supplemental\\3477749439\\Languages\\ChineseSimplified\\DefInjected\\HediffDef\\Aya_HealthStages.xml",
+      "patchFile": "supplemental\\3477749439\\Patches\\3477749439_Aya_Health_Stage_Overrides.xml"
     }
   ]
 }

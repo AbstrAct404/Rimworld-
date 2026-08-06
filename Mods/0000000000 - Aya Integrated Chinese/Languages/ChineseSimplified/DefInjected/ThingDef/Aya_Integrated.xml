@@ -227,6 +227,7 @@
   <Bullet_Gun_AssaultRifle_SK.label>炽热之枪</Bullet_Gun_AssaultRifle_SK.label>
   <Bullet_IncendiaryLauncher_SK.label>熔岩发射器</Bullet_IncendiaryLauncher_SK.label>
   <CSS_SummonEffect.description>光芒闪耀的召唤魔法阵。</CSS_SummonEffect.description>
+  <CSS_SummonEffect.label>召唤特效</CSS_SummonEffect.label>
   <Corpse_HAR_NC_M_a_race_NPC.description>戈尔诺伊德的尸体。</Corpse_HAR_NC_M_a_race_NPC.description>
   <Corpse_HAR_NC_M_a_race_NPC.label>戈尔诺伊德尸体</Corpse_HAR_NC_M_a_race_NPC.label>
   <Corpse_HAR_NC_M_a_race_Summon.description>戈尔诺伊德的尸体。</Corpse_HAR_NC_M_a_race_Summon.description>
@@ -1236,15 +1237,25 @@
 
 受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_Base.description>
   <HAR_QL_M_Race_Base.label>密特拉玛阿哈</HAR_QL_M_Race_Base.label>
+  <HAR_QL_M_Race_NPC_a.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_a.description>
   <HAR_QL_M_Race_NPC_a.label>宝冠天使（夜魔）</HAR_QL_M_Race_NPC_a.label>
+  <HAR_QL_M_Race_NPC_b.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_b.description>
   <HAR_QL_M_Race_NPC_b.label>宝冠天使（人鱼）</HAR_QL_M_Race_NPC_b.label>
+  <HAR_QL_M_Race_NPC_c.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_c.description>
   <HAR_QL_M_Race_NPC_c.label>宝冠天使（亚人）</HAR_QL_M_Race_NPC_c.label>
+  <HAR_QL_M_Race_NPC_d.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_d.description>
   <HAR_QL_M_Race_NPC_d.label>宝冠天使（异形）</HAR_QL_M_Race_NPC_d.label>
+  <HAR_QL_M_Race_NPC_e.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_e.description>
   <HAR_QL_M_Race_NPC_e.label>宝冠天使（龙人）</HAR_QL_M_Race_NPC_e.label>
+  <HAR_QL_M_Race_a.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_a.description>
   <HAR_QL_M_Race_a.label>宝冠天使（夜魔）</HAR_QL_M_Race_a.label>
+  <HAR_QL_M_Race_b.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_b.description>
   <HAR_QL_M_Race_b.label>宝冠天使（人鱼）</HAR_QL_M_Race_b.label>
+  <HAR_QL_M_Race_c.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_c.description>
   <HAR_QL_M_Race_c.label>宝冠天使（亚人）</HAR_QL_M_Race_c.label>
+  <HAR_QL_M_Race_d.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_d.description>
   <HAR_QL_M_Race_d.label>宝冠天使（异形）</HAR_QL_M_Race_d.label>
+  <HAR_QL_M_Race_e.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_e.description>
   <HAR_QL_M_Race_e.label>宝冠天使（龙人）</HAR_QL_M_Race_e.label>
   <HAR_QL_O_a.description>库莉菈们所穿着的套装，尽管面料很薄，但其性能至高足以使穿着者在极地自由活动。</HAR_QL_O_a.description>
   <HAR_QL_O_a.label>言语礼装 A</HAR_QL_O_a.label>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Concrete child races inherit this Japanese text before DefInjected runs.
+       Keep explicit Chinese descriptions here so the inherited source text
+       cannot leak into generated pawns or Character Editor. -->
+  <HAR_QL_M_Race_a.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_a.description>
+  <HAR_QL_M_Race_b.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_b.description>
+  <HAR_QL_M_Race_c.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_c.description>
+  <HAR_QL_M_Race_d.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_d.description>
+  <HAR_QL_M_Race_e.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_e.description>
+  <HAR_QL_M_Race_NPC_a.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_a.description>
+  <HAR_QL_M_Race_NPC_b.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_b.description>
+  <HAR_QL_M_Race_NPC_c.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_c.description>
+  <HAR_QL_M_Race_NPC_d.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_d.description>
+  <HAR_QL_M_Race_NPC_e.description>通过库莉菈的王权机能之一“王权召唤”召来的眷属。它拥有远胜下位魅魔所役使眷属的坚固肉体，以及能够轻易击碎护甲的力量。\n\n受王权影响，它对“本来并不属于这个世界的攻击”具有很强抗性，使用此类武器很难将其击败。</HAR_QL_M_Race_NPC_e.description>
+</LanguageData>

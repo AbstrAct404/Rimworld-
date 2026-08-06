@@ -39,7 +39,7 @@
       "translationWorkshopId": "3769646881",
       "translationTitle": "[Aya] Neclose Race_zh 人工种族汉化 v1.6",
       "folder": "2394460334 - Neclose Race Chinese",
-      "entriesRead": 269
+      "entriesRead": 270
     },
     {
       "originalWorkshopId": "2504657401",
@@ -95,7 +95,7 @@
       "translationWorkshopId": "3769649414",
       "translationTitle": "[Aya] Qualeela Race_zh 人工种族汉化 v1.6",
       "folder": "2763078885 - Qualeela Race Chinese",
-      "entriesRead": 158
+      "entriesRead": 180
     },
     {
       "originalWorkshopId": "2871413100",
@@ -170,7 +170,7 @@
       "entriesRead": 163
     }
   ],
-  "uniqueEntriesWritten": 3326,
+  "uniqueEntriesWritten": 3344,
   "conflictCount": 0,
   "conflicts": []
 }

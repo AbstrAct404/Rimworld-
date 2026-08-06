@@ -2,16 +2,6 @@
 <Patch>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
-    <xpath>Defs/ThingDef[@Name="HAR_IH_ArtifactBase"]/comps[1]/li[1]/useLabel[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/ThingDef[@Name="HAR_IH_ArtifactBase"]/comps[1]/li[1]/useLabel[1]</xpath>
-      <value>
-        <useLabel>激活 {0_label}</useLabel>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
     <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idhale_b_Player"]/comps[1]/li[5]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
       <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idhale_b_Player"]/comps[1]/li[5]/commandLabel[1]</xpath>
@@ -87,6 +77,16 @@
       <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_Idhale_b_Player"]/comps[1]/li[7]/CommandDesc[1]</xpath>
       <value>
         <CommandDesc>手动召唤眷属。眷属的等级和数量取决于“人工种族”等级，重新召唤的冷却时间为2天。</CommandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[@Name="HAR_IH_ArtifactBase"]/comps[1]/li[1]/useLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[@Name="HAR_IH_ArtifactBase"]/comps[1]/li[1]/useLabel[1]</xpath>
+      <value>
+        <useLabel>激活 {0_label}</useLabel>
       </value>
     </match>
   </Operation>

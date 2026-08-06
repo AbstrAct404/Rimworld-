@@ -4,12 +4,14 @@
     "package": "2198830432 - Nearmare Race Chinese",
     "supplementalFilesSynced": [
       "2198830432_Aya_Health_Label_Overrides.xml",
-      "2198830432_Aya_Health_Stage_Overrides.xml"
+      "2198830432_Aya_Health_Stage_Overrides.xml",
+      "Aya_ResearchTab_Tooltip_Enhancement.xml",
+      "Aya_Runtime_PawnKind_Overrides.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 61,
-    "operationsBefore": 61,
-    "operationsAfter": 61,
+    "runtimeTargets": 65,
+    "operationsBefore": 65,
+    "operationsAfter": 65,
     "coveragePreserved": true
   },
   {
@@ -40,12 +42,13 @@
     "supplementalFilesSynced": [
       "2233666290_Aya_Furniture_Label_Overrides.xml",
       "2233666290_Aya_Health_Label_Overrides.xml",
-      "2233666290_Aya_Health_Stage_Overrides.xml"
+      "2233666290_Aya_Health_Stage_Overrides.xml",
+      "Aya_ResearchTab_Tooltip_Enhancement.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 28,
-    "operationsBefore": 28,
-    "operationsAfter": 28,
+    "runtimeTargets": 29,
+    "operationsBefore": 29,
+    "operationsAfter": 29,
     "coveragePreserved": true
   },
   {
@@ -56,9 +59,9 @@
       "2394460334_Aya_Health_Stage_Overrides.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 30,
-    "operationsBefore": 30,
-    "operationsAfter": 30,
+    "runtimeTargets": 35,
+    "operationsBefore": 35,
+    "operationsAfter": 35,
     "coveragePreserved": true
   },
   {
@@ -102,11 +105,13 @@
   {
     "modId": "2676302514",
     "package": "2676302514 - Saclean Race Chinese",
-    "supplementalFilesSynced": [],
+    "supplementalFilesSynced": [
+      "Aya_ResearchTab_Tooltip_Enhancement.xml"
+    ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 0,
-    "operationsBefore": 0,
-    "operationsAfter": 0,
+    "runtimeTargets": 1,
+    "operationsBefore": 1,
+    "operationsAfter": 1,
     "coveragePreserved": true
   },
   {
@@ -148,24 +153,26 @@
     "package": "2871413100 - Idearn Race Chinese",
     "supplementalFilesSynced": [
       "2871413100_Aya_Health_Label_Overrides.xml",
-      "2871413100_Aya_Health_Stage_Overrides.xml"
+      "2871413100_Aya_Health_Stage_Overrides.xml",
+      "Aya_ResearchTab_Tooltip_Enhancement.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 42,
-    "operationsBefore": 42,
-    "operationsAfter": 42,
+    "runtimeTargets": 43,
+    "operationsBefore": 43,
+    "operationsAfter": 43,
     "coveragePreserved": true
   },
   {
     "modId": "2946679071",
     "package": "2946679071 - Chaoura Race Chinese",
     "supplementalFilesSynced": [
-      "2946679071_Aya_Health_Label_Overrides.xml"
+      "2946679071_Aya_Health_Label_Overrides.xml",
+      "Aya_ResearchTab_Tooltip_Enhancement.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 31,
-    "operationsBefore": 31,
-    "operationsAfter": 31,
+    "runtimeTargets": 32,
+    "operationsBefore": 32,
+    "operationsAfter": 32,
     "coveragePreserved": true
   },
   {
@@ -182,12 +189,13 @@
     "modId": "3153539856",
     "package": "3153539856 - Eveliet Race Chinese",
     "supplementalFilesSynced": [
-      "3153539856_Aya_Health_Stage_Overrides.xml"
+      "3153539856_Aya_Health_Stage_Overrides.xml",
+      "Aya_ResearchTab_Tooltip_Enhancement.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 19,
-    "operationsBefore": 19,
-    "operationsAfter": 19,
+    "runtimeTargets": 20,
+    "operationsBefore": 20,
+    "operationsAfter": 20,
     "coveragePreserved": true
   },
   {
@@ -195,12 +203,13 @@
     "package": "3477749439 - Zoichor Race Chinese",
     "supplementalFilesSynced": [
       "3477749439_Aya_Health_Gene_Label_Overrides.xml",
-      "3477749439_Aya_Health_Stage_Overrides.xml"
+      "3477749439_Aya_Health_Stage_Overrides.xml",
+      "Aya_ResearchTab_Tooltip_Enhancement.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 23,
-    "operationsBefore": 23,
-    "operationsAfter": 23,
+    "runtimeTargets": 24,
+    "operationsBefore": 24,
+    "operationsAfter": 24,
     "coveragePreserved": true
   },
   {
@@ -226,21 +235,25 @@
   {
     "modId": "3675887482",
     "package": "3675887482 - Outerm Race Chinese",
-    "supplementalFilesSynced": [],
+    "supplementalFilesSynced": [
+      "Aya_ResearchTab_Tooltip_Enhancement.xml"
+    ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 20,
-    "operationsBefore": 20,
-    "operationsAfter": 20,
+    "runtimeTargets": 21,
+    "operationsBefore": 21,
+    "operationsAfter": 21,
     "coveragePreserved": true
   },
   {
     "modId": "3750626266",
     "package": "3750626266 - Canaan Intellect Chinese",
-    "supplementalFilesSynced": [],
+    "supplementalFilesSynced": [
+      "Aya_ResearchTab_Tooltip_Enhancement.xml"
+    ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 34,
-    "operationsBefore": 34,
-    "operationsAfter": 34,
+    "runtimeTargets": 35,
+    "operationsBefore": 35,
+    "operationsAfter": 35,
     "coveragePreserved": true
   }
 ]

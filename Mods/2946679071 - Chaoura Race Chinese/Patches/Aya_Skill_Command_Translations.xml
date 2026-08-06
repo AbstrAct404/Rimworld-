@@ -2,6 +2,66 @@
 <Patch>
   <Operation Class="PatchOperationConditional">
     <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[4]/commandLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[4]/commandLabel[1]</xpath>
+      <value>
+        <commandLabel>影跃</commandLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[4]/commandDesc[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[4]/commandDesc[1]</xpath>
+      <value>
+        <commandDesc>瞬间移动到射程内任意格。</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[6]/commandLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[6]/commandLabel[1]</xpath>
+      <value>
+        <commandLabel>复仇反击</commandLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[6]/commandDesc[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[6]/commandDesc[1]</xpath>
+      <value>
+        <commandDesc>处于黑暗中时，传送至向自己射击的敌人身边并造成伤害。冷却时间为3天。</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[7]/commandLabel[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[7]/commandLabel[1]</xpath>
+      <value>
+        <commandLabel>血狂</commandLabel>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
+    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[7]/commandDesc[1]</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[7]/commandDesc[1]</xpath>
+      <value>
+        <commandDesc>释放覆盖半径3格的斩击并迫使目标出血；受击者处于黑暗中时还会受到额外伤害。</commandDesc>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <success>Always</success>
     <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_z"]/comps[1]/li[4]/commandLabel[1]</xpath>
     <match Class="PatchOperationReplace">
       <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_z"]/comps[1]/li[4]/commandLabel[1]</xpath>
@@ -97,66 +157,6 @@
       <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_z"]/comps[1]/li[8]/commandDesc[1]</xpath>
       <value>
         <commandDesc>重置显现临界。冷却时间为1天。</commandDesc>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[4]/commandLabel[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[4]/commandLabel[1]</xpath>
-      <value>
-        <commandLabel>影跃</commandLabel>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[4]/commandDesc[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[4]/commandDesc[1]</xpath>
-      <value>
-        <commandDesc>瞬间移动到射程内任意格。</commandDesc>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[6]/commandLabel[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[6]/commandLabel[1]</xpath>
-      <value>
-        <commandLabel>复仇反击</commandLabel>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[6]/commandDesc[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[6]/commandDesc[1]</xpath>
-      <value>
-        <commandDesc>处于黑暗中时，传送至向自己射击的敌人身边并造成伤害。冷却时间为3天。</commandDesc>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[7]/commandLabel[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[7]/commandLabel[1]</xpath>
-      <value>
-        <commandLabel>血狂</commandLabel>
-      </value>
-    </match>
-  </Operation>
-  <Operation Class="PatchOperationConditional">
-    <success>Always</success>
-    <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[7]/commandDesc[1]</xpath>
-    <match Class="PatchOperationReplace">
-      <xpath>Defs/AlienRace.ThingDef_AlienRace[defName="HAR_CO_Race_Chaoura_a"]/comps[1]/li[7]/commandDesc[1]</xpath>
-      <value>
-        <commandDesc>释放覆盖半径3格的斩击并迫使目标出血；受击者处于黑暗中时还会受到额外伤害。</commandDesc>
       </value>
     </match>
   </Operation>
