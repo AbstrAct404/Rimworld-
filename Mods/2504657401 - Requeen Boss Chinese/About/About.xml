@@ -29,19 +29,10 @@
 【注意】
 ・事件触发时间可能因游戏设置和其他 MOD 而变化。
 
-【翻译量】
-本汉化包含 136 条翻译文本。
-
 ——
 兼容版本：RimWorld 1.6
 前置：原模组（请置于本汉化之前加载）
-本模组仅含翻译文件，不包含原模组资源。
-
-【收录种族与特殊形态】
-・女王种
-・女王种（要塞）
-・远渡星海之鸟
-・雏鸟</description>
+本模组仅含翻译文件，不包含原模组资源。</description>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
@@ -55,4 +46,7 @@
   <loadAfter>
     <li>Ayameduki.BOSSRequeen</li>
   </loadAfter>
+  <forceLoadAfter>
+    <li>Ayameduki.BOSSRequeen</li>
+  </forceLoadAfter>
 </ModMetaData>

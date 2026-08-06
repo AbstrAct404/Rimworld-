@@ -26,9 +26,6 @@
 ・具体机制可能随原模组更新而调整。
 ・与原版体型服装不兼容，无法穿戴。
 
-【翻译量】
-本汉化包含 271 条翻译文本。
-
 ——
 兼容版本：RimWorld 1.6
 前置：原模组（请置于本汉化之前加载）
@@ -46,4 +43,7 @@
   <loadAfter>
     <li>Ayameduki.HAROuterm</li>
   </loadAfter>
+  <forceLoadAfter>
+    <li>Ayameduki.HAROuterm</li>
+  </forceLoadAfter>
 </ModMetaData>

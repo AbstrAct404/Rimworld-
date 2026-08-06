@@ -224,7 +224,7 @@
 那个潜在的敌人究竟是谁，想必只有造物主本人知晓吧。</HAR_IH_Hediff_EX_e.description>
   <HAR_IH_Hediff_EX_e.label>万军神临</HAR_IH_Hediff_EX_e.label>
   <HAR_IH_Hediff_Flag.label>苍白契约</HAR_IH_Hediff_Flag.label>
-  <HAR_IH_Hediff_ZZZ.description>幽灵姬·罪孽灵在释放万军之主在此时产生的波动。\n受到影响的人会失去行动能力，只能匍匐在地。\n该状态会在 1 天后解除。</HAR_IH_Hediff_ZZZ.description>
+  <HAR_IH_Hediff_ZZZ.description>幽灵姬·罪孽灵发动“万军之主”时释放的波动。受到影响者会被压倒在地，暂时无法行动。该状态会在一天后解除。</HAR_IH_Hediff_ZZZ.description>
   <HAR_IH_Hediff_ZZZ.label>审判镇压</HAR_IH_Hediff_ZZZ.label>
   <HAR_LL_Hediff_a.description>漫长旅途耗尽了她们的体力，看上去马上就要晕倒在地的样子。</HAR_LL_Hediff_a.description>
   <HAR_LL_Hediff_a.label>长途跋涉的疲惫</HAR_LL_Hediff_a.label>
@@ -303,10 +303,10 @@
 
 副作用持续24小时。</HAR_NM_Hediff_Energy_b.description>
   <HAR_NM_Hediff_Energy_b.label>充能副作用</HAR_NM_Hediff_Energy_b.label>
-  <HAR_NM_Hediff_Potency_a.description>这种灵药由魅魔·魔女系成员阿克忒拉调制。\n药效持续 8 小时，随后 4 小时出现副作用。\n\n效果期间，身体能力提升，攻击力增强。\n当出现副作用时，运动功能会下降至 50%。\n\n\n\n“说实话，我不信任阿拉迪娅，所以不想过分依赖这种药。她们表面平静，心里却不知在盘算什么。”</HAR_NM_Hediff_Potency_a.description>
+  <HAR_NM_Hediff_Potency_a.description>这种灵药由魅魔·魔女系成员阿克忒拉调制。\n药效持续 8 小时，随后 4 小时出现副作用。\n\n效果期间，身体能力提升，攻击力增强。\n当出现副作用时，运动功能会下降至 50%。\n\n\n\n老实说，我不信任阿拉迪娅，所以我不想太依赖这个药。\n他们表面上很平静，但内心却在嘲笑别人。</HAR_NM_Hediff_Potency_a.description>
   <HAR_NM_Hediff_Potency_a.label>强攻灵药</HAR_NM_Hediff_Potency_a.label>
   <HAR_NM_Hediff_Potency_a.stages.0.label>副作用</HAR_NM_Hediff_Potency_a.stages.0.label>
-  <HAR_NM_Hediff_Potency_b.description>这种魔药由亚人兽娘·维克森玛丽斯成员艾提涅调制。\n药效持续 8 小时，随后 4 小时出现副作用。\n\n药效生效时，身体能力与防御力都会提升；副作用发作时，身体则会变得脆弱。\n\n\n\n药效本身十分实用。\n但不知道到底是堆了多少太空部落的尸体才炼制出这种药剂的……</HAR_NM_Hediff_Potency_b.description>
+  <HAR_NM_Hediff_Potency_b.description>这种魔药由亚人兽娘·维克森玛丽斯成员艾提涅调制。\n药效持续 8 小时，随后 4 小时出现副作用。\n\n当其生效时，身体能力会提高，防御力也会增强。\n相反，它会变得脆弱并产生副作用。\n\n\n\n药效本身十分实用。\n但不知道到底是堆了多少太空部落的尸体才炼制出这种药剂的……</HAR_NM_Hediff_Potency_b.description>
   <HAR_NM_Hediff_Potency_b.label>铁壁魔药</HAR_NM_Hediff_Potency_b.label>
   <HAR_NM_Hediff_Potency_b.stages.0.label>副作用</HAR_NM_Hediff_Potency_b.stages.0.label>
   <HAR_NM_Hediff_Potency_c.description>神子伪神族·杜娜米丝所调制药物的效力。能够在没有副作用的情况下复活死者，并因复活的附带效果使其获得永久强化。
@@ -464,7 +464,7 @@
   <Idearn_Otherside_a.stages.0.label>不完全</Idearn_Otherside_a.stages.0.label>
   <Idearn_Otherside_b.description>正式名称是「抗干扰压缩空间装甲」，是一层在伊迪安体表展开的空间薄膜。\n将广阔的空间压缩成薄膜并缠绕身侧，能让外界的干扰顺着空间薄膜滑过，而不影响本身。\n但是，是否能完全避免干涉，则需要视搭载的伊迪安规格而定。 \n\n\n这种灵体化一样的性质是模仿幽灵姬的特殊能力而取得的技术，也因此得名「彼岸」。</Idearn_Otherside_b.description>
   <Idearn_Otherside_b.label>彼岸</Idearn_Otherside_b.label>
-  <Idhale_Artificial.description>幽灵姬具有灵体性质，干涉现实物质需要借助先进技术，因此工作效率较低，对疾病的抵抗力和免疫力也较弱。\n不过，她们会随着时间逐渐克服这些弱点。能力取决于幽灵姬等级，约每年提升 1 级（等级上限为 5）。</Idhale_Artificial.description>
+  <Idhale_Artificial.description>幽灵姬具有灵体性质，干涉现实物质需要借助先进技术，因此工作效率较低，对疾病的抵抗力和免疫力也较弱。\n但是她们每天都在不断的成长，一点点的克服自己的缺点，她们的强度取决于她们各自的幽灵姬等级，大约每年提升 1 级（等级上限为 5）。</Idhale_Artificial.description>
   <Idhale_Artificial.label>人工种族</Idhale_Artificial.label>
   <Idhale_Artificial_b.description>幽灵姬·罪孽灵不同于存在不稳定的普通种，她们拥有着稳定的幽体，能够自由行使多种不可思议的力量。
 
@@ -477,7 +477,7 @@
   <Littluna_Artificial_b.label>人工上位种族</Littluna_Artificial_b.label>
   <Littluna_Artificial_c.description>伪神族·杜娜米丝虽然拥有比原种更为强大的能力，但她们的身体更为脆弱。\n因此通过高度发达的技术对其进行支援是必不可少的。</Littluna_Artificial_c.description>
   <Littluna_Artificial_c.label>人工上位种族</Littluna_Artificial_c.label>
-  <Nearmaere_Artificial.description>魅魔是针对精神干涉特化的人工种族，对精神影响有很强的抗性；相对地，她们对疾病、病毒等威胁的抵抗力和免疫力较低。\n\n另外，她们有自己的眷属，可以召唤出来让其与敌人战斗，其强度、召唤数根据她们各自的人工种族等级而定，约一年提升1级 (等级上限为5)。</Nearmaere_Artificial.description>
+  <Nearmaere_Artificial.description>由于魅魔是人工种族，特别针对精神干涉，所以对精神相关有很强的耐性，相反对人工生物或病毒等的抗性和免疫力很低。\n\n另外，她们有自己的眷属，可以召唤出来让其与敌人战斗，其强度、召唤数根据她们各自的人工种族等级而定，约一年提升1级 (等级上限为5)。</Nearmaere_Artificial.description>
   <Nearmaere_Artificial.label>人工种族</Nearmaere_Artificial.label>
   <Nearmaere_Artificial_b.description>魅魔·魔女系是魅魔的完成形态，拥有在人类社会上位的手腕和技巧。\n长期以来人工种族特有的免疫问题克服的同时，心灵能力也得到了增强。</Nearmaere_Artificial_b.description>
   <Nearmaere_Artificial_b.label>人工种族（魔女系）</Nearmaere_Artificial_b.label>
@@ -485,7 +485,7 @@
   <Nearmaere_Artificial_d.label>人工种族（神秘系）</Nearmaere_Artificial_d.label>
   <Nearmaere_Artificial_e.description>魅魔·改良系是寻常魅魔进行了基因改良的种族。为了能忍受在边缘星球上的艰苦战斗，进行了特定的基因调整。</Nearmaere_Artificial_e.description>
   <Nearmaere_Artificial_e.label>人工种族（改良系）</Nearmaere_Artificial_e.label>
-  <Neclose_Artificial.description>牧菌妖姬是人工种族，既拥有堪比魅魔的精神强度，也具备出色的身体素质。\n\n她们还可以召唤眷属协助战斗；召唤数量取决于牧菌等级，约每年提升 1 级（等级上限为 5）。</Neclose_Artificial.description>
+  <Neclose_Artificial.description>牧菌妖姬是人工种族，拥有堪比魅魔的精神强度的同时，身体素质也极为出色。\n\n她们还可以召唤眷属协助战斗；召唤数量取决于牧菌等级，约每年提升 1 级（等级上限为 5）。</Neclose_Artificial.description>
   <Neclose_Artificial.label>人工种族</Neclose_Artificial.label>
   <Neclose_Artificial_b.description>牧菌妖姬·无人（界外之血）是一种来历不明的种族。\n\n她们不会像人类那样流血，内脏机能也很发达。</Neclose_Artificial_b.description>
   <Neclose_Artificial_b.label>外来种族</Neclose_Artificial_b.label>
@@ -513,7 +513,7 @@
   \n\n与因为是被创造出来而身体不稳定的人工种族不同，混血种天生就可以发挥出强大的能力。</Nexaga_Artificial_f.description>
   <Nexaga_Artificial_f.label>混血种</Nexaga_Artificial_f.label>
   <Nexaga_Artificial_f.stages.0.label>伪神族</Nexaga_Artificial_f.stages.0.label>
-  <Nexaga_Artificial_g.description>通过母亲或隔代遗传继承了人工种族索拉克（龙姬）血统的力量。
+  <Nexaga_Artificial_g.description>通过母亲或隔代遗传继承了人工种族XQAYA_索拉克（索拉克）_DRAGON_PRINCESS_QX（XQAYA_索拉克（索拉克）_DRAGON_PRINCESS_QX（索拉克））（XQAYA_索拉克（索拉克）_DRAGON_PRINCESS_QX（索拉克））血统的力量。
   \n\n与因为是被创造出来而身体不稳定的人工种族不同，混血种天生就可以发挥出强大的能力。</Nexaga_Artificial_g.description>
   <Nexaga_Artificial_g.label>混血种</Nexaga_Artificial_g.label>
   <Nexaga_Artificial_g.stages.0.label>索拉克</Nexaga_Artificial_g.stages.0.label>

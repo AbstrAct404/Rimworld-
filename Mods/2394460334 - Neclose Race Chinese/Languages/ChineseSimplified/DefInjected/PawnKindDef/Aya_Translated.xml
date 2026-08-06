@@ -32,4 +32,20 @@
   <HAR_Neclose_KindBase_NPC_b.label>牧菌妖姬·无人（界外之血）</HAR_Neclose_KindBase_NPC_b.label>
   <HAR_Neclose_NPC_b_Leader.label>牧菌妖姬·无人（界外之血）</HAR_Neclose_NPC_b_Leader.label>
   <HAR_Neclose_NPC_b_Resident.label>牧菌妖姬·无人（界外之血）</HAR_Neclose_NPC_b_Resident.label>
+  <HAR_NC_M_a_Kind_Summon.labelMale>戈尔诺伊德</HAR_NC_M_a_Kind_Summon.labelMale>
+  <HAR_NC_M_a_Kind_Summon.labelFemale>戈尔诺伊德</HAR_NC_M_a_Kind_Summon.labelFemale>
+  <HAR_NC_M_a_Kind_NPC.labelMale>戈尔诺伊德</HAR_NC_M_a_Kind_NPC.labelMale>
+  <HAR_NC_M_a_Kind_NPC.labelFemale>戈尔诺伊德</HAR_NC_M_a_Kind_NPC.labelFemale>
+  <HAR_NC_M_b_Kind_Summon.labelMale>戈尔种</HAR_NC_M_b_Kind_Summon.labelMale>
+  <HAR_NC_M_b_Kind_Summon.labelFemale>戈尔种</HAR_NC_M_b_Kind_Summon.labelFemale>
+  <HAR_NC_M_b_Kind_NPC.labelMale>戈尔种</HAR_NC_M_b_Kind_NPC.labelMale>
+  <HAR_NC_M_b_Kind_NPC.labelFemale>戈尔种</HAR_NC_M_b_Kind_NPC.labelFemale>
+  <HAR_NC_M_c_Kind_Summon.labelMale>戈尔肉块</HAR_NC_M_c_Kind_Summon.labelMale>
+  <HAR_NC_M_c_Kind_Summon.labelFemale>戈尔肉块</HAR_NC_M_c_Kind_Summon.labelFemale>
+  <HAR_NC_M_c_Kind_NPC.labelMale>戈尔肉块</HAR_NC_M_c_Kind_NPC.labelMale>
+  <HAR_NC_M_c_Kind_NPC.labelFemale>戈尔肉块</HAR_NC_M_c_Kind_NPC.labelFemale>
+  <HAR_NC_M_y_Kind_Summon.labelMale>克莱尔斯</HAR_NC_M_y_Kind_Summon.labelMale>
+  <HAR_NC_M_y_Kind_Summon.labelFemale>克莱尔斯</HAR_NC_M_y_Kind_Summon.labelFemale>
+  <HAR_NC_M_z_Kind_Summon.labelMale>克莱尔斯</HAR_NC_M_z_Kind_Summon.labelMale>
+  <HAR_NC_M_z_Kind_Summon.labelFemale>克莱尔斯</HAR_NC_M_z_Kind_Summon.labelFemale>
 </LanguageData>

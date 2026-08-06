@@ -1,9 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <HAR_CO_UB_Hediff_Limit.label>显现临界</HAR_CO_UB_Hediff_Limit.label>
-  <HAR_CO_UB_Hediff_Limit.description>表示混沌灵·阿瓦露其安能够维持现世存在的极限。通常处于无敌状态；数值达到 100% 时，无敌效果将被解除。
-
-对集合精神“艾芙耶谢尔”而言，阿瓦露其安只是其在现世活动的容器。容器本身超越物理法则，并不存在通常意义上的死亡；但容器毕竟不同于灵魂，并非绝对不灭。若持续承受过量攻击，阿瓦露其安的无敌性最终仍会崩溃。若在此状态下死亡，肉体将立即消散。</HAR_CO_UB_Hediff_Limit.description>
+  <HAR_CO_UB_Hediff_Limit.description>显现出混沌灵·阿瓦露其安所能存在的极限。\n通常情况下她是无敌的，但当数值达到 100% 时，无敌状态将会解除。\n\n对于集合意识艾芙耶谢尔而言，阿瓦露其安只是其在现世中活动所使用的容器。\n这个容器本身已超越物理法则，因此没有死亡的概念。\n然而，容器毕竟不同于灵魂，并非真正意义上的不死，\n若持续受到过量攻击，最终仍可能导致阿瓦露其安的无敌崩坏。\n在那种状态下死亡的话，其肉体将会立即消失无踪。</HAR_CO_UB_Hediff_Limit.description>
   <HAR_CO_UB_Hediff_Limit.stages._0.label>0%</HAR_CO_UB_Hediff_Limit.stages._0.label>
   <HAR_CO_UB_Hediff_Limit.stages._5.label>5%</HAR_CO_UB_Hediff_Limit.stages._5.label>
   <HAR_CO_UB_Hediff_Limit.stages._10.label>10%</HAR_CO_UB_Hediff_Limit.stages._10.label>

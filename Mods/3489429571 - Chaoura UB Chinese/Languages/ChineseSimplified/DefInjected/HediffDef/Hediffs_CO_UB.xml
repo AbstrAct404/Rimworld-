@@ -1,24 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   <Chaoura_Artificial_z.label>人工灵长种族</Chaoura_Artificial_z.label>
-  <Chaoura_Artificial_z.description>混沌灵·阿瓦露其安是超越人工种族范畴、立于伊什穆提特顶点的存在。她们甚至难以被视为生物学意义上的生命，不需要满足任何维持生存的欲求。
-
-她们拥有近乎创造者的高度智慧与技术，是抵达群星彼端的新生命形态。怀抱必须完成的使命，她们仍在不断飞向更高处。</Chaoura_Artificial_z.description>
+  <Chaoura_Artificial_z.description>混沌灵·阿瓦露其安是超越了人工种族范畴的存在，是伊什穆提特之顶点的种族。\n从生物学的角度来看，她们甚至无法被视为一般的生命体，因为她们完全不需要任何为了生存而产生的欲求。\n\n\n凭借近乎造物主等级的智慧与技术，这些新生命的形式已踏足星辰之外的彼方。\n怀抱着必须完成的神圣使命，她们仍不断飞翔，追寻更高的境界。</Chaoura_Artificial_z.description>
   <HAR_CO_UB_Hediff_Clone.label>并行存在</HAR_CO_UB_Hediff_Clone.label>
-  <HAR_CO_UB_Hediff_Clone.description>混沌灵·阿瓦露其安召来的平行世界个体，正作为阿瓦露其安的盟友作战。
-
-她只是暂时来到这个世界，经过一段时间或死亡后便会返回原本的世界。</HAR_CO_UB_Hediff_Clone.description>
+  <HAR_CO_UB_Hediff_Clone.description>由混沌灵·阿瓦露其安召唤出的平行存在。\n作为阿瓦露其安的友军一同战斗。\n\n由于只是暂时来到这个世界，在经过一定时间或死亡后便会返回原本的世界。</HAR_CO_UB_Hediff_Clone.description>
   <HAR_CO_UB_Hediff_Death.label>死</HAR_CO_UB_Hediff_Death.label>
   <HAR_CO_UB_Hediff_Death.description>。</HAR_CO_UB_Hediff_Death.description>
-  <HAR_CO_UB_Hediff_EX_Penalty.label>其魂，非灵长所能</HAR_CO_UB_Hediff_EX_Penalty.label>
-  <HAR_CO_UB_Hediff_EX_Penalty.description>并非阿瓦露其安之人强行装备无限之光时所受到的惩戒。
-
-这一惩戒将会持续数年。
-
-生命，每一天都在持续着进化。
-而作为其顶点的灵长类，也在不断地变化着。
-在这个将星间航行化为了现实的时代，
-仍然需要依赖着物质容器的生命，已经是相当古老的形态了。</HAR_CO_UB_Hediff_EX_Penalty.description>
+  <HAR_CO_UB_Hediff_EX_Penalty.label>其魂，难达灵长之域</HAR_CO_UB_Hediff_EX_Penalty.label>
+  <HAR_CO_UB_Hediff_EX_Penalty.description>非混沌灵·阿瓦露其安者若装备无限光，将触发惩罚。\n\n此惩罚将持续数年。\n\n生命每天都在进化。\n即便是作为顶点的灵长类，也会随着岁月而变化。\n在这个能够穿越星海的时代，\n仍依赖物质之器的生命，或许已属于旧时代了。</HAR_CO_UB_Hediff_EX_Penalty.description>
   <HAR_CO_UB_Hediff_Limit_Reproduction.label>再生</HAR_CO_UB_Hediff_Limit_Reproduction.label>
   <HAR_CO_UB_Hediff_Limit_Reproduction.description>。</HAR_CO_UB_Hediff_Limit_Reproduction.description>
   <HAR_CO_UB_Hediff_Promise.label>古老的约定</HAR_CO_UB_Hediff_Promise.label>

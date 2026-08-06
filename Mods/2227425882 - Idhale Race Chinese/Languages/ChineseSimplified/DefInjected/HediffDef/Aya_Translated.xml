@@ -42,9 +42,9 @@
 那个潜在的敌人究竟是谁，想必只有造物主本人知晓吧。</HAR_IH_Hediff_EX_e.description>
   <HAR_IH_Hediff_Death.label>死与重生</HAR_IH_Hediff_Death.label>
   <HAR_IH_Hediff_ZZZ.label>审判镇压</HAR_IH_Hediff_ZZZ.label>
-  <HAR_IH_Hediff_ZZZ.description>幽灵姬·罪孽灵在释放万军之主在此时产生的波动。\n受到影响的人会失去行动能力，只能匍匐在地。\n该状态会在 1 天后解除。</HAR_IH_Hediff_ZZZ.description>
+  <HAR_IH_Hediff_ZZZ.description>幽灵姬·罪孽灵发动“万军之主”时释放的波动。受到影响者会被压倒在地，暂时无法行动。该状态会在一天后解除。</HAR_IH_Hediff_ZZZ.description>
   <Idhale_Artificial.label>人工种族</Idhale_Artificial.label>
-  <Idhale_Artificial.description>幽灵姬具有灵体性质，干涉现实物质需要借助先进技术，因此工作效率较低，对疾病的抵抗力和免疫力也较弱。\n不过，她们会随着时间逐渐克服这些弱点。能力取决于幽灵姬等级，约每年提升 1 级（等级上限为 5）。</Idhale_Artificial.description>
+  <Idhale_Artificial.description>幽灵姬具有灵体性质，干涉现实物质需要借助先进技术，因此工作效率较低，对疾病的抵抗力和免疫力也较弱。\n但是她们每天都在不断的成长，一点点的克服自己的缺点，她们的强度取决于她们各自的幽灵姬等级，大约每年提升 1 级（等级上限为 5）。</Idhale_Artificial.description>
   <Idhale_Artificial_b.label>人工上位种族</Idhale_Artificial_b.label>
   <Idhale_Artificial_b.description>幽灵姬·罪孽灵不同于存在不稳定的普通种，她们拥有着稳定的幽体，能够自由行使多种不可思议的力量。
 

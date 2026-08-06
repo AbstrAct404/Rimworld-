@@ -111,6 +111,7 @@
   <Aya_Race_Ap_C_T_b.description>人工种族儿童穿着的罩衫。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_b.description>
   <Aya_Race_Ap_C_T_b.label>儿童罩衫</Aya_Race_Ap_C_T_b.label>
   <Aya_Race_Ap_C_T_c.description>人工种族儿童使用的裹身布。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_c.description>
+  <Aya_Race_Ap_C_T_c.label>儿童裹身布</Aya_Race_Ap_C_T_c.label>
   <Aya_Race_Ap_C_T_d.description>人工种族儿童穿着的学生服。由于面向儿童设计，性能较为有限。</Aya_Race_Ap_C_T_d.description>
   <Aya_Race_Ap_C_T_d.label>儿童学生服</Aya_Race_Ap_C_T_d.label>
   <Aya_Race_Ap_NC_C_T_a.description>人工种族的儿童们穿的暗夜装，性能有所降低。</Aya_Race_Ap_NC_C_T_a.description>
@@ -136,10 +137,15 @@
   <BMOT_Building_Refinery_a.label>亚人工业炼油机</BMOT_Building_Refinery_a.label>
   <BOSS_EF_B_M_race_Base.description>随陨石一同降临的神秘生命体。它体型与质量惊人，几乎无法以物理手段摧毁。\n行动本身虽然迟缓，但其超大质量所爆发的攻击足以媲美陨石撞击，贸然接近绝非明智之举。\n\n这种生物已经近似于兵器，但似乎无法适应这颗星球的环境，活动时间极短；不足一天便会自行崩解消失。若无力将其破坏，也可设法拖延并阻止它接近殖民地，等待其自行消亡。\n\n大型个体各自拥有不同的特殊能力，可能对殖民者造成严重负面影响，请务必留意。</BOSS_EF_B_M_race_Base.description>
   <BOSS_EF_B_M_race_a.description>随陨石一同降临的神秘生命体。它体型与质量惊人，几乎无法以物理手段摧毁。\n行动本身虽然迟缓，但其超大质量所爆发的攻击足以媲美陨石撞击，贸然接近绝非明智之举。\n\n这种生物已经近似于兵器，但似乎无法适应这颗星球的环境，活动时间极短；不足一天便会自行崩解消失。若无力将其破坏，也可设法拖延并阻止它接近殖民地，等待其自行消亡。\n\n大型个体各自拥有不同的特殊能力，可能对殖民者造成严重负面影响，请务必留意。</BOSS_EF_B_M_race_a.description>
+  <BOSS_EF_B_M_race_a.label>执行者</BOSS_EF_B_M_race_a.label>
   <BOSS_EF_B_M_race_b.description>随陨石一同降临的神秘生命体。它体型与质量惊人，几乎无法以物理手段摧毁。\n行动本身虽然迟缓，但其超大质量所爆发的攻击足以媲美陨石撞击，贸然接近绝非明智之举。\n\n这种生物已经近似于兵器，但似乎无法适应这颗星球的环境，活动时间极短；不足一天便会自行崩解消失。若无力将其破坏，也可设法拖延并阻止它接近殖民地，等待其自行消亡。\n\n大型个体各自拥有不同的特殊能力，可能对殖民者造成严重负面影响，请务必留意。</BOSS_EF_B_M_race_b.description>
+  <BOSS_EF_B_M_race_b.label>执行者</BOSS_EF_B_M_race_b.label>
   <BOSS_EF_B_M_race_c.description>随陨石一同降临的神秘生命体。它体型与质量惊人，几乎无法以物理手段摧毁。\n行动本身虽然迟缓，但其超大质量所爆发的攻击足以媲美陨石撞击，贸然接近绝非明智之举。\n\n这种生物已经近似于兵器，但似乎无法适应这颗星球的环境，活动时间极短；不足一天便会自行崩解消失。若无力将其破坏，也可设法拖延并阻止它接近殖民地，等待其自行消亡。\n\n大型个体各自拥有不同的特殊能力，可能对殖民者造成严重负面影响，请务必留意。</BOSS_EF_B_M_race_c.description>
+  <BOSS_EF_B_M_race_c.label>执行者</BOSS_EF_B_M_race_c.label>
   <BOSS_EF_B_M_race_d.description>随陨石一同降临的神秘生命体。它体型与质量惊人，几乎无法以物理手段摧毁。\n行动本身虽然迟缓，但其超大质量所爆发的攻击足以媲美陨石撞击，贸然接近绝非明智之举。\n\n这种生物已经近似于兵器，但似乎无法适应这颗星球的环境，活动时间极短；不足一天便会自行崩解消失。若无力将其破坏，也可设法拖延并阻止它接近殖民地，等待其自行消亡。\n\n大型个体各自拥有不同的特殊能力，可能对殖民者造成严重负面影响，请务必留意。</BOSS_EF_B_M_race_d.description>
+  <BOSS_EF_B_M_race_d.label>执行者</BOSS_EF_B_M_race_d.label>
   <BOSS_EF_B_M_race_e.description>随陨石一同降临的神秘生命体。它体型与质量惊人，几乎无法以物理手段摧毁。\n行动本身虽然迟缓，但其超大质量所爆发的攻击足以媲美陨石撞击，贸然接近绝非明智之举。\n\n这种生物已经近似于兵器，但似乎无法适应这颗星球的环境，活动时间极短；不足一天便会自行崩解消失。若无力将其破坏，也可设法拖延并阻止它接近殖民地，等待其自行消亡。\n\n大型个体各自拥有不同的特殊能力，可能对殖民者造成严重负面影响，请务必留意。</BOSS_EF_B_M_race_e.description>
+  <BOSS_EF_B_M_race_e.label>执行者</BOSS_EF_B_M_race_e.label>
   <BOSS_EF_Hive_Enforcer.description>从太空飞来的神秘陨石。
     \n好像载着生命体，坠落的同时也会出来袭击人。
     \n陨石本身没有危险，所以可以作为素材使用，但是内部的液体似乎不能适应这个星球，1天之内就会自我消解。
@@ -156,6 +162,7 @@
   <BOSS_EF_Item_b.label>星陨铁</BOSS_EF_Item_b.label>
   <BOSS_EF_M_race_Base.label>执行者</BOSS_EF_M_race_Base.label>
   <BOSS_EF_M_race_a.description>随陨石一同降临的神秘生命体。它体型与质量惊人，几乎无法以物理手段摧毁。\n行动本身虽然迟缓，但其超大质量所爆发的攻击足以媲美陨石撞击，贸然接近绝非明智之举。\n\n这种生物已经近似于兵器，但似乎无法适应这颗星球的环境，活动时间极短；不足一天便会自行崩解消失。若无力将其破坏，也可设法拖延并阻止它接近殖民地，等待其自行消亡。\n\n大型个体各自拥有不同的特殊能力，可能对殖民者造成严重负面影响，请务必留意。</BOSS_EF_M_race_a.description>
+  <BOSS_EF_M_race_a.label>执行者</BOSS_EF_M_race_a.label>
   <BOSS_RQ_Archotech_a.description>从远渡星海的雏鸟【雏鸟】身上摘取的心脏。这颗心脏本属于毁灭了创造者、使人工种族濒临灭绝的超级兵器「对上位者决战自立兵器·克里提亚斯」。\n现在已经失去了绝大部分的功能，对人们来说几乎毫无用处。\n这颗心脏具有容纳灵魂的功能——这一功能至今仍在运转。侧耳倾听，你仿佛能幻听到那成千上万灵魂的悲鸣。\n解放这些灵魂便可以真正意义上的毁灭「远渡星海之鸟」。\n这就是人工种族们世代相传的、巡视于诸天万界、啄食文明与亿万生命的「远渡星海之鸟」的心脏。\n这心脏宛如极小的地狱，至今仍在死者们的惨叫中熊熊燃烧着。\n还请给予他们救赎，并让这只翱翔于星海的、令人深恶痛绝的鸟永远得留在这片大地上吧。</BOSS_RQ_Archotech_a.description>
   <BOSS_RQ_Archotech_a.label>渡星的心脏</BOSS_RQ_Archotech_a.label>
   <BOSS_RQ_Bullet_TurretSniper.label>审判</BOSS_RQ_Bullet_TurretSniper.label>
@@ -163,8 +170,11 @@
   <BOSS_RQ_Bullet_a.label>雏鸟凝望</BOSS_RQ_Bullet_a.label>
   <BOSS_RQ_Bullet_b.label>雏鸟泣血</BOSS_RQ_Bullet_b.label>
   <BOSS_RQ_Drop_Base.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_Base.description>
+  <BOSS_RQ_Drop_a.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_a.description>
   <BOSS_RQ_Drop_a.label>女王种的部件</BOSS_RQ_Drop_a.label>
+  <BOSS_RQ_Drop_b.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_b.description>
   <BOSS_RQ_Drop_b.label>女王种的部件</BOSS_RQ_Drop_b.label>
+  <BOSS_RQ_Drop_c.description>构成女王种躯体的一部分。摧毁后可以作为材料回收利用，但内部可能混有她的眷属。</BOSS_RQ_Drop_c.description>
   <BOSS_RQ_Drop_c.label>女王种的部件</BOSS_RQ_Drop_c.label>
   <BOSS_RQ_Gun_TurretSniper.label>审判</BOSS_RQ_Gun_TurretSniper.label>
   <BOSS_RQ_Gun_TurretSniper_b.label>圣约</BOSS_RQ_Gun_TurretSniper_b.label>
@@ -429,7 +439,7 @@
 
 
 
-『索拉克（龙姬），作为强大的龙人们，仅仅是汝等的存在本身便是对宙族的抑制力
+『索拉克，作为强大的龙人们，仅仅是汝等的存在本身便是对宙族的抑制力
 　希望你们今后也能够继续担当迦南的守卫者
 
 
@@ -694,6 +704,8 @@
   <HAR_IA_M_Race_Base.description>伊迪安·泰阿泰德 A型制造的子机，杀伤力、机动性与耐久性都十分出色，能够执行集团军事行动。
 召唤出的自然拟态会在三天后消失。</HAR_IA_M_Race_Base.description>
   <HAR_IA_M_Race_Base.label>自然拟态</HAR_IA_M_Race_Base.label>
+  <HAR_IA_M_Race_a.description>伊迪安·泰阿泰德 A型制造的子机，杀伤力、机动性与耐久性都十分出色，能够执行集团军事行动。
+召唤出的自然拟态会在三天后消失。</HAR_IA_M_Race_a.description>
   <HAR_IA_M_Race_a.label>自然拟态</HAR_IA_M_Race_a.label>
   <HAR_IA_Things_Mysterion.description>通过研究再现出的创造伊迪安的机器。传说中曾在被造物主失去后引发了灾厄。</HAR_IA_Things_Mysterion.description>
   <HAR_IA_Things_Mysterion.label>秘仪机</HAR_IA_Things_Mysterion.label>
@@ -707,11 +719,11 @@
   <HAR_IH_AO_a.label>内衣A款（幽灵姬）</HAR_IH_AO_a.label>
   <HAR_IH_AS_a.description>犹如死神般的斗篷，但是本身性能不怎么样。</HAR_IH_AS_a.description>
   <HAR_IH_AS_a.label>幽鬼斗篷（幽灵姬）</HAR_IH_AS_a.label>
-  <HAR_IH_AT_a.description>为幽灵姬量身定制的服装，受灵体化影响，服装边缘显得破旧残缺。</HAR_IH_AT_a.description>
+  <HAR_IH_AT_a.description>为幽灵姬量身定制的服装，受到灵体化的影响服装边缘变得破破烂烂。</HAR_IH_AT_a.description>
   <HAR_IH_AT_a.label>幽鬼衬衫（幽灵姬）</HAR_IH_AT_a.label>
   <HAR_IH_AT_b.description>死者所穿的服装，有降低心灵敏感度的效果并且能稍微克服幽灵姬的弱点。</HAR_IH_AT_b.description>
   <HAR_IH_AT_b.label>牧菌妖姬装束（幽灵姬）</HAR_IH_AT_b.label>
-  <HAR_IH_AT_c.description>高贵者所穿的高级服装，但是受灵体化影响，服装边缘显得破旧残缺。能获得一些对毒性和疾病的抗性。</HAR_IH_AT_c.description>
+  <HAR_IH_AT_c.description>高贵者所穿的高级服装，但是受到灵体化的影响服装边缘变得破破烂烂。能获得一些对毒性和疾病的抗性。</HAR_IH_AT_c.description>
   <HAR_IH_AT_c.label>幽鬼礼服（幽灵姬）</HAR_IH_AT_c.label>
   <HAR_IH_AT_d.description>幽灵姬用的护士服装，虽然不知道为什么沾满了鲜血，但是能提升医疗效果。</HAR_IH_AT_d.description>
   <HAR_IH_AT_d.label>幽鬼护士服（幽灵姬）</HAR_IH_AT_d.label>
@@ -965,10 +977,18 @@
 
 体型小、力量弱，却行动迅速并会成群出现。</HAR_NC_M_y_race_Base.description>
   <HAR_NC_M_y_race_Base.label>弗拉斯塔里</HAR_NC_M_y_race_Base.label>
+  <HAR_NC_M_y_race_NPC.description>牧菌妖姬·无人（界外之血）的眷属，由生物尸体重新构成。它理应没有生命活动，目前仍不清楚究竟如何行动。
+
+体型小、力量弱，却行动迅速并会成群出现。</HAR_NC_M_y_race_NPC.description>
+  <HAR_NC_M_y_race_NPC.label>弗拉斯塔里</HAR_NC_M_y_race_NPC.label>
   <HAR_NC_M_z_race_Base.description>牧菌妖姬·无人（界外之血）的眷属，由生物尸体重新构成。它理应没有生命活动，目前仍不清楚究竟如何行动。
 
 极其耐打，通常攻击很难将其杀死。</HAR_NC_M_z_race_Base.description>
   <HAR_NC_M_z_race_Base.label>克莱尔斯</HAR_NC_M_z_race_Base.label>
+  <HAR_NC_M_z_race_NPC.description>牧菌妖姬·无人（界外之血）的眷属，由生物尸体重新构成。它理应没有生命活动，目前仍不清楚究竟如何行动。
+
+极其耐打，通常攻击很难将其杀死。</HAR_NC_M_z_race_NPC.description>
+  <HAR_NC_M_z_race_NPC.label>克莱尔斯</HAR_NC_M_z_race_NPC.label>
   <HAR_NC_Material_a.description>从牧菌妖姬·无人（界外之血）那里回收而来的肉块。
 就算已经过了一段时间，它仍在散发热量。
 
@@ -1028,6 +1048,14 @@
   <HAR_NM_BroadshieldProjector.description>仅对单纯子弹有效的小范围的低角护盾。与以往的护盾背包相比，范围很小，且具有3倍的展开时间。\n缺陷是防护范围小，所以无法防御爆炸伤害。</HAR_NM_BroadshieldProjector.description>
   <HAR_NM_BroadshieldProjector.label>召唤的护盾</HAR_NM_BroadshieldProjector.label>
   <HAR_NM_Bullet_Shell_HighExplosive_Base.label>八联迫击炮</HAR_NM_Bullet_Shell_HighExplosive_Base.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_a.label>八联迫击炮</HAR_NM_Bullet_Shell_HighExplosive_a.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_b.label>八联迫击炮</HAR_NM_Bullet_Shell_HighExplosive_b.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_c.label>八联迫击炮</HAR_NM_Bullet_Shell_HighExplosive_c.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_d.label>八联迫击炮</HAR_NM_Bullet_Shell_HighExplosive_d.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_e.label>八联迫击炮</HAR_NM_Bullet_Shell_HighExplosive_e.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_f.label>八联迫击炮</HAR_NM_Bullet_Shell_HighExplosive_f.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_g.label>八联迫击炮</HAR_NM_Bullet_Shell_HighExplosive_g.label>
+  <HAR_NM_Bullet_Shell_HighExplosive_h.label>八联迫击炮</HAR_NM_Bullet_Shell_HighExplosive_h.label>
   <HAR_NM_China.description>某个神秘的派系为魅魔定制的专用的传统的服装，服装最大限度的遮盖了所有敏感部位，却又有着极大的魅力，且因为用料少而轻便，移动速度得到提升了。</HAR_NM_China.description>
   <HAR_NM_China.label>旗袍（魅魔）</HAR_NM_China.label>
   <HAR_NM_Cts.description>佩戴起来没有那么张扬的低调头饰。</HAR_NM_Cts.description>
@@ -1052,7 +1080,10 @@
   <HAR_NM_MHK.label>花饰（魅魔）</HAR_NM_MHK.label>
   <HAR_NM_MRbn.description>增加可爱感的蝴蝶结丝带，强调自己很可爱时使用。</HAR_NM_MRbn.description>
   <HAR_NM_MRbn.label>丝带（魅魔）</HAR_NM_MRbn.label>
+  <HAR_NM_M_KUT.description>魅魔将对创造者的信仰具现化后形成的眷属。与普通魅魔召唤物相比，它的攻击性较低，但续航能力出色，可以维持三天。由于其中也寄宿着对机械生命体的憎恨，它的攻击还会令机械装置短路。</HAR_NM_M_KUT.description>
   <HAR_NM_M_KUT_Base.description>魅魔将对创造者的信仰具现化后形成的眷属。与普通魅魔召唤物相比，它的攻击性较低，但续航能力出色，可以维持三天。由于其中也寄宿着对机械生命体的憎恨，它的攻击还会令机械装置短路。</HAR_NM_M_KUT_Base.description>
+  <HAR_NM_M_KUT_b.description>魅魔将对创造者的信仰具现化后形成的眷属。与普通魅魔召唤物相比，它的攻击性较低，但续航能力出色，可以维持三天。由于其中也寄宿着对机械生命体的憎恨，它的攻击还会令机械装置短路。</HAR_NM_M_KUT_b.description>
+  <HAR_NM_M_KZU.description>被超越人类认知的存在“拯救”后，这具躯体已经失去肉身与灵魂，再也无法恢复原状。 \n它只会茫然地重复残留在躯体中的条件反射。 \n然而，杀死或伤害它们已经变得极其困难，也许是因为它们不再被归类为生物。 \n\n一天后，它便无法继续维持这具无魂躯体，最终自行崩解。</HAR_NM_M_KZU.description>
   <HAR_NM_M_KZU_Base.description>被超越人类认知的存在“拯救”后，这具躯体已经失去肉身与灵魂，再也无法恢复原状。 \n它只会茫然地重复残留在躯体中的条件反射。 \n然而，杀死或伤害它们已经变得极其困难，也许是因为它们不再被归类为生物。 \n\n一天后，它便无法继续维持这具无魂躯体，最终自行崩解。</HAR_NM_M_KZU_Base.description>
   <HAR_NM_M_XXX.description>魅魔·魔女系从宇宙深渊召来的超存在。其真名会令没有资质者在记忆时产生致命认知错位并引发精神崩溃，因此被隐去。
 
@@ -1222,8 +1253,38 @@
 
 这是曾经的我的一部分，请随意使用吧。</HAR_OT_Weapon_Idea.description>
   <HAR_OT_Weapon_Idea.label>噬魂邪枪</HAR_OT_Weapon_Idea.label>
+  <HAR_OT_Weapon_a.description>奥特姆使用的神秘武器，仿佛活物般鲜明地搏动着。据说每杀死一个敌人，刀锋便会变得更加锐利。
+
+这把武器恶名昭彰，许多持有者最终都走上了大肆杀戮的歧途。
+
+
+
+
+杀吧，服从你的欲望。堆起尸骸，还要更加残酷。
+吾主渴求■■。以鲜烈血色，为那倦怠褪色的故事重新着彩。
+无底虚空正注视着你——无论何时，永远、永远。</HAR_OT_Weapon_a.description>
   <HAR_OT_Weapon_a.label>幻影短剑</HAR_OT_Weapon_a.label>
+  <HAR_OT_Weapon_b.description>奥特姆使用的神秘武器，仿佛活物般鲜明地搏动着。据说每杀死一个敌人，刀锋便会变得更加锐利。
+
+这把武器恶名昭彰，许多持有者最终都走上了大肆杀戮的歧途。
+
+
+
+
+杀吧，服从你的欲望。堆起尸骸，还要更加残酷。
+吾主渴求■■。以鲜烈血色，为那倦怠褪色的故事重新着彩。
+无底虚空正注视着你——无论何时，永远、永远。</HAR_OT_Weapon_b.description>
   <HAR_OT_Weapon_b.label>幻影战斧</HAR_OT_Weapon_b.label>
+  <HAR_OT_Weapon_c.description>奥特姆使用的神秘武器，仿佛活物般鲜明地搏动着。据说每杀死一个敌人，刀锋便会变得更加锐利。
+
+这把武器恶名昭彰，许多持有者最终都走上了大肆杀戮的歧途。
+
+
+
+
+杀吧，服从你的欲望。堆起尸骸，还要更加残酷。
+吾主渴求■■。以鲜烈血色，为那倦怠褪色的故事重新着彩。
+无底虚空正注视着你——无论何时，永远、永远。</HAR_OT_Weapon_c.description>
   <HAR_OT_Weapon_c.label>幻影战镰</HAR_OT_Weapon_c.label>
   <HAR_QL_A_a.description>只有恩特雷凯亚的王族才被允许穿着的铠甲。具有无效化精神干涉的机能，从而防止穿着者被洗脑或者强制行动。</HAR_QL_A_a.description>
   <HAR_QL_A_a.label>终焉之铠</HAR_QL_A_a.label>
@@ -1403,7 +1464,9 @@
   <HAR_SK_Medicine_a.label>亚人医疗包</HAR_SK_Medicine_a.label>
   <HAR_SK_NPC_Z_Item_a.description>复仇战兽释放出的无色透明力场。\n受到冲击后会引发反物质爆炸，但由于领域只能维持很短一段时间，所以很快就会消失。</HAR_SK_NPC_Z_Item_a.description>
   <HAR_SK_NPC_Z_Item_a.label>镇魂反物质场</HAR_SK_NPC_Z_Item_a.label>
+  <HAR_SK_Table2x2c.description>亚人工业制造的桌子，中央采用透明玻璃，看起来颇为高档。</HAR_SK_Table2x2c.description>
   <HAR_SK_Table2x2c.label>玻璃桌（2×2）</HAR_SK_Table2x2c.label>
+  <HAR_SK_Table3x3c.description>亚人工业制造的桌子，中央采用透明玻璃，看起来颇为高档。</HAR_SK_Table3x3c.description>
   <HAR_SK_Table3x3c.label>玻璃桌（3×3）</HAR_SK_Table3x3c.label>
   <HAR_SK_TableBase.description>亚人工业制造的桌子，中央采用透明玻璃，看起来颇为高档。</HAR_SK_TableBase.description>
   <HAR_SK_Wall_Fence.description>亚人工业使用的现代化围栏。需要注意的是，子弹可以从铁丝间穿过。</HAR_SK_Wall_Fence.description>
@@ -1490,7 +1553,7 @@
   <HAR_XO_AT_e.label>巫女服（人鱼姬）</HAR_XO_AT_e.label>
   <HAR_XO_AT_f.description>为人鱼姬定制的一种传统服装。装饰极少，服装本身显瘦，因此对移动速度有加成。</HAR_XO_AT_f.description>
   <HAR_XO_AT_f.label>旗袍（人鱼姬）</HAR_XO_AT_f.label>
-  <HAR_XO_AT_x.description>人鱼姬·渊丛主专用的特殊结构服装。\n为保证在水中的活动能力，装饰被极力简化到了最低程度。</HAR_XO_AT_x.description>
+  <HAR_XO_AT_x.description>人鱼姬·渊丛主专用的特殊构造的服装。\n为保证在水中的活动能力，装饰被极力简化到了最低程度。</HAR_XO_AT_x.description>
   <HAR_XO_AT_x.label>深渊之翼</HAR_XO_AT_x.label>
   <HAR_XO_Weapon_a.description>创造者为担任近卫的人鱼姬·渊丛主打造的主战骑枪。\n据说是与大地之剑·统御之枪所齐名的武器。\n由于是专门为人鱼姬·渊丛主所制造的武器，因此只能由她们所使用。\n\n\n那是在黄金时代立下了无数辉煌战果的骑士们的大枪。\n然而，骑士们在前去杀死神子的前日，将其埋葬于宇宙之中。\n如今所行乃是鲜血染红的道路，唯有此枪不可伴于身侧。</HAR_XO_Weapon_a.description>
   <HAR_XO_Weapon_a.label>深渊之噬</HAR_XO_Weapon_a.label>
@@ -1565,27 +1628,43 @@
   <Meat_HAR_NC_M_c_race_Summon.label>戈尔肉块</Meat_HAR_NC_M_c_race_Summon.label>
   <MeleeWeapon_Trident_XO.description>人鱼姬们喜欢用的三叉戟，也能用于狩猎和捕鱼。普通人难以挥舞这种巨大的兵器，但其杀伤力毋庸置疑。</MeleeWeapon_Trident_XO.description>
   <MeleeWeapon_Trident_XO.label>虎鲸三叉戟</MeleeWeapon_Trident_XO.label>
-  <NM_M_Nearmaere.label>永夜巨兽（1级）</NM_M_Nearmaere.label>
-  <NM_M_NightGaunts.label>噩梦骇兽（1级）</NM_M_NightGaunts.label>
+  <NM_M_Nearmaere.description>魅魔召唤的重型眷属。它拥有惊人的坚韧与庞大身躯，能以沉重冲击压制敌人，使其难以还手。</NM_M_Nearmaere.description>
+  <NM_M_Nearmaere.label>1级.永夜巨兽</NM_M_Nearmaere.label>
+  <NM_M_NightGaunts.description>魅魔召唤的眷属。它的触手能够令接触部位的温度骤然变化：目标可能被瞬间夺走热量，也可能被灌入足以引燃身体的高热。</NM_M_NightGaunts.description>
+  <NM_M_NightGaunts.label>1级.噩梦骇兽</NM_M_NightGaunts.label>
   <NM_M_NightGaunts_Base.description>魅魔召唤的眷属。它的触手能够令接触部位的温度骤然变化：目标可能被瞬间夺走热量，也可能被灌入足以引燃身体的高热。</NM_M_NightGaunts_Base.description>
   <NM_M_NightGaunts_Base.label>夜魇</NM_M_NightGaunts_Base.label>
+  <NM_M_NightGaunts_b.description>魅魔召唤的眷属。它的触手能够令接触部位的温度骤然变化：目标可能被瞬间夺走热量，也可能被灌入足以引燃身体的高热。</NM_M_NightGaunts_b.description>
   <NM_M_NightGaunts_b.label>噩梦骇兽（2级）</NM_M_NightGaunts_b.label>
+  <NM_M_NightGaunts_c.description>魅魔召唤的眷属。它的触手能够令接触部位的温度骤然变化：目标可能被瞬间夺走热量，也可能被灌入足以引燃身体的高热。</NM_M_NightGaunts_c.description>
   <NM_M_NightGaunts_c.label>噩梦骇兽（3级）</NM_M_NightGaunts_c.label>
+  <NM_M_NightGaunts_d.description>魅魔召唤的眷属。它的触手能够令接触部位的温度骤然变化：目标可能被瞬间夺走热量，也可能被灌入足以引燃身体的高热。</NM_M_NightGaunts_d.description>
   <NM_M_NightGaunts_d.label>噩梦骇兽（4级）</NM_M_NightGaunts_d.label>
+  <NM_M_NightGaunts_e.description>魅魔召唤的眷属。它的触手能够令接触部位的温度骤然变化：目标可能被瞬间夺走热量，也可能被灌入足以引燃身体的高热。</NM_M_NightGaunts_e.description>
   <NM_M_NightGaunts_e.label>噩梦骇兽（5级）</NM_M_NightGaunts_e.label>
-  <NM_M_NightStalker.label>夜潜猎手（1级）</NM_M_NightStalker.label>
+  <NM_M_NightStalker.description>魅魔召唤的迅捷眷属。虽然单次杀伤力不及座狼，但行动极快，猎物很难逃脱。它的利爪与獠牙带有剧毒；即使将其击退，遭到攻击者仍需及时处理毒素。</NM_M_NightStalker.description>
+  <NM_M_NightStalker.label>1级.夜潜猎手</NM_M_NightStalker.label>
   <NM_M_NightStalker_Base.description>魅魔召唤的迅捷眷属。虽然单次杀伤力不及座狼，但行动极快，猎物很难逃脱。它的利爪与獠牙带有剧毒；即使将其击退，遭到攻击者仍需及时处理毒素。</NM_M_NightStalker_Base.description>
   <NM_M_NightStalker_Base.label>夜行者</NM_M_NightStalker_Base.label>
+  <NM_M_NightStalker_b.description>魅魔召唤的迅捷眷属。虽然单次杀伤力不及座狼，但行动极快，猎物很难逃脱。它的利爪与獠牙带有剧毒；即使将其击退，遭到攻击者仍需及时处理毒素。</NM_M_NightStalker_b.description>
   <NM_M_NightStalker_b.label>夜潜猎手（2级）</NM_M_NightStalker_b.label>
+  <NM_M_NightStalker_c.description>魅魔召唤的迅捷眷属。虽然单次杀伤力不及座狼，但行动极快，猎物很难逃脱。它的利爪与獠牙带有剧毒；即使将其击退，遭到攻击者仍需及时处理毒素。</NM_M_NightStalker_c.description>
   <NM_M_NightStalker_c.label>夜潜猎手（3级）</NM_M_NightStalker_c.label>
+  <NM_M_NightStalker_d.description>魅魔召唤的迅捷眷属。虽然单次杀伤力不及座狼，但行动极快，猎物很难逃脱。它的利爪与獠牙带有剧毒；即使将其击退，遭到攻击者仍需及时处理毒素。</NM_M_NightStalker_d.description>
   <NM_M_NightStalker_d.label>夜潜猎手（4级）</NM_M_NightStalker_d.label>
+  <NM_M_NightStalker_e.description>魅魔召唤的迅捷眷属。虽然单次杀伤力不及座狼，但行动极快，猎物很难逃脱。它的利爪与獠牙带有剧毒；即使将其击退，遭到攻击者仍需及时处理毒素。</NM_M_NightStalker_e.description>
   <NM_M_NightStalker_e.label>夜潜猎手（5级）</NM_M_NightStalker_e.label>
-  <NM_M_Nightmare.label>永夜巨兽（1级）</NM_M_Nightmare.label>
+  <NM_M_Nightmare.description>魅魔召唤的重型眷属。它拥有惊人的坚韧与庞大身躯，能以沉重冲击压制敌人，使其难以还手。</NM_M_Nightmare.description>
+  <NM_M_Nightmare.label>1级.永夜巨兽</NM_M_Nightmare.label>
   <NM_M_Nightmare_Base.description>魅魔召唤的重型眷属。它拥有惊人的坚韧与庞大身躯，能以沉重冲击压制敌人，使其难以还手。</NM_M_Nightmare_Base.description>
   <NM_M_Nightmare_Base.label>恶梦</NM_M_Nightmare_Base.label>
+  <NM_M_Nightmare_b.description>魅魔召唤的重型眷属。它拥有惊人的坚韧与庞大身躯，能以沉重冲击压制敌人，使其难以还手。</NM_M_Nightmare_b.description>
   <NM_M_Nightmare_b.label>永夜巨兽（2级）</NM_M_Nightmare_b.label>
+  <NM_M_Nightmare_c.description>魅魔召唤的重型眷属。它拥有惊人的坚韧与庞大身躯，能以沉重冲击压制敌人，使其难以还手。</NM_M_Nightmare_c.description>
   <NM_M_Nightmare_c.label>永夜巨兽（3级）</NM_M_Nightmare_c.label>
+  <NM_M_Nightmare_d.description>魅魔召唤的重型眷属。它拥有惊人的坚韧与庞大身躯，能以沉重冲击压制敌人，使其难以还手。</NM_M_Nightmare_d.description>
   <NM_M_Nightmare_d.label>永夜巨兽（4级）</NM_M_Nightmare_d.label>
+  <NM_M_Nightmare_e.description>魅魔召唤的重型眷属。它拥有惊人的坚韧与庞大身躯，能以沉重冲击压制敌人，使其难以还手。</NM_M_Nightmare_e.description>
   <NM_M_Nightmare_e.label>永夜巨兽（5级）</NM_M_Nightmare_e.label>
   <Nearmaere_WildHunt.description>通过极大加强魅魔的幻觉能力的而生产的装备，拥有超远距离的超大范围的攻击用于对抗军队级别的敌人,被攻击到的人会无法控制自己的无差别狂暴,但本身威力非常低,而且还需要进行非常长的准备发射时间，因此，很难对付高速的成堆敌人。</Nearmaere_WildHunt.description>
   <Nearmaere_WildHunt.label>梦杖「荒猎」</Nearmaere_WildHunt.label>

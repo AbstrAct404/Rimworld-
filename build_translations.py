@@ -298,6 +298,10 @@ KEY_OVERRIDES = {
     "BOSS_EF_B_M_race_d.description": ENFORCER_METEOR_DESCRIPTION,
     "BOSS_EF_B_M_race_e.description": ENFORCER_METEOR_DESCRIPTION,
     "BOSS_EF_M_race_a.description": ENFORCER_METEOR_DESCRIPTION,
+    # Keep these named gameplay entries aligned with the canonical race-name
+    # terminology even when their source mod ships an older local translation.
+    "HAR_IA_Item_spawn_Critias.label": "伊迪安·克里提亚斯（焚书模型）",
+    "HAR_Xenoorca_NPC_Leader.label": "人鱼姬·渊丛主",
     # Zoichor repeats the same arrival letter in IncidentDef and Keyed data.
     "HAR_ZC_Incident_a.letterText": ZOICHOR_ARRIVAL_TEXT,
     "Letter_HAR_ZC_Zoichor_a": ZOICHOR_ARRIVAL_TEXT,
@@ -793,14 +797,23 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
 
     defs = active_defs(source)
     collected: dict[str, list[tuple[str, str, str]]] = defaultdict(list)
+    # Some Aya summon races expose a concrete def with no local label or
+    # description, inheriting a Japanese field from an abstract parent.  A
+    # regular DefInjected pass only sees fields physically present on the
+    # child, so those values used to leak through in Character Editor and item
+    # tooltips.  Track the parent key that supplied an inherited display field
+    # so the child can reuse the reviewed parent translation verbatim.
+    inherited_translation_keys: dict[tuple[str, str, str], str] = {}
     keyed: dict[str, list[tuple[str, str]]] = defaultdict(list)
     if defs:
+        definitions: list[ET.Element] = []
         for file in defs.rglob("*.xml"):
             try:
                 root = ET.parse(file).getroot()
             except ET.ParseError:
                 continue
             for definition in root:
+                definitions.append(definition)
                 # A few UI-visible abstract parent defs intentionally omit
                 # defName and use Name instead; they still need a DefInjected
                 # label override for descendants that inherit their label.
@@ -810,6 +823,47 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
                 for child in definition:
                     if child.tag in FIELDS and text(child):
                         collected[definition.tag].append((def_name, child.tag, text(child)))
+
+        parents: dict[str, tuple[ET.Element, str]] = {}
+        for definition in definitions:
+            def_name = text(definition.find("defName"))
+            source_name = definition.get("Name", "")
+            for identifier in (def_name, source_name):
+                if identifier:
+                    parents[identifier] = (definition, def_name or source_name)
+
+        def inherited_display_field(definition: ET.Element, field: str) -> tuple[str, str] | None:
+            parent_name = definition.get("ParentName", "")
+            seen: set[str] = set()
+            while parent_name and parent_name not in seen:
+                seen.add(parent_name)
+                parent = parents.get(parent_name)
+                if parent is None:
+                    return None
+                parent_definition, parent_def_name = parent
+                value = text(parent_definition.find(field))
+                if value:
+                    return parent_def_name, value
+                parent_name = parent_definition.get("ParentName", "")
+            return None
+
+        for definition in definitions:
+            def_name = text(definition.find("defName"))
+            if not def_name:
+                continue
+            for field in ("label", "labelNoun", "labelMale", "labelFemale", "description"):
+                if text(definition.find(field)):
+                    continue
+                inherited = inherited_display_field(definition, field)
+                if inherited is None:
+                    continue
+                parent_def_name, original = inherited
+                if not is_japanese(original):
+                    continue
+                collected[definition.tag].append((def_name, field, original))
+                inherited_translation_keys[(definition.tag, def_name, field)] = (
+                    f"{parent_def_name}.{field}"
+                )
     # Some releases keep UI messages under Languages directly (rather than in
     # Defs). Include every supplied Keyed XML file as a Chinese keyed overlay.
     for file in source.rglob("*.xml"):
@@ -836,8 +890,11 @@ def build_one(mod_id: str, fallback_name: str, destination: Path, translate_goog
             if key in seen:
                 continue
             seen.add(key)
+            translation_key = inherited_translation_keys.get(
+                (def_type, def_name, field), key
+            )
             translated = normalize_display_names(
-                reviewed_game_translation(mod_id, key, original)
+                reviewed_game_translation(mod_id, translation_key, original)
             )
             # Do not write an English duplicate: the base game can supply it.
             if translated == original and not is_japanese(original):

@@ -9,9 +9,9 @@
       "Aya_Runtime_PawnKind_Overrides.xml"
     ],
     "legacyBundleRemoved": false,
-    "runtimeTargets": 65,
-    "operationsBefore": 65,
-    "operationsAfter": 65,
+    "runtimeTargets": 63,
+    "operationsBefore": 63,
+    "operationsAfter": 63,
     "coveragePreserved": true
   },
   {

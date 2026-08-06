@@ -26,4 +26,10 @@
   <Weapon_Enforcer_Bullet_a.label>耀斑飞弹</Weapon_Enforcer_Bullet_a.label>
   <Weapon_Enforcer_z.label>彗星脉冲</Weapon_Enforcer_z.label>
   <Weapon_Enforcer_Bullet_z.label>彗星脉冲</Weapon_Enforcer_Bullet_z.label>
+  <BOSS_EF_B_M_race_a.label>执行者</BOSS_EF_B_M_race_a.label>
+  <BOSS_EF_B_M_race_b.label>执行者</BOSS_EF_B_M_race_b.label>
+  <BOSS_EF_B_M_race_c.label>执行者</BOSS_EF_B_M_race_c.label>
+  <BOSS_EF_B_M_race_d.label>执行者</BOSS_EF_B_M_race_d.label>
+  <BOSS_EF_B_M_race_e.label>执行者</BOSS_EF_B_M_race_e.label>
+  <BOSS_EF_M_race_a.label>执行者</BOSS_EF_M_race_a.label>
 </LanguageData>

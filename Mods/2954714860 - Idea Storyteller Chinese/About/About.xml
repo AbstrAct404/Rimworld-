@@ -18,9 +18,6 @@
 
 适合希望维持较大殖民地、并体验高事件密度与持续作战节奏的玩家。
 
-【翻译量】
-本汉化包含 3 条翻译文本。
-
 ——
 兼容版本：RimWorld 1.6
 前置：原模组（请置于本汉化之前加载）
@@ -38,4 +35,7 @@
   <loadAfter>
     <li>Ayameduki.IdeaStoryteller</li>
   </loadAfter>
+  <forceLoadAfter>
+    <li>Ayameduki.IdeaStoryteller</li>
+  </forceLoadAfter>
 </ModMetaData>

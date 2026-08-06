@@ -37,18 +37,10 @@
 【注意】
 ・具体机制可能随原模组更新而调整。
 
-【翻译量】
-本汉化包含 194 条翻译文本。
-
 ——
 兼容版本：RimWorld 1.6
 前置：原模组（请置于本汉化之前加载）
-本模组仅含翻译文件，不包含原模组资源。
-
-【收录种族与特殊形态】
-・混沌灵
-・混沌灵·阿瓦露其安
-・锢魂魔</description>
+本模组仅含翻译文件，不包含原模组资源。</description>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
@@ -62,4 +54,7 @@
   <loadAfter>
     <li>Ayameduki.HARChaoura</li>
   </loadAfter>
+  <forceLoadAfter>
+    <li>Ayameduki.HARChaoura</li>
+  </forceLoadAfter>
 </ModMetaData>

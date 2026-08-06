@@ -31,16 +31,30 @@
   <HAR_EL_Monster_Kind_Base.labelFemale>毛绒玩具</HAR_EL_Monster_Kind_Base.labelFemale>
   <HAR_EL_Monster_Kind_Base.labelMale>毛绒玩具</HAR_EL_Monster_Kind_Base.labelMale>
   <HAR_EL_Monster_Kind_a.label>美亚</HAR_EL_Monster_Kind_a.label>
+  <HAR_EL_Monster_Kind_a.labelFemale>毛绒玩具</HAR_EL_Monster_Kind_a.labelFemale>
+  <HAR_EL_Monster_Kind_a.labelMale>毛绒玩具</HAR_EL_Monster_Kind_a.labelMale>
   <HAR_EL_Monster_Kind_b.label>露卡</HAR_EL_Monster_Kind_b.label>
+  <HAR_EL_Monster_Kind_b.labelFemale>毛绒玩具</HAR_EL_Monster_Kind_b.labelFemale>
+  <HAR_EL_Monster_Kind_b.labelMale>毛绒玩具</HAR_EL_Monster_Kind_b.labelMale>
   <HAR_EL_Monster_Kind_c.label>琪拉</HAR_EL_Monster_Kind_c.label>
+  <HAR_EL_Monster_Kind_c.labelFemale>毛绒玩具</HAR_EL_Monster_Kind_c.labelFemale>
+  <HAR_EL_Monster_Kind_c.labelMale>毛绒玩具</HAR_EL_Monster_Kind_c.labelMale>
   <HAR_EL_Monster_Kind_d.label>索尔</HAR_EL_Monster_Kind_d.label>
+  <HAR_EL_Monster_Kind_d.labelFemale>毛绒玩具</HAR_EL_Monster_Kind_d.labelFemale>
+  <HAR_EL_Monster_Kind_d.labelMale>毛绒玩具</HAR_EL_Monster_Kind_d.labelMale>
   <HAR_EL_Monster_Kind_e.label>悠</HAR_EL_Monster_Kind_e.label>
+  <HAR_EL_Monster_Kind_e.labelFemale>毛绒玩具</HAR_EL_Monster_Kind_e.labelFemale>
+  <HAR_EL_Monster_Kind_e.labelMale>毛绒玩具</HAR_EL_Monster_Kind_e.labelMale>
   <HAR_EL_Monster_Kind_f.label>露娜</HAR_EL_Monster_Kind_f.label>
+  <HAR_EL_Monster_Kind_f.labelFemale>毛绒玩具</HAR_EL_Monster_Kind_f.labelFemale>
+  <HAR_EL_Monster_Kind_f.labelMale>毛绒玩具</HAR_EL_Monster_Kind_f.labelMale>
   <HAR_Eveliet_Player.label>伊娃莉特殖民者</HAR_Eveliet_Player.label>
   <HAR_IA_M_Kind_Base.label>自然拟态</HAR_IA_M_Kind_Base.label>
   <HAR_IA_M_Kind_Base.labelFemale>自然拟态</HAR_IA_M_Kind_Base.labelFemale>
   <HAR_IA_M_Kind_Base.labelMale>自然拟态</HAR_IA_M_Kind_Base.labelMale>
   <HAR_IA_M_Kind_a.label>自然拟态</HAR_IA_M_Kind_a.label>
+  <HAR_IA_M_Kind_a.labelFemale>自然拟态</HAR_IA_M_Kind_a.labelFemale>
+  <HAR_IA_M_Kind_a.labelMale>自然拟态</HAR_IA_M_Kind_a.labelMale>
   <HAR_IH_NPC_Kind_Base.label>拉哈特·谢拉哈</HAR_IH_NPC_Kind_Base.label>
   <HAR_IH_NPC_a.label>拉哈特·谢拉哈</HAR_IH_NPC_a.label>
   <HAR_IH_NPC_a.labelFemale>拉哈特·谢拉哈</HAR_IH_NPC_a.labelFemale>
@@ -76,65 +90,133 @@
   <HAR_M_Kind_Base.labelFemale>密特拉玛阿哈</HAR_M_Kind_Base.labelFemale>
   <HAR_M_Kind_Base.labelMale>密特拉玛阿哈</HAR_M_Kind_Base.labelMale>
   <HAR_M_Kind_NPC_a.label>宝冠天使（夜魔）</HAR_M_Kind_NPC_a.label>
+  <HAR_M_Kind_NPC_a.labelFemale>密特拉玛阿哈</HAR_M_Kind_NPC_a.labelFemale>
+  <HAR_M_Kind_NPC_a.labelMale>密特拉玛阿哈</HAR_M_Kind_NPC_a.labelMale>
   <HAR_M_Kind_NPC_b.label>宝冠天使（人鱼）</HAR_M_Kind_NPC_b.label>
+  <HAR_M_Kind_NPC_b.labelFemale>密特拉玛阿哈</HAR_M_Kind_NPC_b.labelFemale>
+  <HAR_M_Kind_NPC_b.labelMale>密特拉玛阿哈</HAR_M_Kind_NPC_b.labelMale>
   <HAR_M_Kind_NPC_c.label>宝冠天使（亚人）</HAR_M_Kind_NPC_c.label>
+  <HAR_M_Kind_NPC_c.labelFemale>密特拉玛阿哈</HAR_M_Kind_NPC_c.labelFemale>
+  <HAR_M_Kind_NPC_c.labelMale>密特拉玛阿哈</HAR_M_Kind_NPC_c.labelMale>
   <HAR_M_Kind_NPC_d.label>宝冠天使（异形）</HAR_M_Kind_NPC_d.label>
+  <HAR_M_Kind_NPC_d.labelFemale>密特拉玛阿哈</HAR_M_Kind_NPC_d.labelFemale>
+  <HAR_M_Kind_NPC_d.labelMale>密特拉玛阿哈</HAR_M_Kind_NPC_d.labelMale>
   <HAR_M_Kind_NPC_e.label>宝冠天使（龙人）</HAR_M_Kind_NPC_e.label>
+  <HAR_M_Kind_NPC_e.labelFemale>密特拉玛阿哈</HAR_M_Kind_NPC_e.labelFemale>
+  <HAR_M_Kind_NPC_e.labelMale>密特拉玛阿哈</HAR_M_Kind_NPC_e.labelMale>
   <HAR_M_Kind_a.label>宝冠天使（夜魔）</HAR_M_Kind_a.label>
+  <HAR_M_Kind_a.labelFemale>密特拉玛阿哈</HAR_M_Kind_a.labelFemale>
+  <HAR_M_Kind_a.labelMale>密特拉玛阿哈</HAR_M_Kind_a.labelMale>
   <HAR_M_Kind_b.label>宝冠天使（人鱼）</HAR_M_Kind_b.label>
+  <HAR_M_Kind_b.labelFemale>密特拉玛阿哈</HAR_M_Kind_b.labelFemale>
+  <HAR_M_Kind_b.labelMale>密特拉玛阿哈</HAR_M_Kind_b.labelMale>
   <HAR_M_Kind_c.label>宝冠天使（亚人）</HAR_M_Kind_c.label>
+  <HAR_M_Kind_c.labelFemale>密特拉玛阿哈</HAR_M_Kind_c.labelFemale>
+  <HAR_M_Kind_c.labelMale>密特拉玛阿哈</HAR_M_Kind_c.labelMale>
   <HAR_M_Kind_d.label>宝冠天使（异形）</HAR_M_Kind_d.label>
+  <HAR_M_Kind_d.labelFemale>密特拉玛阿哈</HAR_M_Kind_d.labelFemale>
+  <HAR_M_Kind_d.labelMale>密特拉玛阿哈</HAR_M_Kind_d.labelMale>
   <HAR_M_Kind_e.label>宝冠天使（龙人）</HAR_M_Kind_e.label>
-  <HAR_M_Nearmaere_Kind.label>永夜巨兽（1级）</HAR_M_Nearmaere_Kind.label>
-  <HAR_M_NightGaunts_Kind.label>噩梦骇兽（1级）</HAR_M_NightGaunts_Kind.label>
+  <HAR_M_Kind_e.labelFemale>密特拉玛阿哈</HAR_M_Kind_e.labelFemale>
+  <HAR_M_Kind_e.labelMale>密特拉玛阿哈</HAR_M_Kind_e.labelMale>
+  <HAR_M_Nearmaere_Kind.label>1级.永夜巨兽</HAR_M_Nearmaere_Kind.label>
+  <HAR_M_Nearmaere_Kind.labelFemale>恶梦</HAR_M_Nearmaere_Kind.labelFemale>
+  <HAR_M_Nearmaere_Kind.labelMale>恶梦</HAR_M_Nearmaere_Kind.labelMale>
+  <HAR_M_NightGaunts_Kind.label>1级.噩梦骇兽</HAR_M_NightGaunts_Kind.label>
+  <HAR_M_NightGaunts_Kind.labelFemale>夜魇</HAR_M_NightGaunts_Kind.labelFemale>
+  <HAR_M_NightGaunts_Kind.labelMale>夜魇</HAR_M_NightGaunts_Kind.labelMale>
   <HAR_M_NightGaunts_Kind_Base.label>夜魇</HAR_M_NightGaunts_Kind_Base.label>
   <HAR_M_NightGaunts_Kind_Base.labelFemale>夜魇</HAR_M_NightGaunts_Kind_Base.labelFemale>
   <HAR_M_NightGaunts_Kind_Base.labelMale>夜魇</HAR_M_NightGaunts_Kind_Base.labelMale>
   <HAR_M_NightGaunts_Kind_b.label>噩梦骇兽（2级）</HAR_M_NightGaunts_Kind_b.label>
+  <HAR_M_NightGaunts_Kind_b.labelFemale>夜魇</HAR_M_NightGaunts_Kind_b.labelFemale>
+  <HAR_M_NightGaunts_Kind_b.labelMale>夜魇</HAR_M_NightGaunts_Kind_b.labelMale>
   <HAR_M_NightGaunts_Kind_c.label>噩梦骇兽（3级）</HAR_M_NightGaunts_Kind_c.label>
+  <HAR_M_NightGaunts_Kind_c.labelFemale>夜魇</HAR_M_NightGaunts_Kind_c.labelFemale>
+  <HAR_M_NightGaunts_Kind_c.labelMale>夜魇</HAR_M_NightGaunts_Kind_c.labelMale>
   <HAR_M_NightGaunts_Kind_d.label>噩梦骇兽（4级）</HAR_M_NightGaunts_Kind_d.label>
+  <HAR_M_NightGaunts_Kind_d.labelFemale>夜魇</HAR_M_NightGaunts_Kind_d.labelFemale>
+  <HAR_M_NightGaunts_Kind_d.labelMale>夜魇</HAR_M_NightGaunts_Kind_d.labelMale>
   <HAR_M_NightGaunts_Kind_e.label>噩梦骇兽（5级）</HAR_M_NightGaunts_Kind_e.label>
-  <HAR_M_NightStalker_Kind.label>夜潜猎手（1级）</HAR_M_NightStalker_Kind.label>
+  <HAR_M_NightGaunts_Kind_e.labelFemale>夜魇</HAR_M_NightGaunts_Kind_e.labelFemale>
+  <HAR_M_NightGaunts_Kind_e.labelMale>夜魇</HAR_M_NightGaunts_Kind_e.labelMale>
+  <HAR_M_NightStalker_Kind.label>1级.夜潜猎手</HAR_M_NightStalker_Kind.label>
+  <HAR_M_NightStalker_Kind.labelFemale>夜行者</HAR_M_NightStalker_Kind.labelFemale>
+  <HAR_M_NightStalker_Kind.labelMale>夜行者</HAR_M_NightStalker_Kind.labelMale>
   <HAR_M_NightStalker_Kind_Base.label>夜行者</HAR_M_NightStalker_Kind_Base.label>
   <HAR_M_NightStalker_Kind_Base.labelFemale>夜行者</HAR_M_NightStalker_Kind_Base.labelFemale>
   <HAR_M_NightStalker_Kind_Base.labelMale>夜行者</HAR_M_NightStalker_Kind_Base.labelMale>
   <HAR_M_NightStalker_Kind_b.label>夜潜猎手（2级）</HAR_M_NightStalker_Kind_b.label>
+  <HAR_M_NightStalker_Kind_b.labelFemale>夜行者</HAR_M_NightStalker_Kind_b.labelFemale>
+  <HAR_M_NightStalker_Kind_b.labelMale>夜行者</HAR_M_NightStalker_Kind_b.labelMale>
   <HAR_M_NightStalker_Kind_c.label>夜潜猎手（3级）</HAR_M_NightStalker_Kind_c.label>
+  <HAR_M_NightStalker_Kind_c.labelFemale>夜行者</HAR_M_NightStalker_Kind_c.labelFemale>
+  <HAR_M_NightStalker_Kind_c.labelMale>夜行者</HAR_M_NightStalker_Kind_c.labelMale>
   <HAR_M_NightStalker_Kind_d.label>夜潜猎手（4级）</HAR_M_NightStalker_Kind_d.label>
+  <HAR_M_NightStalker_Kind_d.labelFemale>夜行者</HAR_M_NightStalker_Kind_d.labelFemale>
+  <HAR_M_NightStalker_Kind_d.labelMale>夜行者</HAR_M_NightStalker_Kind_d.labelMale>
   <HAR_M_NightStalker_Kind_e.label>夜潜猎手（5级）</HAR_M_NightStalker_Kind_e.label>
-  <HAR_M_Nightmare_Kind.label>永夜巨兽（1级）</HAR_M_Nightmare_Kind.label>
+  <HAR_M_NightStalker_Kind_e.labelFemale>夜行者</HAR_M_NightStalker_Kind_e.labelFemale>
+  <HAR_M_NightStalker_Kind_e.labelMale>夜行者</HAR_M_NightStalker_Kind_e.labelMale>
+  <HAR_M_Nightmare_Kind.label>1级.永夜巨兽</HAR_M_Nightmare_Kind.label>
+  <HAR_M_Nightmare_Kind.labelFemale>恶梦</HAR_M_Nightmare_Kind.labelFemale>
+  <HAR_M_Nightmare_Kind.labelMale>恶梦</HAR_M_Nightmare_Kind.labelMale>
   <HAR_M_Nightmare_Kind_Base.label>恶梦</HAR_M_Nightmare_Kind_Base.label>
   <HAR_M_Nightmare_Kind_Base.labelFemale>恶梦</HAR_M_Nightmare_Kind_Base.labelFemale>
   <HAR_M_Nightmare_Kind_Base.labelMale>恶梦</HAR_M_Nightmare_Kind_Base.labelMale>
   <HAR_M_Nightmare_Kind_b.label>永夜巨兽（2级）</HAR_M_Nightmare_Kind_b.label>
+  <HAR_M_Nightmare_Kind_b.labelFemale>恶梦</HAR_M_Nightmare_Kind_b.labelFemale>
+  <HAR_M_Nightmare_Kind_b.labelMale>恶梦</HAR_M_Nightmare_Kind_b.labelMale>
   <HAR_M_Nightmare_Kind_c.label>永夜巨兽（3级）</HAR_M_Nightmare_Kind_c.label>
+  <HAR_M_Nightmare_Kind_c.labelFemale>恶梦</HAR_M_Nightmare_Kind_c.labelFemale>
+  <HAR_M_Nightmare_Kind_c.labelMale>恶梦</HAR_M_Nightmare_Kind_c.labelMale>
   <HAR_M_Nightmare_Kind_d.label>永夜巨兽（4级）</HAR_M_Nightmare_Kind_d.label>
+  <HAR_M_Nightmare_Kind_d.labelFemale>恶梦</HAR_M_Nightmare_Kind_d.labelFemale>
+  <HAR_M_Nightmare_Kind_d.labelMale>恶梦</HAR_M_Nightmare_Kind_d.labelMale>
   <HAR_M_Nightmare_Kind_e.label>永夜巨兽（5级）</HAR_M_Nightmare_Kind_e.label>
+  <HAR_M_Nightmare_Kind_e.labelFemale>恶梦</HAR_M_Nightmare_Kind_e.labelFemale>
+  <HAR_M_Nightmare_Kind_e.labelMale>恶梦</HAR_M_Nightmare_Kind_e.labelMale>
   <HAR_M_TES_Kind_Base.label>茨鲁埃萨</HAR_M_TES_Kind_Base.label>
   <HAR_M_TES_Kind_a.label>茨鲁埃萨</HAR_M_TES_Kind_a.label>
   <HAR_NC_M_a_Kind_Base.label>戈尔诺伊德</HAR_NC_M_a_Kind_Base.label>
   <HAR_NC_M_a_Kind_Base.labelFemale>戈尔诺伊德</HAR_NC_M_a_Kind_Base.labelFemale>
   <HAR_NC_M_a_Kind_Base.labelMale>戈尔诺伊德</HAR_NC_M_a_Kind_Base.labelMale>
   <HAR_NC_M_a_Kind_NPC.label>戈尔诺伊德</HAR_NC_M_a_Kind_NPC.label>
+  <HAR_NC_M_a_Kind_NPC.labelFemale>戈尔诺伊德</HAR_NC_M_a_Kind_NPC.labelFemale>
+  <HAR_NC_M_a_Kind_NPC.labelMale>戈尔诺伊德</HAR_NC_M_a_Kind_NPC.labelMale>
   <HAR_NC_M_a_Kind_Summon.label>戈尔诺伊德</HAR_NC_M_a_Kind_Summon.label>
+  <HAR_NC_M_a_Kind_Summon.labelFemale>戈尔诺伊德</HAR_NC_M_a_Kind_Summon.labelFemale>
+  <HAR_NC_M_a_Kind_Summon.labelMale>戈尔诺伊德</HAR_NC_M_a_Kind_Summon.labelMale>
   <HAR_NC_M_b_Kind_Base.label>戈尔诺伊德</HAR_NC_M_b_Kind_Base.label>
   <HAR_NC_M_b_Kind_Base.labelFemale>戈尔种</HAR_NC_M_b_Kind_Base.labelFemale>
   <HAR_NC_M_b_Kind_Base.labelMale>戈尔种</HAR_NC_M_b_Kind_Base.labelMale>
   <HAR_NC_M_b_Kind_NPC.label>戈尔种</HAR_NC_M_b_Kind_NPC.label>
+  <HAR_NC_M_b_Kind_NPC.labelFemale>戈尔种</HAR_NC_M_b_Kind_NPC.labelFemale>
+  <HAR_NC_M_b_Kind_NPC.labelMale>戈尔种</HAR_NC_M_b_Kind_NPC.labelMale>
   <HAR_NC_M_b_Kind_Summon.label>戈尔种</HAR_NC_M_b_Kind_Summon.label>
+  <HAR_NC_M_b_Kind_Summon.labelFemale>戈尔种</HAR_NC_M_b_Kind_Summon.labelFemale>
+  <HAR_NC_M_b_Kind_Summon.labelMale>戈尔种</HAR_NC_M_b_Kind_Summon.labelMale>
   <HAR_NC_M_c_Kind_Base.label>戈尔肉块</HAR_NC_M_c_Kind_Base.label>
   <HAR_NC_M_c_Kind_Base.labelFemale>戈尔肉块</HAR_NC_M_c_Kind_Base.labelFemale>
   <HAR_NC_M_c_Kind_Base.labelMale>戈尔肉块</HAR_NC_M_c_Kind_Base.labelMale>
   <HAR_NC_M_c_Kind_NPC.label>戈尔肉块</HAR_NC_M_c_Kind_NPC.label>
+  <HAR_NC_M_c_Kind_NPC.labelFemale>戈尔肉块</HAR_NC_M_c_Kind_NPC.labelFemale>
+  <HAR_NC_M_c_Kind_NPC.labelMale>戈尔肉块</HAR_NC_M_c_Kind_NPC.labelMale>
   <HAR_NC_M_c_Kind_Summon.label>戈尔肉块</HAR_NC_M_c_Kind_Summon.label>
+  <HAR_NC_M_c_Kind_Summon.labelFemale>戈尔肉块</HAR_NC_M_c_Kind_Summon.labelFemale>
+  <HAR_NC_M_c_Kind_Summon.labelMale>戈尔肉块</HAR_NC_M_c_Kind_Summon.labelMale>
   <HAR_NC_M_y_Kind_Base.label>弗拉斯塔里</HAR_NC_M_y_Kind_Base.label>
   <HAR_NC_M_y_Kind_Base.labelFemale>克莱尔斯</HAR_NC_M_y_Kind_Base.labelFemale>
   <HAR_NC_M_y_Kind_Base.labelMale>克莱尔斯</HAR_NC_M_y_Kind_Base.labelMale>
   <HAR_NC_M_y_Kind_Summon.label>克莱尔斯</HAR_NC_M_y_Kind_Summon.label>
+  <HAR_NC_M_y_Kind_Summon.labelFemale>克莱尔斯</HAR_NC_M_y_Kind_Summon.labelFemale>
+  <HAR_NC_M_y_Kind_Summon.labelMale>克莱尔斯</HAR_NC_M_y_Kind_Summon.labelMale>
   <HAR_NC_M_z_Kind_Base.label>克莱尔斯</HAR_NC_M_z_Kind_Base.label>
   <HAR_NC_M_z_Kind_Base.labelFemale>克莱尔斯</HAR_NC_M_z_Kind_Base.labelFemale>
   <HAR_NC_M_z_Kind_Base.labelMale>克莱尔斯</HAR_NC_M_z_Kind_Base.labelMale>
   <HAR_NC_M_z_Kind_Summon.label>克莱尔斯</HAR_NC_M_z_Kind_Summon.label>
+  <HAR_NC_M_z_Kind_Summon.labelFemale>克莱尔斯</HAR_NC_M_z_Kind_Summon.labelFemale>
+  <HAR_NC_M_z_Kind_Summon.labelMale>克莱尔斯</HAR_NC_M_z_Kind_Summon.labelMale>
   <HAR_Nearmaere_KindBase_NPC.label>魅魔居民</HAR_Nearmaere_KindBase_NPC.label>
   <HAR_Nearmaere_KindBase_NPC_b.label>魅魔的信徒</HAR_Nearmaere_KindBase_NPC_b.label>
   <HAR_Nearmaere_KindBase_NPC_c.label>魅魔·魔女系</HAR_Nearmaere_KindBase_NPC_c.label>
