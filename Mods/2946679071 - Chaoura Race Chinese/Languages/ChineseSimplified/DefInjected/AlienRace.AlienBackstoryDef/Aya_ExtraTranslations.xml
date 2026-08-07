@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_CO_Backstory_A1.baseDesc>[PAWN_nameDef]能够充分发挥混沌灵的力量，尤其擅长战斗。</HAR_CO_Backstory_A1.baseDesc>
+  <HAR_CO_Backstory_A1.titleShort>深渊</HAR_CO_Backstory_A1.titleShort>
+  <HAR_CO_Backstory_C1.baseDesc>[PAWN_nameDef]诞生于宇宙加护之中，对黑暗有着很高的适应力。</HAR_CO_Backstory_C1.baseDesc>
+  <HAR_CO_Backstory_C1.titleShort>婴儿</HAR_CO_Backstory_C1.titleShort>
+  <HAR_CO_UB_Backstory_A1.baseDesc>[PAWN_nameDef]胸怀大命，为了完成使命不惜舍弃性命。</HAR_CO_UB_Backstory_A1.baseDesc>
+  <HAR_CO_UB_Backstory_A1.titleShort>殉教者</HAR_CO_UB_Backstory_A1.titleShort>
+  <HAR_CO_UB_Backstory_C1.baseDesc>[PAWN_nameDef]作为人工种族的顶点出生，其体内蕴含着诸多可能性。</HAR_CO_UB_Backstory_C1.baseDesc>
+  <HAR_CO_UB_Backstory_C1.titleShort>总灵</HAR_CO_UB_Backstory_C1.titleShort>
+</LanguageData>

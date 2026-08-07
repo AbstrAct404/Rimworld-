@@ -362,8 +362,9 @@ def main() -> None:
         "请同时安装并启用对应的原 EX 模组。只有 About/翻译文件的汉化包不能替代原 EX。\n\n"
         f"当前收录 {len(packages)} 个原模组，共合并 {written} 条游戏文本。\n\n"
         "【本次更新】\n"
-        "修复原模组未全部启用时的红字报错。\n"
-        "优化部分技能翻译。\n\n"
+        "恢复 10 个种族模组被误删的 101 条心境译文，并补齐此前未翻译的 350 余条文本"
+        "（近战攻击名、背景故事短标题、身体附加件名称、购物终端按钮、研究信件、"
+        "特质与事件标题等）。\n\n"
         "【收录内容】\n"
         + plain_directory()
         + "\n\n"
@@ -386,8 +387,9 @@ def main() -> None:
         "RimWorld 1.5/1.6 如需使用上位种，请安装并启用对应的原 EX；汉化包不能代替原 EX。\n\n"
         "[h2]本次更新[/h2]\n"
         "[list]\n"
-        "[*]修复原模组未全部启用时的红字报错。\n"
-        "[*]优化部分技能翻译。\n"
+        "[*]恢复被上一版本误删的种族心境译文（101 条）。\n"
+        "[*]补齐近战攻击名、背景故事、身体附加件、终端按钮、研究信件等未翻译文本"
+        "（350 余条，含 175 条运行时补丁）。\n"
         "[/list]\n\n"
         + workshop_directory()
         + "\n\n[h2]兼容信息[/h2]\n"
@@ -487,7 +489,7 @@ def main() -> None:
                 f'\t"previewfile"\t\t"{build.vdf_quote(build.vdf_path(steam_output / "About" / "Preview.png"))}"',
                 f'\t"title"\t\t"{build.vdf_quote(title)}"',
                 f'\t"description"\t\t"{build.vdf_quote(workshop_description)}"',
-                f'\t"changenote"\t\t"{build.vdf_quote("修复原模组未全部启用时的红字报错，并优化部分技能翻译。")}"',
+                f'\t"changenote"\t\t"{build.vdf_quote("恢复被误删的 101 条种族心境译文；补齐近战攻击名、背景故事短标题、身体附加件、购物终端按钮、研究信件等 350 余条未翻译文本（含 175 条运行时补丁）。无加载顺序变化。")}"',
                 "}", "",
             ])
             (

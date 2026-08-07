@@ -1,9 +1,119 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <HAR_CO_EnvironmentDark.stages.0.description>黑暗正是我们的起源。</HAR_CO_EnvironmentDark.stages.0.description>
+  <HAR_CO_EnvironmentDark.stages.0.label>我们的领域</HAR_CO_EnvironmentDark.stages.0.label>
+  <HAR_CO_ObservedLayingCorpse.stages.0.description>生命已然终结的躯体……创造这种结局就是我的使命。</HAR_CO_ObservedLayingCorpse.stages.0.description>
+  <HAR_CO_ObservedLayingCorpse.stages.0.label>今夜的成果</HAR_CO_ObservedLayingCorpse.stages.0.label>
+  <HAR_EL_EnvironmentDark.stages.0.description>不知为何，并不怎么讨厌。</HAR_EL_EnvironmentDark.stages.0.description>
+  <HAR_EL_EnvironmentDark.stages.0.label>黑暗</HAR_EL_EnvironmentDark.stages.0.label>
+  <HAR_EL_ObservedLayingCorpse.stages.0.description>要是还剩一口气就更好了。</HAR_EL_ObservedLayingCorpse.stages.0.description>
+  <HAR_EL_ObservedLayingCorpse.stages.0.label>血染的尸体</HAR_EL_ObservedLayingCorpse.stages.0.label>
+  <HAR_LL_Thought_a.stages.0.label>挚友</HAR_LL_Thought_a.stages.0.label>
+  <HAR_LL_Thought_b.stages.0.label>挚友</HAR_LL_Thought_b.stages.0.label>
   <HAR_NC_AteCorpse.stages.0.description>没有屠宰也没有烹饪，直接吃掉死去生物的血肉也不坏，不过要是能调点味就更好了。</HAR_NC_AteCorpse.stages.0.description>
   <HAR_NC_AteCorpse.stages.0.label>吃了尸肉</HAR_NC_AteCorpse.stages.0.label>
+  <HAR_NC_AteHumanlikeMeatAsIngredient.stages.0.description>调味过的人肉料理，真是奢侈。</HAR_NC_AteHumanlikeMeatAsIngredient.stages.0.description>
+  <HAR_NC_AteHumanlikeMeatAsIngredient.stages.0.label>吃了烹饪人肉</HAR_NC_AteHumanlikeMeatAsIngredient.stages.0.label>
+  <HAR_NC_AteHumanlikeMeatDirect.stages.0.description>营养丰富，也能成为体内菌群的优质养料。</HAR_NC_AteHumanlikeMeatDirect.stages.0.description>
+  <HAR_NC_AteHumanlikeMeatDirect.stages.0.label>吃了人肉</HAR_NC_AteHumanlikeMeatDirect.stages.0.label>
+  <HAR_NC_AteInsectMeatAsIngredient.stages.0.description>口感奇妙的虫肉料理，原来还有这种吃法。</HAR_NC_AteInsectMeatAsIngredient.stages.0.description>
+  <HAR_NC_AteInsectMeatAsIngredient.stages.0.label>吃了烹饪虫肉</HAR_NC_AteInsectMeatAsIngredient.stages.0.label>
+  <HAR_NC_AteInsectMeatDirect.stages.0.description>外壳有些硬，不过味道意外地不错。</HAR_NC_AteInsectMeatDirect.stages.0.description>
+  <HAR_NC_AteInsectMeatDirect.stages.0.label>吃了虫肉</HAR_NC_AteInsectMeatDirect.stages.0.label>
+  <HAR_NC_AteRawFood.stages.0.description>倒也不讨厌，但最好还是能吃到烹饪过的肉。</HAR_NC_AteRawFood.stages.0.description>
+  <HAR_NC_AteRawFood.stages.0.label>吃了生肉</HAR_NC_AteRawFood.stages.0.label>
+  <HAR_NC_AteRawHumanlikeMeat.stages.0.label>吃了人肉</HAR_NC_AteRawHumanlikeMeat.stages.0.label>
   <HAR_NC_ObservedLayingCorpse.stages.0.description>这里有适合喂养病菌的尸体，再多收集一些吧。</HAR_NC_ObservedLayingCorpse.stages.0.description>
   <HAR_NC_ObservedLayingCorpse.stages.0.label>看到了尸体</HAR_NC_ObservedLayingCorpse.stages.0.label>
   <HAR_NC_ObservedLayingRottingCorpse.stages.0.description>这里有一具腐烂得恰到好处的尸体！病菌一定会很高兴。</HAR_NC_ObservedLayingRottingCorpse.stages.0.description>
   <HAR_NC_ObservedLayingRottingCorpse.stages.0.label>看到了腐烂尸体</HAR_NC_ObservedLayingRottingCorpse.stages.0.label>
+  <HAR_NM_Thought_a.stages.0.label>艳丽的容貌</HAR_NM_Thought_a.stages.0.label>
+  <HAR_NM_Thought_b.stages.0.label>嘲笑</HAR_NM_Thought_b.stages.0.label>
+  <HAR_OT_Pain.stages.0.description>感到一丝疼痛。距离真正的实感还很遥远。</HAR_OT_Pain.stages.0.description>
+  <HAR_OT_Pain.stages.0.label>生命实感（微弱）</HAR_OT_Pain.stages.0.label>
+  <HAR_OT_Pain.stages.1.description>刺痛掠过身体，感觉不错。</HAR_OT_Pain.stages.1.description>
+  <HAR_OT_Pain.stages.1.label>生命实感（轻度）</HAR_OT_Pain.stages.1.label>
+  <HAR_OT_Pain.stages.2.description>撕裂般的痛楚令身体因欢愉而颤抖。</HAR_OT_Pain.stages.2.description>
+  <HAR_OT_Pain.stages.2.label>生命实感（中度）</HAR_OT_Pain.stages.2.label>
+  <HAR_OT_Pain.stages.3.description>我现在浑身浴血！这才叫活着！</HAR_OT_Pain.stages.3.description>
+  <HAR_OT_Pain.stages.3.label>生命实感（重度）</HAR_OT_Pain.stages.3.label>
+  <HAR_OT_Thought_a.stages.0.description>那令人沉溺的快感，至今仍无法忘却……</HAR_OT_Thought_a.stages.0.description>
+  <HAR_OT_Thought_a.stages.0.label>雌乌的俘虏</HAR_OT_Thought_a.stages.0.label>
+  <HAR_SA_AteCorpse.stages.0.description>直接吃也不错，不过有点调味会更好。</HAR_SA_AteCorpse.stages.0.description>
+  <HAR_SA_AteCorpse.stages.0.label>吃了尸肉</HAR_SA_AteCorpse.stages.0.label>
+  <HAR_SA_AteHumanlikeMeatAsIngredient.stages.0.description>只要烹饪得当，人肉也不成问题。</HAR_SA_AteHumanlikeMeatAsIngredient.stages.0.description>
+  <HAR_SA_AteHumanlikeMeatAsIngredient.stages.0.label>吃了烹饪人肉</HAR_SA_AteHumanlikeMeatAsIngredient.stages.0.label>
+  <HAR_SA_AteHumanlikeMeatDirect.stages.0.description>为了活下去，也只能如此。</HAR_SA_AteHumanlikeMeatDirect.stages.0.description>
+  <HAR_SA_AteHumanlikeMeatDirect.stages.0.label>吃了人肉</HAR_SA_AteHumanlikeMeatDirect.stages.0.label>
+  <HAR_SA_AteRawFood.stages.0.description>味道寡淡……还是该烹饪一下。</HAR_SA_AteRawFood.stages.0.description>
+  <HAR_SA_AteRawFood.stages.0.label>吃了生肉</HAR_SA_AteRawFood.stages.0.label>
+  <HAR_SA_AteRawHumanlikeMeat.stages.0.label>吃了人肉</HAR_SA_AteRawHumanlikeMeat.stages.0.label>
+  <HAR_SA_EnvironmentDark.stages.0.description>趁着夜色潜行，把猎物拿下吧……</HAR_SA_EnvironmentDark.stages.0.description>
+  <HAR_SA_EnvironmentDark.stages.0.label>狩猎时刻</HAR_SA_EnvironmentDark.stages.0.label>
+  <HAR_SA_ObservedLayingCorpse.stages.0.description>弱肉强食的世界，就把他们化作继续生存的养料吧。</HAR_SA_ObservedLayingCorpse.stages.0.description>
+  <HAR_SA_ObservedLayingCorpse.stages.0.label>看见尸体</HAR_SA_ObservedLayingCorpse.stages.0.label>
+  <HAR_SA_SleptOnGround.stages.0.description>倒也不坏，不过总有一天想睡上自己的床。</HAR_SA_SleptOnGround.stages.0.description>
+  <HAR_SA_SleptOnGround.stages.0.label>以大地为床</HAR_SA_SleptOnGround.stages.0.label>
+  <HAR_SA_SleptOutside.stages.0.description>今天又能看到怎样的景色呢？</HAR_SA_SleptOutside.stages.0.description>
+  <HAR_SA_SleptOutside.stages.0.label>以天空为屋顶</HAR_SA_SleptOutside.stages.0.label>
+  <HAR_SA_SoakingWet.stages.0.description>恩赐般的雨水洗去了污垢。</HAR_SA_SoakingWet.stages.0.description>
+  <HAR_SA_SoakingWet.stages.0.label>天然淋浴</HAR_SA_SoakingWet.stages.0.label>
+  <HAR_SK_PsychiteTeaHigh.stages.0.description>喝了工业茶，心情平静下来，感觉今天也能好好努力了。</HAR_SK_PsychiteTeaHigh.stages.0.description>
+  <HAR_SK_PsychiteTeaHigh.stages.0.label>工业茶</HAR_SK_PsychiteTeaHigh.stages.0.label>
+  <HAR_SL_ApparelDamaged.stages.0.description>有机会的话，还是想换一件新衣服。</HAR_SL_ApparelDamaged.stages.0.description>
+  <HAR_SL_ApparelDamaged.stages.0.label>旧衣服</HAR_SL_ApparelDamaged.stages.0.label>
+  <HAR_SL_ApparelDamaged.stages.1.description>虽是穿惯的衣服，也该找机会更换了。</HAR_SL_ApparelDamaged.stages.1.description>
+  <HAR_SL_ApparelDamaged.stages.1.label>磨损的衣物</HAR_SL_ApparelDamaged.stages.1.label>
+  <HAR_SL_AteRawFood.stages.0.description>千篇一律的朴素伙食，不过总比杂草好吃。</HAR_SL_AteRawFood.stages.0.description>
+  <HAR_SL_AteRawFood.stages.0.label>牢饭</HAR_SL_AteRawFood.stages.0.label>
+  <HAR_SL_DeadMansApparel.stages.0.description>曾有人穿过的衣物，仿佛还留着那个人的温度。</HAR_SL_DeadMansApparel.stages.0.description>
+  <HAR_SL_DeadMansApparel.stages.0.label>他人的衣物 {0}</HAR_SL_DeadMansApparel.stages.0.label>
+  <HAR_SL_DeadMansApparel.stages.1.description>曾有人穿过的衣物，仿佛还留着那个人的温度。</HAR_SL_DeadMansApparel.stages.1.description>
+  <HAR_SL_DeadMansApparel.stages.1.label>他人的衣物 {0}（+1）</HAR_SL_DeadMansApparel.stages.1.label>
+  <HAR_SL_DeadMansApparel.stages.2.description>曾有人穿过的衣物，仿佛还留着那个人的温度。</HAR_SL_DeadMansApparel.stages.2.description>
+  <HAR_SL_DeadMansApparel.stages.2.label>他人的衣物 {0}（+2）</HAR_SL_DeadMansApparel.stages.2.label>
+  <HAR_SL_DeadMansApparel.stages.3.description>曾有人穿过的衣物，仿佛还留着那个人的温度。</HAR_SL_DeadMansApparel.stages.3.description>
+  <HAR_SL_DeadMansApparel.stages.3.label>他人的衣物 {0} 等</HAR_SL_DeadMansApparel.stages.3.label>
+  <HAR_SL_EnvironmentDark.stages.0.description>不如就这样睡去吧。</HAR_SL_EnvironmentDark.stages.0.description>
+  <HAR_SL_EnvironmentDark.stages.0.label>宁静的黑暗</HAR_SL_EnvironmentDark.stages.0.label>
+  <HAR_SL_MyOrganHarvested.stages.0.description>我的器官被摘除了。愿那位陌生人能够因此幸福……</HAR_SL_MyOrganHarvested.stages.0.description>
+  <HAR_SL_MyOrganHarvested.stages.0.label>前往某人身边</HAR_SL_MyOrganHarvested.stages.0.label>
+  <HAR_SL_NeedOutdoors.stages.0.description>已经很久没有出门了，真希望永远这样下去。</HAR_SL_NeedOutdoors.stages.0.description>
+  <HAR_SL_NeedOutdoors.stages.0.label>如茧中一般</HAR_SL_NeedOutdoors.stages.0.label>
+  <HAR_SL_NeedOutdoors.stages.1.description>不用出门真是轻松。</HAR_SL_NeedOutdoors.stages.1.description>
+  <HAR_SL_NeedOutdoors.stages.1.label>在巢中</HAR_SL_NeedOutdoors.stages.1.label>
+  <HAR_SL_NeedOutdoors.stages.2.description>不用出门真是轻松。</HAR_SL_NeedOutdoors.stages.2.description>
+  <HAR_SL_NeedOutdoors.stages.2.label>不知外界</HAR_SL_NeedOutdoors.stages.2.label>
+  <HAR_SL_NeedOutdoors.stages.3.description>无需外出也能生活，令人安心。</HAR_SL_NeedOutdoors.stages.3.description>
+  <HAR_SL_NeedOutdoors.stages.3.label>安稳的环境</HAR_SL_NeedOutdoors.stages.3.label>
+  <HAR_SL_NeedOutdoors.stages.4.description>无需外出也能生活，令人安心。</HAR_SL_NeedOutdoors.stages.4.description>
+  <HAR_SL_NeedOutdoors.stages.4.label>舒适的环境</HAR_SL_NeedOutdoors.stages.4.label>
+  <HAR_SL_NeedRoomSize.stages.0.description>这狭小的房间就是我的住处，不过生活并无不便。</HAR_SL_NeedRoomSize.stages.0.description>
+  <HAR_SL_NeedRoomSize.stages.0.label>应得的待遇</HAR_SL_NeedRoomSize.stages.0.label>
+  <HAR_SL_NeedRoomSize.stages.1.description>房间大小刚刚好，我很满意。</HAR_SL_NeedRoomSize.stages.1.description>
+  <HAR_SL_NeedRoomSize.stages.1.label>合适的居所</HAR_SL_NeedRoomSize.stages.1.label>
+  <HAR_SL_NeedRoomSize.stages.2.description>这里的人给了我富足的生活环境，我会用劳动回报这份恩情。</HAR_SL_NeedRoomSize.stages.2.description>
+  <HAR_SL_NeedRoomSize.stages.2.label>优渥待遇</HAR_SL_NeedRoomSize.stages.2.label>
+  <HAR_SL_Pain.stages.0.description>皮肤有点刺痛……</HAR_SL_Pain.stages.0.description>
+  <HAR_SL_Pain.stages.0.label>痛觉遮断（微弱）</HAR_SL_Pain.stages.0.label>
+  <HAR_SL_Pain.stages.1.description>是不是哪里受伤了？</HAR_SL_Pain.stages.1.description>
+  <HAR_SL_Pain.stages.1.label>痛觉遮断（轻度）</HAR_SL_Pain.stages.1.label>
+  <HAR_SL_Pain.stages.2.description>伤得不轻……得赶紧治好。</HAR_SL_Pain.stages.2.description>
+  <HAR_SL_Pain.stages.2.label>痛觉遮断（中度）</HAR_SL_Pain.stages.2.label>
+  <HAR_SL_Pain.stages.3.description>虽然不痛……但总觉得很困。</HAR_SL_Pain.stages.3.description>
+  <HAR_SL_Pain.stages.3.label>痛觉遮断（重度）</HAR_SL_Pain.stages.3.label>
+  <HAR_SL_SleepDisturbed.stages.0.description>有人守在熟睡的我身旁，仿佛受到了保护，令人有些开心。</HAR_SL_SleepDisturbed.stages.0.description>
+  <HAR_SL_SleepDisturbed.stages.0.label>有人在身边</HAR_SL_SleepDisturbed.stages.0.label>
+  <HAR_SL_SleptOnGround.stages.0.description>倒也不坏，不过总有一天想睡上自己的床。</HAR_SL_SleptOnGround.stages.0.description>
+  <HAR_SL_SleptOnGround.stages.0.label>以大地为床</HAR_SL_SleptOnGround.stages.0.label>
+  <HAR_SL_SleptOutside.stages.0.description>今天又能看到怎样的景色呢？</HAR_SL_SleptOutside.stages.0.description>
+  <HAR_SL_SleptOutside.stages.0.label>以天空为屋顶</HAR_SL_SleptOutside.stages.0.label>
+  <HAR_SL_SoakingWet.stages.0.description>恩赐般的雨水洗去了污垢。</HAR_SL_SoakingWet.stages.0.description>
+  <HAR_SL_SoakingWet.stages.0.label>天然淋浴</HAR_SL_SoakingWet.stages.0.label>
+  <HAR_ZC_EnvironmentDark.stages.0.description>黑暗是朋友的领地，可以安心活动。</HAR_ZC_EnvironmentDark.stages.0.description>
+  <HAR_ZC_EnvironmentDark.stages.0.label>亲爱的黑暗</HAR_ZC_EnvironmentDark.stages.0.label>
+  <HAR_ZC_ObservedLayingCorpse.stages.0.description>这是故乡再常见不过的景象。</HAR_ZC_ObservedLayingCorpse.stages.0.description>
+  <HAR_ZC_ObservedLayingCorpse.stages.0.label>看见尸体</HAR_ZC_ObservedLayingCorpse.stages.0.label>
+  <HAR_ZC_ObservedLayingRottingCorpse.stages.0.description>丑陋的躯壳令人恐惧，罪人也不例外。</HAR_ZC_ObservedLayingRottingCorpse.stages.0.description>
+  <HAR_ZC_ObservedLayingRottingCorpse.stages.0.label>看见腐烂尸体</HAR_ZC_ObservedLayingRottingCorpse.stages.0.label>
 </LanguageData>

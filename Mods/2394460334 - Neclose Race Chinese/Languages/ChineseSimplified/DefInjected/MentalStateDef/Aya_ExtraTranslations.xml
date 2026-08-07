@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_NC_Berserk.label>发狂</HAR_NC_Berserk.label>
+  <HAR_NC_Berserk.recoveryMessage>{0}恢复了平静。</HAR_NC_Berserk.recoveryMessage>
+</LanguageData>

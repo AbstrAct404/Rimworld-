@@ -1,14 +1,14 @@
 # Aya 人工种族简体中文汉化：交接说明
 
-最后更新：2026-07-30。此文件用于后续维护者或新的 Codex 任务快速恢复上下文。
+最后更新：2026-08-07。此文件用于后续维护者或新的 Codex 任务快速恢复上下文。
 
 ## 当前发布状态
 
 - 整合包源目录：`Mods/0000000000 - Aya Integrated Chinese`
 - Steam 创意工坊物品：`3770548798`
 - RimWorld App ID：`294100`
-- 当前整合范围：21 个 Aya 原模组、3326 条合并游戏文本、0 个未解决冲突。
-- 最新内容更新：修复原模组未全部启用时的红字报错，并优化部分技能翻译。
+- 当前整合范围：21 个 Aya 原模组、3745 条合并游戏文本。
+- 最新内容更新：恢复被上一版本误删的 101 条种族心境译文；补齐此前未翻译的近战攻击名、背景故事短标题、身体附加件名称、购物终端按钮、研究信件、特质与事件标题等 350 余条文本（含 175 条运行时补丁）。全量审计（`audit_summon_equipment_translations.py`）当前缺漏为 0。
 - 最新技能与基因审计：265 项已检查，缺失 `0`，翻译残留日文 `0`。
 
 ## 重要目录与生成物
@@ -24,6 +24,7 @@
 - `validate_runtime_patch_targets.py`：把所有技能与剧本补丁 XPath 对照当前原模组 1.6 Def；必须全部命中。
 - `optimize_runtime_patches.py`：清理旧版合并补丁与新版生成补丁的重复执行；只有在其他直接补丁仍覆盖同一 XPath 时才会移除旧文件，绝不以 DefInjected 代替运行时兜底。
 - `validate_translations.py`：通用 XML、依赖元数据、术语一致性校验。Patch 的 `xpath` 是原文选择器，不应按游戏显示文本检查。
+- `audit_summon_equipment_translations.py`：按全部 Def 类型扫描原模组中日文文本（含纯汉字日文）与中文包的覆盖情况；补丁匹配按 Def 类型 + defName + 字段路径判定，并跨包查找 MayRequire 门控内容的译文。报告写入 `SUMMON-EQUIPMENT-AUDIT.json`。
 - `TERMINOLOGY_REFERENCE.md`：面向人工阅读的固定术语表。
 - `terminology.json`：机器处理时使用的术语库。
 - `manual_review_overrides.json`：逐 Def 键的人工校对覆盖；用于覆盖自动或历史翻译。
@@ -145,6 +146,8 @@ C:\Users\AA\Documents\AyaRaceZH\tools\steamcmd\steamcmd.exe +login <Steam用户�
 若当前不能上传，应先将这段说明和未上传原因写入本文件的“待发布”小节，下一次发布前优先处理；不要遗漏更新说明。
 
 ## 待发布
+
+- 2026-08-07 已准备发布：恢复 10 个种族模组被 `68f62e2` 误删的 101 条心境译文（含整合包）；补齐 350 余条未翻译文本（近战攻击名 175 条运行时补丁、背景故事短标题 120 条、身体附加件名称、购物终端按钮、研究信件、特质/事件/状态标题等）。全部校验通过：`SUMMON-EQUIPMENT-AUDIT.json` 缺漏 0、`validate_runtime_patch_targets.py` 1089 个 XPath 全部命中、`SKILL-GENE-AUDIT.json` 缺漏 0、`validate_translations.py` 通过。
 
 - 2026-07-25 已完成发布：SteamCMD 内容上传 `Success`；Steamworks 本地化回读均成功：`OK 3770548798 language=english verified=true`、`OK 3770548798 language=schinese verified=true`。
 - 2026-07-25 运行时修正版已重新发布：技能与剧本补丁不再用 `packageId` 作为 `PatchOperationFindMod` 显示名，改为 Def 存在性条件；同时修复抽象 Def 的 `Name`/`defName` 定位。277 个 XPath 均对当前 1.6 原模组验证命中。SteamCMD 内容提交 `Success`，Steamworks 回读：`OK 3770548798 language=english verified=true`、`OK 3770548798 language=schinese verified=true`。

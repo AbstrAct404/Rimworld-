@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HAR_SA_AteHumanlikeMeatDirect.stages.0.label>吃了人肉</HAR_SA_AteHumanlikeMeatDirect.stages.0.label>
+  <HAR_SA_AteHumanlikeMeatDirect.stages.0.description>为了活下去，也只能如此。</HAR_SA_AteHumanlikeMeatDirect.stages.0.description>
+  <HAR_SA_AteHumanlikeMeatAsIngredient.stages.0.label>吃了烹饪人肉</HAR_SA_AteHumanlikeMeatAsIngredient.stages.0.label>
+  <HAR_SA_AteHumanlikeMeatAsIngredient.stages.0.description>只要烹饪得当，人肉也不成问题。</HAR_SA_AteHumanlikeMeatAsIngredient.stages.0.description>
+  <HAR_SA_AteRawHumanlikeMeat.stages.0.label>吃了人肉</HAR_SA_AteRawHumanlikeMeat.stages.0.label>
+  <HAR_SA_AteRawFood.stages.0.label>吃了生肉</HAR_SA_AteRawFood.stages.0.label>
+  <HAR_SA_AteRawFood.stages.0.description>味道寡淡……还是该烹饪一下。</HAR_SA_AteRawFood.stages.0.description>
+  <HAR_SA_AteCorpse.stages.0.label>吃了尸肉</HAR_SA_AteCorpse.stages.0.label>
+  <HAR_SA_AteCorpse.stages.0.description>直接吃也不错，不过有点调味会更好。</HAR_SA_AteCorpse.stages.0.description>
+  <HAR_SA_SleptOutside.stages.0.label>以天空为屋顶</HAR_SA_SleptOutside.stages.0.label>
+  <HAR_SA_SleptOutside.stages.0.description>今天又能看到怎样的景色呢？</HAR_SA_SleptOutside.stages.0.description>
+  <HAR_SA_SleptOnGround.stages.0.label>以大地为床</HAR_SA_SleptOnGround.stages.0.label>
+  <HAR_SA_SleptOnGround.stages.0.description>倒也不坏，不过总有一天想睡上自己的床。</HAR_SA_SleptOnGround.stages.0.description>
+  <HAR_SA_SoakingWet.stages.0.label>天然淋浴</HAR_SA_SoakingWet.stages.0.label>
+  <HAR_SA_SoakingWet.stages.0.description>恩赐般的雨水洗去了污垢。</HAR_SA_SoakingWet.stages.0.description>
+  <HAR_SA_EnvironmentDark.stages.0.label>狩猎时刻</HAR_SA_EnvironmentDark.stages.0.label>
+  <HAR_SA_EnvironmentDark.stages.0.description>趁着夜色潜行，把猎物拿下吧……</HAR_SA_EnvironmentDark.stages.0.description>
+  <HAR_SA_ObservedLayingCorpse.stages.0.label>看见尸体</HAR_SA_ObservedLayingCorpse.stages.0.label>
+  <HAR_SA_ObservedLayingCorpse.stages.0.description>弱肉强食的世界，就把他们化作继续生存的养料吧。</HAR_SA_ObservedLayingCorpse.stages.0.description>
+</LanguageData>

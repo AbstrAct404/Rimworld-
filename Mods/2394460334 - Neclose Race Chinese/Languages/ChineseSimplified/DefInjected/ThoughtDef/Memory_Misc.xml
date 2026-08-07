@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <HAR_NC_AteHumanlikeMeatDirect.stages.0.label>吃了人肉</HAR_NC_AteHumanlikeMeatDirect.stages.0.label>
+  <HAR_NC_AteHumanlikeMeatDirect.stages.0.description>营养丰富，也能成为体内菌群的优质养料。</HAR_NC_AteHumanlikeMeatDirect.stages.0.description>
+  <HAR_NC_AteHumanlikeMeatAsIngredient.stages.0.label>吃了烹饪人肉</HAR_NC_AteHumanlikeMeatAsIngredient.stages.0.label>
+  <HAR_NC_AteHumanlikeMeatAsIngredient.stages.0.description>调味过的人肉料理，真是奢侈。</HAR_NC_AteHumanlikeMeatAsIngredient.stages.0.description>
+  <HAR_NC_AteInsectMeatDirect.stages.0.label>吃了虫肉</HAR_NC_AteInsectMeatDirect.stages.0.label>
+  <HAR_NC_AteInsectMeatDirect.stages.0.description>外壳有些硬，不过味道意外地不错。</HAR_NC_AteInsectMeatDirect.stages.0.description>
+  <HAR_NC_AteInsectMeatAsIngredient.stages.0.label>吃了烹饪虫肉</HAR_NC_AteInsectMeatAsIngredient.stages.0.label>
+  <HAR_NC_AteInsectMeatAsIngredient.stages.0.description>口感奇妙的虫肉料理，原来还有这种吃法。</HAR_NC_AteInsectMeatAsIngredient.stages.0.description>
+  <HAR_NC_AteRawHumanlikeMeat.stages.0.label>吃了人肉</HAR_NC_AteRawHumanlikeMeat.stages.0.label>
   <HAR_NC_ObservedLayingCorpse.stages.0.label>看到了尸体</HAR_NC_ObservedLayingCorpse.stages.0.label>
   <HAR_NC_ObservedLayingCorpse.stages.0.description>这里有适合喂养病菌的尸体，再多收集一些吧。</HAR_NC_ObservedLayingCorpse.stages.0.description>
   <HAR_NC_ObservedLayingRottingCorpse.stages.0.label>看到了腐烂尸体</HAR_NC_ObservedLayingRottingCorpse.stages.0.label>
   <HAR_NC_ObservedLayingRottingCorpse.stages.0.description>这里有一具腐烂得恰到好处的尸体！病菌一定会很高兴。</HAR_NC_ObservedLayingRottingCorpse.stages.0.description>
+  <HAR_NC_AteRawFood.stages.0.label>吃了生肉</HAR_NC_AteRawFood.stages.0.label>
+  <HAR_NC_AteRawFood.stages.0.description>倒也不讨厌，但最好还是能吃到烹饪过的肉。</HAR_NC_AteRawFood.stages.0.description>
   <HAR_NC_AteCorpse.stages.0.label>吃了尸肉</HAR_NC_AteCorpse.stages.0.label>
   <HAR_NC_AteCorpse.stages.0.description>没有屠宰也没有烹饪，直接吃掉死去生物的血肉也不坏，不过要是能调点味就更好了。</HAR_NC_AteCorpse.stages.0.description>
 </LanguageData>

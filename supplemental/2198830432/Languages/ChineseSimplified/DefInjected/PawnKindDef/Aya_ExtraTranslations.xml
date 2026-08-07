@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <HAR_M_KUT_Kind.label>教徒</HAR_M_KUT_Kind.label>
+  <HAR_M_KUT_Kind_Base.label>教徒</HAR_M_KUT_Kind_Base.label>
+  <HAR_M_KUT_Kind_Base.labelFemale>教徒</HAR_M_KUT_Kind_Base.labelFemale>
+  <HAR_M_KUT_Kind_Base.labelMale>教徒</HAR_M_KUT_Kind_Base.labelMale>
+  <HAR_M_KUT_Kind_b.label>教徒</HAR_M_KUT_Kind_b.label>
+  <HAR_M_KZU_Kind.label>淀人</HAR_M_KZU_Kind.label>
+  <HAR_M_KZU_Kind.labelFemale>淀人</HAR_M_KZU_Kind.labelFemale>
+  <HAR_M_KZU_Kind.labelMale>淀人</HAR_M_KZU_Kind.labelMale>
+  <HAR_NM_M_XXX_Kind.label>法界种/宙目/溟科/样属/□□□□□□/</HAR_NM_M_XXX_Kind.label>
+  <HAR_Nearmaere_NPC_Leader_e.label>ETHOS司令官</HAR_Nearmaere_NPC_Leader_e.label>
+  <HAR_Nearmaere_NPC_Resident_e.label>ETHOS队员</HAR_Nearmaere_NPC_Resident_e.label>
+  <HAR_Nearmaere_NPC_Trader_e.label>ETHOS部队长</HAR_Nearmaere_NPC_Trader_e.label>
+</LanguageData>

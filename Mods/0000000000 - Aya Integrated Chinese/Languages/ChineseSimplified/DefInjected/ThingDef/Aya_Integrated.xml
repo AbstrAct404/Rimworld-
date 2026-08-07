@@ -120,15 +120,21 @@
   <Aya_Race_Ap_XO_C_T_a.label>儿童异度礼装</Aya_Race_Ap_XO_C_T_a.label>
   <BMOT_Building_Incubator.description>过去人工种族的造物主所制造的培养器。\n能够通过读取专用的数据来创造出相应的生物。</BMOT_Building_Incubator.description>
   <BMOT_Building_Incubator.label>神之形</BMOT_Building_Incubator.label>
+  <BMOT_Building_MailOrderTerminal_Animal.commandName>购物（家畜）</BMOT_Building_MailOrderTerminal_Animal.commandName>
   <BMOT_Building_MailOrderTerminal_Animal.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Animal.description>
   <BMOT_Building_MailOrderTerminal_Animal.label>亚人工业牲畜店</BMOT_Building_MailOrderTerminal_Animal.label>
   <BMOT_Building_MailOrderTerminal_Base.description>邮购终端。足不出户便可立即购买所需商品。</BMOT_Building_MailOrderTerminal_Base.description>
+  <BMOT_Building_MailOrderTerminal_Base.label>通贩终端</BMOT_Building_MailOrderTerminal_Base.label>
+  <BMOT_Building_MailOrderTerminal_Food.commandName>购物（食品）</BMOT_Building_MailOrderTerminal_Food.commandName>
   <BMOT_Building_MailOrderTerminal_Food.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Food.description>
   <BMOT_Building_MailOrderTerminal_Food.label>亚人工业食品店</BMOT_Building_MailOrderTerminal_Food.label>
+  <BMOT_Building_MailOrderTerminal_Furniture.commandName>购物（家具）</BMOT_Building_MailOrderTerminal_Furniture.commandName>
   <BMOT_Building_MailOrderTerminal_Furniture.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Furniture.description>
   <BMOT_Building_MailOrderTerminal_Furniture.label>亚人工业家具店</BMOT_Building_MailOrderTerminal_Furniture.label>
+  <BMOT_Building_MailOrderTerminal_Material.commandName>购物（资材）</BMOT_Building_MailOrderTerminal_Material.commandName>
   <BMOT_Building_MailOrderTerminal_Material.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Material.description>
   <BMOT_Building_MailOrderTerminal_Material.label>亚人工业材料店</BMOT_Building_MailOrderTerminal_Material.label>
+  <BMOT_Building_MailOrderTerminal_Slave.commandName>购物（奴隶）</BMOT_Building_MailOrderTerminal_Slave.commandName>
   <BMOT_Building_MailOrderTerminal_Slave.description>是可以和亚人工业的商家直接交易的商店。需要用到交易信标，货物每3天轮换一次。</BMOT_Building_MailOrderTerminal_Slave.description>
   <BMOT_Building_MailOrderTerminal_Slave.label>亚人工业奴隶商店</BMOT_Building_MailOrderTerminal_Slave.label>
   <BMOT_Building_Recycle_a.description>『还在为堆满殖民地的武器和护甲感到头疼？\n这一问题就由我等亚人工业来解决！』\n\n亚人工业开设的回收店，可以快速回收不需要的武器和护甲。\n另外，你还能得到作为谢礼的“猫咪印章”，能够兑换超豪华的奖品哦~</BMOT_Building_Recycle_a.description>
@@ -215,18 +221,27 @@
   <BOSS_RQ_Hive_Viceroy_Unit.description>收纳着某种东西的单元，据说里面沉眠着某个派系的遗产。</BOSS_RQ_Hive_Viceroy_Unit.description>
   <BOSS_RQ_Hive_Viceroy_Unit.label>运输单元</BOSS_RQ_Hive_Viceroy_Unit.label>
   <BOSS_RQ_Monster_race_Summon_a.description>拥有半机械半血肉的特殊构造的【女王种】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“先锋种”是用利爪攻击敌人的前卫兵种。它们的利爪由超振动刀刃构成，即便是坚固的盔甲也能轻易撕开。</BOSS_RQ_Monster_race_Summon_a.description>
+  <BOSS_RQ_Monster_race_Summon_a.label>先锋种</BOSS_RQ_Monster_race_Summon_a.label>
   <BOSS_RQ_Monster_race_Summon_b.description>拥有半机械半血肉的特殊构造的【女王种】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“狙击种”是远距离狙击敌人的远程兵种，近身作战方面稍弱于前卫兵种。</BOSS_RQ_Monster_race_Summon_b.description>
+  <BOSS_RQ_Monster_race_Summon_b.label>狙击种</BOSS_RQ_Monster_race_Summon_b.label>
   <BOSS_RQ_Monster_race_Summon_c.description>拥有半机械半血肉的特殊构造的【女王种】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“火力种”是为了牵制敌人而持续进行火力压制射击的中距离兵种，近身作战方面稍弱于前卫兵种。</BOSS_RQ_Monster_race_Summon_c.description>
+  <BOSS_RQ_Monster_race_Summon_c.label>乱射种</BOSS_RQ_Monster_race_Summon_c.label>
   <BOSS_RQ_Monster_race_Summon_d.description>拥有半机械半血肉的特殊构造的【女王种】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“污染种”是通过接触从而侵蚀敌人精神的支援兵种。在【女王种】眷属中属于防御力较低的类型，耐久值不高。</BOSS_RQ_Monster_race_Summon_d.description>
+  <BOSS_RQ_Monster_race_Summon_d.label>污染种</BOSS_RQ_Monster_race_Summon_d.label>
   <BOSS_RQ_Monster_race_Summon_e.description>拥有半机械半血肉的特殊构造的【女王种】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“爆弹种”是利用爆炸物进行大肆破坏的中距离兵种，死亡时会自爆。</BOSS_RQ_Monster_race_Summon_e.description>
+  <BOSS_RQ_Monster_race_Summon_e.label>炸裂种</BOSS_RQ_Monster_race_Summon_e.label>
   <BOSS_RQ_Monster_race_Summon_f.description>拥有半机械半血肉的特殊构造的【女王种】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“裁决种”是挥舞着骇人长剑斩断敌人的前卫兵种，强化型装甲为它们提供了更高的耐久值。</BOSS_RQ_Monster_race_Summon_f.description>
+  <BOSS_RQ_Monster_race_Summon_f.label>裁决种</BOSS_RQ_Monster_race_Summon_f.label>
   <BOSS_RQ_Monster_race_Summon_g.description>拥有半机械半血肉的特殊构造的【女王种】眷属，被调整为只以排除威胁为目标，自主思考和生物情感等多余的东西都被彻底消除。\n\n“突击种”是一边冲锋一边对敌人进行压制射击的中距离兵种，近身作战方面稍弱于前卫兵种。</BOSS_RQ_Monster_race_Summon_g.description>
+  <BOSS_RQ_Monster_race_Summon_g.label>突击种</BOSS_RQ_Monster_race_Summon_g.label>
   <BOSS_RQ_Monster_race_Summon_h.description>女王种的后裔，拥有生物与机械混合的特殊结构；为排除威胁而被调整为生命体，并被剥除了情感与自我。
 
 “侦察型”是以迅捷行动为代价牺牲部分耐久的先锋单位：它会借助光学迷彩隐蔽接近敌人，再以匕首发动攻击。</BOSS_RQ_Monster_race_Summon_h.description>
+  <BOSS_RQ_Monster_race_Summon_h.label>斥候种</BOSS_RQ_Monster_race_Summon_h.label>
   <BOSS_RQ_Monster_race_Summon_y.description>女王种的眷属。\n本来有着强大的力量，但在突破大气层、猛烈撞击到地表之后，受到了严重的损毁。</BOSS_RQ_Monster_race_Summon_y.description>
   <BOSS_RQ_Monster_race_Summon_y.label>破损的眷属</BOSS_RQ_Monster_race_Summon_y.label>
   <BOSS_RQ_Monster_race_Summon_z.description>拥有半机械半血肉的特殊构造的【女王种】眷属。\n是在【女王种】死亡后奇迹般诞生的个体，没有进行任何调整。</BOSS_RQ_Monster_race_Summon_z.description>
+  <BOSS_RQ_Monster_race_Summon_z.label>原型种</BOSS_RQ_Monster_race_Summon_z.label>
   <BOSS_RQ_Remnant.description>被称为女王种的机械生命体的残骸。\n不知是在宇宙中和哪个派系发生了交战，遭受了足以令原初种彻底毁灭的致命损伤。\n\n残骸中侦测到高浓度的反物质信号，似乎埋有尚未引爆的反物质弹。</BOSS_RQ_Remnant.description>
   <BOSS_RQ_Remnant.label>女王种的残骸</BOSS_RQ_Remnant.label>
   <BOSS_RQ_Turret_Sniper.description>女王种的防卫功能之一，是快速发射高穿透力子弹的炮塔——但是它的命中率很低。</BOSS_RQ_Turret_Sniper.description>
@@ -345,7 +360,9 @@
   <HAR_CO_Weapon_a.description>混沌灵专用的神器，不仅用于战斗，也用于仪式。\n杀伤力虽然很低，但因为可以穿透铠甲的缝隙、向其中刺入暗影，所以基本无视对方的护甲。\n砍向敌人时会人为引发深渊腐败。</HAR_CO_Weapon_a.description>
   <HAR_CO_Weapon_a.label>幽冥的祭礼刀</HAR_CO_Weapon_a.label>
   <HAR_CO_Weapon_b.description>混沌灵专用的武器。\n这把武器类似大剑，也能发挥出与外观相应的威力。\n通常被用于对付深渊腐败无法产生作用的对手。</HAR_CO_Weapon_b.description>
+  <HAR_CO_Weapon_b.label>黑暗天</HAR_CO_Weapon_b.label>
   <HAR_CO_Weapon_c.description>混沌灵专用的武器。\n尽管是一把大太刀，但挥刀速度很快，使用起来也很方便。\n通常被用于对付深渊腐败无法产生作用的对手。</HAR_CO_Weapon_c.description>
+  <HAR_CO_Weapon_c.label>夜刀神</HAR_CO_Weapon_c.label>
   <HAR_EL_Apparel_Armor_a.description>伊娃莉特专用的铠甲。\n由于是最初期的产物因此没有设置减少伤害的功能。</HAR_EL_Apparel_Armor_a.description>
   <HAR_EL_Apparel_Armor_a.label>埃利昂护甲</HAR_EL_Apparel_Armor_a.label>
   <HAR_EL_Apparel_Head_a.description>伊娃莉特专用的装备。由于是仍在调整过程中的装备，因此性能不高。</HAR_EL_Apparel_Head_a.description>
@@ -1041,6 +1058,7 @@
   <HAR_NM_Archotech_a.description>封印了被人工种族们称为“棺之君主”的魔女之棺。\n被认为是罪不可赦的大罪人，据说能自行使用独特的法术。\n如果解开封印的话可以解放她并且让她加入殖民地。\n\n作为魔女，她会对殖民地的人际关系产生很大的影响。</HAR_NM_Archotech_a.description>
   <HAR_NM_Archotech_a.label>魔女之棺</HAR_NM_Archotech_a.label>
   <HAR_NM_Archotech_b.description>用于向 ETHOS 请求派遣驻地人员的通信装置。使用后，一名隶属 ETHOS 的魅魔·改良系成员会加入殖民地。</HAR_NM_Archotech_b.description>
+  <HAR_NM_Archotech_b.label>ETHOS通信机（派遣请求）</HAR_NM_Archotech_b.label>
   <HAR_NM_BDress.description>魅魔的贵族身上穿着的暴露度高的深邃的黑色礼服装，因为是贵族用，所以性能方面没有被考虑。</HAR_NM_BDress.description>
   <HAR_NM_BDress.label>黑夜晚礼服（魅魔）</HAR_NM_BDress.label>
   <HAR_NM_Blouse.description>在意外表的魅魔故意使自己看起来可爱而使用的衬衫，性价比很好的同时又很百搭，因此各种场合都很适用。</HAR_NM_Blouse.description>
@@ -1081,15 +1099,21 @@
   <HAR_NM_MRbn.description>增加可爱感的蝴蝶结丝带，强调自己很可爱时使用。</HAR_NM_MRbn.description>
   <HAR_NM_MRbn.label>丝带（魅魔）</HAR_NM_MRbn.label>
   <HAR_NM_M_KUT.description>魅魔将对创造者的信仰具现化后形成的眷属。与普通魅魔召唤物相比，它的攻击性较低，但续航能力出色，可以维持三天。由于其中也寄宿着对机械生命体的憎恨，它的攻击还会令机械装置短路。</HAR_NM_M_KUT.description>
+  <HAR_NM_M_KUT.label>教徒</HAR_NM_M_KUT.label>
   <HAR_NM_M_KUT_Base.description>魅魔将对创造者的信仰具现化后形成的眷属。与普通魅魔召唤物相比，它的攻击性较低，但续航能力出色，可以维持三天。由于其中也寄宿着对机械生命体的憎恨，它的攻击还会令机械装置短路。</HAR_NM_M_KUT_Base.description>
+  <HAR_NM_M_KUT_Base.label>教徒</HAR_NM_M_KUT_Base.label>
   <HAR_NM_M_KUT_b.description>魅魔将对创造者的信仰具现化后形成的眷属。与普通魅魔召唤物相比，它的攻击性较低，但续航能力出色，可以维持三天。由于其中也寄宿着对机械生命体的憎恨，它的攻击还会令机械装置短路。</HAR_NM_M_KUT_b.description>
+  <HAR_NM_M_KUT_b.label>教徒</HAR_NM_M_KUT_b.label>
   <HAR_NM_M_KZU.description>被超越人类认知的存在“拯救”后，这具躯体已经失去肉身与灵魂，再也无法恢复原状。 \n它只会茫然地重复残留在躯体中的条件反射。 \n然而，杀死或伤害它们已经变得极其困难，也许是因为它们不再被归类为生物。 \n\n一天后，它便无法继续维持这具无魂躯体，最终自行崩解。</HAR_NM_M_KZU.description>
+  <HAR_NM_M_KZU.label>淀人</HAR_NM_M_KZU.label>
   <HAR_NM_M_KZU_Base.description>被超越人类认知的存在“拯救”后，这具躯体已经失去肉身与灵魂，再也无法恢复原状。 \n它只会茫然地重复残留在躯体中的条件反射。 \n然而，杀死或伤害它们已经变得极其困难，也许是因为它们不再被归类为生物。 \n\n一天后，它便无法继续维持这具无魂躯体，最终自行崩解。</HAR_NM_M_KZU_Base.description>
+  <HAR_NM_M_KZU_Base.label>淀人</HAR_NM_M_KZU_Base.label>
   <HAR_NM_M_XXX.description>魅魔·魔女系从宇宙深渊召来的超存在。其真名会令没有资质者在记忆时产生致命认知错位并引发精神崩溃，因此被隐去。
 
 据说祂与伪神族召唤的“空海大人”属于同族，性情同样温和。进入其感知范围者会因原理不明的干涉立即停止行动，最终化为肉块般的怪物。魅魔·魔女系似乎能够与祂交流，因此不受这种异常影响。
 
 魅魔·魔女系通常不会向召唤物传递敌我识别，干涉会无差别波及双方；同样能够与超存在交流的伪神族与库莉菈王族则可以承受这种影响。她们仅把这种足以酿成大灾难的召唤视为“收拾玩具”，把超存在当成方便的杀戮兵器。女巫过去如此堆起尸山，今后也会继续随心所欲。</HAR_NM_M_XXX.description>
+  <HAR_NM_M_XXX.label>法界种/宙目/溟科/样属/□□□□□□/</HAR_NM_M_XXX.label>
   <HAR_NM_Maid.description>魅魔作为曾经统治者随从时所配置的通用女仆服装，因为是女仆的缘故工作效率也比平时提高。</HAR_NM_Maid.description>
   <HAR_NM_Maid.label>通用女仆装（魅魔）</HAR_NM_Maid.label>
   <HAR_NM_Miko.description>某个派系为魅魔定制的专用的传统的服装，虽然活动不便，但对温度变化的抵抗力强，给人一种干净的印象，因此可以期待社交能力的提高。</HAR_NM_Miko.description>
@@ -1433,6 +1457,7 @@
   <HAR_SK_Art_a.label>观赏用卡车</HAR_SK_Art_a.label>
   <HAR_SK_City_Light.description>“随时都会照亮您的殖民地！\n完全不需要电的高科技路灯！”\n\n亚人工业使用的路灯。发光部位用的并非电力，而是某种神秘能源，能够一直发光。</HAR_SK_City_Light.description>
   <HAR_SK_City_Light.label>亚人工业路灯</HAR_SK_City_Light.label>
+  <HAR_SK_Filth_FireFoam_a.label>蛊毒</HAR_SK_Filth_FireFoam_a.label>
   <HAR_SK_Hive_a.description>“真的吃了也没问题的美味兽娘罐头！\n你就敞开肚皮吃吧！！！”\n\n在各地飞来飞去分发兽娘罐头的亚人工业补给店。\n似乎是以宣传美味食品、拯救忍饥挨饿的人们的慈善行动为目的而分发的。\n为了让更多的人认识她们，不论是战场还是极寒之地都会前往；人们在感激的同时，也对这种毅力感到害怕。</HAR_SK_Hive_a.description>
   <HAR_SK_Hive_a.label>亚人工业补给站</HAR_SK_Hive_a.label>
   <HAR_SK_Item_Extra_a.description>“今天也非常感谢\n请收好这个猫咪印章哦！”\n\n在回收店作为谢礼的印章，多存一些的话能用来交换贵重的奖品。</HAR_SK_Item_Extra_a.description>
@@ -1452,6 +1477,7 @@
   <HAR_SK_Meal_f.description>“好想把食物带在身上，但是腐烂了……\n那就请试试兽娘罐头吧！”\n\n亚人工业售卖的保存食品，经过了防腐加工，只要不打开就永远不会腐烂。但是烹饪时间长、营养价值略低也是它的缺点。</HAR_SK_Meal_f.description>
   <HAR_SK_Meal_f.label>兽娘罐头</HAR_SK_Meal_f.label>
   <HAR_SK_Meal_g.description>“对成瘾品上瘾的人感到烦恼吗？\n本公司将为您提供廉价放心的红茶！”\n\n亚人工业售卖的不可思议的茶。亚人工业秘传的精神叶加工方法使其成瘾性得到了一定程度上的抑制。</HAR_SK_Meal_g.description>
+  <HAR_SK_Meal_g.label>工业茶</HAR_SK_Meal_g.label>
   <HAR_SK_Mechanoid_race_a.description>“经过多次实验终于正式启动\n迅速且精准地斩下恶人首级！”\n\n亚人工业在解析并再现机械族后制作出的机械生命体，难以再现的大脑部件用其他物品替代，最终成功运行。与作为再现对象的机械飞螳相比，杀伤力有所降低，但是大大提高了机动性和防御力。</HAR_SK_Mechanoid_race_a.description>
   <HAR_SK_Mechanoid_race_a.label>亚工造机械生命体·收割者</HAR_SK_Mechanoid_race_a.label>
   <HAR_SK_Mechanoid_race_b.description>“经过多次实验终于正式启动\n为了和平，24小时不停地宰杀敌人吧！”\n\n亚人工业在解析并再现机械族后制作出的机械生命体，难以再现的大脑部件用其他物品替代，最终成功运行。与作为再现对象的机械蜈蚣相比，放弃了射击，活用其强悍的身体进行了近战的强化。</HAR_SK_Mechanoid_race_b.description>

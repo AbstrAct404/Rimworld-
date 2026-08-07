@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BMOT_Building_MailOrderTerminal_Animal.commandName>购物（家畜）</BMOT_Building_MailOrderTerminal_Animal.commandName>
+  <BMOT_Building_MailOrderTerminal_Base.label>通贩终端</BMOT_Building_MailOrderTerminal_Base.label>
+  <BMOT_Building_MailOrderTerminal_Food.commandName>购物（食品）</BMOT_Building_MailOrderTerminal_Food.commandName>
+  <BMOT_Building_MailOrderTerminal_Furniture.commandName>购物（家具）</BMOT_Building_MailOrderTerminal_Furniture.commandName>
+  <BMOT_Building_MailOrderTerminal_Material.commandName>购物（资材）</BMOT_Building_MailOrderTerminal_Material.commandName>
+  <BMOT_Building_MailOrderTerminal_Slave.commandName>购物（奴隶）</BMOT_Building_MailOrderTerminal_Slave.commandName>
+  <HAR_SK_Filth_FireFoam_a.label>蛊毒</HAR_SK_Filth_FireFoam_a.label>
+  <HAR_SK_Meal_g.label>工业茶</HAR_SK_Meal_g.label>
+</LanguageData>

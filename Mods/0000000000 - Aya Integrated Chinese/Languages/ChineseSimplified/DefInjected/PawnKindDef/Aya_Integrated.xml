@@ -6,12 +6,22 @@
   <BOSS_EF_B_Monster_Kind_d.label>终末魔鬼鱼</BOSS_EF_B_Monster_Kind_d.label>
   <BOSS_EF_B_Monster_Kind_e.label>终末极渊水母</BOSS_EF_B_Monster_Kind_e.label>
   <BOSS_EF_Monster_Kind_a.label>小型终末执行者</BOSS_EF_Monster_Kind_a.label>
+  <BOSS_RQ_Monster_Kind_Summon_a.label>先锋种</BOSS_RQ_Monster_Kind_Summon_a.label>
+  <BOSS_RQ_Monster_Kind_Summon_b.label>狙击种</BOSS_RQ_Monster_Kind_Summon_b.label>
+  <BOSS_RQ_Monster_Kind_Summon_c.label>乱射种</BOSS_RQ_Monster_Kind_Summon_c.label>
+  <BOSS_RQ_Monster_Kind_Summon_d.label>污染种</BOSS_RQ_Monster_Kind_Summon_d.label>
+  <BOSS_RQ_Monster_Kind_Summon_e.label>炸裂种</BOSS_RQ_Monster_Kind_Summon_e.label>
+  <BOSS_RQ_Monster_Kind_Summon_f.label>裁决种</BOSS_RQ_Monster_Kind_Summon_f.label>
+  <BOSS_RQ_Monster_Kind_Summon_g.label>突击种</BOSS_RQ_Monster_Kind_Summon_g.label>
+  <BOSS_RQ_Monster_Kind_Summon_h.label>斥候种</BOSS_RQ_Monster_Kind_Summon_h.label>
   <BOSS_RQ_Monster_Kind_Summon_y.label>破损的眷属</BOSS_RQ_Monster_Kind_Summon_y.label>
+  <BOSS_RQ_Monster_Kind_Summon_z.label>原型种</BOSS_RQ_Monster_Kind_Summon_z.label>
   <HAR_CO_NPC_Kind_Base.label>埃维德拉万</HAR_CO_NPC_Kind_Base.label>
   <HAR_CO_NPC_a.label>埃维德拉万</HAR_CO_NPC_a.label>
   <HAR_CO_NPC_a.labelFemale>埃维德拉万</HAR_CO_NPC_a.labelFemale>
   <HAR_CO_NPC_a.labelMale>埃维德拉万</HAR_CO_NPC_a.labelMale>
   <HAR_Chaoura_KindBase_NPC.label>混沌灵居民</HAR_Chaoura_KindBase_NPC.label>
+  <HAR_Chaoura_KindBase_NPC_UB.label>总体</HAR_Chaoura_KindBase_NPC_UB.label>
   <HAR_Chaoura_NPC_Leader.label>混沌灵领袖</HAR_Chaoura_NPC_Leader.label>
   <HAR_Chaoura_NPC_Resident.label>混沌灵居民</HAR_Chaoura_NPC_Resident.label>
   <HAR_Chaoura_NPC_UB_Leader.label>总体</HAR_Chaoura_NPC_UB_Leader.label>
@@ -86,6 +96,14 @@
   <HAR_Littluna_NPC_Resident.label>伪神族居民</HAR_Littluna_NPC_Resident.label>
   <HAR_Littluna_Player.label>殖民者</HAR_Littluna_Player.label>
   <HAR_Littluna_Resident_c.label>迦南的巫女</HAR_Littluna_Resident_c.label>
+  <HAR_M_KUT_Kind.label>教徒</HAR_M_KUT_Kind.label>
+  <HAR_M_KUT_Kind_Base.label>教徒</HAR_M_KUT_Kind_Base.label>
+  <HAR_M_KUT_Kind_Base.labelFemale>教徒</HAR_M_KUT_Kind_Base.labelFemale>
+  <HAR_M_KUT_Kind_Base.labelMale>教徒</HAR_M_KUT_Kind_Base.labelMale>
+  <HAR_M_KUT_Kind_b.label>教徒</HAR_M_KUT_Kind_b.label>
+  <HAR_M_KZU_Kind.label>淀人</HAR_M_KZU_Kind.label>
+  <HAR_M_KZU_Kind.labelFemale>淀人</HAR_M_KZU_Kind.labelFemale>
+  <HAR_M_KZU_Kind.labelMale>淀人</HAR_M_KZU_Kind.labelMale>
   <HAR_M_Kind_Base.label>密特拉玛阿哈</HAR_M_Kind_Base.label>
   <HAR_M_Kind_Base.labelFemale>密特拉玛阿哈</HAR_M_Kind_Base.labelFemale>
   <HAR_M_Kind_Base.labelMale>密特拉玛阿哈</HAR_M_Kind_Base.labelMale>
@@ -217,6 +235,7 @@
   <HAR_NC_M_z_Kind_Summon.label>克莱尔斯</HAR_NC_M_z_Kind_Summon.label>
   <HAR_NC_M_z_Kind_Summon.labelFemale>克莱尔斯</HAR_NC_M_z_Kind_Summon.labelFemale>
   <HAR_NC_M_z_Kind_Summon.labelMale>克莱尔斯</HAR_NC_M_z_Kind_Summon.labelMale>
+  <HAR_NM_M_XXX_Kind.label>法界种/宙目/溟科/样属/□□□□□□/</HAR_NM_M_XXX_Kind.label>
   <HAR_Nearmaere_KindBase_NPC.label>魅魔居民</HAR_Nearmaere_KindBase_NPC.label>
   <HAR_Nearmaere_KindBase_NPC_b.label>魅魔的信徒</HAR_Nearmaere_KindBase_NPC_b.label>
   <HAR_Nearmaere_KindBase_NPC_c.label>魅魔·魔女系</HAR_Nearmaere_KindBase_NPC_c.label>
@@ -226,13 +245,16 @@
   <HAR_Nearmaere_NPC_Industrial.label>魅魔工作员</HAR_Nearmaere_NPC_Industrial.label>
   <HAR_Nearmaere_NPC_Leader.label>魅魔领袖</HAR_Nearmaere_NPC_Leader.label>
   <HAR_Nearmaere_NPC_Leader_b.label>魅魔主教</HAR_Nearmaere_NPC_Leader_b.label>
+  <HAR_Nearmaere_NPC_Leader_e.label>ETHOS司令官</HAR_Nearmaere_NPC_Leader_e.label>
   <HAR_Nearmaere_NPC_Resident.label>魅魔居民</HAR_Nearmaere_NPC_Resident.label>
   <HAR_Nearmaere_NPC_Resident_b.label>魅魔教徒</HAR_Nearmaere_NPC_Resident_b.label>
   <HAR_Nearmaere_NPC_Resident_c.label>魅魔·魔女系</HAR_Nearmaere_NPC_Resident_c.label>
   <HAR_Nearmaere_NPC_Resident_d.label>魅魔·神秘系</HAR_Nearmaere_NPC_Resident_d.label>
+  <HAR_Nearmaere_NPC_Resident_e.label>ETHOS队员</HAR_Nearmaere_NPC_Resident_e.label>
   <HAR_Nearmaere_NPC_Sniper.label>魅魔狙击手</HAR_Nearmaere_NPC_Sniper.label>
   <HAR_Nearmaere_NPC_Trader.label>魅魔商人</HAR_Nearmaere_NPC_Trader.label>
   <HAR_Nearmaere_NPC_Trader_b.label>魅魔商人</HAR_Nearmaere_NPC_Trader_b.label>
+  <HAR_Nearmaere_NPC_Trader_e.label>ETHOS部队长</HAR_Nearmaere_NPC_Trader_e.label>
   <HAR_Nearmaere_NPC_gunner.label>魅魔枪手</HAR_Nearmaere_NPC_gunner.label>
   <HAR_Nearmaere_Player.label>魅魔殖民者</HAR_Nearmaere_Player.label>
   <HAR_Neclose_KindBase_NPC.label>牧菌妖姬居民</HAR_Neclose_KindBase_NPC.label>
@@ -266,6 +288,7 @@
   <HAR_SK_Mechanoid_Kind_c.label>亚工造机械生命体·暗影</HAR_SK_Mechanoid_Kind_c.label>
   <HAR_SK_Mechanoid_Kind_e.label>亚工造机械生命体·铁血战兵</HAR_SK_Mechanoid_Kind_e.label>
   <HAR_SK_PawnKind_Cat.label>柔顺的猫</HAR_SK_PawnKind_Cat.label>
+  <HAR_SK_PawnKind_Cat.lifeStages.0.label>小猫</HAR_SK_PawnKind_Cat.lifeStages.0.label>
   <HAR_Saclean_KindBase_NPC.label>飞蛾姬居民</HAR_Saclean_KindBase_NPC.label>
   <HAR_Saclean_NPC_Leader.label>飞蛾姬首领</HAR_Saclean_NPC_Leader.label>
   <HAR_Saclean_NPC_Resident.label>飞蛾姬居民</HAR_Saclean_NPC_Resident.label>
