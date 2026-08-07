@@ -692,7 +692,7 @@ def write_steam_vdfs(destination: Path, vdf_dir: Path) -> None:
             f'\t"previewfile"\t\t"{vdf_quote(vdf_path(package / "About" / "Preview.png"))}"',
             f'\t"title"\t\t"{vdf_quote(title)}"',
             f'\t"description"\t\t"{vdf_quote(description)}"',
-            '\t"changenote"\t\t"补全了玻璃桌、邮购设施及部分可放置物品名称。"',
+            '\t"changenote"\t\t"恢复被误删的种族心境译文；补齐近战攻击名、背景故事短标题、身体附加件、购物终端按钮、研究信件等未翻译文本（含运行时补丁）。无加载顺序变化。"',
             '}', '',
         ])
         (vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}.vdf").write_text(content, encoding="utf-8")
@@ -709,7 +709,7 @@ def write_steam_vdfs(destination: Path, vdf_dir: Path) -> None:
             f'\t"previewfile"\t\t"{vdf_quote(vdf_path(package / "About" / "Preview.png"))}"',
             f'\t"title"\t\t"{vdf_quote(title)}"',
             f'\t"description"\t\t"{vdf_quote(description)}"',
-            '\t"changenote"\t\t"补全了玻璃桌、邮购设施及部分可放置物品名称。"',
+            '\t"changenote"\t\t"恢复被误删的种族心境译文；补齐近战攻击名、背景故事短标题、身体附加件、购物终端按钮、研究信件等未翻译文本（含运行时补丁）。无加载顺序变化。"',
             '}', '',
         ])
         (vdf_dir / f"{mod_id}-{PUBLISHED_FILE_IDS[mod_id]}-schinese.vdf").write_text(

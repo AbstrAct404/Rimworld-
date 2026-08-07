@@ -113,6 +113,28 @@ $env:PYTHONUTF8='1'; python .\validate_translations.py .\Mods
 
 SteamCMD 只上传内容和默认（英文回退）元数据；简体中文标题与简介必须由 Steamworks 客户端单独写入。不要依赖 VDF 的 `language` 字段。
 
+### macOS（本仓库所在机器）
+
+1. 从仓库根目录登录并执行上传（会提示输入 Steam 密码；若开启 Steam Guard 还需验证码）：
+
+```zsh
+cd /Users/studyhard/work/模组/rimworld
+./tools/steamcmd/steamcmd.sh +login dead_end404 +runscript steam_upload/steamcmd_commands.txt
+```
+
+`steamcmd_commands.txt` 按顺序上传 21 个独立汉化包与整合包 `3770548798`，全部记录 `Upload finished ... : OK` 后进入下一步。
+
+2. 用本地化客户端写标题/简介（工具已编译，位于
+`steam-workshop-localize-skill/scripts/SteamWorkshopLocalizer/bin/Release/net9.0`；桌面 Steam 必须已登录）：
+
+```zsh
+cd steam-workshop-localize-skill/scripts/SteamWorkshopLocalizer/bin/Release/net9.0
+dotnet SteamWorkshopLocalizer.dll --appid 294100 --language english ../../../../../../steam_upload/*.vdf
+dotnet SteamWorkshopLocalizer.dll --appid 294100 --language schinese ../../../../../../steam_upload/*-schinese.vdf
+```
+
+注意：整合包描述含真实换行；`*-schinese.vdf` 供本地化客户端读取，`language` 键对 SteamCMD 无效。所有条目必须回读 `verified=true`。
+
 1. 先把整合包同步到英文路径 `D:\MODS\Rimworld\0000000000 - Aya Integrated Chinese`，并把两个 VDF 复制到 `C:\Users\AA\Documents\AyaRaceZH\steam_upload`。
 2. SteamCMD 上传默认分支及内容：
 
@@ -147,7 +169,8 @@ C:\Users\AA\Documents\AyaRaceZH\tools\steamcmd\steamcmd.exe +login <Steam用户�
 
 ## 待发布
 
-- 2026-08-07 已准备发布：恢复 10 个种族模组被 `68f62e2` 误删的 101 条心境译文（含整合包）；补齐 350 余条未翻译文本（近战攻击名 175 条运行时补丁、背景故事短标题 120 条、身体附加件名称、购物终端按钮、研究信件、特质/事件/状态标题等）。全部校验通过：`SUMMON-EQUIPMENT-AUDIT.json` 缺漏 0、`validate_runtime_patch_targets.py` 1089 个 XPath 全部命中、`SKILL-GENE-AUDIT.json` 缺漏 0、`validate_translations.py` 通过。
+- 2026-08-07 已提交并推送 GitHub（`125001e`）：恢复 10 个种族模组被 `68f62e2` 误删的 101 条心境译文（含整合包）；补齐 350 余条未翻译文本（近战攻击名 175 条运行时补丁、背景故事短标题 120 条、身体附加件名称、购物终端按钮、研究信件、特质/事件/状态标题等）。全部校验通过：`SUMMON-EQUIPMENT-AUDIT.json` 缺漏 0、`validate_runtime_patch_targets.py` 1089 个 XPath 全部命中、`SKILL-GENE-AUDIT.json` 缺漏 0、`validate_translations.py` 通过。
+- 2026-08-07 创意工坊上传待办：由用户手动执行（SteamCMD 需账号密码登录）。`steam_upload/` 下 21 个独立包 VDF + 整合包 VDF 均已用本次 changenote 重新生成，`steamcmd_commands.txt` 已含整合包条目（共 22 项）。上传后需用 `SteamWorkshopLocalizer` 写 `english`/`schinese` 分支并回读 `verified=true`。本机 macOS 命令见“Steam 创意工坊发布流程（macOS）”。
 
 - 2026-07-25 已完成发布：SteamCMD 内容上传 `Success`；Steamworks 本地化回读均成功：`OK 3770548798 language=english verified=true`、`OK 3770548798 language=schinese verified=true`。
 - 2026-07-25 运行时修正版已重新发布：技能与剧本补丁不再用 `packageId` 作为 `PatchOperationFindMod` 显示名，改为 Def 存在性条件；同时修复抽象 Def 的 `Name`/`defName` 定位。277 个 XPath 均对当前 1.6 原模组验证命中。SteamCMD 内容提交 `Success`，Steamworks 回读：`OK 3770548798 language=english verified=true`、`OK 3770548798 language=schinese verified=true`。
